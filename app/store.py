@@ -34,9 +34,36 @@ class NotificationLog:
         self.message = message or "リマインド通知を送信しました"
 
 
+class ChatMessage:
+    """チャットメッセージ"""
+    def __init__(self, name: str, message: str, is_user: bool = True):
+        self.timestamp = datetime.now()
+        self.name = name
+        self.message = message
+        self.is_user = is_user
+        self.answer = None  # 回答内容
+        self.references = []  # 参照条文
+        self.confidence = None  # 自信度
+
+
+class Escalation:
+    """エスカレーション"""
+    def __init__(self, name: str, message: str, retrieved_articles: List[dict], confidence: str):
+        self.id = len(_escalations) + 1
+        self.created_at = datetime.now()
+        self.name = name
+        self.message = message
+        self.retrieved_articles = retrieved_articles
+        self.confidence = confidence
+        self.status = "open"  # open / in_progress / closed
+        self.updated_at = datetime.now()
+
+
 # グローバルストア
 _user_progress: Dict[str, UserProgress] = {}
 _notification_logs: List[NotificationLog] = []
+_chat_history: Dict[str, List[ChatMessage]] = {}  # name -> messages
+_escalations: List[Escalation] = []
 
 
 def get_or_create_user(name: str) -> UserProgress:
@@ -136,4 +163,52 @@ def get_top_incorrect_questions(limit: int = 3) -> List[Dict]:
         })
     
     return result
+
+
+# ==================== チャット履歴 ====================
+
+def add_chat_message(name: str, message: str, is_user: bool = True, 
+                     answer: Optional[str] = None, references: Optional[List] = None,
+                     confidence: Optional[str] = None) -> ChatMessage:
+    """チャットメッセージを追加"""
+    if name not in _chat_history:
+        _chat_history[name] = []
+    
+    chat_msg = ChatMessage(name, message, is_user)
+    chat_msg.answer = answer
+    chat_msg.references = references or []
+    chat_msg.confidence = confidence
+    
+    _chat_history[name].append(chat_msg)
+    return chat_msg
+
+
+def get_chat_history(name: str) -> List[ChatMessage]:
+    """チャット履歴を取得"""
+    return _chat_history.get(name, [])
+
+
+# ==================== エスカレーション ====================
+
+def add_escalation(name: str, message: str, retrieved_articles: List[dict], confidence: str) -> Escalation:
+    """エスカレーションを追加"""
+    escalation = Escalation(name, message, retrieved_articles, confidence)
+    _escalations.append(escalation)
+    return escalation
+
+
+def get_escalations() -> List[Escalation]:
+    """エスカレーション一覧を取得"""
+    return _escalations.copy()
+
+
+def update_escalation_status(escalation_id: int, status: str) -> Optional[Escalation]:
+    """エスカレーションのステータスを更新"""
+    for esc in _escalations:
+        if esc.id == escalation_id:
+            if status in ["open", "in_progress", "closed"]:
+                esc.status = status
+                esc.updated_at = datetime.now()
+                return esc
+    return None
 

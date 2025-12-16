@@ -22,3 +22,15 @@ class RemindRequest(BaseModel):
     selected_names: List[str]
     message: Optional[str] = None
 
+
+class QAMessage(BaseModel):
+    name: str
+    message: str
+
+
+class EscalationRequest(BaseModel):
+    name: str
+    message: str
+    retrieved_articles: List[dict]
+    confidence: str
+

@@ -10,6 +10,7 @@ import os
 
 from app import data, store
 from app.schemas import AnswerRequest, RemindRequest
+from app import rag
 
 app = FastAPI(title="内部研修デモアプリ")
 
@@ -250,6 +251,126 @@ async def logs_page(request: Request):
             "logs": logs
         }
     )
+
+
+# ==================== QA機能（擬似RAG） ====================
+
+@app.get("/qa", response_class=HTMLResponse)
+async def qa_page(request: Request, name: Optional[str] = Query(None)):
+    """QAチャットUI"""
+    if not name:
+        return templates.TemplateResponse(
+            "error.html",
+            {"request": request, "message": "名前が指定されていません。トップページから名前を入力してください。"}
+        )
+    
+    chat_history = store.get_chat_history(name)
+    
+    return templates.TemplateResponse(
+        "qa.html",
+        {
+            "request": request,
+            "name": name,
+            "chat_history": chat_history
+        }
+    )
+
+
+@app.post("/qa")
+async def qa_submit(request: Request):
+    """QA質問送信・回答生成"""
+    form_data = await request.form()
+    name = form_data.get("name")
+    message = form_data.get("message")
+    
+    if not name or not message:
+        return templates.TemplateResponse(
+            "error.html",
+            {"request": request, "message": "名前とメッセージを入力してください。"}
+        )
+    
+    # ユーザーメッセージを保存
+    store.add_chat_message(name, message, is_user=True)
+    
+    # 規程検索
+    top_results = rag.search_policies(message, top_k=3)
+    
+    # 自信度計算
+    confidence = rag.calculate_confidence(top_results)
+    
+    # 要約回答生成
+    summary = rag.generate_summary(message, top_results)
+    
+    # 回答メッセージを保存
+    store.add_chat_message(
+        name, 
+        summary, 
+        is_user=False,
+        answer=summary,
+        references=top_results,
+        confidence=confidence
+    )
+    
+    return RedirectResponse(url=f"/qa?name={name}", status_code=303)
+
+
+@app.post("/api/escalate")
+async def escalate(request: Request):
+    """エスカレーション登録"""
+    form_data = await request.form()
+    name = form_data.get("name")
+    message = form_data.get("message")
+    confidence = form_data.get("confidence", "Low")
+    
+    # 最新の回答から参照条文を取得
+    chat_history = store.get_chat_history(name)
+    retrieved_articles = []
+    if chat_history:
+        # 最新のボット回答を探す
+        for msg in reversed(chat_history):
+            if not msg.is_user and msg.references:
+                retrieved_articles = [
+                    {
+                        "id": ref.get("id"),
+                        "title": ref.get("title"),
+                        "url": ref.get("url")
+                    }
+                    for ref in msg.references
+                ]
+                break
+    
+    # エスカレーションを登録
+    escalation = store.add_escalation(name, message, retrieved_articles, confidence)
+    
+    return RedirectResponse(url=f"/qa?name={name}", status_code=303)
+
+
+@app.get("/admin/escalations", response_class=HTMLResponse)
+async def escalations_page(request: Request):
+    """エスカレーション管理画面"""
+    escalations = store.get_escalations()
+    # 新しい順にソート
+    escalations.sort(key=lambda x: x.created_at, reverse=True)
+    
+    return templates.TemplateResponse(
+        "escalations.html",
+        {
+            "request": request,
+            "escalations": escalations
+        }
+    )
+
+
+@app.post("/admin/escalations/{escalation_id}/status")
+async def update_escalation_status(request: Request, escalation_id: int):
+    """エスカレーションステータス更新"""
+    form_data = await request.form()
+    status = form_data.get("status")
+    
+    if status in ["open", "in_progress", "closed"]:
+        store.update_escalation_status(escalation_id, status)
+    
+    return RedirectResponse(url="/admin/escalations", status_code=303)
 
 
 if __name__ == "__main__":

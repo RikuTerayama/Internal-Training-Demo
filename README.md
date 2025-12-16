@@ -33,6 +33,9 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 - `GET /quiz/{topic}?name={name}` - 4択設問表示（topic: governance / harassment / infosec）
 - `POST /quiz/{topic}` - 回答送信
 - `GET /result/{topic}?name={name}` - スコアと誤答一覧
+- `GET /qa?name={name}` - 規程QA（擬似RAG）チャットUI
+- `POST /qa` - 質問送信・回答生成
+- `POST /api/escalate` - エスカレーション登録
 
 ### 管理者向け画面
 
@@ -40,6 +43,8 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 - `GET /admin/remind` - リマインド送信フォーム
 - `POST /admin/remind` - リマインド実行
 - `GET /admin/logs` - 通知ログ一覧
+- `GET /admin/escalations` - エスカレーション管理画面
+- `POST /admin/escalations/{id}/status` - エスカレーションステータス更新
 
 ## Renderでのデプロイ
 
@@ -61,5 +66,40 @@ uvicorn app.main:app --host 0.0.0.0 --port $PORT
 
 - **テーマ**: governance（ガバナンス）、harassment（ハラスメント）、infosec（情報セキュリティ）
 - **設問数**: 各テーマ3問ずつ、合計9問
-- **保存データ**: ユーザー進捗、回答履歴、スコア、通知ログ
+- **保存データ**: ユーザー進捗、回答履歴、スコア、通知ログ、チャット履歴、エスカレーション
+
+## 規程QA機能（擬似RAG）
+
+### 概要
+
+社内規程に関する質問に対して、規程データから関連条文を検索して回答する機能です。デモ用の擬似RAG実装で、キーワードマッチングベースの検索を行います。
+
+### 使い方
+
+1. `/qa?name={name}` にアクセス
+2. 質問を入力して送信
+3. 関連する規程条文（最大3件）と要約回答が表示されます
+4. 自信度が低い場合は「人事にエスカレーション」ボタンが表示されます
+
+### 例質問
+
+- 「個人メールに資料を送っていい？」→ 情報セキュリティ規程が返されます
+- 「飲み会で結婚の話をしつこく聞くのは？」→ ハラスメント規程が返されます
+- 「取引先から会食提案、どう対応？」→ ガバナンス規程が返されます
+
+### 技術詳細
+
+- **検索アルゴリズム**: キーワードマッチング（TF-IDF風のスコアリング）
+- **規程データ**: `app/knowledge/policies.json`（15件の規程抜粋）
+- **自信度計算**: スコア差とヒット単語数に基づく（High/Medium/Low）
+- **要約生成**: テンプレートベース（200-350文字）
+
+### 本番環境への拡張
+
+本機能はデモ用の擬似実装です。本番環境では以下の拡張が可能です：
+
+- SharePoint連携による規程データの自動取得
+- ベクトルデータベース（Pinecone、Weaviate等）によるセマンティック検索
+- LLM（GPT-4、Claude等）による自然な回答生成
+- エスカレーション時の自動通知機能
 

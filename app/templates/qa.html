@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+
+{% block header_nav %}
+<nav class="breadcrumb">
+    <a href="/">ホーム</a> > 
+    <span>規程QA（擬似RAG）</span>
+</nav>
+{% endblock %}
+
+{% block content %}
+<div class="qa-container">
+    <div class="card qa-header-card">
+        <h2>社内規程QA</h2>
+        <p class="description">社内規程に関する質問を入力してください。関連する規程条文を検索して回答します。</p>
+        <p class="note">※ これはデモ用の擬似RAG機能です。本番環境ではSharePoint連携やベクトル検索に拡張可能です。</p>
+    </div>
+    
+    <div class="card chat-container">
+        <div class="chat-messages" id="chatMessages">
+            {% if chat_history %}
+                {% for msg in chat_history %}
+                <div class="chat-message {% if msg.is_user %}user-message{% else %}bot-message{% endif %}">
+                    <div class="message-header">
+                        <span class="message-author">{% if msg.is_user %}{{ name }}{% else %}アシスタント{% endif %}</span>
+                        <span class="message-time">{{ msg.timestamp.strftime('%Y-%m-%d %H:%M') }}</span>
+                    </div>
+                    <div class="message-content">
+                        {{ msg.message }}
+                    </div>
+                    
+                    {% if not msg.is_user and msg.answer %}
+                    <div class="answer-details">
+                        <div class="confidence-badge confidence-{{ msg.confidence|lower }}">
+                            自信度: {{ msg.confidence }}
+                        </div>
+                        
+                        {% if msg.references %}
+                        <details class="references-section">
+                            <summary>参照条文（{{ msg.references|length }}件）</summary>
+                            <div class="references-list">
+                                {% for ref in msg.references %}
+                                <div class="reference-item">
+                                    <h4>{{ ref.title }}</h4>
+                                    <p class="reference-snippet">{{ ref.snippet }}</p>
+                                    <a href="{{ ref.url }}" target="_blank" class="evidence-link">規程を確認 →</a>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </details>
+                        {% endif %}
+                        
+                        {% if msg.confidence == "Low" %}
+                        <form method="POST" action="/api/escalate" class="escalate-form">
+                            <input type="hidden" name="name" value="{{ name }}">
+                            <input type="hidden" name="confidence" value="{{ msg.confidence }}">
+                            <input type="hidden" name="message" value="">
+                            <button type="submit" class="btn btn-warning">人事にエスカレーション</button>
+                        </form>
+                        {% endif %}
+                    </div>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            {% else %}
+            <div class="welcome-message">
+                <p>質問を入力して送信してください。</p>
+                <p class="example-questions">
+                    <strong>例:</strong><br>
+                    • 個人メールに資料を送っていい？<br>
+                    • 飲み会で結婚の話をしつこく聞くのは？<br>
+                    • 取引先から会食提案、どう対応？
+                </p>
+            </div>
+            {% endif %}
+        </div>
+        
+        <form method="POST" action="/qa" class="chat-form">
+            <input type="hidden" name="name" value="{{ name }}">
+            <div class="input-group">
+                <input type="text" name="message" placeholder="質問を入力してください..." required class="input-field chat-input">
+                <button type="submit" class="btn btn-primary">送信</button>
+            </div>
+        </form>
+    </div>
+    
+    <div class="navigation-links">
+        <a href="/" class="btn btn-secondary">ホームに戻る</a>
+        <a href="/admin" class="btn btn-secondary">管理者画面へ</a>
+    </div>
+</div>
+
+<script>
+// チャット画面を自動スクロール
+document.addEventListener('DOMContentLoaded', function() {
+    const chatMessages = document.getElementById('chatMessages');
+    if (chatMessages) {
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+});
+</script>
+{% endblock %}
+

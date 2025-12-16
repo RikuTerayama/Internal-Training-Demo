@@ -37,6 +37,15 @@
     <div class="admin-link">
         <a href="/admin" class="btn btn-secondary">管理者画面へ</a>
     </div>
+    
+    <div class="qa-link">
+        <h3>規程QA（擬似RAG）</h3>
+        <p>社内規程に関する質問をチャット形式で行えます</p>
+        <form method="GET" action="/qa" class="form-group">
+            <input type="text" name="name" required placeholder="お名前を入力" class="input-field" style="max-width: 300px; display: inline-block;">
+            <button type="submit" class="btn btn-primary">QAを開始</button>
+        </form>
+    </div>
 </div>
 {% endblock %}
 

@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block header_nav %}
+<nav class="breadcrumb">
+    <a href="/">ホーム</a> > 
+    <a href="/admin">管理者画面</a> > 
+    <span>エスカレーション管理</span>
+</nav>
+{% endblock %}
+
+{% block content %}
+<div class="escalations-container">
+    <div class="card">
+        <h2>エスカレーション管理</h2>
+        <p class="description">QA機能からエスカレーションされた相談を管理します。</p>
+    </div>
+    
+    {% if escalations %}
+    <div class="card escalations-list">
+        {% for esc in escalations %}
+        <div class="escalation-item">
+            <div class="escalation-header">
+                <div class="escalation-meta">
+                    <span class="escalation-id">#{{ esc.id }}</span>
+                    <span class="escalation-user"><strong>{{ esc.name }}</strong></span>
+                    <span class="escalation-time">{{ esc.created_at.strftime('%Y-%m-%d %H:%M:%S') }}</span>
+                    <span class="confidence-badge confidence-{{ esc.confidence|lower }}">{{ esc.confidence }}</span>
+                </div>
+                <div class="escalation-status">
+                    <form method="POST" action="/admin/escalations/{{ esc.id }}/status" class="status-form">
+                        <select name="status" onchange="this.form.submit()" class="status-select">
+                            <option value="open" {% if esc.status == "open" %}selected{% endif %}>未対応</option>
+                            <option value="in_progress" {% if esc.status == "in_progress" %}selected{% endif %}>対応中</option>
+                            <option value="closed" {% if esc.status == "closed" %}selected{% endif %}>完了</option>
+                        </select>
+                    </form>
+                </div>
+            </div>
+            
+            <div class="escalation-content">
+                <div class="escalation-question">
+                    <h4>質問内容</h4>
+                    <p>{{ esc.message }}</p>
+                </div>
+                
+                {% if esc.retrieved_articles %}
+                <div class="escalation-references">
+                    <h4>参照された規程（{{ esc.retrieved_articles|length }}件）</h4>
+                    <ul>
+                        {% for article in esc.retrieved_articles %}
+                        <li>
+                            <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+                
+                <div class="escalation-footer">
+                    <span class="updated-time">最終更新: {{ esc.updated_at.strftime('%Y-%m-%d %H:%M:%S') }}</span>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <div class="card">
+        <p class="empty-message">エスカレーションがありません</p>
+    </div>
+    {% endif %}
+    
+    <div class="navigation-links">
+        <a href="/admin" class="btn btn-secondary">管理者画面に戻る</a>
+    </div>
+</div>
+{% endblock %}
+

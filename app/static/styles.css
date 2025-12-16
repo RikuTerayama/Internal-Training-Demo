@@ -686,6 +686,47 @@ td {
     margin-top: 24px;
 }
 
+.new-quiz-link {
+    margin-top: 32px;
+    padding: 24px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+}
+
+.new-quiz-link h3 {
+    color: white;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+
+.new-quiz-link p {
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 16px;
+}
+
+.new-quiz-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.qa-link {
+    margin-top: 24px;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    text-align: center;
+}
+
+.qa-link h3 {
+    color: var(--slack-purple);
+    margin-bottom: 12px;
+}
+
 /* エラー画面 */
 .error-card {
     max-width: 600px;

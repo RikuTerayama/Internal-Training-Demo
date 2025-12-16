@@ -37,6 +37,13 @@ async def index(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
 
 
+# 新しいクイズUI（questions.json使用）を先に定義（/quiz/{topic}より前に）
+@app.get("/quiz", response_class=HTMLResponse)
+async def quiz_new_page(request: Request):
+    """新しいクイズUI（questions.json使用）"""
+    return templates.TemplateResponse("quiz_new.html", {"request": request})
+
+
 @app.get("/quiz/{topic}", response_class=HTMLResponse)
 async def quiz_page(
     request: Request,
@@ -373,13 +380,7 @@ async def update_escalation_status(request: Request, escalation_id: int):
     return RedirectResponse(url="/admin/escalations", status_code=303)
 
 
-# ==================== 新しいクイズUI（questions.json使用） ====================
-
-@app.get("/quiz", response_class=HTMLResponse)
-async def quiz_new_page(request: Request):
-    """新しいクイズUI（questions.json使用）"""
-    return templates.TemplateResponse("quiz_new.html", {"request": request})
-
+# ==================== クイズ管理者画面 ====================
 
 @app.get("/quiz-admin", response_class=HTMLResponse)
 async def quiz_admin_page(request: Request):

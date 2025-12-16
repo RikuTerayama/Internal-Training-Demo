@@ -15,12 +15,30 @@ document.addEventListener('DOMContentLoaded', async () => {
 async function loadQuestions() {
     try {
         const response = await fetch('/static/questions.json');
-        if (!response.ok) throw new Error('Failed to load questions');
+        if (!response.ok) {
+            throw new Error(`Failed to load questions: ${response.status} ${response.statusText}`);
+        }
         allQuestions = await response.json();
         filteredQuestions = [...allQuestions];
+        
+        // 読み込み成功をログ出力と表示
+        console.log(`Loaded ${allQuestions.length} questions`);
+        const loadingMsg = document.getElementById('loadingMessage');
+        const loadCountMsg = document.getElementById('loadCountMessage');
+        if (loadingMsg) {
+            loadingMsg.classList.add('hidden');
+        }
+        if (loadCountMsg) {
+            loadCountMsg.textContent = `✓ ${allQuestions.length}問を読み込みました`;
+            loadCountMsg.style.display = 'block';
+        }
     } catch (error) {
         console.error('Error loading questions:', error);
-        document.getElementById('loadingMessage').textContent = '問題の読み込みに失敗しました。';
+        const loadingMsg = document.getElementById('loadingMessage');
+        if (loadingMsg) {
+            loadingMsg.textContent = `問題の読み込みに失敗しました: ${error.message}`;
+            loadingMsg.style.color = '#e01e5a';
+        }
     }
 }
 

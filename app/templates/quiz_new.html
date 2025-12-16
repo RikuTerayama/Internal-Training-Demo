@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>研修クイズ</title>
+    <link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+    <div class="quiz-app">
+        <header class="quiz-header">
+            <h1>社内研修クイズ</h1>
+            <nav class="quiz-nav">
+                <a href="/" class="btn-link">ホーム</a>
+                <a href="/quiz-admin" class="btn-link">管理者画面</a>
+            </nav>
+        </header>
+
+        <div class="quiz-controls">
+            <div class="control-group">
+                <label>言語:</label>
+                <button id="langToggle" class="btn-toggle">日本語</button>
+            </div>
+            <div class="control-group">
+                <label>Year:</label>
+                <select id="yearFilter" class="filter-select">
+                    <option value="all">All</option>
+                    <option value="Year1">Year1</option>
+                    <option value="Year2">Year2</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label>Category:</label>
+                <select id="categoryFilter" class="filter-select">
+                    <option value="all">All</option>
+                    <option value="governance">governance</option>
+                    <option value="business">business</option>
+                    <option value="management">management</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label>Theme:</label>
+                <select id="themeFilter" class="filter-select">
+                    <option value="all">All</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label>Mode:</label>
+                <select id="modeSelect" class="filter-select">
+                    <option value="sequential">順番</option>
+                    <option value="random">ランダム</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="quiz-content">
+            <div id="loadingMessage" class="message">問題を読み込み中...</div>
+            <div id="noQuestionsMessage" class="message hidden">該当する問題がありません。フィルタを変更してください。</div>
+            
+            <div id="questionCard" class="question-card hidden">
+                <div class="question-header">
+                    <span class="question-meta">
+                        <span id="questionTheme" class="badge"></span>
+                        <span id="questionDifficulty" class="badge"></span>
+                        <span id="questionTags" class="tags"></span>
+                    </span>
+                    <span id="questionNumber" class="question-number"></span>
+                </div>
+                
+                <h2 id="questionText" class="question-text"></h2>
+                
+                <div id="choicesContainer" class="choices-container"></div>
+                
+                <div id="resultContainer" class="result-container hidden">
+                    <div id="resultMessage" class="result-message"></div>
+                    <div id="explanationText" class="explanation-text"></div>
+                    <a id="sourceLink" href="#" target="_blank" class="source-link hidden">根拠リンク →</a>
+                    <button id="nextButton" class="btn-primary">次の問題</button>
+                </div>
+            </div>
+        </div>
+
+        <footer class="quiz-footer">
+            <div class="progress-info">
+                <span id="progressText">進捗: 0/0</span>
+                <span id="scoreText">正解数: 0</span>
+                <span id="accuracyText">正答率: 0%</span>
+            </div>
+            <button id="resetButton" class="btn-secondary">進捗をリセット</button>
+        </footer>
+    </div>
+
+    <script src="/static/quiz.js"></script>
+</body>
+</html>
+

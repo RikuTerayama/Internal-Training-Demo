@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>クイズ管理者画面</title>
+    <link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+    <div class="admin-app">
+        <header class="admin-header">
+            <h1>クイズ管理者画面</h1>
+            <nav class="admin-nav">
+                <a href="/" class="btn-link">ホーム</a>
+                <a href="/quiz" class="btn-link">クイズ画面</a>
+            </nav>
+        </header>
+
+        <div class="admin-stats">
+            <div class="stat-card">
+                <h3>Year別集計</h3>
+                <div id="yearStats" class="stats-grid"></div>
+            </div>
+            <div class="stat-card">
+                <h3>Category別集計</h3>
+                <div id="categoryStats" class="stats-grid"></div>
+            </div>
+        </div>
+
+        <div class="admin-filters">
+            <div class="filter-row">
+                <input type="text" id="searchInput" placeholder="検索（id, theme, tags等）" class="search-input">
+                <select id="adminYearFilter" class="filter-select">
+                    <option value="all">All Years</option>
+                    <option value="Year1">Year1</option>
+                    <option value="Year2">Year2</option>
+                </select>
+                <select id="adminCategoryFilter" class="filter-select">
+                    <option value="all">All Categories</option>
+                    <option value="governance">governance</option>
+                    <option value="business">business</option>
+                    <option value="management">management</option>
+                </select>
+                <select id="adminDifficultyFilter" class="filter-select">
+                    <option value="all">All Difficulties</option>
+                    <option value="easy">easy</option>
+                    <option value="medium">medium</option>
+                    <option value="hard">hard</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="admin-content">
+            <div id="loadingMessage" class="message">問題を読み込み中...</div>
+            <div id="questionsTable" class="questions-table hidden">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Year</th>
+                            <th>Category</th>
+                            <th>Theme</th>
+                            <th>Difficulty</th>
+                            <th>Tags</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody id="questionsTableBody"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <div id="questionModal" class="modal hidden">
+            <div class="modal-content">
+                <span class="modal-close">&times;</span>
+                <div id="modalContent"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/admin.js"></script>
+</body>
+</html>
+

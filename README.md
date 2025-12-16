@@ -30,6 +30,7 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ### 受講者向け画面
 
 - `GET /` - 名前入力とテーマ選択
+- `GET /quiz` - **新しいクイズUI（questions.json使用、77問対応）**
 - `GET /quiz/{topic}?name={name}` - 4択設問表示（topic: governance / harassment / infosec）
 - `POST /quiz/{topic}` - 回答送信
 - `GET /result/{topic}?name={name}` - スコアと誤答一覧
@@ -40,6 +41,7 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ### 管理者向け画面
 
 - `GET /admin` - 受講者一覧と集計情報
+- `GET /quiz-admin` - **クイズ管理者画面（questions.json閲覧・検索）**
 - `GET /admin/remind` - リマインド送信フォーム
 - `POST /admin/remind` - リマインド実行
 - `GET /admin/logs` - 通知ログ一覧
@@ -102,4 +104,39 @@ uvicorn app.main:app --host 0.0.0.0 --port $PORT
 - ベクトルデータベース（Pinecone、Weaviate等）によるセマンティック検索
 - LLM（GPT-4、Claude等）による自然な回答生成
 - エスカレーション時の自動通知機能
+
+## 新しいクイズUI（/quiz）
+
+### 概要
+
+`questions.json`（77問、日英両対応）を使用したクライアントサイドのクイズUIです。ブラウザでフィルタリング、回答、進捗管理ができます。
+
+### 機能
+
+- **フィルタリング**: Year/Category/Themeで問題を絞り込み
+- **言語切替**: 日本語/Englishをワンタップで切替
+- **モード**: 順番/ランダム
+- **即時フィードバック**: 回答後に正誤・解説・根拠URLを表示
+- **進捗管理**: localStorageで進捗を保存（リロードしても維持）
+- **スコア表示**: 正解数/回答数/正答率を表示
+
+### 使い方
+
+1. `/quiz` にアクセス
+2. フィルタ（Year/Category/Theme）を選択
+3. 言語切替ボタンで日本語/Englishを切替
+4. 4択から選択して回答
+5. 正誤と解説を確認して「次の問題」へ
+
+### 管理者画面（/quiz-admin）
+
+- 問題一覧の閲覧
+- Year/Category/Difficulty/Tagsで検索・フィルタ
+- 問題詳細の閲覧（日本語/English両方）
+- Year別/Category別の件数集計
+
+### データ保存
+
+- 進捗はブラウザのlocalStorageに保存されます
+- 「進捗をリセット」ボタンでクリア可能
 

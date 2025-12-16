@@ -373,6 +373,20 @@ async def update_escalation_status(request: Request, escalation_id: int):
     return RedirectResponse(url="/admin/escalations", status_code=303)
 
 
+# ==================== 新しいクイズUI（questions.json使用） ====================
+
+@app.get("/quiz", response_class=HTMLResponse)
+async def quiz_new_page(request: Request):
+    """新しいクイズUI（questions.json使用）"""
+    return templates.TemplateResponse("quiz_new.html", {"request": request})
+
+
+@app.get("/quiz-admin", response_class=HTMLResponse)
+async def quiz_admin_page(request: Request):
+    """クイズ管理者画面（questions.json閲覧）"""
+    return templates.TemplateResponse("quiz_admin.html", {"request": request})
+
+
 if __name__ == "__main__":
     import uvicorn
     port = int(os.environ.get("PORT", 8000))

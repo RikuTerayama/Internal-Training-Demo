@@ -1,0 +1,2313 @@
+﻿[
+  {
+    "id": "q-gov-y1-001",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "莠ｺ莠句宛蠎ｦ繝ｻ隧穂ｾ｡蛻ｶ蠎ｦ縺ｮ逅・ｧ｣",
+    "learning_goal_ja": "隧穂ｾ｡蛻ｶ蠎ｦ縺ｮ逶ｮ逧・→驕狗畑繝ｫ繝ｼ繝ｫ繧堤炊隗｣縺励∝・蟷ｳ縺ｪ隧穂ｾ｡繧貞ｮ滓命縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the purpose and operational rules of the evaluation system and conduct fair evaluations",
+    "common_misconception_ja": "隧穂ｾ｡縺ｯ荳ｻ隕ｳ縺ｧ豎ｺ繧√ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Evaluations can be determined subjectively",
+    "difficulty": "easy",
+    "question_ja": "驛ｨ荳九・隧穂ｾ｡繧定｡後≧髫帙∵怙繧る←蛻・↑繧｢繝励Ο繝ｼ繝√・縺ｩ繧後°・・,
+    "question_en": "When evaluating a subordinate, which approach is most appropriate?",
+    "choices_ja": [
+      "A. 荳ｻ隕ｳ逧・↑蜊ｰ雎｡縺縺代〒隧穂ｾ｡縺吶ｋ",
+      "B. 隧穂ｾ｡譛滄俣荳ｭ縺ｮ蜈ｷ菴鍋噪縺ｪ陦悟虚繝ｻ謌先棡繧定ｨ倬鹸縺ｫ蝓ｺ縺･縺崎ｩ穂ｾ｡縺吶ｋ",
+      "C. 莉悶・繝｡繝ｳ繝舌・縺ｨ縺ｮ豈碑ｼ・・縺ｿ縺ｧ隧穂ｾ｡縺吶ｋ",
+      "D. 譛ｬ莠ｺ縺ｮ閾ｪ蟾ｱ隧穂ｾ｡縺ｮ縺ｿ繧呈治逕ｨ縺吶ｋ"
+    ],
+    "choices_en": [
+      "A. Evaluate based solely on subjective impressions",
+      "B. Evaluate based on documented specific actions and achievements during the evaluation period",
+      "C. Evaluate only by comparison with other members",
+      "D. Adopt only the employee's self-evaluation"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲りｩ穂ｾ｡縺ｯ螳｢隕ｳ逧・↑險倬鹸・郁｡悟虚繝ｻ謌先棡繝ｻ險ｼ霍｡・峨↓蝓ｺ縺･縺榊ｮ滓命縺吶ｋ蠢・ｦ√′縺ゅｋ縲ゆｸｻ隕ｳ縺ｮ縺ｿ・・・峨・蜈ｬ蟷ｳ諤ｧ繧呈ｬ縺阪∵ｯ碑ｼ・・縺ｿ・・・峨・蛟倶ｺｺ縺ｮ謌宣聞繧定ｩ穂ｾ｡縺ｧ縺阪↑縺・り・蟾ｱ隧穂ｾ｡縺ｮ縺ｿ・・・峨・隧穂ｾ｡閠・・雋ｬ莉ｻ繧呈叛譽・＠縺ｦ縺・ｋ縲りｩ穂ｾ｡蛻ｶ蠎ｦ縺ｮ逶ｮ逧・・縲∝・蟷ｳ諤ｧ縺ｨ騾乗・諤ｧ繧堤｢ｺ菫昴＠縲∝ｾ捺･ｭ蜩｡縺ｮ謌宣聞繧呈髪謠ｴ縺吶ｋ縺薙→縺ｧ縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Evaluations must be conducted based on objective records (actions, achievements, evidence). Evaluation based solely on subjectivity (A) lacks fairness, comparison only (C) cannot evaluate individual growth, and self-evaluation only (D) abandons the evaluator's responsibility. The purpose of the evaluation system is to ensure fairness and transparency and support employee growth.",
+    "source_url": "https://example.com/training/Year1/governance/莠ｺ莠句宛蠎ｦ繝ｻ隧穂ｾ｡蛻ｶ蠎ｦ縺ｮ逅・ｧ｣/q-gov-y1-001",
+    "tags": ["Year1", "governance", "莠ｺ莠句宛蠎ｦ", "隧穂ｾ｡蛻ｶ蠎ｦ"]
+  },
+  {
+    "id": "q-gov-y1-002",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "莠ｺ莠句宛蠎ｦ繝ｻ隧穂ｾ｡蛻ｶ蠎ｦ縺ｮ逅・ｧ｣",
+    "learning_goal_ja": "隧穂ｾ｡蛻ｶ蠎ｦ縺ｮ逶ｮ逧・→驕狗畑繝ｫ繝ｼ繝ｫ繧堤炊隗｣縺励∝・蟷ｳ縺ｪ隧穂ｾ｡繧貞ｮ滓命縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the purpose and operational rules of the evaluation system and conduct fair evaluations",
+    "common_misconception_ja": "隧穂ｾ｡縺ｯ荳ｻ隕ｳ縺ｧ豎ｺ繧√ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Evaluations can be determined subjectively",
+    "difficulty": "medium",
+    "question_ja": "隧穂ｾ｡髱｢隲・〒驛ｨ荳九°繧峨手ｩ穂ｾ｡縺御ｽ弱☆縺弱ｋ縲上→逡ｰ隴ｰ逕ｳ縺礼ｫ九※縺後≠縺｣縺溷ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "When a subordinate raises an objection during an evaluation interview saying 'the evaluation is too low,' which response is most appropriate?",
+    "choices_ja": [
+      "A. 隧穂ｾ｡縺ｯ螟峨∴繧峨ｌ縺ｪ縺・→荳譁ｹ逧・↓莨昴∴繧・,
+      "B. 隧穂ｾ｡蝓ｺ貅悶→蜈ｷ菴鍋噪縺ｪ譬ｹ諡繧堤､ｺ縺励∝ｿ・ｦ√↓蠢懊§縺ｦ莠ｺ莠矩Κ髢縺ｫ逶ｸ隲・☆繧・,
+      "C. 驛ｨ荳九・隕∵ｱゅ↓蠢懊§縺ｦ隧穂ｾ｡繧剃ｸ翫￡繧・,
+      "D. 谺｡蝗槭・隧穂ｾ｡縺ｧ閠・・縺吶ｋ縺ｨ莨昴∴繧・
+    ],
+    "choices_en": [
+      "A. Unilaterally inform that the evaluation cannot be changed",
+      "B. Show evaluation criteria and specific evidence, and consult with HR if necessary",
+      "C. Raise the evaluation in response to the subordinate's request",
+      "D. Inform that it will be considered in the next evaluation"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ら焚隴ｰ逕ｳ縺礼ｫ九※縺ｫ縺ｯ縲∬ｩ穂ｾ｡蝓ｺ貅悶→譬ｹ諡繧帝乗・縺ｫ遉ｺ縺励∝ｿ・ｦ√↓蠢懊§縺ｦ莠ｺ莠矩Κ髢縺ｮ繧ｵ繝昴・繝医ｒ蠕励ｋ縺薙→縺碁㍾隕√ゆｸ譁ｹ逧・↑諡貞凄・・・峨・菫｡鬆ｼ繧呈錐縺ｪ縺・りｦ∵ｱゅ↓蠢懊§縺ｦ螟画峩・・・峨・蛻ｶ蠎ｦ縺ｮ蜈ｬ蟷ｳ諤ｧ繧呈錐縺ｪ縺・よｬ｡蝗槫ｯｾ蠢懶ｼ・・峨・迴ｾ迥ｶ縺ｮ蝠城｡後ｒ蜈磯√ｊ縺励※縺・ｋ縲りｩ穂ｾ｡蛻ｶ蠎ｦ縺ｯ騾乗・諤ｧ縺ｨ蜈ｬ豁｣諤ｧ縺檎函蜻ｽ邱壹〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. When objections are raised, it is important to transparently show evaluation criteria and evidence, and seek HR support if necessary. Unilateral rejection (A) damages trust. Changing evaluations in response to requests (C) undermines the fairness of the system. Deferring to the next evaluation (D) postpones current issues. Transparency and fairness are the lifeline of the evaluation system.",
+    "source_url": "https://example.com/training/Year1/governance/莠ｺ莠句宛蠎ｦ繝ｻ隧穂ｾ｡蛻ｶ蠎ｦ縺ｮ逅・ｧ｣/q-gov-y1-002",
+    "tags": ["Year1", "governance", "莠ｺ莠句宛蠎ｦ", "隧穂ｾ｡蛻ｶ蠎ｦ"]
+  },
+  {
+    "id": "q-gov-y1-003",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "莠ｺ莠句宛蠎ｦ繝ｻ隧穂ｾ｡蛻ｶ蠎ｦ縺ｮ逅・ｧ｣",
+    "learning_goal_ja": "隧穂ｾ｡蛻ｶ蠎ｦ縺ｮ逶ｮ逧・→驕狗畑繝ｫ繝ｼ繝ｫ繧堤炊隗｣縺励∝・蟷ｳ縺ｪ隧穂ｾ｡繧貞ｮ滓命縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the purpose and operational rules of the evaluation system and conduct fair evaluations",
+    "common_misconception_ja": "隧穂ｾ｡縺ｯ荳ｻ隕ｳ縺ｧ豎ｺ繧√ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Evaluations can be determined subjectively",
+    "difficulty": "hard",
+    "question_ja": "隧穂ｾ｡譛滄俣荳ｭ縺ｫ逡ｰ蜍輔＠縺滄Κ荳九↓縺､縺・※縲∬ｩ穂ｾ｡繧貞ｮ滓命縺吶ｋ髫帙・譛繧る←蛻・↑譁ｹ豕輔・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate method for evaluating a subordinate who was transferred during the evaluation period?",
+    "choices_ja": [
+      "A. 逡ｰ蜍募燕縺ｮ荳雁昇縺ｮ縺ｿ縺瑚ｩ穂ｾ｡縺吶ｋ",
+      "B. 逡ｰ蜍募ｾ後・荳雁昇縺ｮ縺ｿ縺瑚ｩ穂ｾ｡縺吶ｋ",
+      "C. 荳｡譁ｹ縺ｮ荳雁昇縺悟鵠隴ｰ縺励∬ｩ穂ｾ｡譛滄俣蜈ｨ菴薙ｒ閠・・縺励※隧穂ｾ｡縺吶ｋ・医∪縺溘・莠ｺ莠九′隱ｿ謨ｴ・・,
+      "D. 隧穂ｾ｡繧偵せ繧ｭ繝・・縺吶ｋ"
+    ],
+    "choices_en": [
+      "A. Only the pre-transfer supervisor evaluates",
+      "B. Only the post-transfer supervisor evaluates",
+      "C. Both supervisors discuss and evaluate considering the entire evaluation period (or HR coordinates)",
+      "D. Skip the evaluation"
+    ],
+    "correct_choice_index": 2,
+    "explanation_ja": "豁｣隗｣縺ｯC縲ら焚蜍輔′縺ゅ▲縺溷ｴ蜷医∬ｩ穂ｾ｡譛滄俣蜈ｨ菴薙ｒ蜈ｬ蟷ｳ縺ｫ隧穂ｾ｡縺吶ｋ縺溘ａ縲∽ｸ｡譁ｹ縺ｮ荳雁昇縺悟鵠隴ｰ縺吶ｋ縺倶ｺｺ莠九′隱ｿ謨ｴ縺吶ｋ蠢・ｦ√′縺ゅｋ縲ら援譁ｹ縺ｮ縺ｿ・・/B・峨・隧穂ｾ｡譛滄俣縺ｮ荳驛ｨ縺励°隕九※縺・↑縺・りｩ穂ｾ｡繧偵せ繧ｭ繝・・・・・峨・蛻ｶ蠎ｦ驕募渚縺ｨ縺ｪ繧九ゆｺｺ莠句宛蠎ｦ縺ｧ縺ｯ縲∫焚蜍輔・邨・ｹ泌､画峩譎ゅｂ隧穂ｾ｡縺ｮ蜈ｬ蟷ｳ諤ｧ繧堤｢ｺ菫昴☆繧九％縺ｨ縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is C. When a transfer occurs, both supervisors should discuss or HR should coordinate to fairly evaluate the entire evaluation period. Evaluation by only one supervisor (A/B) only looks at part of the evaluation period. Skipping evaluation (D) violates the system. In personnel systems, it is important to ensure fairness of evaluation even during transfers and organizational changes.",
+    "source_url": "https://example.com/training/Year1/governance/莠ｺ莠句宛蠎ｦ繝ｻ隧穂ｾ｡蛻ｶ蠎ｦ縺ｮ逅・ｧ｣/q-gov-y1-003",
+    "tags": ["Year1", "governance", "莠ｺ莠句宛蠎ｦ", "隧穂ｾ｡蛻ｶ蠎ｦ"]
+  },
+  {
+    "id": "q-gov-y1-004",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "蜉ｴ蜒肴ｳ輔・髮・畑蠖｢諷九・蝓ｺ遉・,
+    "learning_goal_ja": "蜉ｴ蜒肴ｳ輔・蝓ｺ譛ｬ縺ｨ髮・畑蠖｢諷九・驕輔＞繧堤炊隗｣縺励・←蛻・↑髮・畑邂｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the basics of labor law and differences in employment types, and manage employment appropriately",
+    "common_misconception_ja": "豁｣遉ｾ蜩｡縺ｨ髱樊ｭ｣隕冗､ｾ蜩｡縺ｮ驕輔＞縺ｯ邨ｦ荳弱□縺・,
+    "common_misconception_en": "The only difference between regular and non-regular employees is salary",
+    "difficulty": "easy",
+    "question_ja": "豁｣遉ｾ蜩｡縺ｨ螂醍ｴ・､ｾ蜩｡縺ｮ荳ｻ縺ｪ驕輔＞縺ｨ縺励※縲∵怙繧る←蛻・↑隱ｬ譏弱・縺ｩ繧後°・・,
+    "question_en": "Which is the most appropriate explanation of the main difference between regular employees and contract employees?",
+    "choices_ja": [
+      "A. 邨ｦ荳弱・鬘阪□縺代′驕輔≧",
+      "B. 螂醍ｴ・悄髢薙・譛臥┌縲∬ｧ｣髮・ｦ丞宛縲∫､ｾ莨壻ｿ晞匱縺ｮ謇ｱ縺・↑縺ｩ豕慕噪蝨ｰ菴阪′逡ｰ縺ｪ繧・,
+      "C. 莉穂ｺ九・蜀・ｮｹ縺悟・縺城＆縺・,
+      "D. 豁｣遉ｾ蜩｡縺ｮ譁ｹ縺瑚・蜉帙′鬮倥＞"
+    ],
+    "choices_en": [
+      "A. Only the salary amount differs",
+      "B. Legal status differs in terms of contract period, dismissal regulations, social insurance treatment, etc.",
+      "C. The work content is completely different",
+      "D. Regular employees have higher abilities"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲よｭ｣遉ｾ蜩｡縺ｨ螂醍ｴ・､ｾ蜩｡縺ｯ縲∝･醍ｴ・悄髢薙・譛臥┌縲∬ｧ｣髮・ｦ丞宛縲∫､ｾ莨壻ｿ晞匱縺ｮ謇ｱ縺・↑縺ｩ豕慕噪蝨ｰ菴阪′逡ｰ縺ｪ繧九らｵｦ荳弱□縺托ｼ・・峨・隱､繧翫ゆｻ穂ｺ句・螳ｹ・・・峨ｄ閭ｽ蜉幢ｼ・・峨・髮・畑蠖｢諷九・驕輔＞縺ｧ縺ｯ縺ｪ縺・ょ感蜒肴ｳ輔〒縺ｯ縲・寐逕ｨ蠖｢諷九＃縺ｨ縺ｫ逡ｰ縺ｪ繧区ｨｩ蛻ｩ縺ｨ鄒ｩ蜍吶′螳壹ａ繧峨ｌ縺ｦ縺翫ｊ縲∫ｮ｡逅・・・縺薙ｌ繧堤炊隗｣縺励※驕ｩ蛻・↓邂｡逅・☆繧句ｿ・ｦ√′縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Regular employees and contract employees differ in legal status regarding contract period, dismissal regulations, social insurance treatment, etc. Only salary (A) is incorrect. Work content (C) and ability (D) are not differences in employment type. Labor law defines different rights and obligations for each employment type, and managers must understand and manage this appropriately.",
+    "source_url": "https://example.com/training/Year1/governance/蜉ｴ蜒肴ｳ輔・髮・畑蠖｢諷九・蝓ｺ遉・q-gov-y1-004",
+    "tags": ["Year1", "governance", "蜉ｴ蜒肴ｳ・, "髮・畑蠖｢諷・]
+  },
+  {
+    "id": "q-gov-y1-005",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "蜉ｴ蜒肴ｳ輔・髮・畑蠖｢諷九・蝓ｺ遉・,
+    "learning_goal_ja": "蜉ｴ蜒肴ｳ輔・蝓ｺ譛ｬ縺ｨ髮・畑蠖｢諷九・驕輔＞繧堤炊隗｣縺励・←蛻・↑髮・畑邂｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the basics of labor law and differences in employment types, and manage employment appropriately",
+    "common_misconception_ja": "豁｣遉ｾ蜩｡縺ｨ髱樊ｭ｣隕冗､ｾ蜩｡縺ｮ驕輔＞縺ｯ邨ｦ荳弱□縺・,
+    "common_misconception_en": "The only difference between regular and non-regular employees is salary",
+    "difficulty": "medium",
+    "question_ja": "譛臥ｵｦ莨第嚊縺ｮ蜿門ｾ励↓縺､縺・※縲∝感蜒榊渕貅匁ｳ輔〒螳壹ａ繧峨ｌ縺ｦ縺・ｋ蜴溷援縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the principle regarding paid leave entitlement as stipulated in the Labor Standards Act?",
+    "choices_ja": [
+      "A. 莨夂､ｾ縺悟叙蠕玲凾譛溘ｒ謖・ｮ壹〒縺阪ｋ",
+      "B. 蜉ｴ蜒崎・′譎ょｭ｣繧呈欠螳壹＠縺ｦ蜿門ｾ励☆繧区ｨｩ蛻ｩ縺後≠繧具ｼ域･ｭ蜍吩ｸ頑髪髫懊′縺ゅｋ蝣ｴ蜷医・縺ｿ莨夂､ｾ縺悟､画峩蜿ｯ閭ｽ・・,
+      "C. 譛臥ｵｦ縺ｯ菴ｿ繧上↑縺上※繧ょ､ｱ蜉ｹ縺吶ｋ",
+      "D. 邂｡逅・・縺ｯ譛臥ｵｦ繧貞叙蠕励〒縺阪↑縺・
+    ],
+    "choices_en": [
+      "A. The company can specify when to take leave",
+      "B. Employees have the right to specify when to take leave (company can change only if there is a business impediment)",
+      "C. Paid leave expires if not used",
+      "D. Managers cannot take paid leave"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ感蜒榊渕貅匁ｳ輔〒縺ｯ縲∝感蜒崎・′譎ょｭ｣繧呈欠螳壹＠縺ｦ譛臥ｵｦ繧貞叙蠕励☆繧区ｨｩ蛻ｩ縺後≠繧翫∽ｼ夂､ｾ縺ｯ讌ｭ蜍吩ｸ頑髪髫懊′縺ゅｋ蝣ｴ蜷医・縺ｿ譎ょｭ｣螟画峩讓ｩ繧定｡御ｽｿ縺ｧ縺阪ｋ縲ゆｼ夂､ｾ縺ｮ荳譁ｹ逧・↑謖・ｮ夲ｼ・・峨・驕墓ｳ輔よ怏邨ｦ縺ｮ螟ｱ蜉ｹ・・・峨・荳驛ｨ繧帝勁縺榊次蜑・↑縺・らｮ｡逅・・縺ｮ蜿門ｾ嶺ｸ榊庄・・・峨・驕墓ｳ輔ょ感蜒肴ｳ輔・蝓ｺ譛ｬ蜴溷援縺ｯ縲∝感蜒崎・・讓ｩ蛻ｩ菫晁ｭｷ縺ｧ縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Under the Labor Standards Act, employees have the right to specify when to take paid leave, and companies can exercise the right to change the timing only if there is a business impediment. Unilateral company specification (A) is illegal. Expiration of paid leave (C) generally does not occur except in part. Prohibition for managers (D) is illegal. The basic principle of labor law is protection of workers' rights.",
+    "source_url": "https://example.com/training/Year1/governance/蜉ｴ蜒肴ｳ輔・髮・畑蠖｢諷九・蝓ｺ遉・q-gov-y1-005",
+    "tags": ["Year1", "governance", "蜉ｴ蜒肴ｳ・, "譛臥ｵｦ莨第嚊"]
+  },
+  {
+    "id": "q-gov-y1-006",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "蜉ｴ蜒肴ｳ輔・髮・畑蠖｢諷九・蝓ｺ遉・,
+    "learning_goal_ja": "蜉ｴ蜒肴ｳ輔・蝓ｺ譛ｬ縺ｨ髮・畑蠖｢諷九・驕輔＞繧堤炊隗｣縺励・←蛻・↑髮・畑邂｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the basics of labor law and differences in employment types, and manage employment appropriately",
+    "common_misconception_ja": "豁｣遉ｾ蜩｡縺ｨ髱樊ｭ｣隕冗､ｾ蜩｡縺ｮ驕輔＞縺ｯ邨ｦ荳弱□縺・,
+    "common_misconception_en": "The only difference between regular and non-regular employees is salary",
+    "difficulty": "hard",
+    "question_ja": "隧ｦ逕ｨ譛滄俣荳ｭ縺ｮ遉ｾ蜩｡繧定ｧ｣髮・☆繧句ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate action when dismissing an employee during the probationary period?",
+    "choices_ja": [
+      "A. 逅・罰繧呈・遉ｺ縺帙★縺ｫ隗｣髮・〒縺阪ｋ",
+      "B. 隧ｦ逕ｨ譛滄俣縺ｧ繧りｧ｣髮・炊逕ｱ繧呈・遉ｺ縺励∝ｿ・ｦ√↓蠢懊§縺ｦ莠ｺ莠九・豕募漁縺ｫ逶ｸ隲・☆繧・,
+      "C. 隧ｦ逕ｨ譛滄俣縺ｯ辟｡譚｡莉ｶ縺ｧ隗｣髮・〒縺阪ｋ",
+      "D. 隗｣髮・・隧ｦ逕ｨ譛滄俣蠕後↓陦後≧"
+    ],
+    "choices_en": [
+      "A. Can dismiss without stating a reason",
+      "B. Even during probation, dismissal reasons must be stated, and HR/legal should be consulted if necessary",
+      "C. Can dismiss unconditionally during probation",
+      "D. Dismissal should be done after probation"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲りｩｦ逕ｨ譛滄俣荳ｭ縺ｧ繧ゅ∬ｧ｣髮・炊逕ｱ繧呈・遉ｺ縺励∝ｿ・ｦ√↓蠢懊§縺ｦ莠ｺ莠九・豕募漁縺ｫ逶ｸ隲・☆繧九％縺ｨ縺碁←蛻・ら炊逕ｱ荳肴・縺ｮ隗｣髮・ｼ・・峨ｄ辟｡譚｡莉ｶ隗｣髮・ｼ・・峨・蜉ｴ蜒肴ｳ暮＆蜿阪・蜿ｯ閭ｽ諤ｧ縺後≠繧九りｩｦ逕ｨ譛滄俣蠕鯉ｼ・・峨・蝠城｡後ｒ蜈磯√ｊ縺励※縺・ｋ縲りｩｦ逕ｨ譛滄俣縺ｯ驕ｩ諤ｧ繧貞愛譁ｭ縺吶ｋ譛滄俣縺ｧ縺ゅｊ縲∬ｧ｣髮・↓縺ｯ豁｣蠖薙↑逅・罰縺ｨ謇狗ｶ壹″縺悟ｿ・ｦ√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Even during probation, it is appropriate to state dismissal reasons and consult with HR/legal if necessary. Dismissal without reason (A) or unconditional dismissal (C) may violate labor law. After probation (D) postpones the problem. The probationary period is for assessing suitability, and dismissal requires legitimate reasons and procedures.",
+    "source_url": "https://example.com/training/Year1/governance/蜉ｴ蜒肴ｳ輔・髮・畑蠖｢諷九・蝓ｺ遉・q-gov-y1-006",
+    "tags": ["Year1", "governance", "蜉ｴ蜒肴ｳ・, "隧ｦ逕ｨ譛滄俣"]
+  },
+  {
+    "id": "q-gov-y1-007",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "蜉ｴ蜍咏ｮ｡逅・ｼ亥共諤縲√Γ繝ｳ繧ｿ繝ｫ繧ｱ繧｢・・,
+    "learning_goal_ja": "蜍､諤邂｡逅・→繝｡繝ｳ繧ｿ繝ｫ繝倥Ν繧ｹ繧ｱ繧｢縺ｮ蝓ｺ譛ｬ繧堤炊隗｣縺励・←蛻・↑蜉ｴ蜍咏ｮ｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the basics of attendance management and mental health care, and manage labor appropriately",
+    "common_misconception_ja": "谿区･ｭ譎る俣縺ｯ閾ｪ蟾ｱ逕ｳ蜻翫〒蜊∝・",
+    "common_misconception_en": "Overtime hours can be self-reported",
+    "difficulty": "easy",
+    "question_ja": "驛ｨ荳九・蜍､諤邂｡逅・↓縺翫＞縺ｦ縲∵怙繧る←蛻・↑譁ｹ豕輔・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate method for managing a subordinate's attendance?",
+    "choices_ja": [
+      "A. 閾ｪ蟾ｱ逕ｳ蜻翫・縺ｿ縺ｧ邂｡逅・☆繧・,
+      "B. 螳｢隕ｳ逧・↑險倬鹸・域遠蛻ｻ縲√す繧ｹ繝・Β繝ｭ繧ｰ遲会ｼ峨→閾ｪ蟾ｱ逕ｳ蜻翫ｒ邨・∩蜷医ｏ縺帙∫焚蟶ｸ縺後≠繧後・遒ｺ隱阪☆繧・,
+      "C. 邂｡逅・＠縺ｪ縺・,
+      "D. 谿区･ｭ縺ｯ險倬鹸荳崎ｦ・
+    ],
+    "choices_en": [
+      "A. Manage only through self-reporting",
+      "B. Combine objective records (time stamps, system logs, etc.) with self-reporting, and verify if there are anomalies",
+      "C. Do not manage",
+      "D. Overtime does not need to be recorded"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ共諤邂｡逅・・螳｢隕ｳ逧・↑險倬鹸縺ｨ閾ｪ蟾ｱ逕ｳ蜻翫ｒ邨・∩蜷医ｏ縺帙∫焚蟶ｸ縺後≠繧後・遒ｺ隱阪☆繧九％縺ｨ縺碁←蛻・り・蟾ｱ逕ｳ蜻翫・縺ｿ・・・峨・豁｣遒ｺ諤ｧ縺ｫ谺縺代ｋ縲らｮ｡逅・＠縺ｪ縺・ｼ・・峨・蜉ｴ蜒肴ｳ暮＆蜿阪よｮ区･ｭ險倬鹸荳崎ｦ・ｼ・・峨・驕墓ｳ輔ょ感蜒榊渕貅匁ｳ輔〒縺ｯ縲∝感蜒肴凾髢薙・驕ｩ蛻・↑邂｡逅・′鄒ｩ蜍吩ｻ倥￠繧峨ｌ縺ｦ縺翫ｊ縲∬ｨｼ霍｡繧呈ｮ九☆縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Attendance management should combine objective records with self-reporting and verify if there are anomalies. Self-reporting only (A) lacks accuracy. No management (C) violates labor law. No overtime records (D) is illegal. The Labor Standards Act requires appropriate management of working hours, and it is important to keep evidence.",
+    "source_url": "https://example.com/training/Year1/governance/蜉ｴ蜍咏ｮ｡逅・ｼ亥共諤縲√Γ繝ｳ繧ｿ繝ｫ繧ｱ繧｢・・q-gov-y1-007",
+    "tags": ["Year1", "governance", "蜉ｴ蜍咏ｮ｡逅・, "蜍､諤"]
+  },
+  {
+    "id": "q-gov-y1-008",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "蜉ｴ蜍咏ｮ｡逅・ｼ亥共諤縲√Γ繝ｳ繧ｿ繝ｫ繧ｱ繧｢・・,
+    "learning_goal_ja": "蜍､諤邂｡逅・→繝｡繝ｳ繧ｿ繝ｫ繝倥Ν繧ｹ繧ｱ繧｢縺ｮ蝓ｺ譛ｬ繧堤炊隗｣縺励・←蛻・↑蜉ｴ蜍咏ｮ｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the basics of attendance management and mental health care, and manage labor appropriately",
+    "common_misconception_ja": "谿区･ｭ譎る俣縺ｯ閾ｪ蟾ｱ逕ｳ蜻翫〒蜊∝・",
+    "common_misconception_en": "Overtime hours can be self-reported",
+    "difficulty": "medium",
+    "question_ja": "驛ｨ荳九′縲取怙霑台ｽ楢ｪｿ縺梧が縺上・寔荳ｭ縺ｧ縺阪↑縺・上→逶ｸ隲・＠縺ｦ縺阪◆蝣ｴ蜷医∵怙繧る←蛻・↑蛻晏虚蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "When a subordinate consults saying 'I've been feeling unwell recently and can't concentrate,' what is the most appropriate initial response?",
+    "choices_ja": [
+      "A. 鬆大ｼｵ繧後→蜉ｱ縺ｾ縺吶□縺・,
+      "B. 迥ｶ豕√ｒ閨槭″蜿悶ｊ縲∝ｿ・ｦ√↓蠢懊§縺ｦ逕｣讌ｭ蛹ｻ繝ｻ莠ｺ莠九・逶ｸ隲・ｪ灘哨縺ｸ譯亥・縺吶ｋ",
+      "C. 莉穂ｺ九ｒ蠅励ｄ縺・,
+      "D. 辟｡隕悶☆繧・
+    ],
+    "choices_en": [
+      "A. Only encourage them to do their best",
+      "B. Listen to the situation and guide them to occupational health physician/HR/consultation window if necessary",
+      "C. Increase their workload",
+      "D. Ignore it"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅΓ繝ｳ繧ｿ繝ｫ繝倥Ν繧ｹ繧ｱ繧｢縺ｧ縺ｯ縲∫憾豕√ｒ閨槭″蜿悶ｊ縲∝ｿ・ｦ√↓蠢懊§縺ｦ蟆る摩螳ｶ・育肇讌ｭ蛹ｻ繝ｻ莠ｺ莠九・逶ｸ隲・ｪ灘哨・峨∈譯亥・縺吶ｋ縺薙→縺碁㍾隕√ょ干縺ｾ縺吶□縺托ｼ・・峨・蝠城｡後ｒ豺ｱ蛻ｻ蛹悶＆縺帙ｋ蜿ｯ閭ｽ諤ｧ縺後≠繧九ゆｻ穂ｺ九ｒ蠅励ｄ縺呻ｼ・・峨ｄ辟｡隕厄ｼ・・峨・荳埼←蛻・ゅΓ繝ｳ繧ｿ繝ｫ繝倥Ν繧ｹ縺ｯ譌ｩ譛溷ｯｾ蠢懊′驥崎ｦ√〒縺ゅｊ縲∫ｮ｡逅・・・驕ｩ蛻・↑逶ｸ隲・ｰ守ｷ壹ｒ遏･縺｣縺ｦ縺翫￥蠢・ｦ√′縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. In mental health care, it is important to listen to the situation and guide them to specialists (occupational health physician/HR/consultation window) if necessary. Only encouragement (A) may worsen the problem. Increasing workload (C) or ignoring (D) is inappropriate. Early response is important for mental health, and managers need to know appropriate consultation channels.",
+    "source_url": "https://example.com/training/Year1/governance/蜉ｴ蜍咏ｮ｡逅・ｼ亥共諤縲√Γ繝ｳ繧ｿ繝ｫ繧ｱ繧｢・・q-gov-y1-008",
+    "tags": ["Year1", "governance", "蜉ｴ蜍咏ｮ｡逅・, "繝｡繝ｳ繧ｿ繝ｫ繧ｱ繧｢"]
+  },
+  {
+    "id": "q-gov-y1-009",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "蜉ｴ蜍咏ｮ｡逅・ｼ亥共諤縲√Γ繝ｳ繧ｿ繝ｫ繧ｱ繧｢・・,
+    "learning_goal_ja": "蜍､諤邂｡逅・→繝｡繝ｳ繧ｿ繝ｫ繝倥Ν繧ｹ繧ｱ繧｢縺ｮ蝓ｺ譛ｬ繧堤炊隗｣縺励・←蛻・↑蜉ｴ蜍咏ｮ｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the basics of attendance management and mental health care, and manage labor appropriately",
+    "common_misconception_ja": "谿区･ｭ譎る俣縺ｯ閾ｪ蟾ｱ逕ｳ蜻翫〒蜊∝・",
+    "common_misconception_en": "Overtime hours can be self-reported",
+    "difficulty": "hard",
+    "question_ja": "驛ｨ荳九′髟ｷ譎る俣蜉ｴ蜒阪ｒ邯壹￠縺ｦ縺翫ｊ縲∝▼蠎ｷ繝ｪ繧ｹ繧ｯ縺梧・蠢ｵ縺輔ｌ繧句ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "When a subordinate continues to work long hours and health risks are a concern, what is the most appropriate response?",
+    "choices_ja": [
+      "A. 譛ｬ莠ｺ縺ｮ蟶梧悍縺ｪ縺ｮ縺ｧ縺昴・縺ｾ縺ｾ縺ｫ縺吶ｋ",
+      "B. 蜉ｴ蜒肴凾髢薙・驕ｩ豁｣蛹悶ｒ蝗ｳ繧翫∝ｿ・ｦ√↓蠢懊§縺ｦ逕｣讌ｭ蛹ｻ繝ｻ莠ｺ莠九→騾｣謳ｺ縺吶ｋ",
+      "C. 谿区･ｭ繧堤ｦ∵ｭ｢縺吶ｋ縺縺代〒蟇ｾ蠢懊☆繧・,
+      "D. 莉悶・繝｡繝ｳ繝舌・縺ｫ莉穂ｺ九ｒ謚ｼ縺嶺ｻ倥￠繧・
+    ],
+    "choices_en": [
+      "A. Leave it as is since it's the employee's wish",
+      "B. Work to normalize working hours and collaborate with occupational health physician/HR if necessary",
+      "C. Only prohibit overtime",
+      "D. Push work onto other members"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲る聞譎る俣蜉ｴ蜒阪・蛛･蠎ｷ繝ｪ繧ｹ繧ｯ縺ｫ縺ｯ縲∝感蜒肴凾髢薙・驕ｩ豁｣蛹悶→蟆る摩螳ｶ・育肇讌ｭ蛹ｻ繝ｻ莠ｺ莠具ｼ峨→縺ｮ騾｣謳ｺ縺悟ｿ・ｦ√よ悽莠ｺ縺ｮ蟶梧悍・・・峨・蛛･蠎ｷ邂｡逅・ｲｬ莉ｻ繧呈叛譽・＠縺ｦ縺・ｋ縲よｮ区･ｭ遖∵ｭ｢縺ｮ縺ｿ・・・峨・譬ｹ譛ｬ隗｣豎ｺ縺ｫ縺ｪ繧峨↑縺・ゆｻ悶Γ繝ｳ繝舌・縺ｸ謚ｼ縺嶺ｻ倥￠・・・峨・蝠城｡後・遘ｻ霆｢縲ょ感蜒榊ｮ牙・陦帷函豕輔〒縺ｯ縲・聞譎る俣蜉ｴ蜒阪・蛛･蠎ｷ邂｡逅・′鄒ｩ蜍吩ｻ倥￠繧峨ｌ縺ｦ縺翫ｊ縲∫ｮ｡逅・・・驕ｩ蛻・↑謗ｪ鄂ｮ繧定ｬ帙§繧句ｿ・ｦ√′縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. For health risks from long working hours, normalization of working hours and collaboration with specialists (occupational health physician/HR) are necessary. Leaving it to the employee's wish (A) abandons health management responsibility. Only prohibiting overtime (C) does not solve the root cause. Pushing onto others (D) transfers the problem. The Industrial Safety and Health Act requires health management for long working hours, and managers must take appropriate measures.",
+    "source_url": "https://example.com/training/Year1/governance/蜉ｴ蜍咏ｮ｡逅・ｼ亥共諤縲√Γ繝ｳ繧ｿ繝ｫ繧ｱ繧｢・・q-gov-y1-009",
+    "tags": ["Year1", "governance", "蜉ｴ蜍咏ｮ｡逅・, "髟ｷ譎る俣蜉ｴ蜒・]
+  },
+  {
+    "id": "q-gov-y1-010",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医ワ繝ｩ繧ｹ繝｡繝ｳ繝磯亟豁｢・・,
+    "learning_goal_ja": "繝上Λ繧ｹ繝｡繝ｳ繝医・螳夂ｾｩ縺ｨ髦ｲ豁｢遲悶ｒ逅・ｧ｣縺励・←蛻・↑蟇ｾ蠢懊′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the definition of harassment and prevention measures, and respond appropriately",
+    "common_misconception_ja": "繝上Λ繧ｹ繝｡繝ｳ繝医・譛ｬ莠ｺ縺悟ｫ後′繧峨↑縺代ｌ縺ｰ蝠城｡後↑縺・,
+    "common_misconception_en": "Harassment is not a problem if the person doesn't mind",
+    "difficulty": "easy",
+    "question_ja": "繝上Λ繧ｹ繝｡繝ｳ繝医・螳夂ｾｩ縺ｨ縺励※縲∵怙繧る←蛻・↑縺ｮ縺ｯ縺ｩ繧後°・・,
+    "question_en": "Which is the most appropriate definition of harassment?",
+    "choices_ja": [
+      "A. 譛ｬ莠ｺ縺悟ｫ後′繧峨↑縺代ｌ縺ｰ蝠城｡後↑縺・,
+      "B. 逶ｸ謇九・蟆雁宍繧貞す縺､縺代∝ｰｱ讌ｭ迺ｰ蠅・ｒ謔ｪ蛹悶＆縺帙ｋ險蜍・,
+      "C. 讌ｭ蜍吩ｸ翫・謖・ｰ弱・縺吶∋縺ｦ繝上Λ繧ｹ繝｡繝ｳ繝・,
+      "D. 鬟ｲ縺ｿ莨壹〒縺ｮ逋ｺ險縺ｯ繝上Λ繧ｹ繝｡繝ｳ繝医↓縺ｪ繧峨↑縺・
+    ],
+    "choices_en": [
+      "A. Not a problem if the person doesn't mind",
+      "B. Words and actions that harm the other person's dignity and worsen the work environment",
+      "C. All work-related guidance is harassment",
+      "D. Comments at drinking parties are not harassment"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅワ繝ｩ繧ｹ繝｡繝ｳ繝医・縲∫嶌謇九・蟆雁宍繧貞す縺､縺代∝ｰｱ讌ｭ迺ｰ蠅・ｒ謔ｪ蛹悶＆縺帙ｋ險蜍輔〒縺ゅｋ縲よ悽莠ｺ縺悟ｫ後′繧峨↑縺・ｼ・・峨・隱､繧翫よ･ｭ蜍呎欠蟆趣ｼ・・峨・驕ｩ蛻・↑遽・峇縺ｪ繧牙撫鬘後↑縺・る｣ｲ縺ｿ莨夲ｼ・・峨〒繧ゅワ繝ｩ繧ｹ繝｡繝ｳ繝医↓隧ｲ蠖薙☆繧句ｴ蜷医′縺ゅｋ縲ゅワ繝ｩ繧ｹ繝｡繝ｳ繝磯亟豁｢豕輔〒縺ｯ縲∝ｰｱ讌ｭ迺ｰ蠅・ｒ謔ｪ蛹悶＆縺帙ｋ陦檎ぜ縺檎ｦ∵ｭ｢縺輔ｌ縺ｦ縺翫ｊ縲∫ｮ｡逅・・・髦ｲ豁｢縺ｨ驕ｩ蛻・↑蟇ｾ蠢懊・雋ｬ莉ｻ繧定ｲ縺・・,
+    "explanation_en": "The correct answer is B. Harassment is words and actions that harm the other person's dignity and worsen the work environment. Not minding (A) is incorrect. Work guidance (C) is fine if within appropriate scope. Drinking parties (D) can also constitute harassment. The harassment prevention law prohibits acts that worsen the work environment, and managers bear responsibility for prevention and appropriate response.",
+    "source_url": "https://example.com/training/Year1/governance/繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医ワ繝ｩ繧ｹ繝｡繝ｳ繝磯亟豁｢・・q-gov-y1-010",
+    "tags": ["Year1", "governance", "繝上Λ繧ｹ繝｡繝ｳ繝・, "繝ｪ繧ｹ繧ｯ邂｡逅・]
+  },
+  {
+    "id": "q-gov-y1-011",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医ワ繝ｩ繧ｹ繝｡繝ｳ繝磯亟豁｢・・,
+    "learning_goal_ja": "繝上Λ繧ｹ繝｡繝ｳ繝医・螳夂ｾｩ縺ｨ髦ｲ豁｢遲悶ｒ逅・ｧ｣縺励・←蛻・↑蟇ｾ蠢懊′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the definition of harassment and prevention measures, and respond appropriately",
+    "common_misconception_ja": "繝上Λ繧ｹ繝｡繝ｳ繝医・譛ｬ莠ｺ縺悟ｫ後′繧峨↑縺代ｌ縺ｰ蝠城｡後↑縺・,
+    "common_misconception_en": "Harassment is not a problem if the person doesn't mind",
+    "difficulty": "medium",
+    "question_ja": "驛ｨ荳九°繧峨ワ繝ｩ繧ｹ繝｡繝ｳ繝医・逶ｸ隲・ｒ蜿励￠縺溷ｴ蜷医∵怙繧る←蛻・↑蛻晏虚蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "When receiving a harassment consultation from a subordinate, what is the most appropriate initial response?",
+    "choices_ja": [
+      "A. 逶ｸ隲・・螳ｹ繧貞刈螳ｳ閠・↓逶ｴ謗･遒ｺ隱阪☆繧・,
+      "B. 逶ｸ隲・・・諢丞髄繧貞ｰ企㍾縺励・←蛻・↑逶ｸ隲・ｪ灘哨・井ｺｺ莠九・螟夜Κ遯灘哨遲会ｼ峨∈譯亥・縺吶ｋ",
+      "C. 逶ｸ隲・・螳ｹ繧堤ｧ伜ｯ・↓縺励∬ｨ倬鹸繧呈ｮ九＆縺ｪ縺・,
+      "D. 逶ｸ隲・・↓謌第・縺吶ｋ繧医≧菫・☆"
+    ],
+    "choices_en": [
+      "A. Directly confirm the consultation content with the perpetrator",
+      "B. Respect the consultant's wishes and guide them to appropriate consultation windows (HR/external windows, etc.)",
+      "C. Keep the consultation content secret and leave no records",
+      "D. Encourage the consultant to endure"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅワ繝ｩ繧ｹ繝｡繝ｳ繝育嶌隲・〒縺ｯ縲∫嶌隲・・・諢丞髄繧貞ｰ企㍾縺励・←蛻・↑逶ｸ隲・ｪ灘哨縺ｸ譯亥・縺吶ｋ縺薙→縺碁㍾隕√ょ刈螳ｳ閠・∈縺ｮ逶ｴ謗･遒ｺ隱搾ｼ・・峨・逶ｸ隲・・・螳牙・繧呈錐縺ｪ縺・庄閭ｽ諤ｧ縺後≠繧九らｧ伜ｯ・ｿ晄戟繝ｻ險倬鹸縺ｪ縺暦ｼ・・峨・驕ｩ蛻・↑蟇ｾ蠢懊ｒ螯ｨ縺偵ｋ縲よ・諷｢繧剃ｿ・☆・・・峨・荳埼←蛻・ゅワ繝ｩ繧ｹ繝｡繝ｳ繝亥ｯｾ蠢懊〒縺ｯ縲∫嶌隲・・・螳牙・遒ｺ菫昴→驕ｩ蛻・↑謇狗ｶ壹″縺ｮ荳｡遶九′驥崎ｦ√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. In harassment consultations, it is important to respect the consultant's wishes and guide them to appropriate consultation windows. Direct confirmation with the perpetrator (A) may compromise the consultant's safety. Keeping secrets and no records (C) hinders appropriate response. Encouraging endurance (D) is inappropriate. In harassment response, both ensuring consultant safety and appropriate procedures are important.",
+    "source_url": "https://example.com/training/Year1/governance/繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医ワ繝ｩ繧ｹ繝｡繝ｳ繝磯亟豁｢・・q-gov-y1-011",
+    "tags": ["Year1", "governance", "繝上Λ繧ｹ繝｡繝ｳ繝・, "逶ｸ隲・ｯｾ蠢・]
+  },
+  {
+    "id": "q-gov-y1-012",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医ワ繝ｩ繧ｹ繝｡繝ｳ繝磯亟豁｢・・,
+    "learning_goal_ja": "繝上Λ繧ｹ繝｡繝ｳ繝医・螳夂ｾｩ縺ｨ髦ｲ豁｢遲悶ｒ逅・ｧ｣縺励・←蛻・↑蟇ｾ蠢懊′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the definition of harassment and prevention measures, and respond appropriately",
+    "common_misconception_ja": "繝上Λ繧ｹ繝｡繝ｳ繝医・譛ｬ莠ｺ縺悟ｫ後′繧峨↑縺代ｌ縺ｰ蝠城｡後↑縺・,
+    "common_misconception_en": "Harassment is not a problem if the person doesn't mind",
+    "difficulty": "hard",
+    "question_ja": "繝上Λ繧ｹ繝｡繝ｳ繝育嶌隲・ｒ陦後▲縺溽､ｾ蜩｡縺ｫ蟇ｾ縺励※縲∝捉蝗ｲ縺後朱擇蛟偵↑莠ｺ縲上→髯ｰ蜿｣繧定ｨ縺・∵･ｭ蜍咎｣謳ｺ繧呈ｸ帙ｉ縺励※縺・ｋ蝣ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "When employees who made a harassment consultation are being talked about behind their backs as 'troublesome' and business collaboration is reduced, what is the most appropriate response?",
+    "choices_ja": [
+      "A. 譛ｬ莠ｺ縺梧ｰ励↓縺励↑縺代ｌ縺ｰ蝠城｡後↑縺・,
+      "B. 蝣ｱ蠕ｩ繝ｻ荳榊茜逶雁叙謇ｱ縺・・蜿ｯ閭ｽ諤ｧ縺後≠繧九◆繧√∫憾豕√ｒ險倬鹸縺励∫ｮ｡逅・・繝ｻ莠ｺ莠九∈蜈ｱ譛峨☆繧・,
+      "C. 逶ｸ隲・＠縺滉ｺｺ縺梧が縺・・縺ｧ莉墓婿縺ｪ縺・,
+      "D. 髯ｰ蜿｣繧定ｨ縺・ｺｺ縺ｮ莉ｲ髢薙↓蜈･繧峨↑縺・□縺代〒蜊∝・"
+    ],
+    "choices_en": [
+      "A. Not a problem if the person doesn't mind",
+      "B. Record the situation and share with management/HR as there is a possibility of retaliation/unfavorable treatment",
+      "C. It can't be helped since the person who consulted is at fault",
+      "D. Just not joining the group of people talking behind their back is sufficient"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ら嶌隲・・騾壼ｱ繧堤炊逕ｱ縺ｨ縺励◆荳榊茜逶雁叙謇ｱ縺・・驥榊､ｧ繝ｪ繧ｹ繧ｯ・亥ｱ蠕ｩ・峨〒縺ゅｋ縲ら憾豕√ｒ險倬鹸縺励∫ｮ｡逅・・繝ｻ莠ｺ莠九∈蜈ｱ譛峨＠縺ｦ邨・ｹ斐→縺励※譏ｯ豁｣縺吶ｋ蠢・ｦ√′縺ゅｋ縲よ悽莠ｺ縺梧ｰ励↓縺励↑縺・ｼ・・峨・蝠城｡後・謾ｾ鄂ｮ縲ら嶌隲・・′謔ｪ縺・ｼ・・峨・隱､繧翫ゆｻｲ髢薙↓蜈･繧峨↑縺・□縺托ｼ・・峨・荳榊香蛻・ゅワ繝ｩ繧ｹ繝｡繝ｳ繝磯亟豁｢豕輔〒縺ｯ縲∝ｱ蠕ｩ遖∵ｭ｢縺梧・險倥＆繧後※縺翫ｊ縲∫ｵ・ｹ斐→縺励※譏ｯ豁｣縺吶ｋ鄒ｩ蜍吶′縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Unfavorable treatment due to consultation/reporting is a serious risk (retaliation). The situation must be recorded and shared with management/HR to correct it organizationally. Not minding (A) leaves the problem. The consultant being at fault (C) is incorrect. Just not joining (D) is insufficient. The harassment prevention law explicitly prohibits retaliation, and organizations have an obligation to correct it.",
+    "source_url": "https://example.com/training/Year1/governance/繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医ワ繝ｩ繧ｹ繝｡繝ｳ繝磯亟豁｢・・q-gov-y1-012",
+    "tags": ["Year1", "governance", "繝上Λ繧ｹ繝｡繝ｳ繝・, "蝣ｱ蠕ｩ遖∵ｭ｢"]
+  },
+  {
+    "id": "q-gov-y1-013",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医し繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ蟇ｾ遲厄ｼ・,
+    "learning_goal_ja": "繧ｵ繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ縺ｮ蝓ｺ譛ｬ縺ｨ蟇ｾ遲悶ｒ逅・ｧ｣縺励∵ュ蝣ｱ邂｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the basics of cybersecurity and countermeasures, and manage information appropriately",
+    "common_misconception_ja": "蛟倶ｺｺ繝｡繝ｼ繝ｫ縺ｫ霆｢騾√＠縺ｦ繧ょ撫鬘後↑縺・,
+    "common_misconception_en": "It's okay to forward to personal email",
+    "difficulty": "easy",
+    "question_ja": "讌ｭ蜍呵ｳ・侭繧貞倶ｺｺ繝｡繝ｼ繝ｫ・・mail遲会ｼ峨↓霆｢騾√☆繧句ｴ蜷医∵怙繧る←蛻・↑蛻､譁ｭ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate judgment when forwarding business materials to personal email (Gmail, etc.)?",
+    "choices_ja": [
+      "A. 諤･縺弱↑繧我ｻ墓婿縺ｪ縺・・縺ｧ霆｢騾√☆繧・,
+      "B. 莨夂､ｾ縺ｮ謇ｿ隱阪＆繧後◆蜈ｱ譛画焔谿ｵ・育､ｾ蜀・rive/SharePoint遲会ｼ峨ｒ菴ｿ縺・∝倶ｺｺ繝｡繝ｼ繝ｫ霆｢騾√・驕ｿ縺代ｋ",
+      "C. 繝代せ繝ｯ繝ｼ繝我ｻ倥″ZIP縺ｫ縺吶ｌ縺ｰ蛟倶ｺｺ繝｡繝ｼ繝ｫ縺ｧ繧０K",
+      "D. 閾ｪ蛻・□縺代′隕九ｋ縺ｮ縺ｧ蝠城｡後↑縺・
+    ],
+    "choices_en": [
+      "A. Forward if urgent, it can't be helped",
+      "B. Use company-approved sharing methods (internal Drive/SharePoint, etc.) and avoid personal email forwarding",
+      "C. Personal email is OK if password-protected ZIP",
+      "D. Not a problem since only I will see it"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲よ･ｭ蜍呵ｳ・侭縺ｯ莨夂､ｾ縺ｮ謇ｿ隱阪＆繧後◆蜈ｱ譛画焔谿ｵ繧剃ｽｿ縺・∝倶ｺｺ繝｡繝ｼ繝ｫ霆｢騾√・驕ｿ縺代ｋ縺ｹ縺阪よ･縺趣ｼ・・峨√ヱ繧ｹ繝ｯ繝ｼ繝我ｻ倥″ZIP・・・峨∬・蛻・□縺托ｼ・・峨・諠・ｱ邂｡逅・ｸ翫・繝ｪ繧ｹ繧ｯ縺後≠繧九よュ蝣ｱ繧ｻ繧ｭ繝･繝ｪ繝・ぅ縺ｧ縺ｯ縲∵価隱阪＆繧後◆謇区ｮｵ縺ｨ繧｢繧ｯ繧ｻ繧ｹ蛻ｶ蠕｡縺碁㍾隕√〒縺ゅｊ縲∝倶ｺｺ繝｡繝ｼ繝ｫ縺ｯ邂｡逅・､悶→縺ｪ繧九◆繧∝次蜑・ｦ∵ｭ｢縺ｧ縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Business materials should use company-approved sharing methods and personal email forwarding should be avoided. Urgency (A), password-protected ZIP (C), and only me (D) pose information management risks. In information security, approved methods and access control are important, and personal email is outside management and therefore prohibited in principle.",
+    "source_url": "https://example.com/training/Year1/governance/繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医し繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ蟇ｾ遲厄ｼ・q-gov-y1-013",
+    "tags": ["Year1", "governance", "繧ｵ繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ", "諠・ｱ邂｡逅・]
+  },
+  {
+    "id": "q-gov-y1-014",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医し繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ蟇ｾ遲厄ｼ・,
+    "learning_goal_ja": "繧ｵ繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ縺ｮ蝓ｺ譛ｬ縺ｨ蟇ｾ遲悶ｒ逅・ｧ｣縺励∵ュ蝣ｱ邂｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the basics of cybersecurity and countermeasures, and manage information appropriately",
+    "common_misconception_ja": "蛟倶ｺｺ繝｡繝ｼ繝ｫ縺ｫ霆｢騾√＠縺ｦ繧ょ撫鬘後↑縺・,
+    "common_misconception_en": "It's okay to forward to personal email",
+    "difficulty": "medium",
+    "question_ja": "遉ｾ螟悶〒繝輔Μ繝ｼWi-Fi縺ｫ謗･邯壹＠縺ｦ遉ｾ蜀・す繧ｹ繝・Β縺ｸ繝ｭ繧ｰ繧､繝ｳ縺励ｈ縺・→縺吶ｋ蝣ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response when attempting to log into the internal system via free Wi-Fi outside the company?",
+    "choices_ja": [
+      "A. 繝輔Μ繝ｼWi-Fi縺ｧ繧ゅヱ繧ｹ繝ｯ繝ｼ繝峨′縺ゅｌ縺ｰ螳牙・",
+      "B. VPN縺ｪ縺ｩ莨夂､ｾ縺ｮ螳壹ａ繧句ｮ牙・謇区ｮｵ繧剃ｽｿ縺・繝・じ繝ｪ繝ｳ繧ｰ遲峨↓蛻・ｊ譖ｿ縺医ｋ",
+      "C. 繝ｭ繧ｰ繧､繝ｳ縺縺代↑繧臥洒譎る俣縺ｪ縺ｮ縺ｧ蝠城｡後↑縺・,
+      "D. 莠瑚ｦ∫ｴ隱崎ｨｼ縺後≠繧九°繧牙ｮ牙・"
+    ],
+    "choices_en": [
+      "A. Safe if free Wi-Fi has a password",
+      "B. Use company-specified secure methods such as VPN/switch to tethering, etc.",
+      "C. Not a problem since it's just login for a short time",
+      "D. Safe because there's two-factor authentication"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ら､ｾ螟悶〒縺ｯVPN繧・ユ繧ｶ繝ｪ繝ｳ繧ｰ縺ｪ縺ｩ莨夂､ｾ縺ｮ螳壹ａ繧句ｮ牙・謇区ｮｵ繧剃ｽｿ縺・∋縺阪ゅヵ繝ｪ繝ｼWi-Fi縺ｮ繝代せ繝ｯ繝ｼ繝会ｼ・・峨ｄ遏ｭ譎る俣・・・峨・逶苓・繝ｻ縺ｪ繧翫☆縺ｾ縺励Μ繧ｹ繧ｯ縺後≠繧九ゆｺ瑚ｦ∫ｴ隱崎ｨｼ・・・峨′縺ゅ▲縺ｦ繧る壻ｿ｡邨瑚ｷｯ縺ｮ繝ｪ繧ｹ繧ｯ縺ｯ谿九ｋ縲ゅし繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ縺ｧ縺ｯ縲・壻ｿ｡邨瑚ｷｯ縺ｮ螳牙・諤ｧ縺碁㍾隕√〒縺ゅｊ縲√ヵ繝ｪ繝ｼWi-Fi縺ｯ荳咲音螳壼､壽焚縺悟茜逕ｨ縺吶ｋ縺溘ａ繝ｪ繧ｹ繧ｯ縺碁ｫ倥＞縲・,
+    "explanation_en": "The correct answer is B. Outside the company, secure methods specified by the company such as VPN or tethering should be used. Free Wi-Fi password (A) or short time (C) have eavesdropping/spoofing risks. Even with two-factor authentication (D), communication path risks remain. In cybersecurity, communication path security is important, and free Wi-Fi is high risk because it is used by unspecified persons.",
+    "source_url": "https://example.com/training/Year1/governance/繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医し繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ蟇ｾ遲厄ｼ・q-gov-y1-014",
+    "tags": ["Year1", "governance", "繧ｵ繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ", "繝阪ャ繝医Ρ繝ｼ繧ｯ"]
+  },
+  {
+    "id": "q-gov-y1-015",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医し繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ蟇ｾ遲厄ｼ・,
+    "learning_goal_ja": "繧ｵ繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ縺ｮ蝓ｺ譛ｬ縺ｨ蟇ｾ遲悶ｒ逅・ｧ｣縺励∵ュ蝣ｱ邂｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the basics of cybersecurity and countermeasures, and manage information appropriately",
+    "common_misconception_ja": "蛟倶ｺｺ繝｡繝ｼ繝ｫ縺ｫ霆｢騾√＠縺ｦ繧ょ撫鬘後↑縺・,
+    "common_misconception_en": "It's okay to forward to personal email",
+    "difficulty": "hard",
+    "question_ja": "遉ｾ蜀・メ繝｣繝・ヨ縺ｫ鬘ｧ螳｢諠・ｱ縺悟・繧願ｾｼ繧薙□逕ｻ髱｢縺ｮ繧ｹ繧ｯ繝ｪ繝ｼ繝ｳ繧ｷ繝ｧ繝・ヨ繧定ｲｼ繧阪≧縺ｨ縺吶ｋ蝣ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response when attempting to post a screenshot with customer information visible to the internal chat?",
+    "choices_ja": [
+      "A. 遉ｾ蜀・メ繝｣繝・ヨ縺縺九ｉ蝠城｡後↑縺・,
+      "B. 蜈ｱ譛画怙蟆丞喧・医・繧ｹ繧ｭ繝ｳ繧ｰ/蠢・ｦ∵ュ蝣ｱ縺ｮ縺ｿ・峨ｒ蠕ｹ蠎輔＠縲・｡ｧ螳｢諠・ｱ縺悟性縺ｾ繧後ｋ縺ｪ繧芽ｲｼ繧峨★蛻･縺ｮ螳牙・縺ｪ謇区ｮｵ縺ｧ蜈ｱ譛峨☆繧・,
+      "C. 隕九∴縺ｫ縺上＞縺ｮ縺ｧ諡｡螟ｧ縺励※雋ｼ繧・,
+      "D. 荳蠎ｦ雋ｼ縺｣縺ｦ縺九ｉ豸医○縺ｰ蝠城｡後↑縺・
+    ],
+    "choices_en": [
+      "A. Not a problem since it's internal chat",
+      "B. Minimize sharing (masking/only necessary information) thoroughly, and if customer information is included, do not post and share through other secure means",
+      "C. Enlarge and post since it's hard to see",
+      "D. Not a problem if deleted after posting once"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲る｡ｧ螳｢諠・ｱ繧貞性繧逕ｻ蜒上・縲√・繧ｹ繧ｭ繝ｳ繧ｰ縺ｾ縺溘・蛻･縺ｮ螳牙・縺ｪ謇区ｮｵ縺ｧ蜈ｱ譛峨☆縺ｹ縺阪ら､ｾ蜀・メ繝｣繝・ヨ・・・峨〒繧よュ蝣ｱ貍乗ｴｩ繝ｪ繧ｹ繧ｯ縺後≠繧九よ僑螟ｧ・・・峨・諠・ｱ繧偵ｈ繧願ｦ九ｄ縺吶￥縺吶ｋ縺縺代ゆｸ蠎ｦ雋ｼ縺｣縺ｦ蜑企勁・・・峨〒繧る夢隕ｧ貂医∩繝ｻ騾夂衍繝ｻ繝ｭ繧ｰ縺ｫ谿九ｋ蜿ｯ閭ｽ諤ｧ縺後≠繧九よュ蝣ｱ繧ｻ繧ｭ繝･繝ｪ繝・ぅ縺ｧ縺ｯ縲∝・譛臥ｯ・峇縺ｮ譛蟆丞喧縺悟次蜑・〒縺ゅｊ縲・｡ｧ螳｢諠・ｱ縺ｯ迚ｹ縺ｫ諷朱㍾縺ｫ謇ｱ縺・ｿ・ｦ√′縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Images containing customer information should be shared with masking or through other secure means. Even internal chat (A) has information leakage risks. Enlarging (C) only makes information more visible. Posting once and deleting (D) may still leave traces in views/notifications/logs. In information security, minimizing sharing scope is a principle, and customer information must be handled with particular care.",
+    "source_url": "https://example.com/training/Year1/governance/繝ｪ繧ｹ繧ｯ邂｡逅・ｼ医し繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ蟇ｾ遲厄ｼ・q-gov-y1-015",
+    "tags": ["Year1", "governance", "繧ｵ繧､繝舌・繧ｻ繧ｭ繝･繝ｪ繝・ぅ", "諠・ｱ蜈ｱ譛・]
+  },
+  {
+    "id": "q-biz-y1-001",
+    "year": "Year1",
+    "category": "business",
+    "theme": "繝励Ο繧ｸ繧ｧ繧ｯ繝医・繝阪ず繝｡繝ｳ繝茨ｼ・BS繝ｻ騾ｲ謐暦ｼ・,
+    "learning_goal_ja": "WBS縺ｮ菴懈・縺ｨ騾ｲ謐礼ｮ｡逅・・蝓ｺ譛ｬ繧堤炊隗｣縺励√・繝ｭ繧ｸ繧ｧ繧ｯ繝医ｒ驕ｩ蛻・↓邂｡逅・〒縺阪ｋ",
+    "learning_goal_en": "Understand the basics of WBS creation and progress management, and manage projects appropriately",
+    "common_misconception_ja": "騾ｲ謐励・諢溯ｦ壹〒謚頑升縺吶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Progress can be grasped by intuition",
+    "difficulty": "easy",
+    "question_ja": "繝励Ο繧ｸ繧ｧ繧ｯ繝医・騾ｲ謐礼ｮ｡逅・↓縺翫＞縺ｦ縲∵怙繧る←蛻・↑譁ｹ豕輔・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate method for managing project progress?",
+    "choices_ja": [
+      "A. 諢溯ｦ壹〒謚頑升縺吶ｋ",
+      "B. WBS縺ｫ蝓ｺ縺･縺阪√ち繧ｹ繧ｯ縺ｮ螳御ｺ・憾豕√ｒ螳壽悄逧・↓遒ｺ隱阪・險倬鹸縺吶ｋ",
+      "C. 譛邨よ律縺ｫ遒ｺ隱阪☆繧・,
+      "D. 繝｡繝ｳ繝舌・縺ｫ莉ｻ縺帙ｋ"
+    ],
+    "choices_en": [
+      "A. Grasp by intuition",
+      "B. Regularly check and record task completion status based on WBS",
+      "C. Check on the final day",
+      "D. Leave it to members"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅ・繝ｭ繧ｸ繧ｧ繧ｯ繝育ｮ｡逅・〒縺ｯ縲仝BS縺ｫ蝓ｺ縺･縺阪ち繧ｹ繧ｯ縺ｮ螳御ｺ・憾豕√ｒ螳壽悄逧・↓遒ｺ隱阪・險倬鹸縺吶ｋ縺薙→縺碁㍾隕√よ─隕夲ｼ・・峨ｄ譛邨よ律遒ｺ隱搾ｼ・・峨・驕・ｻｶ繝ｪ繧ｹ繧ｯ繧帝ｫ倥ａ繧九ゅΓ繝ｳ繝舌・莉ｻ縺幢ｼ・・峨・邂｡逅・ｲｬ莉ｻ繧呈叛譽・＠縺ｦ縺・ｋ縲８BS縺ｯ菴懈･ｭ繧堤ｴｰ蛻・喧縺励・ｲ謐励ｒ蜿ｯ隕門喧縺吶ｋ縺溘ａ縺ｮ蝓ｺ譛ｬ繝・・繝ｫ縺ｧ縺ゅｊ縲∝ｮ壽悄逧・↑遒ｺ隱阪↓繧医ｊ譌ｩ譛溘↓蝠城｡後ｒ逋ｺ隕九〒縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In project management, it is important to regularly check and record task completion status based on WBS. Intuition (A) or final day check (C) increases delay risk. Leaving to members (D) abandons management responsibility. WBS is a basic tool for breaking down work and visualizing progress, and regular checks enable early problem detection.",
+    "source_url": "https://example.com/training/Year1/business/繝励Ο繧ｸ繧ｧ繧ｯ繝医・繝阪ず繝｡繝ｳ繝茨ｼ・BS繝ｻ騾ｲ謐暦ｼ・q-biz-y1-001",
+    "tags": ["Year1", "business", "繝励Ο繧ｸ繧ｧ繧ｯ繝医・繝阪ず繝｡繝ｳ繝・, "WBS"]
+  },
+  {
+    "id": "q-biz-y1-002",
+    "year": "Year1",
+    "category": "business",
+    "theme": "繝励Ο繧ｸ繧ｧ繧ｯ繝医・繝阪ず繝｡繝ｳ繝茨ｼ・BS繝ｻ騾ｲ謐暦ｼ・,
+    "learning_goal_ja": "WBS縺ｮ菴懈・縺ｨ騾ｲ謐礼ｮ｡逅・・蝓ｺ譛ｬ繧堤炊隗｣縺励√・繝ｭ繧ｸ繧ｧ繧ｯ繝医ｒ驕ｩ蛻・↓邂｡逅・〒縺阪ｋ",
+    "learning_goal_en": "Understand the basics of WBS creation and progress management, and manage projects appropriately",
+    "common_misconception_ja": "騾ｲ謐励・諢溯ｦ壹〒謚頑升縺吶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Progress can be grasped by intuition",
+    "difficulty": "medium",
+    "question_ja": "WBS繧剃ｽ懈・縺吶ｋ髫帙∵怙繧る㍾隕√↑蜴溷援縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important principle when creating a WBS?",
+    "choices_ja": [
+      "A. 螟ｧ髮第滑縺ｫ縺ｾ縺ｨ繧√ｋ",
+      "B. 菴懈･ｭ繧堤ｴｰ蛻・喧縺励∝推繧ｿ繧ｹ繧ｯ縺梧・遒ｺ縺ｧ貂ｬ螳壼庄閭ｽ縺ｪ謌先棡迚ｩ繧呈戟縺､繧医≧縺ｫ縺吶ｋ",
+      "C. 繧ｿ繧ｹ繧ｯ蜷阪□縺代ｒ蛻玲嫌縺吶ｋ",
+      "D. 繝｡繝ｳ繝舌・縺ｫ莉ｻ縺帙ｋ"
+    ],
+    "choices_en": [
+      "A. Summarize roughly",
+      "B. Break down work so that each task is clear and has measurable deliverables",
+      "C. Just list task names",
+      "D. Leave it to members"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲８BS縺ｧ縺ｯ縲∽ｽ懈･ｭ繧堤ｴｰ蛻・喧縺励∝推繧ｿ繧ｹ繧ｯ縺梧・遒ｺ縺ｧ貂ｬ螳壼庄閭ｽ縺ｪ謌先棡迚ｩ繧呈戟縺､縺薙→縺碁㍾隕√ょ､ｧ髮第滑・・・峨ｄ繧ｿ繧ｹ繧ｯ蜷阪・縺ｿ・・・峨・騾ｲ謐礼ｮ｡逅・′蝗ｰ髮｣縲ゅΓ繝ｳ繝舌・莉ｻ縺幢ｼ・・峨・邂｡逅・ｲｬ莉ｻ繧呈叛譽・＠縺ｦ縺・ｋ縲８BS縺ｮ逶ｮ逧・・縲√・繝ｭ繧ｸ繧ｧ繧ｯ繝亥・菴薙ｒ蜿ｯ隕門喧縺励・ｲ謐励ｒ豁｣遒ｺ縺ｫ謚頑升縺吶ｋ縺薙→縺ｧ縺ゅｊ縲・←蛻・↑邊貞ｺｦ縺ｧ縺ｮ邏ｰ蛻・喧縺碁嵯縺ｨ縺ｪ繧九・,
+    "explanation_en": "The correct answer is B. In WBS, it is important to break down work so that each task is clear and has measurable deliverables. Rough (A) or task names only (C) make progress management difficult. Leaving to members (D) abandons management responsibility. The purpose of WBS is to visualize the entire project and accurately grasp progress, and appropriate granular breakdown is key.",
+    "source_url": "https://example.com/training/Year1/business/繝励Ο繧ｸ繧ｧ繧ｯ繝医・繝阪ず繝｡繝ｳ繝茨ｼ・BS繝ｻ騾ｲ謐暦ｼ・q-biz-y1-002",
+    "tags": ["Year1", "business", "繝励Ο繧ｸ繧ｧ繧ｯ繝医・繝阪ず繝｡繝ｳ繝・, "WBS"]
+  },
+  {
+    "id": "q-biz-y1-003",
+    "year": "Year1",
+    "category": "business",
+    "theme": "繝励Ο繧ｸ繧ｧ繧ｯ繝医・繝阪ず繝｡繝ｳ繝茨ｼ・BS繝ｻ騾ｲ謐暦ｼ・,
+    "learning_goal_ja": "WBS縺ｮ菴懈・縺ｨ騾ｲ謐礼ｮ｡逅・・蝓ｺ譛ｬ繧堤炊隗｣縺励√・繝ｭ繧ｸ繧ｧ繧ｯ繝医ｒ驕ｩ蛻・↓邂｡逅・〒縺阪ｋ",
+    "learning_goal_en": "Understand the basics of WBS creation and progress management, and manage projects appropriately",
+    "common_misconception_ja": "騾ｲ謐励・諢溯ｦ壹〒謚頑升縺吶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Progress can be grasped by intuition",
+    "difficulty": "hard",
+    "question_ja": "繝励Ο繧ｸ繧ｧ繧ｯ繝医〒驕・ｻｶ縺檎匱逕溘＠縺溷ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response when a project delay occurs?",
+    "choices_ja": [
+      "A. 驕・ｻｶ繧帝國縺・,
+      "B. 驕・ｻｶ縺ｮ蜴溷屏繧貞・譫舌＠縲∝ｽｱ髻ｿ遽・峇繧定ｩ穂ｾ｡縺励※縲・未菫り・↓蝣ｱ蜻翫＠蟇ｾ遲悶ｒ讀懆ｨ弱☆繧・,
+      "C. 繝｡繝ｳ繝舌・繧定ｲｬ繧√ｋ",
+      "D. 繧ｹ繧ｱ繧ｸ繝･繝ｼ繝ｫ繧堤┌隕悶＠縺ｦ騾ｲ繧√ｋ"
+    ],
+    "choices_en": [
+      "A. Hide the delay",
+      "B. Analyze the cause of delay, assess impact scope, report to stakeholders, and consider countermeasures",
+      "C. Blame members",
+      "D. Proceed ignoring the schedule"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲る≦蟒ｶ逋ｺ逕滓凾縺ｯ縲∝次蝗蛻・梵縲∝ｽｱ髻ｿ遽・峇隧穂ｾ｡縲・未菫り・ｱ蜻翫∝ｯｾ遲匁､懆ｨ弱′驥崎ｦ√る≦蟒ｶ繧帝國縺呻ｼ・・峨・蝠城｡後ｒ豺ｱ蛻ｻ蛹悶＆縺帙ｋ縲ゅΓ繝ｳ繝舌・繧定ｲｬ繧√ｋ・・・峨・蟒ｺ險ｭ逧・〒縺ｪ縺・ゅせ繧ｱ繧ｸ繝･繝ｼ繝ｫ辟｡隕厄ｼ・・峨・繝励Ο繧ｸ繧ｧ繧ｯ繝育ｮ｡逅・・謾ｾ譽・ゅ・繝ｭ繧ｸ繧ｧ繧ｯ繝医・繝阪ず繝｡繝ｳ繝医〒縺ｯ縲∝撫鬘後・譌ｩ譛溽匱隕九→騾乗・縺ｪ諠・ｱ蜈ｱ譛峨′謌仙粥縺ｮ骰ｵ縺ｧ縺ゅｊ縲・≦蟒ｶ縺ｯ霑・溘↓蟇ｾ蠢懊☆繧九％縺ｨ縺ｧ蠖ｱ髻ｿ繧呈怙蟆丞喧縺ｧ縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. When delays occur, cause analysis, impact assessment, stakeholder reporting, and countermeasure consideration are important. Hiding delays (A) worsens problems. Blaming members (C) is not constructive. Ignoring schedule (D) abandons project management. In project management, early problem detection and transparent information sharing are keys to success, and delays can be minimized by rapid response.",
+    "source_url": "https://example.com/training/Year1/business/繝励Ο繧ｸ繧ｧ繧ｯ繝医・繝阪ず繝｡繝ｳ繝茨ｼ・BS繝ｻ騾ｲ謐暦ｼ・q-biz-y1-003",
+    "tags": ["Year1", "business", "繝励Ο繧ｸ繧ｧ繧ｯ繝医・繝阪ず繝｡繝ｳ繝・, "驕・ｻｶ蟇ｾ蠢・]
+  },
+  {
+    "id": "q-biz-y1-004",
+    "year": "Year1",
+    "category": "business",
+    "theme": "蝠城｡瑚ｧ｣豎ｺ繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ",
+    "learning_goal_ja": "蝠城｡瑚ｧ｣豎ｺ縺ｮ蝓ｺ譛ｬ繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ繧堤炊隗｣縺励∵ｧ矩逧・↓蝠城｡後ｒ蛻・梵繝ｻ隗｣豎ｺ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basic problem-solving frameworks and analyze and solve problems systematically",
+    "common_misconception_ja": "蝠城｡後・逶ｴ諢溘〒隗｣豎ｺ縺吶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Problems can be solved by intuition",
+    "difficulty": "easy",
+    "question_ja": "蝠城｡瑚ｧ｣豎ｺ縺ｫ縺翫＞縺ｦ縲∵怙繧る㍾隕√↑譛蛻昴・繧ｹ繝・ャ繝励・縺ｩ繧後°・・,
+    "question_en": "What is the most important first step in problem solving?",
+    "choices_ja": [
+      "A. 縺吶＄縺ｫ隗｣豎ｺ遲悶ｒ閠・∴繧・,
+      "B. 蝠城｡後ｒ譏守｢ｺ縺ｫ螳夂ｾｩ縺励∫樟迥ｶ縺ｨ逅・Φ縺ｮ繧ｮ繝｣繝・・繧呈滑謠｡縺吶ｋ",
+      "C. 蜴溷屏繧呈耳貂ｬ縺吶ｋ",
+      "D. 隗｣豎ｺ遲悶ｒ螳溯｡後☆繧・
+    ],
+    "choices_en": [
+      "A. Immediately think of solutions",
+      "B. Clearly define the problem and understand the gap between current state and ideal",
+      "C. Guess the cause",
+      "D. Execute solutions"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ撫鬘瑚ｧ｣豎ｺ縺ｧ縺ｯ縲√∪縺壼撫鬘後ｒ譏守｢ｺ縺ｫ螳夂ｾｩ縺励∫樟迥ｶ縺ｨ逅・Φ縺ｮ繧ｮ繝｣繝・・繧呈滑謠｡縺吶ｋ縺薙→縺碁㍾隕√ゅ☆縺舌↓隗｣豎ｺ遲厄ｼ・・峨・蝠城｡後・譛ｬ雉ｪ繧定ｦ玖ｪ､繧九ょ次蝗謗ｨ貂ｬ・・・峨・蝠城｡悟ｮ夂ｾｩ縺ｮ蜑阪↓騾ｲ繧縺ｨ隱､縺｣縺滓婿蜷代↓騾ｲ繧縲ょｮ溯｡鯉ｼ・・峨・蝠城｡悟ｮ夂ｾｩ縺ｪ縺励〒縺ｯ蜉ｹ譫懃噪縺ｧ縺ｪ縺・ょ撫鬘瑚ｧ｣豎ｺ繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ縺ｧ縺ｯ縲∝撫鬘悟ｮ夂ｾｩ縺梧ｭ｣縺励￥縺ｪ縺代ｌ縺ｰ縲√◎縺ｮ蠕後・蛻・梵繝ｻ隗｣豎ｺ遲悶ｂ隱､繧九・,
+    "explanation_en": "The correct answer is B. In problem solving, it is important to first clearly define the problem and understand the gap between current state and ideal. Immediately thinking of solutions (A) misidentifies the essence of the problem. Guessing cause (C) before problem definition leads in wrong direction. Execution (D) is ineffective without problem definition. In problem-solving frameworks, if problem definition is incorrect, subsequent analysis and solutions will also be wrong.",
+    "source_url": "https://example.com/training/Year1/business/蝠城｡瑚ｧ｣豎ｺ繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ/q-biz-y1-004",
+    "tags": ["Year1", "business", "蝠城｡瑚ｧ｣豎ｺ", "繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ"]
+  },
+  {
+    "id": "q-biz-y1-005",
+    "year": "Year1",
+    "category": "business",
+    "theme": "蝠城｡瑚ｧ｣豎ｺ繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ",
+    "learning_goal_ja": "蝠城｡瑚ｧ｣豎ｺ縺ｮ蝓ｺ譛ｬ繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ繧堤炊隗｣縺励∵ｧ矩逧・↓蝠城｡後ｒ蛻・梵繝ｻ隗｣豎ｺ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basic problem-solving frameworks and analyze and solve problems systematically",
+    "common_misconception_ja": "蝠城｡後・逶ｴ諢溘〒隗｣豎ｺ縺吶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Problems can be solved by intuition",
+    "difficulty": "medium",
+    "question_ja": "蝠城｡後・蜴溷屏蛻・梵縺ｫ縺翫＞縺ｦ縲∵怙繧る←蛻・↑繧｢繝励Ο繝ｼ繝√・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate approach for analyzing the cause of a problem?",
+    "choices_ja": [
+      "A. 譛蛻昴↓諤昴＞縺､縺・◆蜴溷屏繧呈治逕ｨ縺吶ｋ",
+      "B. 縺ｪ縺懊↑縺懷・譫舌↑縺ｩ讒矩逧・↓蜴溷屏繧呈ｷｱ謗倥ｊ縺励∵ｹ譛ｬ蜴溷屏繧堤音螳壹☆繧・,
+      "C. 蜴溷屏繧呈耳貂ｬ縺吶ｋ縺縺・,
+      "D. 蜴溷屏蛻・梵繧偵せ繧ｭ繝・・縺吶ｋ"
+    ],
+    "choices_en": [
+      "A. Adopt the first cause that comes to mind",
+      "B. Systematically dig deep into causes using why-why analysis, etc., and identify root causes",
+      "C. Only guess the cause",
+      "D. Skip cause analysis"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ次蝗蛻・梵縺ｧ縺ｯ縲√↑縺懊↑縺懷・譫舌↑縺ｩ讒矩逧・↓蜴溷屏繧呈ｷｱ謗倥ｊ縺励∵ｹ譛ｬ蜴溷屏繧堤音螳壹☆繧九％縺ｨ縺碁㍾隕√よ怙蛻昴・諤昴＞縺､縺搾ｼ・・峨・陦ｨ髱｢逧・↑蜴溷屏縺ｧ邨ゅｏ繧句庄閭ｽ諤ｧ縺後≠繧九よ耳貂ｬ縺ｮ縺ｿ・・・峨・譬ｹ諡縺悟ｼｱ縺・ょ・譫舌せ繧ｭ繝・・・・・峨・蟇ｾ逞・凾豕輔↓邨ゅｏ繧九ょ撫鬘瑚ｧ｣豎ｺ縺ｧ縺ｯ縲∵ｹ譛ｬ蜴溷屏繧堤音螳壹☆繧九％縺ｨ縺ｧ縲∝・逋ｺ髦ｲ豁｢縺ｨ蜉ｹ譫懃噪縺ｪ隗｣豎ｺ遲悶・遶区｡医′蜿ｯ閭ｽ縺ｫ縺ｪ繧九・,
+    "explanation_en": "The correct answer is B. In cause analysis, it is important to systematically dig deep into causes using why-why analysis, etc., and identify root causes. First thought (A) may end with superficial causes. Guessing only (C) has weak basis. Skipping analysis (D) ends with symptomatic treatment. In problem solving, identifying root causes enables recurrence prevention and effective solution planning.",
+    "source_url": "https://example.com/training/Year1/business/蝠城｡瑚ｧ｣豎ｺ繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ/q-biz-y1-005",
+    "tags": ["Year1", "business", "蝠城｡瑚ｧ｣豎ｺ", "蜴溷屏蛻・梵"]
+  },
+  {
+    "id": "q-biz-y1-006",
+    "year": "Year1",
+    "category": "business",
+    "theme": "蝠城｡瑚ｧ｣豎ｺ繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ",
+    "learning_goal_ja": "蝠城｡瑚ｧ｣豎ｺ縺ｮ蝓ｺ譛ｬ繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ繧堤炊隗｣縺励∵ｧ矩逧・↓蝠城｡後ｒ蛻・梵繝ｻ隗｣豎ｺ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basic problem-solving frameworks and analyze and solve problems systematically",
+    "common_misconception_ja": "蝠城｡後・逶ｴ諢溘〒隗｣豎ｺ縺吶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Problems can be solved by intuition",
+    "difficulty": "hard",
+    "question_ja": "隍・焚縺ｮ隗｣豎ｺ遲悶′縺ゅｋ蝣ｴ蜷医∵怙繧る←蛻・↑驕ｸ謚樊婿豕輔・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate method for selecting when there are multiple solutions?",
+    "choices_ja": [
+      "A. 譛蛻昴↓諤昴＞縺､縺・◆隗｣豎ｺ遲悶ｒ驕ｸ縺ｶ",
+      "B. 隧穂ｾ｡蝓ｺ貅悶ｒ險ｭ螳壹＠縲∝推隗｣豎ｺ遲悶・蜉ｹ譫懊・繧ｳ繧ｹ繝医・繝ｪ繧ｹ繧ｯ繧呈ｯ碑ｼ・､懆ｨ弱☆繧・,
+      "C. 逶ｴ諢溘〒驕ｸ縺ｶ",
+      "D. 荳雁昇縺ｫ豎ｺ繧√※繧ゅｉ縺・
+    ],
+    "choices_en": [
+      "A. Choose the first solution that comes to mind",
+      "B. Set evaluation criteria and compare and consider effectiveness, cost, and risk of each solution",
+      "C. Choose by intuition",
+      "D. Let the boss decide"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲り､・焚縺ｮ隗｣豎ｺ遲悶′縺ゅｋ蝣ｴ蜷医∬ｩ穂ｾ｡蝓ｺ貅悶ｒ險ｭ螳壹＠縲∝推隗｣豎ｺ遲悶・蜉ｹ譫懊・繧ｳ繧ｹ繝医・繝ｪ繧ｹ繧ｯ繧呈ｯ碑ｼ・､懆ｨ弱☆繧九％縺ｨ縺碁㍾隕√よ怙蛻昴・諤昴＞縺､縺搾ｼ・・峨ｄ逶ｴ諢滂ｼ・・峨・譛驕ｩ隗｣繧定ｦ矩・☆蜿ｯ閭ｽ諤ｧ縺後≠繧九ゆｸ雁昇莉ｻ縺幢ｼ・・峨・蛻､譁ｭ雋ｬ莉ｻ繧呈叛譽・＠縺ｦ縺・ｋ縲ょ撫鬘瑚ｧ｣豎ｺ縺ｧ縺ｯ縲∝ｮ｢隕ｳ逧・↑隧穂ｾ｡蝓ｺ貅悶↓蝓ｺ縺･縺乗ｯ碑ｼ・､懆ｨ弱↓繧医ｊ縲∵怙驕ｩ縺ｪ隗｣豎ｺ遲悶ｒ驕ｸ謚槭〒縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. When there are multiple solutions, it is important to set evaluation criteria and compare and consider effectiveness, cost, and risk of each solution. First thought (A) or intuition (C) may miss optimal solutions. Leaving to boss (D) abandons decision responsibility. In problem solving, comparison based on objective evaluation criteria enables selection of optimal solutions.",
+    "source_url": "https://example.com/training/Year1/business/蝠城｡瑚ｧ｣豎ｺ繝輔Ξ繝ｼ繝繝ｯ繝ｼ繧ｯ/q-biz-y1-006",
+    "tags": ["Year1", "business", "蝠城｡瑚ｧ｣豎ｺ", "隗｣豎ｺ遲夜∈謚・]
+  },
+  {
+    "id": "q-biz-y1-007",
+    "year": "Year1",
+    "category": "business",
+    "theme": "AI繝ｻDX蝓ｺ遉・,
+    "learning_goal_ja": "AI繝ｻDX縺ｮ蝓ｺ譛ｬ讎ょｿｵ繧堤炊隗｣縺励∵･ｭ蜍吶∈縺ｮ驕ｩ逕ｨ蜿ｯ閭ｽ諤ｧ繧貞愛譁ｭ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basic concepts of AI and DX, and judge applicability to business",
+    "common_misconception_ja": "AI縺ｯ莠ｺ髢薙ｒ螳悟・縺ｫ鄂ｮ縺肴鋤縺医ｋ",
+    "common_misconception_en": "AI completely replaces humans",
+    "difficulty": "easy",
+    "question_ja": "AI・井ｺｺ蟾･遏･閭ｽ・峨・豢ｻ逕ｨ縺ｫ縺翫＞縺ｦ縲∵怙繧る←蛻・↑閠・∴譁ｹ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate way of thinking about AI (artificial intelligence) utilization?",
+    "choices_ja": [
+      "A. AI縺ｯ莠ｺ髢薙ｒ螳悟・縺ｫ鄂ｮ縺肴鋤縺医ｋ",
+      "B. AI縺ｯ莠ｺ髢薙・蛻､譁ｭ繧定｣懷勧縺励∵･ｭ蜍吝柑邇・喧繧・э諤晄ｱｺ螳壽髪謠ｴ縺ｫ豢ｻ逕ｨ縺吶ｋ",
+      "C. AI縺ｯ菴ｿ繧上↑縺・婿縺後ｈ縺・,
+      "D. AI縺ｯ縺吶∋縺ｦ縺ｮ讌ｭ蜍吶↓驕ｩ逕ｨ縺ｧ縺阪ｋ"
+    ],
+    "choices_en": [
+      "A. AI completely replaces humans",
+      "B. AI assists human judgment and is used for business efficiency and decision support",
+      "C. It's better not to use AI",
+      "D. AI can be applied to all business"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲・I縺ｯ莠ｺ髢薙・蛻､譁ｭ繧定｣懷勧縺励∵･ｭ蜍吝柑邇・喧繧・э諤晄ｱｺ螳壽髪謠ｴ縺ｫ豢ｻ逕ｨ縺吶ｋ縺薙→縺碁←蛻・ょｮ悟・鄂ｮ縺肴鋤縺茨ｼ・・峨・迴ｾ螳溽噪縺ｧ縺ｪ縺・ゆｽｿ繧上↑縺・ｼ・・峨・讖滉ｼ壽錐螟ｱ縲ゅ☆縺ｹ縺ｦ縺ｫ驕ｩ逕ｨ・・・峨・隱､繧翫・I繝ｻDX縺ｧ縺ｯ縲∽ｺｺ髢薙→AI縺ｮ蜊泌ロ縺ｫ繧医ｊ縲∵･ｭ蜍吶・雉ｪ縺ｨ蜉ｹ邇・ｒ蜷台ｸ翫＆縺帙ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. AI should assist human judgment and be used for business efficiency and decision support. Complete replacement (A) is not realistic. Not using (C) is opportunity loss. Applicable to all (D) is incorrect. In AI and DX, it is important to improve business quality and efficiency through human-AI collaboration.",
+    "source_url": "https://example.com/training/Year1/business/AI繝ｻDX蝓ｺ遉・q-biz-y1-007",
+    "tags": ["Year1", "business", "AI", "DX"]
+  },
+  {
+    "id": "q-biz-y1-008",
+    "year": "Year1",
+    "category": "business",
+    "theme": "AI繝ｻDX蝓ｺ遉・,
+    "learning_goal_ja": "AI繝ｻDX縺ｮ蝓ｺ譛ｬ讎ょｿｵ繧堤炊隗｣縺励∵･ｭ蜍吶∈縺ｮ驕ｩ逕ｨ蜿ｯ閭ｽ諤ｧ繧貞愛譁ｭ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basic concepts of AI and DX, and judge applicability to business",
+    "common_misconception_ja": "AI縺ｯ莠ｺ髢薙ｒ螳悟・縺ｫ鄂ｮ縺肴鋤縺医ｋ",
+    "common_misconception_en": "AI completely replaces humans",
+    "difficulty": "medium",
+    "question_ja": "DX・医ョ繧ｸ繧ｿ繝ｫ繝医Λ繝ｳ繧ｹ繝輔か繝ｼ繝｡繝ｼ繧ｷ繝ｧ繝ｳ・峨・譛ｬ雉ｪ縺ｨ縺励※縲∵怙繧る←蛻・↑隱ｬ譏弱・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate explanation of the essence of DX (Digital Transformation)?",
+    "choices_ja": [
+      "A. IT繝・・繝ｫ繧貞ｰ主・縺吶ｋ縺薙→",
+      "B. 繝・ず繧ｿ繝ｫ謚陦薙ｒ豢ｻ逕ｨ縺励※繝薙ず繝阪せ繝｢繝・Ν繧・･ｭ蜍吶・繝ｭ繧ｻ繧ｹ繧貞､蛾擠縺励∽ｾ｡蛟､繧貞卸蜃ｺ縺吶ｋ縺薙→",
+      "C. 邏吶ｒ縺ｪ縺上☆縺薙→",
+      "D. 繧ｷ繧ｹ繝・Β繧呈峩譁ｰ縺吶ｋ縺薙→"
+    ],
+    "choices_en": [
+      "A. Introducing IT tools",
+      "B. Transforming business models and business processes using digital technology to create value",
+      "C. Eliminating paper",
+      "D. Updating systems"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲・X縺ｯ繝・ず繧ｿ繝ｫ謚陦薙ｒ豢ｻ逕ｨ縺励※繝薙ず繝阪せ繝｢繝・Ν繧・･ｭ蜍吶・繝ｭ繧ｻ繧ｹ繧貞､蛾擠縺励∽ｾ｡蛟､繧貞卸蜃ｺ縺吶ｋ縺薙→縺梧悽雉ｪ縲・T繝・・繝ｫ蟆主・・・・峨ｄ繧ｷ繧ｹ繝・Β譖ｴ譁ｰ・・・峨・謇区ｮｵ縲らｴ吶ｒ縺ｪ縺上☆・・・峨・陦ｨ髱｢逧・・X縺ｧ縺ｯ縲∵橿陦灘ｰ主・縺縺代〒縺ｪ縺上√ン繧ｸ繝阪せ繝｢繝・Ν繧・ｵ・ｹ疲枚蛹悶・螟蛾擠縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. DX is essentially about transforming business models and business processes using digital technology to create value. Introducing IT tools (A) or updating systems (D) are means. Eliminating paper (C) is superficial. In DX, not just technology introduction but transformation of business models and organizational culture is important.",
+    "source_url": "https://example.com/training/Year1/business/AI繝ｻDX蝓ｺ遉・q-biz-y1-008",
+    "tags": ["Year1", "business", "DX", "繝・ず繧ｿ繝ｫ螟蛾擠"]
+  },
+  {
+    "id": "q-biz-y1-009",
+    "year": "Year1",
+    "category": "business",
+    "theme": "AI繝ｻDX蝓ｺ遉・,
+    "learning_goal_ja": "AI繝ｻDX縺ｮ蝓ｺ譛ｬ讎ょｿｵ繧堤炊隗｣縺励∵･ｭ蜍吶∈縺ｮ驕ｩ逕ｨ蜿ｯ閭ｽ諤ｧ繧貞愛譁ｭ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basic concepts of AI and DX, and judge applicability to business",
+    "common_misconception_ja": "AI縺ｯ莠ｺ髢薙ｒ螳悟・縺ｫ鄂ｮ縺肴鋤縺医ｋ",
+    "common_misconception_en": "AI completely replaces humans",
+    "difficulty": "hard",
+    "question_ja": "AI蟆主・繧呈､懆ｨ弱☆繧矩圀縲∵怙繧る㍾隕√↑讀懆ｨ惹ｺ矩・・縺ｩ繧後°・・,
+    "question_en": "What is the most important consideration when considering AI introduction?",
+    "choices_ja": [
+      "A. 譛譁ｰ謚陦薙ｒ驕ｸ縺ｶ縺薙→",
+      "B. 隗｣豎ｺ縺励◆縺・ｪｲ鬘後ｒ譏守｢ｺ縺ｫ縺励、I縺ｮ驕ｩ逕ｨ蜿ｯ閭ｽ諤ｧ縺ｨ髯千阜繧堤炊隗｣縺励◆荳翫〒讀懆ｨ弱☆繧・,
+      "C. 繧ｳ繧ｹ繝医′螳峨＞繧ゅ・繧帝∈縺ｶ",
+      "D. 縺吶＄縺ｫ蟆主・縺吶ｋ"
+    ],
+    "choices_en": [
+      "A. Choose the latest technology",
+      "B. Clearly define the problem to be solved and consider after understanding AI applicability and limitations",
+      "C. Choose the cheapest",
+      "D. Introduce immediately"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲・I蟆主・縺ｧ縺ｯ縲∬ｧ｣豎ｺ縺励◆縺・ｪｲ鬘後ｒ譏守｢ｺ縺ｫ縺励、I縺ｮ驕ｩ逕ｨ蜿ｯ閭ｽ諤ｧ縺ｨ髯千阜繧堤炊隗｣縺励◆荳翫〒讀懆ｨ弱☆繧九％縺ｨ縺碁㍾隕√よ怙譁ｰ謚陦難ｼ・・峨ｄ繧ｳ繧ｹ繝茨ｼ・・峨・謇区ｮｵ縲ゅ☆縺仙ｰ主・・・・峨・繝ｪ繧ｹ繧ｯ縺碁ｫ倥＞縲・I繝ｻDX縺ｧ縺ｯ縲∬ｪｲ鬘悟ｮ夂ｾｩ縺ｨ謚陦薙・驕ｩ蛻・↑驕ｸ謚槭′謌仙粥縺ｮ骰ｵ縺ｧ縺ゅｊ縲∵橿陦薙≠繧翫″縺ｧ縺ｯ縺ｪ縺剰ｪｲ鬘後≠繧翫″縺ｧ閠・∴繧句ｿ・ｦ√′縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. In AI introduction, it is important to clearly define the problem to be solved and consider after understanding AI applicability and limitations. Latest technology (A) or cost (C) are means. Immediate introduction (D) is high risk. In AI and DX, problem definition and appropriate technology selection are keys to success, and we must think problem-first, not technology-first.",
+    "source_url": "https://example.com/training/Year1/business/AI繝ｻDX蝓ｺ遉・q-biz-y1-009",
+    "tags": ["Year1", "business", "AI", "蟆主・讀懆ｨ・]
+  },
+  {
+    "id": "q-biz-y1-010",
+    "year": "Year1",
+    "category": "business",
+    "theme": "陬ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷育炊隗｣",
+    "learning_goal_ja": "閾ｪ遉ｾ陬ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷医・蝓ｺ譛ｬ繧堤炊隗｣縺励√ン繧ｸ繝阪せ蛻､譁ｭ縺ｫ豢ｻ縺九○繧・,
+    "learning_goal_en": "Understand basics of own products, market, and competitors, and apply to business decisions",
+    "common_misconception_ja": "閾ｪ遉ｾ陬ｽ蜩√□縺代ｒ遏･縺｣縺ｦ縺・ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to know own products",
+    "difficulty": "easy",
+    "question_ja": "蟶ょｴ蛻・梵縺ｫ縺翫＞縺ｦ縲∵怙繧る㍾隕√↑隕ｳ轤ｹ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important perspective in market analysis?",
+    "choices_ja": [
+      "A. 閾ｪ遉ｾ陬ｽ蜩√□縺代ｒ隕九ｋ",
+      "B. 蟶ょｴ隕乗ｨ｡繝ｻ謌宣聞諤ｧ繝ｻ鬘ｧ螳｢繝九・繧ｺ繝ｻ遶ｶ蜷育憾豕√ｒ邱丞粋逧・↓蛻・梵縺吶ｋ",
+      "C. 遶ｶ蜷医□縺代ｒ隕九ｋ",
+      "D. 驕主悉縺ｮ繝・・繧ｿ縺縺代ｒ隕九ｋ"
+    ],
+    "choices_en": [
+      "A. Only look at own products",
+      "B. Comprehensively analyze market size, growth, customer needs, and competitive situation",
+      "C. Only look at competitors",
+      "D. Only look at past data"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょｸょｴ蛻・梵縺ｧ縺ｯ縲∝ｸょｴ隕乗ｨ｡繝ｻ謌宣聞諤ｧ繝ｻ鬘ｧ螳｢繝九・繧ｺ繝ｻ遶ｶ蜷育憾豕√ｒ邱丞粋逧・↓蛻・梵縺吶ｋ縺薙→縺碁㍾隕√り・遉ｾ陬ｽ蜩√・縺ｿ・・・峨ｄ遶ｶ蜷医・縺ｿ・・・峨・蛛上ｊ縺後≠繧九る℃蜴ｻ繝・・繧ｿ縺ｮ縺ｿ・・・峨・蟆・擂繧定ｦ九↑縺・り｣ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷育炊隗｣縺ｧ縺ｯ縲∝､夊ｧ堤噪縺ｪ隕也せ縺ｫ繧医ｋ蛻・梵縺後ン繧ｸ繝阪せ蛻､譁ｭ縺ｮ雉ｪ繧帝ｫ倥ａ繧九・,
+    "explanation_en": "The correct answer is B. In market analysis, it is important to comprehensively analyze market size, growth, customer needs, and competitive situation. Only own products (A) or only competitors (C) are biased. Only past data (D) doesn't look at the future. In product/market/competitor understanding, multi-perspective analysis improves business decision quality.",
+    "source_url": "https://example.com/training/Year1/business/陬ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷育炊隗｣/q-biz-y1-010",
+    "tags": ["Year1", "business", "蟶ょｴ蛻・梵", "遶ｶ蜷・]
+  },
+  {
+    "id": "q-biz-y1-011",
+    "year": "Year1",
+    "category": "business",
+    "theme": "陬ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷育炊隗｣",
+    "learning_goal_ja": "閾ｪ遉ｾ陬ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷医・蝓ｺ譛ｬ繧堤炊隗｣縺励√ン繧ｸ繝阪せ蛻､譁ｭ縺ｫ豢ｻ縺九○繧・,
+    "learning_goal_en": "Understand basics of own products, market, and competitors, and apply to business decisions",
+    "common_misconception_ja": "閾ｪ遉ｾ陬ｽ蜩√□縺代ｒ遏･縺｣縺ｦ縺・ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to know own products",
+    "difficulty": "medium",
+    "question_ja": "遶ｶ蜷亥・譫舌↓縺翫＞縺ｦ縲∵怙繧る㍾隕√↑隕∫ｴ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important element in competitive analysis?",
+    "choices_ja": [
+      "A. 遶ｶ蜷医・萓｡譬ｼ縺縺代ｒ隕九ｋ",
+      "B. 遶ｶ蜷医・蠑ｷ縺ｿ繝ｻ蠑ｱ縺ｿ繝ｻ謌ｦ逡･繝ｻ蟶ょｴ繝昴ず繧ｷ繝ｧ繝ｳ繧貞､夊ｧ堤噪縺ｫ蛻・梵縺吶ｋ",
+      "C. 遶ｶ蜷医ｒ辟｡隕悶☆繧・,
+      "D. 遶ｶ蜷医・陬ｽ蜩∝錐縺縺代ｒ遏･繧・
+    ],
+    "choices_en": [
+      "A. Only look at competitor prices",
+      "B. Multi-dimensionally analyze competitor strengths, weaknesses, strategies, and market positions",
+      "C. Ignore competitors",
+      "D. Only know competitor product names"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲らｫｶ蜷亥・譫舌〒縺ｯ縲∫ｫｶ蜷医・蠑ｷ縺ｿ繝ｻ蠑ｱ縺ｿ繝ｻ謌ｦ逡･繝ｻ蟶ょｴ繝昴ず繧ｷ繝ｧ繝ｳ繧貞､夊ｧ堤噪縺ｫ蛻・梵縺吶ｋ縺薙→縺碁㍾隕√ゆｾ｡譬ｼ縺ｮ縺ｿ・・・峨ｄ陬ｽ蜩∝錐縺ｮ縺ｿ・・・峨・陦ｨ髱｢逧・らｫｶ蜷育┌隕厄ｼ・・峨・蟶ょｴ逅・ｧ｣繧呈ｬ縺上り｣ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷育炊隗｣縺ｧ縺ｯ縲∫ｫｶ蜷医・螟夊ｧ堤噪蛻・梵縺ｫ繧医ｊ縲∬・遉ｾ縺ｮ蟾ｮ蛻･蛹悶・繧､繝ｳ繝医→蟶ょｴ縺ｧ縺ｮ菴咲ｽｮ縺･縺代ｒ譏守｢ｺ縺ｫ縺ｧ縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In competitive analysis, it is important to multi-dimensionally analyze competitor strengths, weaknesses, strategies, and market positions. Only price (A) or only product names (D) are superficial. Ignoring competitors (C) lacks market understanding. In product/market/competitor understanding, multi-dimensional competitor analysis clarifies own differentiation points and market positioning.",
+    "source_url": "https://example.com/training/Year1/business/陬ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷育炊隗｣/q-biz-y1-011",
+    "tags": ["Year1", "business", "遶ｶ蜷亥・譫・, "蟶ょｴ繝昴ず繧ｷ繝ｧ繝ｳ"]
+  },
+  {
+    "id": "q-biz-y1-012",
+    "year": "Year1",
+    "category": "business",
+    "theme": "陬ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷育炊隗｣",
+    "learning_goal_ja": "閾ｪ遉ｾ陬ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷医・蝓ｺ譛ｬ繧堤炊隗｣縺励√ン繧ｸ繝阪せ蛻､譁ｭ縺ｫ豢ｻ縺九○繧・,
+    "learning_goal_en": "Understand basics of own products, market, and competitors, and apply to business decisions",
+    "common_misconception_ja": "閾ｪ遉ｾ陬ｽ蜩√□縺代ｒ遏･縺｣縺ｦ縺・ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to know own products",
+    "difficulty": "hard",
+    "question_ja": "鬘ｧ螳｢繝九・繧ｺ繧呈滑謠｡縺吶ｋ髫帙∵怙繧る←蛻・↑譁ｹ豕輔・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate method for understanding customer needs?",
+    "choices_ja": [
+      "A. 謗ｨ貂ｬ縺吶ｋ",
+      "B. 鬘ｧ螳｢縺ｸ縺ｮ繝偵い繝ｪ繝ｳ繧ｰ繝ｻ蟶ょｴ隱ｿ譟ｻ繝ｻ繝・・繧ｿ蛻・梵繧堤ｵ・∩蜷医ｏ縺帙※謚頑升縺吶ｋ",
+      "C. 驕主悉縺ｮ繝・・繧ｿ縺縺代ｒ隕九ｋ",
+      "D. 閾ｪ遉ｾ縺ｮ驛ｽ蜷医〒豎ｺ繧√ｋ"
+    ],
+    "choices_en": [
+      "A. Guess",
+      "B. Understand by combining customer interviews, market research, and data analysis",
+      "C. Only look at past data",
+      "D. Decide based on own convenience"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲る｡ｧ螳｢繝九・繧ｺ縺ｯ縲・｡ｧ螳｢縺ｸ縺ｮ繝偵い繝ｪ繝ｳ繧ｰ繝ｻ蟶ょｴ隱ｿ譟ｻ繝ｻ繝・・繧ｿ蛻・梵繧堤ｵ・∩蜷医ｏ縺帙※謚頑升縺吶ｋ縺薙→縺碁←蛻・よ耳貂ｬ・・・峨ｄ閾ｪ遉ｾ驛ｽ蜷茨ｼ・・峨・鬘ｧ螳｢隕也せ繧呈ｬ縺上る℃蜴ｻ繝・・繧ｿ縺ｮ縺ｿ・・・峨・螟牙喧繧定ｦ矩・☆縲り｣ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷育炊隗｣縺ｧ縺ｯ縲・｡ｧ螳｢繝九・繧ｺ縺ｮ豁｣遒ｺ縺ｪ謚頑升縺瑚｣ｽ蜩・幕逋ｺ繝ｻ繝槭・繧ｱ繝・ぅ繝ｳ繧ｰ謌ｦ逡･縺ｮ謌仙粥縺ｮ骰ｵ縺ｨ縺ｪ繧九・,
+    "explanation_en": "The correct answer is B. Customer needs should be understood by combining customer interviews, market research, and data analysis. Guessing (A) or own convenience (D) lacks customer perspective. Only past data (C) misses changes. In product/market/competitor understanding, accurate understanding of customer needs is key to product development and marketing strategy success.",
+    "source_url": "https://example.com/training/Year1/business/陬ｽ蜩√・蟶ょｴ繝ｻ遶ｶ蜷育炊隗｣/q-biz-y1-012",
+    "tags": ["Year1", "business", "鬘ｧ螳｢繝九・繧ｺ", "蟶ょｴ隱ｿ譟ｻ"]
+  },
+  {
+    "id": "q-biz-y1-013",
+    "year": "Year1",
+    "category": "business",
+    "theme": "繝輔ぃ繧､繝翫Φ繧ｹ・・L・・,
+    "learning_goal_ja": "謳咲寢險育ｮ玲嶌・・L・峨・蝓ｺ譛ｬ繧堤炊隗｣縺励∝庶逶頑ｧ繧貞愛譁ｭ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basics of profit and loss statement (PL) and judge profitability",
+    "common_misconception_ja": "螢ｲ荳翫□縺代ｒ隕九ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to look at sales",
+    "difficulty": "easy",
+    "question_ja": "謳咲寢險育ｮ玲嶌・・L・峨↓縺翫＞縺ｦ縲∵怙繧る㍾隕√↑謖・ｨ吶・縺ｩ繧後°・・,
+    "question_en": "What is the most important indicator in a profit and loss statement (PL)?",
+    "choices_ja": [
+      "A. 螢ｲ荳企ｫ倥□縺・,
+      "B. 螢ｲ荳企ｫ倥∝｣ｲ荳雁次萓｡縲∝霧讌ｭ蛻ｩ逶翫↑縺ｩ隍・焚縺ｮ謖・ｨ吶ｒ邱丞粋逧・↓隕九ｋ",
+      "C. 雋ｻ逕ｨ縺縺・,
+      "D. 雉・肇縺縺・
+    ],
+    "choices_en": [
+      "A. Only sales",
+      "B. Comprehensively look at multiple indicators such as sales, cost of sales, operating profit",
+      "C. Only expenses",
+      "D. Only assets"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲１L縺ｧ縺ｯ縲∝｣ｲ荳企ｫ倥∝｣ｲ荳雁次萓｡縲∝霧讌ｭ蛻ｩ逶翫↑縺ｩ隍・焚縺ｮ謖・ｨ吶ｒ邱丞粋逧・↓隕九ｋ縺薙→縺碁㍾隕√ょ｣ｲ荳翫・縺ｿ・・・峨ｄ雋ｻ逕ｨ縺ｮ縺ｿ・・・峨・蜿守寢諤ｧ繧貞愛譁ｭ縺ｧ縺阪↑縺・りｳ・肇・・・峨・PL縺ｮ鬆・岼縺ｧ縺ｯ縺ｪ縺・ゅヵ繧｡繧､繝翫Φ繧ｹ縺ｧ縺ｯ縲∝｣ｲ荳翫→雋ｻ逕ｨ縺ｮ髢｢菫ゅｒ逅・ｧ｣縺励∝茜逶顔紫繧・庶逶頑ｧ繧堤ｷ丞粋逧・↓蛻､譁ｭ縺吶ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. In PL, it is important to comprehensively look at multiple indicators such as sales, cost of sales, and operating profit. Only sales (A) or only expenses (C) cannot judge profitability. Assets (D) are not PL items. In finance, understanding the relationship between sales and expenses and comprehensively judging profit margins and profitability is important.",
+    "source_url": "https://example.com/training/Year1/business/繝輔ぃ繧､繝翫Φ繧ｹ・・L・・q-biz-y1-013",
+    "tags": ["Year1", "business", "繝輔ぃ繧､繝翫Φ繧ｹ", "PL"]
+  },
+  {
+    "id": "q-biz-y1-014",
+    "year": "Year1",
+    "category": "business",
+    "theme": "繝輔ぃ繧､繝翫Φ繧ｹ・・L・・,
+    "learning_goal_ja": "謳咲寢險育ｮ玲嶌・・L・峨・蝓ｺ譛ｬ繧堤炊隗｣縺励∝庶逶頑ｧ繧貞愛譁ｭ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basics of profit and loss statement (PL) and judge profitability",
+    "common_misconception_ja": "螢ｲ荳翫□縺代ｒ隕九ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to look at sales",
+    "difficulty": "medium",
+    "question_ja": "蝟ｶ讌ｭ蛻ｩ逶顔紫繧呈隼蝟・☆繧九◆繧√↓縲∵怙繧ょ柑譫懃噪縺ｪ繧｢繝励Ο繝ｼ繝√・縺ｩ繧後°・・,
+    "question_en": "What is the most effective approach to improve operating profit margin?",
+    "choices_ja": [
+      "A. 螢ｲ荳翫□縺代ｒ蠅励ｄ縺・,
+      "B. 螢ｲ荳翫・蠅怜刈縺ｨ雋ｻ逕ｨ縺ｮ譛驕ｩ蛹悶・荳｡髱｢縺九ｉ讀懆ｨ弱☆繧・,
+      "C. 雋ｻ逕ｨ縺縺代ｒ蜑頑ｸ帙☆繧・,
+      "D. 菴輔ｂ縺励↑縺・
+    ],
+    "choices_en": [
+      "A. Only increase sales",
+      "B. Consider both increasing sales and optimizing expenses",
+      "C. Only reduce expenses",
+      "D. Do nothing"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ霧讌ｭ蛻ｩ逶顔紫謾ｹ蝟・↓縺ｯ縲∝｣ｲ荳翫・蠅怜刈縺ｨ雋ｻ逕ｨ縺ｮ譛驕ｩ蛹悶・荳｡髱｢縺九ｉ讀懆ｨ弱☆繧九％縺ｨ縺悟柑譫懃噪縲ょ｣ｲ荳翫・縺ｿ・・・峨ｄ雋ｻ逕ｨ蜑頑ｸ帙・縺ｿ・・・峨・蛛上ｊ縺後≠繧九ゆｽ輔ｂ縺励↑縺・ｼ・・峨・謾ｹ蝟・＠縺ｪ縺・ゅヵ繧｡繧､繝翫Φ繧ｹ縺ｧ縺ｯ縲∝｣ｲ荳翫→雋ｻ逕ｨ縺ｮ繝舌Λ繝ｳ繧ｹ繧堤炊隗｣縺励∵戟邯壼庄閭ｽ縺ｪ蜿守寢諤ｧ蜷台ｸ翫ｒ蝗ｳ繧九％縺ｨ縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. To improve operating profit margin, considering both increasing sales and optimizing expenses is effective. Only sales (A) or only expense reduction (C) are biased. Doing nothing (D) doesn't improve. In finance, understanding the balance between sales and expenses and achieving sustainable profitability improvement is important.",
+    "source_url": "https://example.com/training/Year1/business/繝輔ぃ繧､繝翫Φ繧ｹ・・L・・q-biz-y1-014",
+    "tags": ["Year1", "business", "繝輔ぃ繧､繝翫Φ繧ｹ", "蝟ｶ讌ｭ蛻ｩ逶顔紫"]
+  },
+  {
+    "id": "q-biz-y1-015",
+    "year": "Year1",
+    "category": "business",
+    "theme": "繝輔ぃ繧､繝翫Φ繧ｹ・・L・・,
+    "learning_goal_ja": "謳咲寢險育ｮ玲嶌・・L・峨・蝓ｺ譛ｬ繧堤炊隗｣縺励∝庶逶頑ｧ繧貞愛譁ｭ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basics of profit and loss statement (PL) and judge profitability",
+    "common_misconception_ja": "螢ｲ荳翫□縺代ｒ隕九ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to look at sales",
+    "difficulty": "hard",
+    "question_ja": "蝗ｺ螳夊ｲｻ縺ｨ螟牙虚雋ｻ縺ｮ驕輔＞繧堤炊隗｣縺励◆荳翫〒縲∵錐逶雁・蟯千せ繧剃ｸ九￡繧区婿豕輔→縺励※譛繧る←蛻・↑縺ｮ縺ｯ縺ｩ繧後°・・,
+    "question_en": "Understanding the difference between fixed and variable costs, what is the most appropriate method to lower the break-even point?",
+    "choices_ja": [
+      "A. 蝗ｺ螳夊ｲｻ繧貞｢励ｄ縺・,
+      "B. 蝗ｺ螳夊ｲｻ繧貞炎貂帙☆繧九√∪縺溘・螟牙虚雋ｻ邇・ｒ荳九￡繧・,
+      "C. 螟牙虚雋ｻ繧貞｢励ｄ縺・,
+      "D. 螢ｲ荳翫ｒ荳九￡繧・
+    ],
+    "choices_en": [
+      "A. Increase fixed costs",
+      "B. Reduce fixed costs or lower variable cost ratio",
+      "C. Increase variable costs",
+      "D. Lower sales"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲よ錐逶雁・蟯千せ繧剃ｸ九￡繧九↓縺ｯ縲∝崋螳夊ｲｻ繧貞炎貂帙☆繧九√∪縺溘・螟牙虚雋ｻ邇・ｒ荳九￡繧九％縺ｨ縺碁←蛻・ょ崋螳夊ｲｻ蠅怜刈・・・峨ｄ螟牙虚雋ｻ蠅怜刈・・・峨・謳咲寢蛻・ｲ千せ繧剃ｸ翫￡繧九ょ｣ｲ荳贋ｸ九￡・・・峨・譛ｬ譛ｫ霆｢蛟偵ゅヵ繧｡繧､繝翫Φ繧ｹ縺ｧ縺ｯ縲∝崋螳夊ｲｻ縺ｨ螟牙虚雋ｻ縺ｮ讒矩繧堤炊隗｣縺励∝柑邇・噪縺ｪ蜿守寢讒矩繧呈ｧ狗ｯ峨☆繧九％縺ｨ縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. To lower the break-even point, reducing fixed costs or lowering variable cost ratio is appropriate. Increasing fixed costs (A) or variable costs (C) raises the break-even point. Lowering sales (D) is putting the cart before the horse. In finance, understanding the structure of fixed and variable costs and building an efficient profit structure is important.",
+    "source_url": "https://example.com/training/Year1/business/繝輔ぃ繧､繝翫Φ繧ｹ・・L・・q-biz-y1-015",
+    "tags": ["Year1", "business", "繝輔ぃ繧､繝翫Φ繧ｹ", "謳咲寢蛻・ｲ千せ"]
+  },
+  {
+    "id": "q-mgmt-y1-001",
+    "year": "Year1",
+    "category": "management",
+    "theme": "繝槭ロ繧ｸ繝｡繝ｳ繝域悄蠕・ｽｹ蜑ｲ縲√Α繝・す繝ｧ繝ｳ繝ｻ繝薙ず繝ｧ繝ｳ豬ｸ騾・,
+    "learning_goal_ja": "繝槭ロ繧ｸ繝｡繝ｳ繝医・譛溷ｾ・ｽｹ蜑ｲ繧堤炊隗｣縺励√Α繝・す繝ｧ繝ｳ繝ｻ繝薙ず繝ｧ繝ｳ繧偵メ繝ｼ繝縺ｫ豬ｸ騾上＆縺帙ｉ繧後ｋ",
+    "learning_goal_en": "Understand expected roles of management and can permeate mission and vision to the team",
+    "common_misconception_ja": "繝槭ロ繧ｸ繝｡繝ｳ繝医・謖・､ｺ繧貞・縺吶□縺・,
+    "common_misconception_en": "Management only gives instructions",
+    "difficulty": "easy",
+    "question_ja": "繝槭ロ繧ｸ繝｡繝ｳ繝医・荳ｻ縺ｪ蠖ｹ蜑ｲ縺ｨ縺励※縲∵怙繧る←蛻・↑隱ｬ譏弱・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate explanation of the main role of management?",
+    "choices_ja": [
+      "A. 謖・､ｺ繧貞・縺吶□縺・,
+      "B. 繝√・繝縺ｮ逶ｮ讓咎＃謌舌→繝｡繝ｳ繝舌・縺ｮ謌宣聞繧呈髪謠ｴ縺励∫ｵ・ｹ斐・譁ｹ蜷第ｧ繧堤､ｺ縺・,
+      "C. 繝｡繝ｳ繝舌・繧堤屮隕悶☆繧九□縺・,
+      "D. 閾ｪ蛻・□縺代′謌先棡繧貞・縺・
+    ],
+    "choices_en": [
+      "A. Only give instructions",
+      "B. Support team goal achievement and member growth, and show organizational direction",
+      "C. Only monitor members",
+      "D. Only oneself produces results"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅ・繝阪ず繝｡繝ｳ繝医・縲√メ繝ｼ繝縺ｮ逶ｮ讓咎＃謌舌→繝｡繝ｳ繝舌・縺ｮ謌宣聞繧呈髪謠ｴ縺励∫ｵ・ｹ斐・譁ｹ蜷第ｧ繧堤､ｺ縺吶％縺ｨ縺御ｸｻ縺ｪ蠖ｹ蜑ｲ縲よ欠遉ｺ縺ｮ縺ｿ・・・峨ｄ逶｣隕悶・縺ｿ・・・峨・荳榊香蛻・り・蛻・□縺托ｼ・・峨・繝槭ロ繧ｸ繝｡繝ｳ繝医〒縺ｯ縺ｪ縺・ゅ・繝阪ず繝｡繝ｳ繝医〒縺ｯ縲√メ繝ｼ繝蜈ｨ菴薙・謌先棡縺ｨ繝｡繝ｳ繝舌・縺ｮ謌宣聞縺ｮ荳｡遶九′驥崎ｦ√〒縺ゅｊ縲√Α繝・す繝ｧ繝ｳ繝ｻ繝薙ず繝ｧ繝ｳ縺ｮ豬ｸ騾上↓繧医ｊ譁ｹ蜷第ｧ繧呈・遒ｺ縺ｫ縺吶ｋ縲・,
+    "explanation_en": "The correct answer is B. Management's main role is to support team goal achievement and member growth, and show organizational direction. Only instructions (A) or only monitoring (C) are insufficient. Only oneself (D) is not management. In management, balancing team results and member growth is important, and permeating mission and vision clarifies direction.",
+    "source_url": "https://example.com/training/Year1/management/繝槭ロ繧ｸ繝｡繝ｳ繝域悄蠕・ｽｹ蜑ｲ縲√Α繝・す繝ｧ繝ｳ繝ｻ繝薙ず繝ｧ繝ｳ豬ｸ騾・q-mgmt-y1-001",
+    "tags": ["Year1", "management", "繝槭ロ繧ｸ繝｡繝ｳ繝・, "繝溘ャ繧ｷ繝ｧ繝ｳ"]
+  },
+  {
+    "id": "q-mgmt-y1-002",
+    "year": "Year1",
+    "category": "management",
+    "theme": "繝槭ロ繧ｸ繝｡繝ｳ繝域悄蠕・ｽｹ蜑ｲ縲√Α繝・す繝ｧ繝ｳ繝ｻ繝薙ず繝ｧ繝ｳ豬ｸ騾・,
+    "learning_goal_ja": "繝槭ロ繧ｸ繝｡繝ｳ繝医・譛溷ｾ・ｽｹ蜑ｲ繧堤炊隗｣縺励√Α繝・す繝ｧ繝ｳ繝ｻ繝薙ず繝ｧ繝ｳ繧偵メ繝ｼ繝縺ｫ豬ｸ騾上＆縺帙ｉ繧後ｋ",
+    "learning_goal_en": "Understand expected roles of management and can permeate mission and vision to the team",
+    "common_misconception_ja": "繝槭ロ繧ｸ繝｡繝ｳ繝医・謖・､ｺ繧貞・縺吶□縺・,
+    "common_misconception_en": "Management only gives instructions",
+    "difficulty": "medium",
+    "question_ja": "繝溘ャ繧ｷ繝ｧ繝ｳ繝ｻ繝薙ず繝ｧ繝ｳ繧偵メ繝ｼ繝縺ｫ豬ｸ騾上＆縺帙ｋ髫帙∵怙繧ょ柑譫懃噪縺ｪ譁ｹ豕輔・縺ｩ繧後°・・,
+    "question_en": "What is the most effective method when permeating mission and vision to the team?",
+    "choices_ja": [
+      "A. 荳蠎ｦ莨昴∴繧九□縺・,
+      "B. 譌･蟶ｸ縺ｮ讌ｭ蜍吶ｄ諢乗晄ｱｺ螳壹・蝣ｴ髱｢縺ｧ郢ｰ繧願ｿ斐＠遉ｺ縺励√Γ繝ｳ繝舌・縺瑚・蛻・ｺ九→縺励※謐峨∴繧峨ｌ繧九ｈ縺・↓縺吶ｋ",
+      "C. 譁・嶌縺ｧ驟榊ｸ・☆繧九□縺・,
+      "D. 蠑ｷ蛻ｶ縺吶ｋ"
+    ],
+    "choices_en": [
+      "A. Tell once only",
+      "B. Repeatedly show in daily work and decision-making situations so members can take it as their own",
+      "C. Only distribute in documents",
+      "D. Force it"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅΑ繝・す繝ｧ繝ｳ繝ｻ繝薙ず繝ｧ繝ｳ縺ｮ豬ｸ騾上↓縺ｯ縲∵律蟶ｸ縺ｮ讌ｭ蜍吶ｄ諢乗晄ｱｺ螳壹・蝣ｴ髱｢縺ｧ郢ｰ繧願ｿ斐＠遉ｺ縺励√Γ繝ｳ繝舌・縺瑚・蛻・ｺ九→縺励※謐峨∴繧峨ｌ繧九ｈ縺・↓縺吶ｋ縺薙→縺悟柑譫懃噪縲ゆｸ蠎ｦ縺縺托ｼ・・峨ｄ譁・嶌縺ｮ縺ｿ・・・峨・豬ｸ騾上＠縺ｪ縺・ょｼｷ蛻ｶ・・・峨・蜿咲匱繧呈魚縺上ゅ・繝阪ず繝｡繝ｳ繝医〒縺ｯ縲√Α繝・す繝ｧ繝ｳ繝ｻ繝薙ず繝ｧ繝ｳ繧定｡悟虚縺ｫ關ｽ縺ｨ縺苓ｾｼ縺ｿ縲√Γ繝ｳ繝舌・縺悟・諢溘・邏榊ｾ励〒縺阪ｋ繧医≧縺ｫ縺吶ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. To permeate mission and vision, repeatedly showing in daily work and decision-making situations so members can take it as their own is effective. Once only (A) or documents only (C) don't permeate. Forcing (D) causes resistance. In management, it is important to translate mission and vision into actions and enable members to empathize and understand.",
+    "source_url": "https://example.com/training/Year1/management/繝槭ロ繧ｸ繝｡繝ｳ繝域悄蠕・ｽｹ蜑ｲ縲√Α繝・す繝ｧ繝ｳ繝ｻ繝薙ず繝ｧ繝ｳ豬ｸ騾・q-mgmt-y1-002",
+    "tags": ["Year1", "management", "繝槭ロ繧ｸ繝｡繝ｳ繝・, "繝薙ず繝ｧ繝ｳ"]
+  },
+  {
+    "id": "q-mgmt-y1-003",
+    "year": "Year1",
+    "category": "management",
+    "theme": "蠢・炊逧・ｮ牙・諤ｧ",
+    "learning_goal_ja": "蠢・炊逧・ｮ牙・諤ｧ縺ｮ驥崎ｦ∵ｧ繧堤炊隗｣縺励√メ繝ｼ繝縺ｫ蠢・炊逧・ｮ牙・諤ｧ繧貞卸蜃ｺ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the importance of psychological safety and can create psychological safety in the team",
+    "common_misconception_ja": "蠢・炊逧・ｮ牙・諤ｧ縺ｯ逕倥ｄ縺九☆縺薙→",
+    "common_misconception_en": "Psychological safety is being lenient",
+    "difficulty": "easy",
+    "question_ja": "蠢・炊逧・ｮ牙・諤ｧ縺ｨ縺ｯ菴輔°・・,
+    "question_en": "What is psychological safety?",
+    "choices_ja": [
+      "A. 逕倥ｄ縺九☆縺薙→",
+      "B. 繝｡繝ｳ繝舌・縺悟ｮ牙ｿ・＠縺ｦ諢剰ｦ九ｒ險縺医∝､ｱ謨励ｒ諱舌ｌ縺壹↓謖第姶縺ｧ縺阪ｋ迺ｰ蠅・,
+      "C. 菴輔〒繧りｨｱ縺吶％縺ｨ",
+      "D. 遶ｶ莠峨ｒ縺ｪ縺上☆縺薙→"
+    ],
+    "choices_en": [
+      "A. Being lenient",
+      "B. An environment where members can safely express opinions and challenge without fear of failure",
+      "C. Allowing everything",
+      "D. Eliminating competition"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょｿ・炊逧・ｮ牙・諤ｧ縺ｯ縲√Γ繝ｳ繝舌・縺悟ｮ牙ｿ・＠縺ｦ諢剰ｦ九ｒ險縺医∝､ｱ謨励ｒ諱舌ｌ縺壹↓謖第姶縺ｧ縺阪ｋ迺ｰ蠅・ら曝繧・°縺呻ｼ・・峨ｄ菴輔〒繧りｨｱ縺呻ｼ・・峨・隱､繧翫らｫｶ莠峨ｒ縺ｪ縺上☆・・・峨ｂ隱､繧翫ょｿ・炊逧・ｮ牙・諤ｧ縺ｧ縺ｯ縲∝､壽ｧ倥↑諢剰ｦ九ｄ螟ｱ謨励ｒ險ｱ螳ｹ縺励∝ｭｦ鄙偵→謌宣聞繧剃ｿ・ｲ縺吶ｋ迺ｰ蠅・ｒ蜑ｵ蜃ｺ縺吶ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Psychological safety is an environment where members can safely express opinions and challenge without fear of failure. Being lenient (A) or allowing everything (C) is incorrect. Eliminating competition (D) is also incorrect. In psychological safety, creating an environment that tolerates diverse opinions and failures and promotes learning and growth is important.",
+    "source_url": "https://example.com/training/Year1/management/蠢・炊逧・ｮ牙・諤ｧ/q-mgmt-y1-003",
+    "tags": ["Year1", "management", "蠢・炊逧・ｮ牙・諤ｧ", "繝√・繝"]
+  },
+  {
+    "id": "q-mgmt-y1-004",
+    "year": "Year1",
+    "category": "management",
+    "theme": "蠢・炊逧・ｮ牙・諤ｧ",
+    "learning_goal_ja": "蠢・炊逧・ｮ牙・諤ｧ縺ｮ驥崎ｦ∵ｧ繧堤炊隗｣縺励√メ繝ｼ繝縺ｫ蠢・炊逧・ｮ牙・諤ｧ繧貞卸蜃ｺ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand the importance of psychological safety and can create psychological safety in the team",
+    "common_misconception_ja": "蠢・炊逧・ｮ牙・諤ｧ縺ｯ逕倥ｄ縺九☆縺薙→",
+    "common_misconception_en": "Psychological safety is being lenient",
+    "difficulty": "medium",
+    "question_ja": "蠢・炊逧・ｮ牙・諤ｧ繧帝ｫ倥ａ繧九◆繧√↓縲√・繝阪・繧ｸ繝｣繝ｼ縺悟叙繧九∋縺崎｡悟虚縺ｨ縺励※譛繧る←蛻・↑縺ｮ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate action a manager should take to increase psychological safety?",
+    "choices_ja": [
+      "A. 螟ｱ謨励ｒ蜴ｳ縺励￥雋ｬ繧√ｋ",
+      "B. 螟ｱ謨励ｒ蟄ｦ鄙呈ｩ滉ｼ壹→縺励※謐峨∴縲∝ｻｺ險ｭ逧・↑繝輔ぅ繝ｼ繝峨ヰ繝・け繧呈署萓帙☆繧・,
+      "C. 諢剰ｦ九ｒ辟｡隕悶☆繧・,
+      "D. 繝｡繝ｳ繝舌・繧堤屮隕悶☆繧・
+    ],
+    "choices_en": [
+      "A. Severely blame failures",
+      "B. Treat failures as learning opportunities and provide constructive feedback",
+      "C. Ignore opinions",
+      "D. Monitor members"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょｿ・炊逧・ｮ牙・諤ｧ繧帝ｫ倥ａ繧九↓縺ｯ縲∝､ｱ謨励ｒ蟄ｦ鄙呈ｩ滉ｼ壹→縺励※謐峨∴縲∝ｻｺ險ｭ逧・↑繝輔ぅ繝ｼ繝峨ヰ繝・け繧呈署萓帙☆繧九％縺ｨ縺碁㍾隕√ょ宍縺励￥雋ｬ繧√ｋ・・・峨ｄ諢剰ｦ狗┌隕厄ｼ・・峨∫屮隕厄ｼ・・峨・蠢・炊逧・ｮ牙・諤ｧ繧呈錐縺ｪ縺・ょｿ・炊逧・ｮ牙・諤ｧ縺ｧ縺ｯ縲√・繝阪・繧ｸ繝｣繝ｼ閾ｪ霄ｫ縺悟､ｱ謨励ｒ險ｱ螳ｹ縺励∝ｭｦ鄙呈枚蛹悶ｒ蜑ｵ蜃ｺ縺吶ｋ縺薙→縺後メ繝ｼ繝縺ｮ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｨ謌宣聞縺ｫ縺､縺ｪ縺後ｋ縲・,
+    "explanation_en": "The correct answer is B. To increase psychological safety, treating failures as learning opportunities and providing constructive feedback is important. Severely blaming (A), ignoring opinions (C), or monitoring (D) damages psychological safety. In psychological safety, managers themselves tolerating failures and creating a learning culture leads to team innovation and growth.",
+    "source_url": "https://example.com/training/Year1/management/蠢・炊逧・ｮ牙・諤ｧ/q-mgmt-y1-004",
+    "tags": ["Year1", "management", "蠢・炊逧・ｮ牙・諤ｧ", "繝輔ぅ繝ｼ繝峨ヰ繝・け"]
+  },
+  {
+    "id": "q-mgmt-y1-005",
+    "year": "Year1",
+    "category": "management",
+    "theme": "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繝ｻ繝√・繝繝薙Ν繝・ぅ繝ｳ繧ｰ",
+    "learning_goal_ja": "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・縺ｮ蝓ｺ譛ｬ縺ｨ繝√・繝繝薙Ν繝・ぅ繝ｳ繧ｰ縺ｮ譁ｹ豕輔ｒ逅・ｧ｣縺励∝柑譫懃噪縺ｪ繝√・繝驕句霧縺後〒縺阪ｋ",
+    "learning_goal_en": "Understand basics of leadership and team building methods, and can operate teams effectively",
+    "common_misconception_ja": "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・縺ｯ謖・､ｺ繧貞・縺吶％縺ｨ",
+    "common_misconception_en": "Leadership is giving instructions",
+    "difficulty": "easy",
+    "question_ja": "蜉ｹ譫懃噪縺ｪ繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・縺ｨ縺励※縲∵怙繧る←蛻・↑隱ｬ譏弱・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate explanation of effective leadership?",
+    "choices_ja": [
+      "A. 荳譁ｹ逧・↓謖・､ｺ繧貞・縺・,
+      "B. 繝｡繝ｳ繝舌・縺ｮ蠑ｷ縺ｿ繧呈ｴｻ縺九＠縲∫岼讓吶↓蜷代°縺｣縺ｦ繝√・繝繧貞ｰ弱￥",
+      "C. 繝｡繝ｳ繝舌・繧貞ｾ薙ｏ縺帙ｋ",
+      "D. 閾ｪ蛻・□縺代′謌先棡繧貞・縺・
+    ],
+    "choices_en": [
+      "A. Unilaterally give instructions",
+      "B. Utilize members' strengths and guide the team toward goals",
+      "C. Make members obey",
+      "D. Only oneself produces results"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ柑譫懃噪縺ｪ繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・縺ｯ縲√Γ繝ｳ繝舌・縺ｮ蠑ｷ縺ｿ繧呈ｴｻ縺九＠縲∫岼讓吶↓蜷代°縺｣縺ｦ繝√・繝繧貞ｰ弱￥縺薙→縲ゆｸ譁ｹ逧・欠遉ｺ・・・峨ｄ蠕薙ｏ縺帙ｋ・・・峨∬・蛻・□縺托ｼ・・峨・蜉ｹ譫懃噪縺ｧ縺ｪ縺・ゅΜ繝ｼ繝繝ｼ繧ｷ繝・・縺ｧ縺ｯ縲√Γ繝ｳ繝舌・縺ｮ荳ｻ菴捺ｧ繧貞ｼ輔″蜃ｺ縺励√メ繝ｼ繝蜈ｨ菴薙・蜉帙ｒ譛螟ｧ蛹悶☆繧九％縺ｨ縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Effective leadership utilizes members' strengths and guides the team toward goals. Unilateral instructions (A), making obey (C), or only oneself (D) are not effective. In leadership, drawing out members' autonomy and maximizing the entire team's power is important.",
+    "source_url": "https://example.com/training/Year1/management/繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繝ｻ繝√・繝繝薙Ν繝・ぅ繝ｳ繧ｰ/q-mgmt-y1-005",
+    "tags": ["Year1", "management", "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・", "繝√・繝"]
+  },
+  {
+    "id": "q-mgmt-y1-006",
+    "year": "Year1",
+    "category": "management",
+    "theme": "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繝ｻ繝√・繝繝薙Ν繝・ぅ繝ｳ繧ｰ",
+    "learning_goal_ja": "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・縺ｮ蝓ｺ譛ｬ縺ｨ繝√・繝繝薙Ν繝・ぅ繝ｳ繧ｰ縺ｮ譁ｹ豕輔ｒ逅・ｧ｣縺励∝柑譫懃噪縺ｪ繝√・繝驕句霧縺後〒縺阪ｋ",
+    "learning_goal_en": "Understand basics of leadership and team building methods, and can operate teams effectively",
+    "common_misconception_ja": "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・縺ｯ謖・､ｺ繧貞・縺吶％縺ｨ",
+    "common_misconception_en": "Leadership is giving instructions",
+    "difficulty": "medium",
+    "question_ja": "繝√・繝繝薙Ν繝・ぅ繝ｳ繧ｰ縺ｫ縺翫＞縺ｦ縲∵怙繧る㍾隕√↑隕∫ｴ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important element in team building?",
+    "choices_ja": [
+      "A. 繝｡繝ｳ繝舌・繧堤ｫｶ莠峨＆縺帙ｋ",
+      "B. 蜈ｱ騾壹・逶ｮ讓吶ｒ險ｭ螳壹＠縲√Γ繝ｳ繝舌・髢薙・菫｡鬆ｼ髢｢菫ゅ→蜊泌ロ繧剃ｿ・ｲ縺吶ｋ",
+      "C. 繝｡繝ｳ繝舌・繧貞・譁ｭ縺吶ｋ",
+      "D. 蛟倶ｺｺ縺ｮ謌先棡縺縺代ｒ隧穂ｾ｡縺吶ｋ"
+    ],
+    "choices_en": [
+      "A. Make members compete",
+      "B. Set common goals and promote trust and collaboration among members",
+      "C. Divide members",
+      "D. Only evaluate individual results"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅメ繝ｼ繝繝薙Ν繝・ぅ繝ｳ繧ｰ縺ｧ縺ｯ縲∝・騾壹・逶ｮ讓吶ｒ險ｭ螳壹＠縲√Γ繝ｳ繝舌・髢薙・菫｡鬆ｼ髢｢菫ゅ→蜊泌ロ繧剃ｿ・ｲ縺吶ｋ縺薙→縺碁㍾隕√らｫｶ莠会ｼ・・峨ｄ蛻・妙・・・峨∝倶ｺｺ隧穂ｾ｡縺ｮ縺ｿ・・・峨・繝√・繝繧貞ｼｱ菴灘喧縺輔○繧九ゅΜ繝ｼ繝繝ｼ繧ｷ繝・・繝ｻ繝√・繝繝薙Ν繝・ぅ繝ｳ繧ｰ縺ｧ縺ｯ縲√Γ繝ｳ繝舌・縺御ｺ偵＞縺ｫ菫｡鬆ｼ縺励∝鵠蜉帙＠縺ｦ逶ｮ讓咎＃謌舌↓蜷代°縺・腸蠅・ｒ蜑ｵ蜃ｺ縺吶ｋ縺薙→縺梧・蜉溘・骰ｵ縺ｨ縺ｪ繧九・,
+    "explanation_en": "The correct answer is B. In team building, setting common goals and promoting trust and collaboration among members is important. Competition (A), division (C), or only individual evaluation (D) weakens the team. In leadership and team building, creating an environment where members trust each other and cooperate toward goal achievement is key to success.",
+    "source_url": "https://example.com/training/Year1/management/繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繝ｻ繝√・繝繝薙Ν繝・ぅ繝ｳ繧ｰ/q-mgmt-y1-006",
+    "tags": ["Year1", "management", "繝√・繝繝薙Ν繝・ぅ繝ｳ繧ｰ", "蜊泌ロ"]
+  },
+  {
+    "id": "q-mgmt-y1-007",
+    "year": "Year1",
+    "category": "management",
+    "theme": "逶ｮ讓咏ｮ｡逅・・隧穂ｾ｡・・KR・・,
+    "learning_goal_ja": "OKR縺ｮ蝓ｺ譛ｬ繧堤炊隗｣縺励∝柑譫懃噪縺ｪ逶ｮ讓咏ｮ｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basics of OKR and can manage goals effectively",
+    "common_misconception_ja": "逶ｮ讓吶・鬮倥￥險ｭ螳壹☆繧後・繧医＞",
+    "common_misconception_en": "Goals should be set high",
+    "difficulty": "easy",
+    "question_ja": "OKR・・bjectives and Key Results・峨↓縺翫＞縺ｦ縲∵怙繧る㍾隕√↑蜴溷援縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important principle in OKR (Objectives and Key Results)?",
+    "choices_ja": [
+      "A. 逶ｮ讓吶ｒ鬮倥￥險ｭ螳壹☆繧九□縺・,
+      "B. 譏守｢ｺ縺ｪ逶ｮ讓呻ｼ・bjective・峨→貂ｬ螳壼庄閭ｽ縺ｪ荳ｻ隕∫ｵ先棡・・ey Results・峨ｒ險ｭ螳壹＠縲∝ｮ壽悄逧・↓騾ｲ謐励ｒ遒ｺ隱阪☆繧・,
+      "C. 逶ｮ讓吶ｒ險ｭ螳壹＠縺ｪ縺・,
+      "D. 邨先棡縺縺代ｒ隕九ｋ"
+    ],
+    "choices_en": [
+      "A. Only set goals high",
+      "B. Set clear objectives and measurable key results, and regularly check progress",
+      "C. Don't set goals",
+      "D. Only look at results"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲０KR縺ｧ縺ｯ縲∵・遒ｺ縺ｪ逶ｮ讓呻ｼ・bjective・峨→貂ｬ螳壼庄閭ｽ縺ｪ荳ｻ隕∫ｵ先棡・・ey Results・峨ｒ險ｭ螳壹＠縲∝ｮ壽悄逧・↓騾ｲ謐励ｒ遒ｺ隱阪☆繧九％縺ｨ縺碁㍾隕√るｫ倥￥險ｭ螳壹☆繧九□縺托ｼ・・峨ｄ邨先棡縺ｮ縺ｿ・・・峨・荳榊香蛻・ら岼讓吶↑縺暦ｼ・・峨・邂｡逅・〒縺阪↑縺・ら岼讓咏ｮ｡逅・・隧穂ｾ｡縺ｧ縺ｯ縲∫岼讓吶・譏守｢ｺ蛹悶→騾ｲ謐励・蜿ｯ隕門喧縺ｫ繧医ｊ縲√Γ繝ｳ繝舌・縺ｮ譁ｹ蜷第ｧ繧堤ｵｱ荳縺励∵・譫懊ｒ譛螟ｧ蛹悶〒縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In OKR, setting clear objectives and measurable key results and regularly checking progress is important. Only setting high (A) or only results (D) are insufficient. No goals (C) cannot be managed. In goal management and evaluation, clarifying goals and visualizing progress unifies member direction and maximizes results.",
+    "source_url": "https://example.com/training/Year1/management/逶ｮ讓咏ｮ｡逅・・隧穂ｾ｡・・KR・・q-mgmt-y1-007",
+    "tags": ["Year1", "management", "OKR", "逶ｮ讓咏ｮ｡逅・]
+  },
+  {
+    "id": "q-mgmt-y1-008",
+    "year": "Year1",
+    "category": "management",
+    "theme": "逶ｮ讓咏ｮ｡逅・・隧穂ｾ｡・・KR・・,
+    "learning_goal_ja": "OKR縺ｮ蝓ｺ譛ｬ繧堤炊隗｣縺励∝柑譫懃噪縺ｪ逶ｮ讓咏ｮ｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basics of OKR and can manage goals effectively",
+    "common_misconception_ja": "逶ｮ讓吶・鬮倥￥險ｭ螳壹☆繧後・繧医＞",
+    "common_misconception_en": "Goals should be set high",
+    "difficulty": "medium",
+    "question_ja": "OKR縺ｮ騾ｲ謐励′諤昴ｏ縺励￥縺ｪ縺・ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response when OKR progress is not favorable?",
+    "choices_ja": [
+      "A. 逶ｮ讓吶ｒ螟画峩縺吶ｋ",
+      "B. 騾ｲ謐励・蜴溷屏繧貞・譫舌＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ逶ｮ讓吶ｄ譁ｽ遲悶ｒ隱ｿ謨ｴ縺吶ｋ",
+      "C. 繝｡繝ｳ繝舌・繧定ｲｬ繧√ｋ",
+      "D. 辟｡隕悶☆繧・
+    ],
+    "choices_en": [
+      "A. Change goals",
+      "B. Analyze progress causes and adjust goals or measures if necessary",
+      "C. Blame members",
+      "D. Ignore it"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲０KR縺ｮ騾ｲ謐励′諤昴ｏ縺励￥縺ｪ縺・ｴ蜷医・ｲ謐励・蜴溷屏繧貞・譫舌＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ逶ｮ讓吶ｄ譁ｽ遲悶ｒ隱ｿ謨ｴ縺吶ｋ縺薙→縺碁←蛻・ら岼讓吝､画峩・・・峨・螳画・縲ゅΓ繝ｳ繝舌・繧定ｲｬ繧√ｋ・・・峨・蟒ｺ險ｭ逧・〒縺ｪ縺・ら┌隕厄ｼ・・峨・蝠城｡後ｒ謾ｾ鄂ｮ縺励※縺・ｋ縲ら岼讓咏ｮ｡逅・〒縺ｯ縲・ｲ謐励・騾乗・縺ｪ蜈ｱ譛峨→驕ｩ蛻・↑隱ｿ謨ｴ縺ｫ繧医ｊ縲√メ繝ｼ繝縺ｮ蟄ｦ鄙偵→謾ｹ蝟・ｒ菫・ｲ縺ｧ縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. When OKR progress is not favorable, analyzing progress causes and adjusting goals or measures if necessary is appropriate. Changing goals (A) is easy. Blaming members (C) is not constructive. Ignoring (D) leaves the problem. In goal management, transparent progress sharing and appropriate adjustment promote team learning and improvement.",
+    "source_url": "https://example.com/training/Year1/management/逶ｮ讓咏ｮ｡逅・・隧穂ｾ｡・・KR・・q-mgmt-y1-008",
+    "tags": ["Year1", "management", "OKR", "騾ｲ謐礼ｮ｡逅・]
+  },
+  {
+    "id": "q-mgmt-y1-009",
+    "year": "Year1",
+    "category": "management",
+    "theme": "繝ｪ繧ｽ繝ｼ繧ｹ繝槭ロ繧ｸ繝｡繝ｳ繝茨ｼ域治逕ｨ縲√い繧ｵ繧､繝ｳ繝｡繝ｳ繝茨ｼ・,
+    "learning_goal_ja": "謗｡逕ｨ縺ｨ繧｢繧ｵ繧､繝ｳ繝｡繝ｳ繝医・蝓ｺ譛ｬ繧堤炊隗｣縺励・←蛻・↑莠ｺ譚宣・鄂ｮ縺後〒縺阪ｋ",
+    "learning_goal_en": "Understand basics of recruitment and assignment, and can allocate human resources appropriately",
+    "common_misconception_ja": "謗｡逕ｨ縺ｯ莠ｺ莠矩Κ髢縺縺代・雋ｬ莉ｻ",
+    "common_misconception_en": "Recruitment is only HR's responsibility",
+    "difficulty": "easy",
+    "question_ja": "謗｡逕ｨ豢ｻ蜍輔↓縺翫＞縺ｦ縲√・繝阪・繧ｸ繝｣繝ｼ縺梧棡縺溘☆縺ｹ縺榊ｽｹ蜑ｲ縺ｨ縺励※譛繧る←蛻・↑縺ｮ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate role a manager should play in recruitment activities?",
+    "choices_ja": [
+      "A. 莠ｺ莠矩Κ髢縺ｫ莉ｻ縺帙ｋ縺縺・,
+      "B. 豎ゅａ繧倶ｺｺ譚仙ワ繧呈・遒ｺ縺ｫ縺励・擇謗･縺ｧ隧穂ｾ｡縺励√メ繝ｼ繝縺ｸ縺ｮ驕ｩ蜷域ｧ繧貞愛譁ｭ縺吶ｋ",
+      "C. 謗｡逕ｨ縺励↑縺・,
+      "D. 隱ｰ縺ｧ繧よ治逕ｨ縺吶ｋ"
+    ],
+    "choices_en": [
+      "A. Only leave to HR department",
+      "B. Clarify desired candidate profile, evaluate in interviews, and judge team fit",
+      "C. Don't recruit",
+      "D. Recruit anyone"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲よ治逕ｨ縺ｧ縺ｯ縲√・繝阪・繧ｸ繝｣繝ｼ縺梧ｱゅａ繧倶ｺｺ譚仙ワ繧呈・遒ｺ縺ｫ縺励・擇謗･縺ｧ隧穂ｾ｡縺励√メ繝ｼ繝縺ｸ縺ｮ驕ｩ蜷域ｧ繧貞愛譁ｭ縺吶ｋ縺薙→縺碁㍾隕√ゆｺｺ莠倶ｻｻ縺幢ｼ・・峨・驕ｩ譚宣←謇繧定ｦ玖ｪ､繧九よ治逕ｨ縺励↑縺・ｼ・・峨ｄ隱ｰ縺ｧ繧ゑｼ・・峨・荳埼←蛻・ゅΜ繧ｽ繝ｼ繧ｹ繝槭ロ繧ｸ繝｡繝ｳ繝医〒縺ｯ縲√・繝阪・繧ｸ繝｣繝ｼ縺後メ繝ｼ繝縺ｮ繝九・繧ｺ繧堤炊隗｣縺励・←蛻・↑莠ｺ譚舌ｒ驕ｸ螳壹☆繧九％縺ｨ縺後メ繝ｼ繝縺ｮ謌先棡縺ｫ縺､縺ｪ縺後ｋ縲・,
+    "explanation_en": "The correct answer is B. In recruitment, managers clarifying desired candidate profile, evaluating in interviews, and judging team fit is important. Leaving to HR (A) misidentifies right person for right place. Not recruiting (C) or anyone (D) is inappropriate. In resource management, managers understanding team needs and selecting appropriate personnel leads to team results.",
+    "source_url": "https://example.com/training/Year1/management/繝ｪ繧ｽ繝ｼ繧ｹ繝槭ロ繧ｸ繝｡繝ｳ繝茨ｼ域治逕ｨ縲√い繧ｵ繧､繝ｳ繝｡繝ｳ繝茨ｼ・q-mgmt-y1-009",
+    "tags": ["Year1", "management", "謗｡逕ｨ", "繝ｪ繧ｽ繝ｼ繧ｹ"]
+  },
+  {
+    "id": "q-mgmt-y1-010",
+    "year": "Year1",
+    "category": "management",
+    "theme": "繝ｪ繧ｽ繝ｼ繧ｹ繝槭ロ繧ｸ繝｡繝ｳ繝茨ｼ域治逕ｨ縲√い繧ｵ繧､繝ｳ繝｡繝ｳ繝茨ｼ・,
+    "learning_goal_ja": "謗｡逕ｨ縺ｨ繧｢繧ｵ繧､繝ｳ繝｡繝ｳ繝医・蝓ｺ譛ｬ繧堤炊隗｣縺励・←蛻・↑莠ｺ譚宣・鄂ｮ縺後〒縺阪ｋ",
+    "learning_goal_en": "Understand basics of recruitment and assignment, and can allocate human resources appropriately",
+    "common_misconception_ja": "謗｡逕ｨ縺ｯ莠ｺ莠矩Κ髢縺縺代・雋ｬ莉ｻ",
+    "common_misconception_en": "Recruitment is only HR's responsibility",
+    "difficulty": "medium",
+    "question_ja": "繝｡繝ｳ繝舌・縺ｮ繧｢繧ｵ繧､繝ｳ繝｡繝ｳ繝茨ｼ磯・鄂ｮ・峨ｒ豎ｺ螳壹☆繧矩圀縲∵怙繧る㍾隕√↑閠・・莠矩・・縺ｩ繧後°・・,
+    "question_en": "What is the most important consideration when deciding member assignment (placement)?",
+    "choices_ja": [
+      "A. 繝｡繝ｳ繝舌・縺ｮ蟶梧悍縺縺代ｒ閨槭￥",
+      "B. 繝｡繝ｳ繝舌・縺ｮ蠑ｷ縺ｿ繝ｻ謌宣聞諢乗ｬｲ繝ｻ繝√・繝縺ｮ繝九・繧ｺ繧堤ｷ丞粋逧・↓閠・・縺吶ｋ",
+      "C. 繝ｩ繝ｳ繝繝縺ｫ豎ｺ繧√ｋ",
+      "D. 荳雁昇縺ｮ驛ｽ蜷医〒豎ｺ繧√ｋ"
+    ],
+    "choices_en": [
+      "A. Only listen to member wishes",
+      "B. Comprehensively consider member strengths, growth motivation, and team needs",
+      "C. Decide randomly",
+      "D. Decide based on boss's convenience"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅい繧ｵ繧､繝ｳ繝｡繝ｳ繝医〒縺ｯ縲√Γ繝ｳ繝舌・縺ｮ蠑ｷ縺ｿ繝ｻ謌宣聞諢乗ｬｲ繝ｻ繝√・繝縺ｮ繝九・繧ｺ繧堤ｷ丞粋逧・↓閠・・縺吶ｋ縺薙→縺碁㍾隕√ょｸ梧悍縺ｮ縺ｿ・・・峨ｄ繝ｩ繝ｳ繝繝・・・峨∽ｸ雁昇驛ｽ蜷茨ｼ・・峨・驕ｩ譚宣←謇繧貞ｮ溽樟縺ｧ縺阪↑縺・ゅΜ繧ｽ繝ｼ繧ｹ繝槭ロ繧ｸ繝｡繝ｳ繝医〒縺ｯ縲√Γ繝ｳ繝舌・縺ｮ謌宣聞縺ｨ繝√・繝縺ｮ謌先棡縺ｮ荳｡遶九ｒ蝗ｳ繧翫∵怙驕ｩ縺ｪ莠ｺ譚宣・鄂ｮ縺ｫ繧医ｊ邨・ｹ斐・蜉帙ｒ譛螟ｧ蛹悶☆繧九・,
+    "explanation_en": "The correct answer is B. In assignment, comprehensively considering member strengths, growth motivation, and team needs is important. Only wishes (A), random (C), or boss convenience (D) cannot achieve right person for right place. In resource management, balancing member growth and team results and maximizing organizational power through optimal human resource allocation.",
+    "source_url": "https://example.com/training/Year1/management/繝ｪ繧ｽ繝ｼ繧ｹ繝槭ロ繧ｸ繝｡繝ｳ繝茨ｼ域治逕ｨ縲√い繧ｵ繧､繝ｳ繝｡繝ｳ繝茨ｼ・q-mgmt-y1-010",
+    "tags": ["Year1", "management", "繧｢繧ｵ繧､繝ｳ繝｡繝ｳ繝・, "莠ｺ譚宣・鄂ｮ"]
+  },
+  {
+    "id": "q-mgmt-y1-011",
+    "year": "Year1",
+    "category": "management",
+    "theme": "繝輔ぅ繝ｼ繝峨ヰ繝・け",
+    "learning_goal_ja": "蜉ｹ譫懃噪縺ｪ繝輔ぅ繝ｼ繝峨ヰ繝・け縺ｮ譁ｹ豕輔ｒ逅・ｧ｣縺励√Γ繝ｳ繝舌・縺ｮ謌宣聞繧呈髪謠ｴ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand effective feedback methods and can support member growth",
+    "common_misconception_ja": "繝輔ぅ繝ｼ繝峨ヰ繝・け縺ｯ謇ｹ蛻､縺吶ｋ縺薙→",
+    "common_misconception_en": "Feedback is criticizing",
+    "difficulty": "easy",
+    "question_ja": "蜉ｹ譫懃噪縺ｪ繝輔ぅ繝ｼ繝峨ヰ繝・け縺ｨ縺励※縲∵怙繧る←蛻・↑隱ｬ譏弱・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate explanation of effective feedback?",
+    "choices_ja": [
+      "A. 荳譁ｹ逧・↓謇ｹ蛻､縺吶ｋ",
+      "B. 蜈ｷ菴鍋噪縺ｪ陦悟虚繝ｻ莠句ｮ溘↓蝓ｺ縺･縺阪∝ｻｺ險ｭ逧・〒謾ｹ蝟・↓縺､縺ｪ縺後ｋ蜀・ｮｹ繧剃ｼ昴∴繧・,
+      "C. 莠ｺ譬ｼ繧貞凄螳壹☆繧・,
+      "D. 繝輔ぅ繝ｼ繝峨ヰ繝・け縺励↑縺・
+    ],
+    "choices_en": [
+      "A. Unilaterally criticize",
+      "B. Communicate constructive content based on specific actions and facts that leads to improvement",
+      "C. Deny personality",
+      "D. Don't give feedback"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ柑譫懃噪縺ｪ繝輔ぅ繝ｼ繝峨ヰ繝・け縺ｯ縲∝・菴鍋噪縺ｪ陦悟虚繝ｻ莠句ｮ溘↓蝓ｺ縺･縺阪∝ｻｺ險ｭ逧・〒謾ｹ蝟・↓縺､縺ｪ縺後ｋ蜀・ｮｹ繧剃ｼ昴∴繧九％縺ｨ縲ゆｸ譁ｹ逧・音蛻､・・・峨ｄ莠ｺ譬ｼ蜷ｦ螳夲ｼ・・峨・謌宣聞繧帝仆螳ｳ縺吶ｋ縲ゅヵ繧｣繝ｼ繝峨ヰ繝・け縺ｪ縺暦ｼ・・峨・謌宣聞讖滉ｼ壹ｒ螟ｱ縺・ゅヵ繧｣繝ｼ繝峨ヰ繝・け縺ｧ縺ｯ縲√Γ繝ｳ繝舌・縺悟女縺大・繧後ｄ縺吶￥縲∬｡悟虚螟牙ｮｹ縺ｫ縺､縺ｪ縺後ｋ莨昴∴譁ｹ縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Effective feedback communicates constructive content based on specific actions and facts that leads to improvement. Unilateral criticism (A) or personality denial (C) hinders growth. No feedback (D) loses growth opportunities. In feedback, communication methods that are easy for members to accept and lead to behavior change are important.",
+    "source_url": "https://example.com/training/Year1/management/繝輔ぅ繝ｼ繝峨ヰ繝・け/q-mgmt-y1-011",
+    "tags": ["Year1", "management", "繝輔ぅ繝ｼ繝峨ヰ繝・け", "謌宣聞謾ｯ謠ｴ"]
+  },
+  {
+    "id": "q-mgmt-y1-012",
+    "year": "Year1",
+    "category": "management",
+    "theme": "繝輔ぅ繝ｼ繝峨ヰ繝・け",
+    "learning_goal_ja": "蜉ｹ譫懃噪縺ｪ繝輔ぅ繝ｼ繝峨ヰ繝・け縺ｮ譁ｹ豕輔ｒ逅・ｧ｣縺励√Γ繝ｳ繝舌・縺ｮ謌宣聞繧呈髪謠ｴ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand effective feedback methods and can support member growth",
+    "common_misconception_ja": "繝輔ぅ繝ｼ繝峨ヰ繝・け縺ｯ謇ｹ蛻､縺吶ｋ縺薙→",
+    "common_misconception_en": "Feedback is criticizing",
+    "difficulty": "medium",
+    "question_ja": "繝輔ぅ繝ｼ繝峨ヰ繝・け繧呈署萓帙☆繧矩圀縺ｮ繧ｿ繧､繝溘Φ繧ｰ縺ｨ縺励※縲∵怙繧る←蛻・↑縺ｮ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate timing when providing feedback?",
+    "choices_ja": [
+      "A. 蜈ｬ髢九・蝣ｴ縺ｧ蜊ｳ蠎ｧ縺ｫ謖・遭縺吶ｋ",
+      "B. 驕ｩ蛻・↑繧ｿ繧､繝溘Φ繧ｰ・・on1遲会ｼ峨〒縲√Γ繝ｳ繝舌・縺悟女縺大・繧後ｄ縺吶＞迺ｰ蠅・〒謠蝉ｾ帙☆繧・,
+      "C. 蠕悟屓縺励↓縺吶ｋ",
+      "D. 繝輔ぅ繝ｼ繝峨ヰ繝・け縺励↑縺・
+    ],
+    "choices_en": [
+      "A. Immediately point out in public",
+      "B. Provide at appropriate timing (1on1, etc.) in an environment where members can easily accept",
+      "C. Postpone",
+      "D. Don't give feedback"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅヵ繧｣繝ｼ繝峨ヰ繝・け縺ｯ縲・←蛻・↑繧ｿ繧､繝溘Φ繧ｰ・・on1遲会ｼ峨〒縲√Γ繝ｳ繝舌・縺悟女縺大・繧後ｄ縺吶＞迺ｰ蠅・〒謠蝉ｾ帙☆繧九％縺ｨ縺碁㍾隕√ょ・髢九・蝣ｴ・・・峨・繝｡繝ｳ繝舌・縺ｮ蟆雁宍繧貞す縺､縺代ｋ縲ょｾ悟屓縺暦ｼ・・峨・蜉ｹ譫懊′阮・ｌ繧九ゅヵ繧｣繝ｼ繝峨ヰ繝・け縺ｪ縺暦ｼ・・峨・謌宣聞讖滉ｼ壹ｒ螟ｱ縺・ゅヵ繧｣繝ｼ繝峨ヰ繝・け縺ｧ縺ｯ縲√ち繧､繝溘Φ繧ｰ縺ｨ迺ｰ蠅・′蜿励￠蜈･繧後ｄ縺吶＆縺ｨ蜉ｹ譫懊↓螟ｧ縺阪￥蠖ｱ髻ｿ縺吶ｋ縲・,
+    "explanation_en": "The correct answer is B. Feedback should be provided at appropriate timing (1on1, etc.) in an environment where members can easily accept. Public (A) damages member dignity. Postponing (C) reduces effectiveness. No feedback (D) loses growth opportunities. In feedback, timing and environment greatly affect acceptance and effectiveness.",
+    "source_url": "https://example.com/training/Year1/management/繝輔ぅ繝ｼ繝峨ヰ繝・け/q-mgmt-y1-012",
+    "tags": ["Year1", "management", "繝輔ぅ繝ｼ繝峨ヰ繝・け", "繧ｿ繧､繝溘Φ繧ｰ"]
+  },
+  {
+    "id": "q-gov-y2-001",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "蜉ｴ蜍吶ヨ繝ｩ繝悶Ν蟇ｾ蠢懶ｼ磯閨ｷ縲∵・謌抵ｼ・,
+    "learning_goal_ja": "騾閨ｷ繝ｻ諛ｲ謌偵↑縺ｩ縺ｮ蜉ｴ蜍吶ヨ繝ｩ繝悶Ν縺ｮ驕ｩ蛻・↑蟇ｾ蠢懈焔鬆・ｒ逅・ｧ｣縺励∵ｳ慕噪繝ｪ繧ｹ繧ｯ繧貞屓驕ｿ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand appropriate procedures for labor troubles such as resignation and disciplinary action, and can avoid legal risks",
+    "common_misconception_ja": "騾閨ｷ縺ｯ閾ｪ逕ｱ縺ｫ縺輔○繧後・繧医＞",
+    "common_misconception_en": "Resignation can be allowed freely",
+    "difficulty": "medium",
+    "question_ja": "驛ｨ荳九°繧臥ｪ∫┯縺ｮ騾閨ｷ逕ｳ縺怜・縺後≠縺｣縺溷ｴ蜷医∵怙繧る←蛻・↑蛻晏虚蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate initial response when a subordinate suddenly submits a resignation?",
+    "choices_ja": [
+      "A. 蜊ｳ蠎ｧ縺ｫ謇ｿ隱阪☆繧・,
+      "B. 騾閨ｷ逅・罰繧堤｢ｺ隱阪＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ莠ｺ莠矩Κ髢縺ｨ騾｣謳ｺ縺励・←蛻・↑謇狗ｶ壹″繧帝ｲ繧√ｋ",
+      "C. 騾閨ｷ繧呈拠蜷ｦ縺吶ｋ",
+      "D. 辟｡隕悶☆繧・
+    ],
+    "choices_en": [
+      "A. Immediately approve",
+      "B. Confirm resignation reason, collaborate with HR if necessary, and proceed with appropriate procedures",
+      "C. Reject resignation",
+      "D. Ignore it"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲る閨ｷ逕ｳ縺怜・譎ゅ・縲・閨ｷ逅・罰繧堤｢ｺ隱阪＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ莠ｺ莠矩Κ髢縺ｨ騾｣謳ｺ縺励・←蛻・↑謇狗ｶ壹″繧帝ｲ繧√ｋ縺薙→縺碁㍾隕√ょ叉蠎ｧ謇ｿ隱搾ｼ・・峨・逅・罰謚頑升繧呈ｬ縺上よ拠蜷ｦ・・・峨・豕慕噪縺ｫ蝠城｡後′縺ゅｋ蝣ｴ蜷医′縺ゅｋ縲ら┌隕厄ｼ・・峨・荳埼←蛻・ょ感蜍吶ヨ繝ｩ繝悶Ν蟇ｾ蠢懊〒縺ｯ縲∵ｳ慕噪隕∽ｻｶ繧呈ｺ縺溘＠縺､縺､縲∫ｵ・ｹ斐→縺励※縺ｮ蟇ｾ蠢懊ｒ驕ｩ蛻・↓陦後≧蠢・ｦ√′縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. When resignation is submitted, confirming resignation reason, collaborating with HR if necessary, and proceeding with appropriate procedures is important. Immediate approval (A) lacks reason understanding. Rejection (C) may be legally problematic. Ignoring (D) is inappropriate. In labor trouble response, appropriate organizational response must be taken while meeting legal requirements.",
+    "source_url": "https://example.com/training/Year2/governance/蜉ｴ蜍吶ヨ繝ｩ繝悶Ν蟇ｾ蠢懶ｼ磯閨ｷ縲∵・謌抵ｼ・q-gov-y2-001",
+    "tags": ["Year2", "governance", "騾閨ｷ", "蜉ｴ蜍吶ヨ繝ｩ繝悶Ν"]
+  },
+  {
+    "id": "q-gov-y2-002",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "蜉ｴ蜍吶ヨ繝ｩ繝悶Ν蟇ｾ蠢懶ｼ磯閨ｷ縲∵・謌抵ｼ・,
+    "learning_goal_ja": "騾閨ｷ繝ｻ諛ｲ謌偵↑縺ｩ縺ｮ蜉ｴ蜍吶ヨ繝ｩ繝悶Ν縺ｮ驕ｩ蛻・↑蟇ｾ蠢懈焔鬆・ｒ逅・ｧ｣縺励∵ｳ慕噪繝ｪ繧ｹ繧ｯ繧貞屓驕ｿ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand appropriate procedures for labor troubles such as resignation and disciplinary action, and can avoid legal risks",
+    "common_misconception_ja": "騾閨ｷ縺ｯ閾ｪ逕ｱ縺ｫ縺輔○繧後・繧医＞",
+    "common_misconception_en": "Resignation can be allowed freely",
+    "difficulty": "hard",
+    "question_ja": "諛ｲ謌貞・蛻・ｒ讀懆ｨ弱☆繧矩圀縲∵怙繧る㍾隕√↑遒ｺ隱堺ｺ矩・・縺ｩ繧後°・・,
+    "question_en": "What is the most important confirmation item when considering disciplinary action?",
+    "choices_ja": [
+      "A. 諢滓ュ逧・↓蛻､譁ｭ縺吶ｋ",
+      "B. 蟆ｱ讌ｭ隕丞援縺ｫ蝓ｺ縺･縺乗・謌剃ｺ狗罰縺ｮ隧ｲ蠖捺ｧ縲∬ｨｼ諡縺ｮ譛臥┌縲∵焔邯壹″縺ｮ驕ｩ豁｣諤ｧ繧堤｢ｺ隱阪＠縲∽ｺｺ莠九・豕募漁縺ｨ騾｣謳ｺ縺吶ｋ",
+      "C. 諛ｲ謌偵ｒ蜊ｳ蠎ｧ縺ｫ螳溯｡後☆繧・,
+      "D. 險ｼ諡繧堤┌隕悶☆繧・
+    ],
+    "choices_en": [
+      "A. Judge emotionally",
+      "B. Confirm applicability of disciplinary grounds based on work rules, presence of evidence, and procedural propriety, and collaborate with HR/legal",
+      "C. Immediately execute disciplinary action",
+      "D. Ignore evidence"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲よ・謌貞・蛻・〒縺ｯ縲∝ｰｱ讌ｭ隕丞援縺ｫ蝓ｺ縺･縺乗・謌剃ｺ狗罰縺ｮ隧ｲ蠖捺ｧ縲∬ｨｼ諡縺ｮ譛臥┌縲∵焔邯壹″縺ｮ驕ｩ豁｣諤ｧ繧堤｢ｺ隱阪＠縲∽ｺｺ莠九・豕募漁縺ｨ騾｣謳ｺ縺吶ｋ縺薙→縺碁㍾隕√よ─諠・噪蛻､譁ｭ・・・峨ｄ蜊ｳ蠎ｧ螳溯｡鯉ｼ・・峨∬ｨｼ諡辟｡隕厄ｼ・・峨・豕慕噪繝ｪ繧ｹ繧ｯ繧帝ｫ倥ａ繧九ょ感蜍吶ヨ繝ｩ繝悶Ν蟇ｾ蠢懊〒縺ｯ縲∵ｳ慕噪譬ｹ諡縺ｨ驕ｩ豁｣謇狗ｶ壹″縺御ｸ榊庄谺縺ｧ縺ゅｊ縲∝句挨蛻､譁ｭ縺ｯ莠ｺ莠九・豕募漁縺ｸ繧ｨ繧ｹ繧ｫ繝ｬ繝ｼ繧ｷ繝ｧ繝ｳ縺吶ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. In disciplinary action, confirming applicability of disciplinary grounds based on work rules, presence of evidence, and procedural propriety, and collaborating with HR/legal is important. Emotional judgment (A), immediate execution (C), or ignoring evidence (D) increases legal risk. In labor trouble response, legal grounds and proper procedures are essential, and escalation to HR/legal for individual judgment is important.",
+    "source_url": "https://example.com/training/Year2/governance/蜉ｴ蜍吶ヨ繝ｩ繝悶Ν蟇ｾ蠢懶ｼ磯閨ｷ縲∵・謌抵ｼ・q-gov-y2-002",
+    "tags": ["Year2", "governance", "諛ｲ謌・, "蜉ｴ蜍吶ヨ繝ｩ繝悶Ν"]
+  },
+  {
+    "id": "q-gov-y2-003",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "蜉ｴ蜍吶ヨ繝ｩ繝悶Ν蟇ｾ蠢懶ｼ磯閨ｷ縲∵・謌抵ｼ・,
+    "learning_goal_ja": "騾閨ｷ繝ｻ諛ｲ謌偵↑縺ｩ縺ｮ蜉ｴ蜍吶ヨ繝ｩ繝悶Ν縺ｮ驕ｩ蛻・↑蟇ｾ蠢懈焔鬆・ｒ逅・ｧ｣縺励∵ｳ慕噪繝ｪ繧ｹ繧ｯ繧貞屓驕ｿ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand appropriate procedures for labor troubles such as resignation and disciplinary action, and can avoid legal risks",
+    "common_misconception_ja": "騾閨ｷ縺ｯ閾ｪ逕ｱ縺ｫ縺輔○繧後・繧医＞",
+    "common_misconception_en": "Resignation can be allowed freely",
+    "difficulty": "hard",
+    "question_ja": "騾閨ｷ譎ゅ・蠑輔″邯吶℃縺御ｸ榊香蛻・↑蝣ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response when handover at resignation is insufficient?",
+    "choices_ja": [
+      "A. 騾閨ｷ繧帝仆豁｢縺吶ｋ",
+      "B. 蜿ｯ閭ｽ縺ｪ遽・峇縺ｧ蠑輔″邯吶℃繧帝ｲ繧√∽ｸ崎ｶｳ蛻・・繝√・繝縺ｧ陬懷ｮ後☆繧玖ｨ育判繧堤ｫ九※繧具ｼ亥ｿ・ｦ√↓蠢懊§縺ｦ莠ｺ莠九→隱ｿ謨ｴ・・,
+      "C. 蠑輔″邯吶℃繧堤┌隕悶☆繧・,
+      "D. 騾閨ｷ閠・ｒ雋ｬ繧√ｋ"
+    ],
+    "choices_en": [
+      "A. Prevent resignation",
+      "B. Proceed with handover as much as possible and plan team complementation for deficiencies (adjust with HR if necessary)",
+      "C. Ignore handover",
+      "D. Blame the resigning employee"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょｼ輔″邯吶℃荳榊香蛻・凾縺ｯ縲∝庄閭ｽ縺ｪ遽・峇縺ｧ蠑輔″邯吶℃繧帝ｲ繧√∽ｸ崎ｶｳ蛻・・繝√・繝縺ｧ陬懷ｮ後☆繧玖ｨ育判繧堤ｫ九※繧九％縺ｨ縺碁←蛻・る閨ｷ髦ｻ豁｢・・・峨・豕慕噪縺ｫ蝠城｡後′縺ゅｋ蝣ｴ蜷医′縺ゅｋ縲ら┌隕厄ｼ・・峨ｄ雋ｬ繧√ｋ・・・峨・蟒ｺ險ｭ逧・〒縺ｪ縺・ょ感蜍吶ヨ繝ｩ繝悶Ν蟇ｾ蠢懊〒縺ｯ縲・閨ｷ閠・・讓ｩ蛻ｩ繧貞ｰ企㍾縺励▽縺､縲∫ｵ・ｹ斐→縺励※縺ｮ讌ｭ蜍咏ｶ咏ｶ壹ｒ遒ｺ菫昴☆繧九％縺ｨ縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. When handover is insufficient, proceeding with handover as much as possible and planning team complementation for deficiencies is appropriate. Preventing resignation (A) may be legally problematic. Ignoring (C) or blaming (D) are not constructive. In labor trouble response, respecting resigning employee's rights while ensuring business continuity as an organization is important.",
+    "source_url": "https://example.com/training/Year2/governance/蜉ｴ蜍吶ヨ繝ｩ繝悶Ν蟇ｾ蠢懶ｼ磯閨ｷ縲∵・謌抵ｼ・q-gov-y2-003",
+    "tags": ["Year2", "governance", "騾閨ｷ", "蠑輔″邯吶℃"]
+  },
+  {
+    "id": "q-gov-y2-004",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ蟇ｾ蠢懶ｼ磯＆蜿堺ｺ倶ｾ具ｼ・,
+    "learning_goal_ja": "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ驕募渚縺ｮ驕ｩ蛻・↑蟇ｾ蠢懈焔鬆・ｒ逅・ｧ｣縺励∝・逋ｺ髦ｲ豁｢遲悶ｒ遶区｡医〒縺阪ｋ",
+    "learning_goal_en": "Understand appropriate procedures for compliance violations and can plan recurrence prevention measures",
+    "common_misconception_ja": "驕募渚縺ｯ髫縺帙・繧医＞",
+    "common_misconception_en": "Violations can be hidden",
+    "difficulty": "medium",
+    "question_ja": "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ驕募渚縺檎匱隕壹＠縺溷ｴ蜷医∵怙繧る←蛻・↑蛻晏虚蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate initial response when a compliance violation is discovered?",
+    "choices_ja": [
+      "A. 驕募渚繧帝國縺・,
+      "B. 騾溘ｄ縺九↓蜀・Κ隱ｿ譟ｻ繧帝幕蟋九＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ螟夜Κ讖滄未縺ｫ蝣ｱ蜻翫＠縲∵ｳ募漁繝ｻ莠ｺ莠九→騾｣謳ｺ縺吶ｋ",
+      "C. 驕募渚繧堤┌隕悶☆繧・,
+      "D. 險ｼ諡繧堤ｴ譽・☆繧・
+    ],
+    "choices_en": [
+      "A. Hide the violation",
+      "B. Quickly start internal investigation, report to external authorities if necessary, and collaborate with legal/HR",
+      "C. Ignore the violation",
+      "D. Destroy evidence"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅさ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ驕募渚逋ｺ隕壽凾縺ｯ縲・溘ｄ縺九↓蜀・Κ隱ｿ譟ｻ繧帝幕蟋九＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ螟夜Κ讖滄未縺ｫ蝣ｱ蜻翫＠縲∵ｳ募漁繝ｻ莠ｺ莠九→騾｣謳ｺ縺吶ｋ縺薙→縺碁㍾隕√る國縺呻ｼ・・峨ｄ辟｡隕厄ｼ・・峨∬ｨｼ諡遐ｴ譽・ｼ・・峨・驕墓ｳ戊｡檎ぜ縺ｨ縺ｪ繧翫∝撫鬘後ｒ豺ｱ蛻ｻ蛹悶＆縺帙ｋ縲ゅさ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ蟇ｾ蠢懊〒縺ｯ縲・乗・諤ｧ縺ｨ霑・溘↑蟇ｾ蠢懊′菫｡鬆ｼ蝗槫ｾｩ縺ｨ蜀咲匱髦ｲ豁｢縺ｮ骰ｵ縺ｨ縺ｪ繧九・,
+    "explanation_en": "The correct answer is B. When compliance violation is discovered, quickly starting internal investigation, reporting to external authorities if necessary, and collaborating with legal/HR is important. Hiding (A), ignoring (C), or destroying evidence (D) become illegal acts and worsen problems. In compliance response, transparency and rapid response are keys to trust recovery and recurrence prevention.",
+    "source_url": "https://example.com/training/Year2/governance/繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ蟇ｾ蠢懶ｼ磯＆蜿堺ｺ倶ｾ具ｼ・q-gov-y2-004",
+    "tags": ["Year2", "governance", "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ", "驕募渚蟇ｾ蠢・]
+  },
+  {
+    "id": "q-gov-y2-005",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ蟇ｾ蠢懶ｼ磯＆蜿堺ｺ倶ｾ具ｼ・,
+    "learning_goal_ja": "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ驕募渚縺ｮ驕ｩ蛻・↑蟇ｾ蠢懈焔鬆・ｒ逅・ｧ｣縺励∝・逋ｺ髦ｲ豁｢遲悶ｒ遶区｡医〒縺阪ｋ",
+    "learning_goal_en": "Understand appropriate procedures for compliance violations and can plan recurrence prevention measures",
+    "common_misconception_ja": "驕募渚縺ｯ髫縺帙・繧医＞",
+    "common_misconception_en": "Violations can be hidden",
+    "difficulty": "hard",
+    "question_ja": "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ驕募渚縺ｮ蜀咲匱髦ｲ豁｢遲悶ｒ遶区｡医☆繧矩圀縲∵怙繧る㍾隕√↑隕∫ｴ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important element when planning recurrence prevention measures for compliance violations?",
+    "choices_ja": [
+      "A. 驕募渚閠・ｒ蜃ｦ鄂ｰ縺吶ｋ縺縺・,
+      "B. 驕募渚縺ｮ譬ｹ譛ｬ蜴溷屏繧貞・譫舌＠縲∝宛蠎ｦ繝ｻ繝励Ο繧ｻ繧ｹ繝ｻ謨呵ご縺ｮ謾ｹ蝟・ｒ邱丞粋逧・↓讀懆ｨ弱☆繧・,
+      "C. 菴輔ｂ縺励↑縺・,
+      "D. 驕募渚繧帝國縺・
+    ],
+    "choices_en": [
+      "A. Only punish violators",
+      "B. Analyze root causes of violations and comprehensively consider system, process, and education improvements",
+      "C. Do nothing",
+      "D. Hide violations"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ・逋ｺ髦ｲ豁｢遲悶〒縺ｯ縲・＆蜿阪・譬ｹ譛ｬ蜴溷屏繧貞・譫舌＠縲∝宛蠎ｦ繝ｻ繝励Ο繧ｻ繧ｹ繝ｻ謨呵ご縺ｮ謾ｹ蝟・ｒ邱丞粋逧・↓讀懆ｨ弱☆繧九％縺ｨ縺碁㍾隕√ょ・鄂ｰ縺ｮ縺ｿ・・・峨・蟇ｾ逞・凾豕輔ゆｽ輔ｂ縺励↑縺・ｼ・・峨ｄ髫縺呻ｼ・・峨・蜀咲匱繧呈魚縺上ゅさ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ蟇ｾ蠢懊〒縺ｯ縲∫ｵ・ｹ皮噪縺ｪ謾ｹ蝟・↓繧医ｊ縲∝酔讒倥・驕募渚繧帝亟縺蝉ｻ慕ｵ・∩繧呈ｧ狗ｯ峨☆繧九％縺ｨ縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. In recurrence prevention measures, analyzing root causes of violations and comprehensively considering system, process, and education improvements is important. Only punishment (A) is symptomatic treatment. Doing nothing (C) or hiding (D) causes recurrence. In compliance response, building mechanisms to prevent similar violations through organizational improvement is important.",
+    "source_url": "https://example.com/training/Year2/governance/繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ蟇ｾ蠢懶ｼ磯＆蜿堺ｺ倶ｾ具ｼ・q-gov-y2-005",
+    "tags": ["Year2", "governance", "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ", "蜀咲匱髦ｲ豁｢"]
+  },
+  {
+    "id": "q-gov-y2-006",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ蟇ｾ蠢懶ｼ磯＆蜿堺ｺ倶ｾ具ｼ・,
+    "learning_goal_ja": "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ驕募渚縺ｮ驕ｩ蛻・↑蟇ｾ蠢懈焔鬆・ｒ逅・ｧ｣縺励∝・逋ｺ髦ｲ豁｢遲悶ｒ遶区｡医〒縺阪ｋ",
+    "learning_goal_en": "Understand appropriate procedures for compliance violations and can plan recurrence prevention measures",
+    "common_misconception_ja": "驕募渚縺ｯ髫縺帙・繧医＞",
+    "common_misconception_en": "Violations can be hidden",
+    "difficulty": "hard",
+    "question_ja": "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ驕募渚縺ｮ蝣ｱ蜻翫ｒ蜿励￠縺溷ｴ蜷医∝ｱ蜻願・∈縺ｮ蟇ｾ蠢懊→縺励※譛繧る←蛻・↑縺ｮ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response to the reporter when receiving a compliance violation report?",
+    "choices_ja": [
+      "A. 蝣ｱ蜻願・ｒ雋ｬ繧√ｋ",
+      "B. 蝣ｱ蜻翫↓諢溯ｬ昴＠縲・←蛻・↑隱ｿ譟ｻ縺ｨ蟇ｾ蠢懊ｒ螳滓命縺励∝ｱ蠕ｩ繧帝亟豁｢縺吶ｋ",
+      "C. 蝣ｱ蜻翫ｒ辟｡隕悶☆繧・,
+      "D. 蝣ｱ蜻願・・諠・ｱ繧呈ｼ上ｉ縺・
+    ],
+    "choices_en": [
+      "A. Blame the reporter",
+      "B. Thank for the report, conduct appropriate investigation and response, and prevent retaliation",
+      "C. Ignore the report",
+      "D. Leak reporter information"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲る＆蜿榊ｱ蜻頑凾縺ｯ縲∝ｱ蜻翫↓諢溯ｬ昴＠縲・←蛻・↑隱ｿ譟ｻ縺ｨ蟇ｾ蠢懊ｒ螳滓命縺励∝ｱ蠕ｩ繧帝亟豁｢縺吶ｋ縺薙→縺碁㍾隕√りｲｬ繧√ｋ・・・峨ｄ辟｡隕厄ｼ・・峨∵ュ蝣ｱ貍乗ｴｩ・・・峨・蝣ｱ蜻頑枚蛹悶ｒ謳阪↑縺・ゅさ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ蟇ｾ蠢懊〒縺ｯ縲∝ｱ蜻翫＠繧・☆縺・腸蠅・ｒ邯ｭ謖√＠縲∝ｱ蜻願・ｒ菫晁ｭｷ縺吶ｋ縺薙→縺檎ｵ・ｹ斐・蛛･蜈ｨ諤ｧ縺ｫ縺､縺ｪ縺後ｋ縲・,
+    "explanation_en": "The correct answer is B. When violation is reported, thanking for the report, conducting appropriate investigation and response, and preventing retaliation is important. Blaming (A), ignoring (C), or leaking information (D) damages reporting culture. In compliance response, maintaining an environment where reporting is easy and protecting reporters leads to organizational health.",
+    "source_url": "https://example.com/training/Year2/governance/繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ蟇ｾ蠢懶ｼ磯＆蜿堺ｺ倶ｾ具ｼ・q-gov-y2-006",
+    "tags": ["Year2", "governance", "繧ｳ繝ｳ繝励Λ繧､繧｢繝ｳ繧ｹ", "蝣ｱ蜻雁ｯｾ蠢・]
+  },
+  {
+    "id": "q-gov-y2-007",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "繝ｪ繧ｹ繧ｯ邂｡逅・ｼ井ｺ区腐蟇ｾ蠢懊。CP・・,
+    "learning_goal_ja": "莠区腐蟇ｾ蠢懊→BCP・井ｺ区･ｭ邯咏ｶ夊ｨ育判・峨・蝓ｺ譛ｬ繧堤炊隗｣縺励∫ｷ頑･譎ゅ↓驕ｩ蛻・↓蟇ｾ蠢懊〒縺阪ｋ",
+    "learning_goal_en": "Understand basics of accident response and BCP (Business Continuity Plan), and can respond appropriately in emergencies",
+    "common_misconception_ja": "莠区腐縺ｯ襍ｷ縺阪↑縺・,
+    "common_misconception_en": "Accidents won't happen",
+    "difficulty": "medium",
+    "question_ja": "讌ｭ蜍吩ｸ翫・莠区腐縺檎匱逕溘＠縺溷ｴ蜷医∵怙繧る←蛻・↑蛻晏虚蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate initial response when a business accident occurs?",
+    "choices_ja": [
+      "A. 莠区腐繧帝國縺・,
+      "B. 莠ｺ逧・｢ｫ螳ｳ縺ｮ遒ｺ隱阪→螳牙・遒ｺ菫昴ｒ譛蜆ｪ蜈医＠縲・溘ｄ縺九↓蝣ｱ蜻翫＠縲∵園螳壹・謇矩・↓蠕薙≧",
+      "C. 莠区腐繧堤┌隕悶☆繧・,
+      "D. 險ｼ諡繧堤ｴ譽・☆繧・
+    ],
+    "choices_en": [
+      "A. Hide the accident",
+      "B. Prioritize confirming human damage and ensuring safety, quickly report, and follow prescribed procedures",
+      "C. Ignore the accident",
+      "D. Destroy evidence"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゆｺ区腐逋ｺ逕滓凾縺ｯ縲∽ｺｺ逧・｢ｫ螳ｳ縺ｮ遒ｺ隱阪→螳牙・遒ｺ菫昴ｒ譛蜆ｪ蜈医＠縲・溘ｄ縺九↓蝣ｱ蜻翫＠縲∵園螳壹・謇矩・↓蠕薙≧縺薙→縺碁㍾隕√る國縺呻ｼ・・峨ｄ辟｡隕厄ｼ・・峨∬ｨｼ諡遐ｴ譽・ｼ・・峨・驕墓ｳ戊｡檎ぜ縺ｨ縺ｪ繧翫∬｢ｫ螳ｳ繧呈僑螟ｧ縺輔○繧九ゅΜ繧ｹ繧ｯ邂｡逅・〒縺ｯ縲∬ｿ・溘↑蛻晏虚蟇ｾ蠢懊′陲ｫ螳ｳ縺ｮ譛蟆丞喧縺ｨ菫｡鬆ｼ邯ｭ謖√・骰ｵ縺ｨ縺ｪ繧九・,
+    "explanation_en": "The correct answer is B. When an accident occurs, prioritizing confirming human damage and ensuring safety, quickly reporting, and following prescribed procedures is important. Hiding (A), ignoring (C), or destroying evidence (D) become illegal acts and expand damage. In risk management, rapid initial response is key to minimizing damage and maintaining trust.",
+    "source_url": "https://example.com/training/Year2/governance/繝ｪ繧ｹ繧ｯ邂｡逅・ｼ井ｺ区腐蟇ｾ蠢懊。CP・・q-gov-y2-007",
+    "tags": ["Year2", "governance", "莠区腐蟇ｾ蠢・, "BCP"]
+  },
+  {
+    "id": "q-gov-y2-008",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "繝ｪ繧ｹ繧ｯ邂｡逅・ｼ井ｺ区腐蟇ｾ蠢懊。CP・・,
+    "learning_goal_ja": "莠区腐蟇ｾ蠢懊→BCP・井ｺ区･ｭ邯咏ｶ夊ｨ育判・峨・蝓ｺ譛ｬ繧堤炊隗｣縺励∫ｷ頑･譎ゅ↓驕ｩ蛻・↓蟇ｾ蠢懊〒縺阪ｋ",
+    "learning_goal_en": "Understand basics of accident response and BCP (Business Continuity Plan), and can respond appropriately in emergencies",
+    "common_misconception_ja": "莠区腐縺ｯ襍ｷ縺阪↑縺・,
+    "common_misconception_en": "Accidents won't happen",
+    "difficulty": "hard",
+    "question_ja": "BCP・井ｺ区･ｭ邯咏ｶ夊ｨ育判・峨ｒ遲門ｮ壹☆繧矩圀縲∵怙繧る㍾隕√↑隕∫ｴ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important element when formulating BCP (Business Continuity Plan)?",
+    "choices_ja": [
+      "A. 險育判繧剃ｽ懊ｋ縺縺・,
+      "B. 諠ｳ螳壹Μ繧ｹ繧ｯ縺ｮ豢励＞蜃ｺ縺励∝━蜈域･ｭ蜍吶・迚ｹ螳壹∽ｻ｣譖ｿ謇区ｮｵ縺ｮ貅門ｙ縲∬ｨ鍋ｷｴ縺ｮ螳滓命繧堤ｷ丞粋逧・↓讀懆ｨ弱☆繧・,
+      "C. 險育判繧剃ｽ懊ｉ縺ｪ縺・,
+      "D. 險育判繧帝國縺・
+    ],
+    "choices_en": [
+      "A. Only create a plan",
+      "B. Comprehensively consider risk identification, priority business identification, alternative preparation, and training implementation",
+      "C. Don't create a plan",
+      "D. Hide the plan"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲・CP遲門ｮ壹〒縺ｯ縲∵Φ螳壹Μ繧ｹ繧ｯ縺ｮ豢励＞蜃ｺ縺励∝━蜈域･ｭ蜍吶・迚ｹ螳壹∽ｻ｣譖ｿ謇区ｮｵ縺ｮ貅門ｙ縲∬ｨ鍋ｷｴ縺ｮ螳滓命繧堤ｷ丞粋逧・↓讀懆ｨ弱☆繧九％縺ｨ縺碁㍾隕√りｨ育判縺ｮ縺ｿ・・・峨・螳溯｡後〒縺阪↑縺・りｨ育判縺ｪ縺暦ｼ・・峨ｄ髫縺呻ｼ・・峨・邱頑･譎ゅ↓讖溯・縺励↑縺・ゅΜ繧ｹ繧ｯ邂｡逅・〒縺ｯ縲。CP縺ｮ遲門ｮ壹→螳壽悄逧・↑險鍋ｷｴ縺ｫ繧医ｊ縲∫ｷ頑･譎ゅ〒繧ゆｺ区･ｭ邯咏ｶ壹ｒ遒ｺ菫昴〒縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In BCP formulation, comprehensively considering risk identification, priority business identification, alternative preparation, and training implementation is important. Only plan (A) cannot be executed. No plan (C) or hiding (D) doesn't function in emergencies. In risk management, BCP formulation and regular training ensure business continuity even in emergencies.",
+    "source_url": "https://example.com/training/Year2/governance/繝ｪ繧ｹ繧ｯ邂｡逅・ｼ井ｺ区腐蟇ｾ蠢懊。CP・・q-gov-y2-008",
+    "tags": ["Year2", "governance", "BCP", "莠区･ｭ邯咏ｶ・]
+  },
+  {
+    "id": "q-gov-y2-009",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "繝ｪ繧ｹ繧ｯ邂｡逅・ｼ井ｺ区腐蟇ｾ蠢懊。CP・・,
+    "learning_goal_ja": "莠区腐蟇ｾ蠢懊→BCP・井ｺ区･ｭ邯咏ｶ夊ｨ育判・峨・蝓ｺ譛ｬ繧堤炊隗｣縺励∫ｷ頑･譎ゅ↓驕ｩ蛻・↓蟇ｾ蠢懊〒縺阪ｋ",
+    "learning_goal_en": "Understand basics of accident response and BCP (Business Continuity Plan), and can respond appropriately in emergencies",
+    "common_misconception_ja": "莠区腐縺ｯ襍ｷ縺阪↑縺・,
+    "common_misconception_en": "Accidents won't happen",
+    "difficulty": "hard",
+    "question_ja": "邱頑･莠区・逋ｺ逕滓凾縺ｫ莠区･ｭ邯咏ｶ壹ｒ遒ｺ菫昴☆繧九◆繧√∵怙繧る㍾隕√↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most important response to ensure business continuity when an emergency occurs?",
+    "choices_ja": [
+      "A. 菴輔ｂ縺励↑縺・,
+      "B. BCP縺ｫ蝓ｺ縺･縺阪∝━蜈域･ｭ蜍吶ｒ迚ｹ螳壹＠縲∽ｻ｣譖ｿ謇区ｮｵ繧呈ｴｻ逕ｨ縺励※邯咏ｶ壹ｒ蝗ｳ繧・,
+      "C. 縺吶∋縺ｦ縺ｮ讌ｭ蜍吶ｒ蛛懈ｭ｢縺吶ｋ",
+      "D. 險育判繧堤┌隕悶☆繧・
+    ],
+    "choices_en": [
+      "A. Do nothing",
+      "B. Based on BCP, identify priority business and continue using alternative means",
+      "C. Stop all business",
+      "D. Ignore the plan"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲らｷ頑･莠区・譎ゅ・縲。CP縺ｫ蝓ｺ縺･縺阪∝━蜈域･ｭ蜍吶ｒ迚ｹ螳壹＠縲∽ｻ｣譖ｿ謇区ｮｵ繧呈ｴｻ逕ｨ縺励※邯咏ｶ壹ｒ蝗ｳ繧九％縺ｨ縺碁㍾隕√ゆｽ輔ｂ縺励↑縺・ｼ・・峨ｄ蜈ｨ蛛懈ｭ｢・・・峨∬ｨ育判辟｡隕厄ｼ・・峨・莠区･ｭ邯咏ｶ壹ｒ謾ｾ譽・＠縺ｦ縺・ｋ縲ゅΜ繧ｹ繧ｯ邂｡逅・〒縺ｯ縲。CP縺ｮ螳溯｡後↓繧医ｊ縲∫ｷ頑･譎ゅ〒繧る㍾隕√↑讌ｭ蜍吶ｒ邯咏ｶ壹＠縲・｡ｧ螳｢繝ｻ繧ｹ繝・・繧ｯ繝帙Ν繝繝ｼ縺ｸ縺ｮ蠖ｱ髻ｿ繧呈怙蟆丞喧縺ｧ縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In emergencies, based on BCP, identifying priority business and continuing using alternative means is important. Doing nothing (A), stopping all (C), or ignoring plan (D) abandons business continuity. In risk management, executing BCP enables continuing important business even in emergencies and minimizing impact on customers and stakeholders.",
+    "source_url": "https://example.com/training/Year2/governance/繝ｪ繧ｹ繧ｯ邂｡逅・ｼ井ｺ区腐蟇ｾ蠢懊。CP・・q-gov-y2-009",
+    "tags": ["Year2", "governance", "BCP", "邱頑･蟇ｾ蠢・]
+  },
+  {
+    "id": "q-biz-y2-001",
+    "year": "Year2",
+    "category": "business",
+    "theme": "莠育ｮ礼ｮ｡逅・ｼ育ｭ門ｮ壹・FCST繝ｻ繧ｳ繧ｹ繝亥炎貂幢ｼ・,
+    "learning_goal_ja": "莠育ｮ礼ｭ門ｮ壹・FCST・井ｺ域ｸｬ・峨・繧ｳ繧ｹ繝亥炎貂帙・蝓ｺ譛ｬ繧堤炊隗｣縺励・←蛻・↑莠育ｮ礼ｮ｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basics of budget formulation, FCST (forecast), and cost reduction, and can manage budget appropriately",
+    "common_misconception_ja": "莠育ｮ励・螟壹ａ縺ｫ蜿悶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Budget should be taken generously",
+    "difficulty": "medium",
+    "question_ja": "莠育ｮ礼ｭ門ｮ壹↓縺翫＞縺ｦ縲∵怙繧る㍾隕√↑蜴溷援縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important principle in budget formulation?",
+    "choices_ja": [
+      "A. 螟壹ａ縺ｫ莠育ｮ励ｒ蜿悶ｋ",
+      "B. 莠区･ｭ險育判縺ｫ蝓ｺ縺･縺阪∫樟螳溽噪縺ｪ隕狗ｩ阪ｂ繧翫ｒ陦後＞縲∝ｮ壽悄逧・↓隕狗峩縺励・隱ｿ謨ｴ縺吶ｋ",
+      "C. 莠育ｮ励ｒ險ｭ螳壹＠縺ｪ縺・,
+      "D. 驕主悉縺ｮ螳溽ｸｾ繧堤┌隕悶☆繧・
+    ],
+    "choices_en": [
+      "A. Take generous budget",
+      "B. Based on business plan, make realistic estimates and regularly review and adjust",
+      "C. Don't set budget",
+      "D. Ignore past performance"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゆｺ育ｮ礼ｭ門ｮ壹〒縺ｯ縲∽ｺ区･ｭ險育判縺ｫ蝓ｺ縺･縺阪∫樟螳溽噪縺ｪ隕狗ｩ阪ｂ繧翫ｒ陦後＞縲∝ｮ壽悄逧・↓隕狗峩縺励・隱ｿ謨ｴ縺吶ｋ縺薙→縺碁㍾隕√ょ､壹ａ縺ｫ蜿悶ｋ・・・峨・辟｡鬧・ｒ逕溘・縲ゆｺ育ｮ励↑縺暦ｼ・・峨・邂｡逅・〒縺阪↑縺・る℃蜴ｻ螳溽ｸｾ辟｡隕厄ｼ・・峨・髱樒樟螳溽噪縲ゆｺ育ｮ礼ｮ｡逅・〒縺ｯ縲∬ｨ育判縺ｨ螳溽ｸｾ縺ｮ荵夜屬繧呈滑謠｡縺励・←蛻・↑隱ｿ謨ｴ縺ｫ繧医ｊ莠区･ｭ逶ｮ讓吶・驕疲・繧貞峙繧九・,
+    "explanation_en": "The correct answer is B. In budget formulation, making realistic estimates based on business plan and regularly reviewing and adjusting is important. Taking generously (A) creates waste. No budget (C) cannot be managed. Ignoring past performance (D) is unrealistic. In budget management, understanding gaps between plan and performance and achieving business goals through appropriate adjustment.",
+    "source_url": "https://example.com/training/Year2/business/莠育ｮ礼ｮ｡逅・ｼ育ｭ門ｮ壹・FCST繝ｻ繧ｳ繧ｹ繝亥炎貂幢ｼ・q-biz-y2-001",
+    "tags": ["Year2", "business", "莠育ｮ礼ｮ｡逅・, "FCST"]
+  },
+  {
+    "id": "q-biz-y2-002",
+    "year": "Year2",
+    "category": "business",
+    "theme": "莠育ｮ礼ｮ｡逅・ｼ育ｭ門ｮ壹・FCST繝ｻ繧ｳ繧ｹ繝亥炎貂幢ｼ・,
+    "learning_goal_ja": "莠育ｮ礼ｭ門ｮ壹・FCST・井ｺ域ｸｬ・峨・繧ｳ繧ｹ繝亥炎貂帙・蝓ｺ譛ｬ繧堤炊隗｣縺励・←蛻・↑莠育ｮ礼ｮ｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basics of budget formulation, FCST (forecast), and cost reduction, and can manage budget appropriately",
+    "common_misconception_ja": "莠育ｮ励・螟壹ａ縺ｫ蜿悶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Budget should be taken generously",
+    "difficulty": "hard",
+    "question_ja": "FCST・井ｺ域ｸｬ・峨→螳溽ｸｾ縺ｫ荵夜屬縺檎函縺倥◆蝣ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response when there is a gap between FCST (forecast) and actual performance?",
+    "choices_ja": [
+      "A. 莠域ｸｬ繧堤┌隕悶☆繧・,
+      "B. 荵夜屬縺ｮ蜴溷屏繧貞・譫舌＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ莠育ｮ励・譁ｽ遲悶ｒ隱ｿ謨ｴ縺吶ｋ",
+      "C. 螳溽ｸｾ繧堤┌隕悶☆繧・,
+      "D. 菴輔ｂ縺励↑縺・
+    ],
+    "choices_en": [
+      "A. Ignore forecast",
+      "B. Analyze gap causes and adjust budget/measures if necessary",
+      "C. Ignore actual performance",
+      "D. Do nothing"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲・CST縺ｨ螳溽ｸｾ縺ｮ荵夜屬譎ゅ・縲∽ｹ夜屬縺ｮ蜴溷屏繧貞・譫舌＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ莠育ｮ励・譁ｽ遲悶ｒ隱ｿ謨ｴ縺吶ｋ縺薙→縺碁←蛻・ゆｺ域ｸｬ辟｡隕厄ｼ・・峨ｄ螳溽ｸｾ辟｡隕厄ｼ・・峨∽ｽ輔ｂ縺励↑縺・ｼ・・峨・邂｡逅・ｒ謾ｾ譽・＠縺ｦ縺・ｋ縲ゆｺ育ｮ礼ｮ｡逅・〒縺ｯ縲∝ｮ壽悄逧・↑隕狗峩縺励→驕ｩ蛻・↑隱ｿ謨ｴ縺ｫ繧医ｊ縲∽ｺ区･ｭ逶ｮ讓吶・驕疲・蜿ｯ閭ｽ諤ｧ繧帝ｫ倥ａ繧九・,
+    "explanation_en": "The correct answer is B. When there is a gap between FCST and actual performance, analyzing gap causes and adjusting budget/measures if necessary is appropriate. Ignoring forecast (A), ignoring actual (C), or doing nothing (D) abandons management. In budget management, regular review and appropriate adjustment increase achievability of business goals.",
+    "source_url": "https://example.com/training/Year2/business/莠育ｮ礼ｮ｡逅・ｼ育ｭ門ｮ壹・FCST繝ｻ繧ｳ繧ｹ繝亥炎貂幢ｼ・q-biz-y2-002",
+    "tags": ["Year2", "business", "莠育ｮ礼ｮ｡逅・, "FCST"]
+  },
+  {
+    "id": "q-biz-y2-003",
+    "year": "Year2",
+    "category": "business",
+    "theme": "莠育ｮ礼ｮ｡逅・ｼ育ｭ門ｮ壹・FCST繝ｻ繧ｳ繧ｹ繝亥炎貂幢ｼ・,
+    "learning_goal_ja": "莠育ｮ礼ｭ門ｮ壹・FCST・井ｺ域ｸｬ・峨・繧ｳ繧ｹ繝亥炎貂帙・蝓ｺ譛ｬ繧堤炊隗｣縺励・←蛻・↑莠育ｮ礼ｮ｡逅・′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand basics of budget formulation, FCST (forecast), and cost reduction, and can manage budget appropriately",
+    "common_misconception_ja": "莠育ｮ励・螟壹ａ縺ｫ蜿悶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Budget should be taken generously",
+    "difficulty": "hard",
+    "question_ja": "繧ｳ繧ｹ繝亥炎貂帙ｒ讀懆ｨ弱☆繧矩圀縲∵怙繧る㍾隕√↑閠・・莠矩・・縺ｩ繧後°・・,
+    "question_en": "What is the most important consideration when considering cost reduction?",
+    "choices_ja": [
+      "A. 縺吶∋縺ｦ縺ｮ繧ｳ繧ｹ繝医ｒ蜑頑ｸ帙☆繧・,
+      "B. 莠区･ｭ萓｡蛟､縺ｸ縺ｮ蠖ｱ髻ｿ繧定ｩ穂ｾ｡縺励∝━蜈磯・ｽ阪ｒ縺､縺代※蜑頑ｸ帙ｒ讀懆ｨ弱☆繧・,
+      "C. 繧ｳ繧ｹ繝亥炎貂帙＠縺ｪ縺・,
+      "D. 蜩∬ｳｪ繧堤┌隕悶＠縺ｦ蜑頑ｸ帙☆繧・
+    ],
+    "choices_en": [
+      "A. Reduce all costs",
+      "B. Evaluate impact on business value, prioritize, and consider reduction",
+      "C. Don't reduce costs",
+      "D. Reduce ignoring quality"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅさ繧ｹ繝亥炎貂帙〒縺ｯ縲∽ｺ区･ｭ萓｡蛟､縺ｸ縺ｮ蠖ｱ髻ｿ繧定ｩ穂ｾ｡縺励∝━蜈磯・ｽ阪ｒ縺､縺代※蜑頑ｸ帙ｒ讀懆ｨ弱☆繧九％縺ｨ縺碁㍾隕√ゅ☆縺ｹ縺ｦ蜑頑ｸ幢ｼ・・峨ｄ蜩∬ｳｪ辟｡隕厄ｼ・・峨・莠区･ｭ萓｡蛟､繧呈錐縺ｪ縺・ょ炎貂帙＠縺ｪ縺・ｼ・・峨・讖滉ｼ壽錐螟ｱ縲ゆｺ育ｮ礼ｮ｡逅・〒縺ｯ縲∝柑邇・噪縺ｪ繧ｳ繧ｹ繝域ｧ矩繧貞ｮ溽樟縺励▽縺､縲∽ｺ区･ｭ萓｡蛟､繧堤ｶｭ謖√・蜷台ｸ翫＆縺帙ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. In cost reduction, evaluating impact on business value, prioritizing, and considering reduction is important. Reducing all (A) or ignoring quality (D) damages business value. Not reducing (C) is opportunity loss. In budget management, achieving efficient cost structure while maintaining and improving business value is important.",
+    "source_url": "https://example.com/training/Year2/business/莠育ｮ礼ｮ｡逅・ｼ育ｭ門ｮ壹・FCST繝ｻ繧ｳ繧ｹ繝亥炎貂幢ｼ・q-biz-y2-003",
+    "tags": ["Year2", "business", "莠育ｮ礼ｮ｡逅・, "繧ｳ繧ｹ繝亥炎貂・]
+  },
+  {
+    "id": "q-biz-y2-004",
+    "year": "Year2",
+    "category": "business",
+    "theme": "繝輔ぃ繧､繝翫Φ繧ｹ・井ｸ芽｡ｨ騾｣蜍包ｼ咤S/PL/CFO蠢懃畑・・,
+    "learning_goal_ja": "雋ｸ蛟溷ｯｾ辣ｧ陦ｨ・・S・峨∵錐逶願ｨ育ｮ玲嶌・・L・峨√く繝｣繝・す繝･繝輔Ο繝ｼ險育ｮ玲嶌・・F・峨・髢｢菫ゅｒ逅・ｧ｣縺励∬ｲ｡蜍吝・譫舌′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand relationships between balance sheet (BS), profit and loss statement (PL), and cash flow statement (CF), and can perform financial analysis",
+    "common_misconception_ja": "PL縺縺題ｦ九ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to look at PL",
+    "difficulty": "hard",
+    "question_ja": "雋｡蜍吩ｸ芽｡ｨ・・S/PL/CF・峨・髢｢菫ゅｒ逅・ｧ｣縺吶ｋ荳翫〒縲∵怙繧る㍾隕√↑隕ｳ轤ｹ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important perspective in understanding the relationship of financial statements (BS/PL/CF)?",
+    "choices_ja": [
+      "A. PL縺縺代ｒ隕九ｋ",
+      "B. 荳芽｡ｨ繧帝｣蜍輔＆縺帙※隕九ｋ縺薙→縺ｧ縲∝庶逶頑ｧ繝ｻ雋｡蜍吝▼蜈ｨ諤ｧ繝ｻ雉・≡郢ｰ繧翫ｒ邱丞粋逧・↓蛻､譁ｭ縺吶ｋ",
+      "C. BS縺縺代ｒ隕九ｋ",
+      "D. CF縺縺代ｒ隕九ｋ"
+    ],
+    "choices_en": [
+      "A. Only look at PL",
+      "B. Comprehensively judge profitability, financial health, and cash flow by viewing three statements in linkage",
+      "C. Only look at BS",
+      "D. Only look at CF"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲りｲ｡蜍吩ｸ芽｡ｨ縺ｯ騾｣蜍輔＠縺ｦ縺翫ｊ縲∽ｸ芽｡ｨ繧帝｣蜍輔＆縺帙※隕九ｋ縺薙→縺ｧ縲∝庶逶頑ｧ繝ｻ雋｡蜍吝▼蜈ｨ諤ｧ繝ｻ雉・≡郢ｰ繧翫ｒ邱丞粋逧・↓蛻､譁ｭ縺ｧ縺阪ｋ縲１L縺ｮ縺ｿ・・・峨ｄBS縺ｮ縺ｿ・・・峨，F縺ｮ縺ｿ・・・峨・蛛上ｊ縺後≠繧九ゅヵ繧｡繧､繝翫Φ繧ｹ縺ｧ縺ｯ縲∽ｸ芽｡ｨ縺ｮ髢｢菫ゅｒ逅・ｧ｣縺励∽ｼ∵･ｭ縺ｮ雋｡蜍咏憾豕√ｒ螟夊ｧ堤噪縺ｫ蛻・梵縺吶ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. Financial statements are linked, and viewing three statements in linkage enables comprehensive judgment of profitability, financial health, and cash flow. Only PL (A), only BS (C), or only CF (D) are biased. In finance, understanding relationships of three statements and multi-dimensionally analyzing company financial condition is important.",
+    "source_url": "https://example.com/training/Year2/business/繝輔ぃ繧､繝翫Φ繧ｹ・井ｸ芽｡ｨ騾｣蜍包ｼ咤S/PL/CFO蠢懃畑・・q-biz-y2-004",
+    "tags": ["Year2", "business", "繝輔ぃ繧､繝翫Φ繧ｹ", "荳芽｡ｨ騾｣蜍・]
+  },
+  {
+    "id": "q-biz-y2-005",
+    "year": "Year2",
+    "category": "business",
+    "theme": "繝輔ぃ繧､繝翫Φ繧ｹ・井ｸ芽｡ｨ騾｣蜍包ｼ咤S/PL/CFO蠢懃畑・・,
+    "learning_goal_ja": "雋ｸ蛟溷ｯｾ辣ｧ陦ｨ・・S・峨∵錐逶願ｨ育ｮ玲嶌・・L・峨√く繝｣繝・す繝･繝輔Ο繝ｼ險育ｮ玲嶌・・F・峨・髢｢菫ゅｒ逅・ｧ｣縺励∬ｲ｡蜍吝・譫舌′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand relationships between balance sheet (BS), profit and loss statement (PL), and cash flow statement (CF), and can perform financial analysis",
+    "common_misconception_ja": "PL縺縺題ｦ九ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to look at PL",
+    "difficulty": "hard",
+    "question_ja": "繧ｭ繝｣繝・す繝･繝輔Ο繝ｼ險育ｮ玲嶌・・F・峨↓縺翫＞縺ｦ縲∝霧讌ｭ豢ｻ蜍輔↓繧医ｋ繧ｭ繝｣繝・す繝･繝輔Ο繝ｼ縺碁㍾隕√↑逅・罰縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the reason why cash flow from operating activities is important in the cash flow statement (CF)?",
+    "choices_ja": [
+      "A. 隕九ｋ蠢・ｦ√′縺ｪ縺・,
+      "B. 譛ｬ讌ｭ縺ｧ縺ｮ雉・≡蜑ｵ蜃ｺ閭ｽ蜉帙ｒ遉ｺ縺励∽ｺ区･ｭ縺ｮ謖∫ｶ壼庄閭ｽ諤ｧ繧貞愛譁ｭ縺ｧ縺阪ｋ",
+      "C. 謚戊ｳ・ｴｻ蜍輔□縺代ｒ隕九ｌ縺ｰ繧医＞",
+      "D. 雋｡蜍呎ｴｻ蜍輔□縺代ｒ隕九ｌ縺ｰ繧医＞"
+    ],
+    "choices_en": [
+      "A. Not necessary to look at",
+      "B. Shows fund generation capability from core business and enables judging business sustainability",
+      "C. Only need to look at investing activities",
+      "D. Only need to look at financing activities"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ霧讌ｭ豢ｻ蜍輔↓繧医ｋ繧ｭ繝｣繝・す繝･繝輔Ο繝ｼ縺ｯ縲∵悽讌ｭ縺ｧ縺ｮ雉・≡蜑ｵ蜃ｺ閭ｽ蜉帙ｒ遉ｺ縺励∽ｺ区･ｭ縺ｮ謖∫ｶ壼庄閭ｽ諤ｧ繧貞愛譁ｭ縺ｧ縺阪ｋ縲りｦ九ｋ蠢・ｦ√↑縺暦ｼ・・峨ｄ謚戊ｳ・ｴｻ蜍輔・縺ｿ・・・峨∬ｲ｡蜍呎ｴｻ蜍輔・縺ｿ・・・峨・隱､繧翫ゅヵ繧｡繧､繝翫Φ繧ｹ縺ｧ縺ｯ縲∝霧讌ｭCF縺後・繝ｩ繧ｹ縺ｧ螳牙ｮ壹＠縺ｦ縺・ｋ縺薙→縺御ｺ区･ｭ縺ｮ蛛･蜈ｨ諤ｧ繧堤､ｺ縺励∬ｳ・≡郢ｰ繧翫・螳牙ｮ壹↓縺､縺ｪ縺後ｋ縲・,
+    "explanation_en": "The correct answer is B. Cash flow from operating activities shows fund generation capability from core business and enables judging business sustainability. Not necessary (A), only investing (C), or only financing (D) are incorrect. In finance, positive and stable operating CF indicates business health and leads to stable cash flow management.",
+    "source_url": "https://example.com/training/Year2/business/繝輔ぃ繧､繝翫Φ繧ｹ・井ｸ芽｡ｨ騾｣蜍包ｼ咤S/PL/CFO蠢懃畑・・q-biz-y2-005",
+    "tags": ["Year2", "business", "繝輔ぃ繧､繝翫Φ繧ｹ", "繧ｭ繝｣繝・す繝･繝輔Ο繝ｼ"]
+  },
+  {
+    "id": "q-biz-y2-006",
+    "year": "Year2",
+    "category": "business",
+    "theme": "繝輔ぃ繧､繝翫Φ繧ｹ・井ｸ芽｡ｨ騾｣蜍包ｼ咤S/PL/CFO蠢懃畑・・,
+    "learning_goal_ja": "雋ｸ蛟溷ｯｾ辣ｧ陦ｨ・・S・峨∵錐逶願ｨ育ｮ玲嶌・・L・峨√く繝｣繝・す繝･繝輔Ο繝ｼ險育ｮ玲嶌・・F・峨・髢｢菫ゅｒ逅・ｧ｣縺励∬ｲ｡蜍吝・譫舌′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand relationships between balance sheet (BS), profit and loss statement (PL), and cash flow statement (CF), and can perform financial analysis",
+    "common_misconception_ja": "PL縺縺題ｦ九ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to look at PL",
+    "difficulty": "hard",
+    "question_ja": "雋ｸ蛟溷ｯｾ辣ｧ陦ｨ・・S・峨→謳咲寢險育ｮ玲嶌・・L・峨・髢｢菫ゅ→縺励※縲∵怙繧る←蛻・↑隱ｬ譏弱・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate explanation of the relationship between balance sheet (BS) and profit and loss statement (PL)?",
+    "choices_ja": [
+      "A. 辟｡髢｢菫・,
+      "B. PL縺ｮ蛻ｩ逶翫′BS縺ｮ邏碑ｳ・肇縺ｫ蜿肴丐縺輔ｌ縲。S縺ｮ雉・肇繝ｻ雋蛯ｵ縺ｮ螟牙喧縺訓L縺ｫ蠖ｱ髻ｿ縺吶ｋ",
+      "C. BS縺縺代ｒ隕九ｌ縺ｰ繧医＞",
+      "D. PL縺縺代ｒ隕九ｌ縺ｰ繧医＞"
+    ],
+    "choices_en": [
+      "A. Unrelated",
+      "B. PL profit is reflected in BS equity, and BS asset/liability changes affect PL",
+      "C. Only need to look at BS",
+      "D. Only need to look at PL"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲１L縺ｮ蛻ｩ逶翫′BS縺ｮ邏碑ｳ・肇縺ｫ蜿肴丐縺輔ｌ縲。S縺ｮ雉・肇繝ｻ雋蛯ｵ縺ｮ螟牙喧縺訓L縺ｫ蠖ｱ髻ｿ縺吶ｋ縲ら┌髢｢菫ゑｼ・・峨ｄBS縺ｮ縺ｿ・・・峨￣L縺ｮ縺ｿ・・・峨・隱､繧翫ゅヵ繧｡繧､繝翫Φ繧ｹ縺ｧ縺ｯ縲∽ｸ芽｡ｨ縺ｮ騾｣蜍暮未菫ゅｒ逅・ｧ｣縺励∬ｲ｡蜍咏憾豕√ｒ邱丞粋逧・↓謚頑升縺吶ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. PL profit is reflected in BS equity, and BS asset/liability changes affect PL. Unrelated (A), only BS (C), or only PL (D) are incorrect. In finance, understanding linkage relationships of three statements and comprehensively grasping financial condition is important.",
+    "source_url": "https://example.com/training/Year2/business/繝輔ぃ繧､繝翫Φ繧ｹ・井ｸ芽｡ｨ騾｣蜍包ｼ咤S/PL/CFO蠢懃畑・・q-biz-y2-006",
+    "tags": ["Year2", "business", "繝輔ぃ繧､繝翫Φ繧ｹ", "荳芽｡ｨ騾｣蜍・]
+  },
+  {
+    "id": "q-biz-y2-007",
+    "year": "Year2",
+    "category": "business",
+    "theme": "AI繝ｻDX豢ｻ逕ｨ",
+    "learning_goal_ja": "AI繝ｻDX繧呈･ｭ蜍吶↓豢ｻ逕ｨ縺励∵･ｭ蜍吝柑邇・喧繧・ｾ｡蛟､蜑ｵ蜃ｺ繧貞ｮ溽樟縺ｧ縺阪ｋ",
+    "learning_goal_en": "Can utilize AI and DX in business and achieve business efficiency and value creation",
+    "common_misconception_ja": "AI繝ｻDX縺ｯ謚陦馴Κ髢縺縺代・繧ゅ・",
+    "common_misconception_en": "AI and DX are only for technical departments",
+    "difficulty": "medium",
+    "question_ja": "AI繝ｻDX繧呈･ｭ蜍吶↓豢ｻ逕ｨ縺吶ｋ髫帙∵怙繧る㍾隕√↑繧｢繝励Ο繝ｼ繝√・縺ｩ繧後°・・,
+    "question_en": "What is the most important approach when utilizing AI and DX in business?",
+    "choices_ja": [
+      "A. 謚陦馴Κ髢縺ｫ莉ｻ縺帙ｋ縺縺・,
+      "B. 讌ｭ蜍呵ｪｲ鬘後ｒ譏守｢ｺ縺ｫ縺励、I繝ｻDX縺ｮ驕ｩ逕ｨ蜿ｯ閭ｽ諤ｧ繧呈､懆ｨ弱＠縲∵ｮｵ髫守噪縺ｫ蟆主・縺吶ｋ",
+      "C. 縺吶＄縺ｫ蜈ｨ遉ｾ螻暮幕縺吶ｋ",
+      "D. AI繝ｻDX繧剃ｽｿ繧上↑縺・
+    ],
+    "choices_en": [
+      "A. Only leave to technical department",
+      "B. Clarify business challenges, consider AI/DX applicability, and introduce gradually",
+      "C. Immediately roll out company-wide",
+      "D. Don't use AI/DX"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲・I繝ｻDX豢ｻ逕ｨ縺ｧ縺ｯ縲∵･ｭ蜍呵ｪｲ鬘後ｒ譏守｢ｺ縺ｫ縺励・←逕ｨ蜿ｯ閭ｽ諤ｧ繧呈､懆ｨ弱＠縲∵ｮｵ髫守噪縺ｫ蟆主・縺吶ｋ縺薙→縺碁㍾隕√よ橿陦馴Κ髢莉ｻ縺幢ｼ・・峨ｄ蜈ｨ遉ｾ螻暮幕・・・峨∽ｽｿ繧上↑縺・ｼ・・峨・蜉ｹ譫懃噪縺ｧ縺ｪ縺・・I繝ｻDX豢ｻ逕ｨ縺ｧ縺ｯ縲∬ｪｲ鬘後≠繧翫″縺ｧ謚陦薙ｒ驕ｸ縺ｳ縲∫ｵ・ｹ斐・螟蛾擠縺ｨ菴ｵ縺帙※謗ｨ騾ｲ縺吶ｋ縺薙→縺梧・蜉溘・骰ｵ縺ｨ縺ｪ繧九・,
+    "explanation_en": "The correct answer is B. In AI/DX utilization, clarifying business challenges, considering applicability, and introducing gradually is important. Leaving to technical (A), company-wide rollout (C), or not using (D) are not effective. In AI/DX utilization, choosing technology problem-first and promoting with organizational transformation is key to success.",
+    "source_url": "https://example.com/training/Year2/business/AI繝ｻDX豢ｻ逕ｨ/q-biz-y2-007",
+    "tags": ["Year2", "business", "AI", "DX"]
+  },
+  {
+    "id": "q-biz-y2-008",
+    "year": "Year2",
+    "category": "business",
+    "theme": "AI繝ｻDX豢ｻ逕ｨ",
+    "learning_goal_ja": "AI繝ｻDX繧呈･ｭ蜍吶↓豢ｻ逕ｨ縺励∵･ｭ蜍吝柑邇・喧繧・ｾ｡蛟､蜑ｵ蜃ｺ繧貞ｮ溽樟縺ｧ縺阪ｋ",
+    "learning_goal_en": "Can utilize AI and DX in business and achieve business efficiency and value creation",
+    "common_misconception_ja": "AI繝ｻDX縺ｯ謚陦馴Κ髢縺縺代・繧ゅ・",
+    "common_misconception_en": "AI and DX are only for technical departments",
+    "difficulty": "hard",
+    "question_ja": "AI繝ｻDX蟆主・縺ｮ謌仙粥隕∝屏縺ｨ縺励※縲∵怙繧る㍾隕√↑縺ｮ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important success factor for AI/DX introduction?",
+    "choices_ja": [
+      "A. 譛譁ｰ謚陦薙ｒ驕ｸ縺ｶ縺縺・,
+      "B. 邨・ｹ疲枚蛹悶・螟蛾擠縲∽ｺｺ譚占ご謌舌√・繝ｭ繧ｻ繧ｹ謾ｹ蝟・ｒ謚陦灘ｰ主・縺ｨ菴ｵ縺帙※謗ｨ騾ｲ縺吶ｋ",
+      "C. 謚陦薙□縺代ｒ蟆主・縺吶ｋ",
+      "D. 蟆主・縺励↑縺・
+    ],
+    "choices_en": [
+      "A. Only choose latest technology",
+      "B. Promote organizational culture transformation, human resource development, and process improvement along with technology introduction",
+      "C. Only introduce technology",
+      "D. Don't introduce"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲・I繝ｻDX蟆主・縺ｮ謌仙粥縺ｫ縺ｯ縲∫ｵ・ｹ疲枚蛹悶・螟蛾擠縲∽ｺｺ譚占ご謌舌√・繝ｭ繧ｻ繧ｹ謾ｹ蝟・ｒ謚陦灘ｰ主・縺ｨ菴ｵ縺帙※謗ｨ騾ｲ縺吶ｋ縺薙→縺碁㍾隕√よ怙譁ｰ謚陦薙・縺ｿ・・・峨ｄ謚陦薙・縺ｿ・・・峨・蜉ｹ譫懊′髯仙ｮ夂噪縲ょｰ主・縺励↑縺・ｼ・・峨・讖滉ｼ壽錐螟ｱ縲・I繝ｻDX豢ｻ逕ｨ縺ｧ縺ｯ縲∵橿陦薙→邨・ｹ泌､蛾擠縺ｮ荳｡霈ｪ縺ｫ繧医ｊ縲∵戟邯夂噪縺ｪ萓｡蛟､蜑ｵ蜃ｺ繧貞ｮ溽樟縺ｧ縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. Success in AI/DX introduction requires promoting organizational culture transformation, human resource development, and process improvement along with technology introduction. Only latest technology (A) or only technology (C) have limited effectiveness. Not introducing (D) is opportunity loss. In AI/DX utilization, both technology and organizational transformation enable sustainable value creation.",
+    "source_url": "https://example.com/training/Year2/business/AI繝ｻDX豢ｻ逕ｨ/q-biz-y2-008",
+    "tags": ["Year2", "business", "AI", "DX"]
+  },
+  {
+    "id": "q-biz-y2-009",
+    "year": "Year2",
+    "category": "business",
+    "theme": "AI繝ｻDX豢ｻ逕ｨ",
+    "learning_goal_ja": "AI繝ｻDX繧呈･ｭ蜍吶↓豢ｻ逕ｨ縺励∵･ｭ蜍吝柑邇・喧繧・ｾ｡蛟､蜑ｵ蜃ｺ繧貞ｮ溽樟縺ｧ縺阪ｋ",
+    "learning_goal_en": "Can utilize AI and DX in business and achieve business efficiency and value creation",
+    "common_misconception_ja": "AI繝ｻDX縺ｯ謚陦馴Κ髢縺縺代・繧ゅ・",
+    "common_misconception_en": "AI and DX are only for technical departments",
+    "difficulty": "hard",
+    "question_ja": "AI繝ｻDX蟆主・蠕後・蜉ｹ譫懈ｸｬ螳壹↓縺翫＞縺ｦ縲∵怙繧る㍾隕√↑謖・ｨ吶・縺ｩ繧後°・・,
+    "question_en": "What is the most important indicator in measuring effects after AI/DX introduction?",
+    "choices_ja": [
+      "A. 謚陦薙・譁ｰ縺励＆縺縺・,
+      "B. 讌ｭ蜍吝柑邇・喧縲√さ繧ｹ繝亥炎貂帙・｡ｧ螳｢萓｡蛟､蜷台ｸ翫↑縺ｩ縲∝ｰ主・逶ｮ逧・↓蠢懊§縺滓欠讓吶〒貂ｬ螳壹☆繧・,
+      "C. 貂ｬ螳壹＠縺ｪ縺・,
+      "D. 蟆主・繧ｳ繧ｹ繝医□縺代ｒ隕九ｋ"
+    ],
+    "choices_en": [
+      "A. Only technology newness",
+      "B. Measure with indicators corresponding to introduction objectives such as business efficiency, cost reduction, customer value improvement",
+      "C. Don't measure",
+      "D. Only look at introduction cost"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ柑譫懈ｸｬ螳壹〒縺ｯ縲∵･ｭ蜍吝柑邇・喧縲√さ繧ｹ繝亥炎貂帙・｡ｧ螳｢萓｡蛟､蜷台ｸ翫↑縺ｩ縲∝ｰ主・逶ｮ逧・↓蠢懊§縺滓欠讓吶〒貂ｬ螳壹☆繧九％縺ｨ縺碁㍾隕√よ橿陦薙・譁ｰ縺励＆縺ｮ縺ｿ・・・峨ｄ繧ｳ繧ｹ繝医・縺ｿ・・・峨∵ｸｬ螳壹＠縺ｪ縺・ｼ・・峨・蜉ｹ譫懊ｒ謚頑升縺ｧ縺阪↑縺・・I繝ｻDX豢ｻ逕ｨ縺ｧ縺ｯ縲∝ｮ夐㍼逧・↑蜉ｹ譫懈ｸｬ螳壹↓繧医ｊ縲∫ｶ咏ｶ夂噪縺ｪ謾ｹ蝟・→謚戊ｳ・ｯｾ蜉ｹ譫懊ｒ遒ｺ隱阪〒縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In effect measurement, measuring with indicators corresponding to introduction objectives such as business efficiency, cost reduction, customer value improvement is important. Only technology newness (A), only cost (D), or not measuring (C) cannot grasp effects. In AI/DX utilization, quantitative effect measurement enables confirming continuous improvement and ROI.",
+    "source_url": "https://example.com/training/Year2/business/AI繝ｻDX豢ｻ逕ｨ/q-biz-y2-009",
+    "tags": ["Year2", "business", "AI", "DX"]
+  },
+  {
+    "id": "q-biz-y2-010",
+    "year": "Year2",
+    "category": "business",
+    "theme": "讓ｪ譁ｭ隱ｲ鬘瑚ｧ｣豎ｺ・医き繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・迚茨ｼ・,
+    "learning_goal_ja": "繧ｫ繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・繧堤炊隗｣縺励∵ｨｪ譁ｭ逧・↑隱ｲ鬘瑚ｧ｣豎ｺ縺後〒縺阪ｋ",
+    "learning_goal_en": "Understand customer journey and can solve cross-functional challenges",
+    "common_misconception_ja": "閾ｪ驛ｨ髢縺縺代ｒ隕九ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to look at own department",
+    "difficulty": "hard",
+    "question_ja": "繧ｫ繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・繧呈隼蝟・☆繧矩圀縲∵怙繧る㍾隕√↑繧｢繝励Ο繝ｼ繝√・縺ｩ繧後°・・,
+    "question_en": "What is the most important approach when improving customer journey?",
+    "choices_ja": [
+      "A. 閾ｪ驛ｨ髢縺縺代ｒ謾ｹ蝟・☆繧・,
+      "B. 鬘ｧ螳｢縺ｮ菴馴ｨ灘・菴薙ｒ謚頑升縺励・Κ髢讓ｪ譁ｭ縺ｧ騾｣謳ｺ縺励※謾ｹ蝟・☆繧・,
+      "C. 鬘ｧ螳｢繧堤┌隕悶☆繧・,
+      "D. 謾ｹ蝟・＠縺ｪ縺・
+    ],
+    "choices_en": [
+      "A. Only improve own department",
+      "B. Grasp entire customer experience and improve through cross-functional collaboration",
+      "C. Ignore customers",
+      "D. Don't improve"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅき繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・謾ｹ蝟・〒縺ｯ縲・｡ｧ螳｢縺ｮ菴馴ｨ灘・菴薙ｒ謚頑升縺励・Κ髢讓ｪ譁ｭ縺ｧ騾｣謳ｺ縺励※謾ｹ蝟・☆繧九％縺ｨ縺碁㍾隕√り・驛ｨ髢縺ｮ縺ｿ・・・峨ｄ鬘ｧ螳｢辟｡隕厄ｼ・・峨∵隼蝟・＠縺ｪ縺・ｼ・・峨・蜉ｹ譫懃噪縺ｧ縺ｪ縺・よｨｪ譁ｭ隱ｲ鬘瑚ｧ｣豎ｺ縺ｧ縺ｯ縲・｡ｧ螳｢隕也せ縺ｧ蜈ｨ菴捺怙驕ｩ繧貞峙繧翫・Κ髢髢薙・騾｣謳ｺ縺ｫ繧医ｊ萓｡蛟､繧呈怙螟ｧ蛹悶〒縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In customer journey improvement, grasping entire customer experience and improving through cross-functional collaboration is important. Only own department (A), ignoring customers (C), or not improving (D) are not effective. In cross-functional problem solving, optimizing overall from customer perspective and maximizing value through inter-departmental collaboration.",
+    "source_url": "https://example.com/training/Year2/business/讓ｪ譁ｭ隱ｲ鬘瑚ｧ｣豎ｺ・医き繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・迚茨ｼ・q-biz-y2-010",
+    "tags": ["Year2", "business", "繧ｫ繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・", "讓ｪ譁ｭ隱ｲ鬘・]
+  },
+  {
+    "id": "q-biz-y2-011",
+    "year": "Year2",
+    "category": "business",
+    "theme": "讓ｪ譁ｭ隱ｲ鬘瑚ｧ｣豎ｺ・医き繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・迚茨ｼ・,
+    "learning_goal_ja": "繧ｫ繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・繧堤炊隗｣縺励∵ｨｪ譁ｭ逧・↑隱ｲ鬘瑚ｧ｣豎ｺ縺後〒縺阪ｋ",
+    "learning_goal_en": "Understand customer journey and can solve cross-functional challenges",
+    "common_misconception_ja": "閾ｪ驛ｨ髢縺縺代ｒ隕九ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to look at own department",
+    "difficulty": "hard",
+    "question_ja": "讓ｪ譁ｭ逧・↑隱ｲ鬘瑚ｧ｣豎ｺ縺ｫ縺翫＞縺ｦ縲∵怙繧る㍾隕√↑隕∫ｴ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important element in cross-functional problem solving?",
+    "choices_ja": [
+      "A. 閾ｪ驛ｨ髢縺ｮ蛻ｩ逶翫□縺代ｒ閠・∴繧・,
+      "B. 蜈ｱ騾壹・逶ｮ讓吶ｒ險ｭ螳壹＠縲・Κ髢髢薙・騾｣謳ｺ縺ｨ諠・ｱ蜈ｱ譛峨ｒ菫・ｲ縺吶ｋ",
+      "C. 驛ｨ髢髢薙〒遶ｶ莠峨＆縺帙ｋ",
+      "D. 騾｣謳ｺ縺励↑縺・
+    ],
+    "choices_en": [
+      "A. Only think about own department's benefit",
+      "B. Set common goals and promote inter-departmental collaboration and information sharing",
+      "C. Make departments compete",
+      "D. Don't collaborate"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲よｨｪ譁ｭ隱ｲ鬘瑚ｧ｣豎ｺ縺ｧ縺ｯ縲∝・騾壹・逶ｮ讓吶ｒ險ｭ螳壹＠縲・Κ髢髢薙・騾｣謳ｺ縺ｨ諠・ｱ蜈ｱ譛峨ｒ菫・ｲ縺吶ｋ縺薙→縺碁㍾隕√り・驛ｨ髢蛻ｩ逶翫・縺ｿ・・・峨ｄ遶ｶ莠会ｼ・・峨・｣謳ｺ縺ｪ縺暦ｼ・・峨・蜈ｨ菴捺怙驕ｩ繧貞ｮ溽樟縺ｧ縺阪↑縺・よｨｪ譁ｭ隱ｲ鬘瑚ｧ｣豎ｺ縺ｧ縺ｯ縲・｡ｧ螳｢萓｡蛟､縺ｮ譛螟ｧ蛹悶ｒ蜈ｱ騾夂岼讓吶→縺励・Κ髢髢薙・蜊泌ロ縺ｫ繧医ｊ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ繧貞卸蜃ｺ縺ｧ縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In cross-functional problem solving, setting common goals and promoting inter-departmental collaboration and information sharing is important. Only own department benefit (A), competition (C), or no collaboration (D) cannot achieve overall optimization. In cross-functional problem solving, maximizing customer value as common goal and creating innovation through inter-departmental cooperation.",
+    "source_url": "https://example.com/training/Year2/business/讓ｪ譁ｭ隱ｲ鬘瑚ｧ｣豎ｺ・医き繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・迚茨ｼ・q-biz-y2-011",
+    "tags": ["Year2", "business", "讓ｪ譁ｭ隱ｲ鬘・, "騾｣謳ｺ"]
+  },
+  {
+    "id": "q-biz-y2-012",
+    "year": "Year2",
+    "category": "business",
+    "theme": "讓ｪ譁ｭ隱ｲ鬘瑚ｧ｣豎ｺ・医き繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・迚茨ｼ・,
+    "learning_goal_ja": "繧ｫ繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・繧堤炊隗｣縺励∵ｨｪ譁ｭ逧・↑隱ｲ鬘瑚ｧ｣豎ｺ縺後〒縺阪ｋ",
+    "learning_goal_en": "Understand customer journey and can solve cross-functional challenges",
+    "common_misconception_ja": "閾ｪ驛ｨ髢縺縺代ｒ隕九ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Only need to look at own department",
+    "difficulty": "hard",
+    "question_ja": "繧ｫ繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・縺ｮ隱ｲ鬘後ｒ迚ｹ螳壹☆繧矩圀縲∵怙繧ょ柑譫懃噪縺ｪ譁ｹ豕輔・縺ｩ繧後°・・,
+    "question_en": "What is the most effective method when identifying customer journey challenges?",
+    "choices_ja": [
+      "A. 謗ｨ貂ｬ縺吶ｋ",
+      "B. 鬘ｧ螳｢縺ｮ螢ｰ縲√ョ繝ｼ繧ｿ蛻・梵縲∝推繧ｿ繝・メ繝昴う繝ｳ繝医・隱ｿ譟ｻ繧堤ｵ・∩蜷医ｏ縺帙※迚ｹ螳壹☆繧・,
+      "C. 閾ｪ驛ｨ髢縺ｮ驛ｽ蜷医〒豎ｺ繧√ｋ",
+      "D. 隱ｲ鬘後ｒ迚ｹ螳壹＠縺ｪ縺・
+    ],
+    "choices_en": [
+      "A. Guess",
+      "B. Identify by combining customer voices, data analysis, and investigation of each touchpoint",
+      "C. Decide based on own department's convenience",
+      "D. Don't identify challenges"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲りｪｲ鬘檎音螳壹〒縺ｯ縲・｡ｧ螳｢縺ｮ螢ｰ縲√ョ繝ｼ繧ｿ蛻・梵縲∝推繧ｿ繝・メ繝昴う繝ｳ繝医・隱ｿ譟ｻ繧堤ｵ・∩蜷医ｏ縺帙※迚ｹ螳壹☆繧九％縺ｨ縺悟柑譫懃噪縲よ耳貂ｬ・・・峨ｄ閾ｪ驛ｨ髢驛ｽ蜷茨ｼ・・峨∫音螳壹＠縺ｪ縺・ｼ・・峨・隱､縺｣縺溯ｪｲ鬘後↓蜿悶ｊ邨・・縺薙→縺ｫ縺ｪ繧九よｨｪ譁ｭ隱ｲ鬘瑚ｧ｣豎ｺ縺ｧ縺ｯ縲・｡ｧ螳｢隕也せ縺ｧ縺ｮ隱ｲ鬘檎音螳壹↓繧医ｊ縲∝柑譫懃噪縺ｪ謾ｹ蝟・命遲悶ｒ遶区｡医〒縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In challenge identification, identifying by combining customer voices, data analysis, and investigation of each touchpoint is effective. Guessing (A), own department convenience (C), or not identifying (D) leads to working on wrong challenges. In cross-functional problem solving, challenge identification from customer perspective enables planning effective improvement measures.",
+    "source_url": "https://example.com/training/Year2/business/讓ｪ譁ｭ隱ｲ鬘瑚ｧ｣豎ｺ・医き繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・迚茨ｼ・q-biz-y2-012",
+    "tags": ["Year2", "business", "繧ｫ繧ｹ繧ｿ繝槭・繧ｸ繝｣繝ｼ繝九・", "隱ｲ鬘檎音螳・]
+  },
+  {
+    "id": "q-mgmt-y2-001",
+    "year": "Year2",
+    "category": "management",
+    "theme": "螟壽ｧ俶ｧ繝ｻ繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ",
+    "learning_goal_ja": "螟壽ｧ俶ｧ縺ｨ繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ縺ｮ驥崎ｦ∵ｧ繧堤炊隗｣縺励∝､壽ｧ倥↑莠ｺ譚舌′豢ｻ霄阪〒縺阪ｋ迺ｰ蠅・ｒ蜑ｵ蜃ｺ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand importance of diversity and inclusion, and can create environment where diverse personnel can thrive",
+    "common_misconception_ja": "螟壽ｧ俶ｧ縺ｯ謨ｰ蜷医ｏ縺・,
+    "common_misconception_en": "Diversity is just numbers",
+    "difficulty": "medium",
+    "question_ja": "螟壽ｧ俶ｧ繝ｻ繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ繧呈耳騾ｲ縺吶ｋ髫帙∵怙繧る㍾隕√↑隕∫ｴ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important element when promoting diversity and inclusion?",
+    "choices_ja": [
+      "A. 謨ｰ蜷医ｏ縺帙□縺・,
+      "B. 螟壽ｧ倥↑莠ｺ譚舌′豢ｻ霄阪〒縺阪ｋ迺ｰ蠅・→譁・喧繧貞卸蜃ｺ縺励∫ｵ・ｹ斐・繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ蜉帙ｒ鬮倥ａ繧・,
+      "C. 螟壽ｧ俶ｧ繧堤┌隕悶☆繧・,
+      "D. 蜷瑚ｳｪ諤ｧ繧堤ｶｭ謖√☆繧・
+    ],
+    "choices_en": [
+      "A. Only numbers",
+      "B. Create environment and culture where diverse personnel can thrive and enhance organizational innovation",
+      "C. Ignore diversity",
+      "D. Maintain homogeneity"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ､壽ｧ俶ｧ繝ｻ繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ縺ｧ縺ｯ縲∝､壽ｧ倥↑莠ｺ譚舌′豢ｻ霄阪〒縺阪ｋ迺ｰ蠅・→譁・喧繧貞卸蜃ｺ縺励∫ｵ・ｹ斐・繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ蜉帙ｒ鬮倥ａ繧九％縺ｨ縺碁㍾隕√よ焚蜷医ｏ縺帙・縺ｿ・・・峨ｄ辟｡隕厄ｼ・・峨∝酔雉ｪ諤ｧ邯ｭ謖・ｼ・・峨・蜉ｹ譫懃噪縺ｧ縺ｪ縺・ょ､壽ｧ俶ｧ繝ｻ繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ縺ｧ縺ｯ縲∝､壽ｧ倥↑隕也せ縺ｨ邨碁ｨ薙′邨・ｹ斐・遶ｶ莠牙鴨縺ｨ繧､繝弱・繝ｼ繧ｷ繝ｧ繝ｳ縺ｫ縺､縺ｪ縺後ｋ縲・,
+    "explanation_en": "The correct answer is B. In diversity and inclusion, creating environment and culture where diverse personnel can thrive and enhancing organizational innovation is important. Only numbers (A), ignoring (C), or maintaining homogeneity (D) are not effective. In diversity and inclusion, diverse perspectives and experiences lead to organizational competitiveness and innovation.",
+    "source_url": "https://example.com/training/Year2/management/螟壽ｧ俶ｧ繝ｻ繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ/q-mgmt-y2-001",
+    "tags": ["Year2", "management", "螟壽ｧ俶ｧ", "繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ"]
+  },
+  {
+    "id": "q-mgmt-y2-002",
+    "year": "Year2",
+    "category": "management",
+    "theme": "螟壽ｧ俶ｧ繝ｻ繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ",
+    "learning_goal_ja": "螟壽ｧ俶ｧ縺ｨ繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ縺ｮ驥崎ｦ∵ｧ繧堤炊隗｣縺励∝､壽ｧ倥↑莠ｺ譚舌′豢ｻ霄阪〒縺阪ｋ迺ｰ蠅・ｒ蜑ｵ蜃ｺ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand importance of diversity and inclusion, and can create environment where diverse personnel can thrive",
+    "common_misconception_ja": "螟壽ｧ俶ｧ縺ｯ謨ｰ蜷医ｏ縺・,
+    "common_misconception_en": "Diversity is just numbers",
+    "difficulty": "hard",
+    "question_ja": "繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ繧貞ｮ溽樟縺吶ｋ縺溘ａ縺ｫ縲√・繝阪・繧ｸ繝｣繝ｼ縺悟叙繧九∋縺崎｡悟虚縺ｨ縺励※譛繧る←蛻・↑縺ｮ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate action a manager should take to achieve inclusion?",
+    "choices_ja": [
+      "A. 螟壽ｧ倥↑莠ｺ譚舌ｒ謗｡逕ｨ縺吶ｋ縺縺・,
+      "B. 螟壽ｧ倥↑莠ｺ譚舌・諢剰ｦ九ｒ蟆企㍾縺励∵э諤晄ｱｺ螳壹↓蜿ら判縺輔○縲∵ｴｻ霄阪・讖滉ｼ壹ｒ謠蝉ｾ帙☆繧・,
+      "C. 螟壽ｧ俶ｧ繧堤┌隕悶☆繧・,
+      "D. 蜷瑚ｳｪ逧・↑繝√・繝繧堤ｶｭ謖√☆繧・
+    ],
+    "choices_en": [
+      "A. Only recruit diverse personnel",
+      "B. Respect diverse personnel's opinions, involve them in decision-making, and provide opportunities to thrive",
+      "C. Ignore diversity",
+      "D. Maintain homogeneous team"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅう繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ螳溽樟縺ｫ縺ｯ縲∝､壽ｧ倥↑莠ｺ譚舌・諢剰ｦ九ｒ蟆企㍾縺励∵э諤晄ｱｺ螳壹↓蜿ら判縺輔○縲∵ｴｻ霄阪・讖滉ｼ壹ｒ謠蝉ｾ帙☆繧九％縺ｨ縺碁㍾隕√よ治逕ｨ縺ｮ縺ｿ・・・峨ｄ辟｡隕厄ｼ・・峨∝酔雉ｪ邯ｭ謖・ｼ・・峨・繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ繧貞ｮ溽樟縺ｧ縺阪↑縺・ょ､壽ｧ俶ｧ繝ｻ繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ縺ｧ縺ｯ縲∝､壽ｧ倥↑莠ｺ譚舌′邨・ｹ斐・諢乗晄ｱｺ螳壹→萓｡蛟､蜑ｵ蜃ｺ縺ｫ蜿ら判縺吶ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. To achieve inclusion, respecting diverse personnel's opinions, involving them in decision-making, and providing opportunities to thrive is important. Only recruitment (A), ignoring (C), or maintaining homogeneity (D) cannot achieve inclusion. In diversity and inclusion, diverse personnel participating in organizational decision-making and value creation is important.",
+    "source_url": "https://example.com/training/Year2/management/螟壽ｧ俶ｧ繝ｻ繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ/q-mgmt-y2-002",
+    "tags": ["Year2", "management", "螟壽ｧ俶ｧ", "繧､繝ｳ繧ｯ繝ｫ繝ｼ繧ｸ繝ｧ繝ｳ"]
+  },
+  {
+    "id": "q-mgmt-y2-003",
+    "year": "Year2",
+    "category": "management",
+    "theme": "繧ｭ繝｣繝ｪ繧｢髢狗匱",
+    "learning_goal_ja": "繝｡繝ｳ繝舌・縺ｮ繧ｭ繝｣繝ｪ繧｢髢狗匱繧呈髪謠ｴ縺励・聞譛溽噪縺ｪ謌宣聞繧剃ｿ・ｲ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Can support member career development and promote long-term growth",
+    "common_misconception_ja": "繧ｭ繝｣繝ｪ繧｢縺ｯ譛ｬ莠ｺ莉ｻ縺・,
+    "common_misconception_en": "Career is left to the individual",
+    "difficulty": "medium",
+    "question_ja": "繝｡繝ｳ繝舌・縺ｮ繧ｭ繝｣繝ｪ繧｢髢狗匱繧呈髪謠ｴ縺吶ｋ髫帙∵怙繧る㍾隕√↑繧｢繝励Ο繝ｼ繝√・縺ｩ繧後°・・,
+    "question_en": "What is the most important approach when supporting member career development?",
+    "choices_ja": [
+      "A. 譛ｬ莠ｺ莉ｻ縺帙↓縺吶ｋ",
+      "B. 繝｡繝ｳ繝舌・縺ｮ繧ｭ繝｣繝ｪ繧｢蠢怜髄繧堤炊隗｣縺励∵・髟ｷ讖滉ｼ壹ｒ謠蝉ｾ帙＠縲∝ｮ壽悄逧・↓繧ｭ繝｣繝ｪ繧｢髱｢隲・ｒ陦後≧",
+      "C. 繧ｭ繝｣繝ｪ繧｢髢狗匱繧堤┌隕悶☆繧・,
+      "D. 蠑ｷ蛻ｶ逧・↓繧ｭ繝｣繝ｪ繧｢繧呈ｱｺ繧√ｋ"
+    ],
+    "choices_en": [
+      "A. Leave to individual",
+      "B. Understand member's career orientation, provide growth opportunities, and conduct regular career interviews",
+      "C. Ignore career development",
+      "D. Forcefully decide career"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅく繝｣繝ｪ繧｢髢狗匱謾ｯ謠ｴ縺ｧ縺ｯ縲√Γ繝ｳ繝舌・縺ｮ繧ｭ繝｣繝ｪ繧｢蠢怜髄繧堤炊隗｣縺励∵・髟ｷ讖滉ｼ壹ｒ謠蝉ｾ帙＠縲∝ｮ壽悄逧・↓繧ｭ繝｣繝ｪ繧｢髱｢隲・ｒ陦後≧縺薙→縺碁㍾隕√よ悽莠ｺ莉ｻ縺幢ｼ・・峨ｄ辟｡隕厄ｼ・・峨∝ｼｷ蛻ｶ・・・峨・蜉ｹ譫懃噪縺ｧ縺ｪ縺・ゅく繝｣繝ｪ繧｢髢狗匱縺ｧ縺ｯ縲√Γ繝ｳ繝舌・縺ｮ荳ｻ菴捺ｧ繧貞ｰ企㍾縺励▽縺､縲∫ｵ・ｹ斐→縺励※謌宣聞讖滉ｼ壹ｒ謠蝉ｾ帙☆繧九％縺ｨ縺碁聞譛溽噪縺ｪ莠ｺ譚仙ｮ夂捩縺ｨ邨・ｹ泌鴨蜷台ｸ翫↓縺､縺ｪ縺後ｋ縲・,
+    "explanation_en": "The correct answer is B. In career development support, understanding member's career orientation, providing growth opportunities, and conducting regular career interviews is important. Leaving to individual (A), ignoring (C), or forcing (D) are not effective. In career development, respecting member autonomy while providing growth opportunities as organization leads to long-term talent retention and organizational strength improvement.",
+    "source_url": "https://example.com/training/Year2/management/繧ｭ繝｣繝ｪ繧｢髢狗匱/q-mgmt-y2-003",
+    "tags": ["Year2", "management", "繧ｭ繝｣繝ｪ繧｢髢狗匱", "謌宣聞謾ｯ謠ｴ"]
+  },
+  {
+    "id": "q-mgmt-y2-004",
+    "year": "Year2",
+    "category": "management",
+    "theme": "繧ｭ繝｣繝ｪ繧｢髢狗匱",
+    "learning_goal_ja": "繝｡繝ｳ繝舌・縺ｮ繧ｭ繝｣繝ｪ繧｢髢狗匱繧呈髪謠ｴ縺励・聞譛溽噪縺ｪ謌宣聞繧剃ｿ・ｲ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Can support member career development and promote long-term growth",
+    "common_misconception_ja": "繧ｭ繝｣繝ｪ繧｢縺ｯ譛ｬ莠ｺ莉ｻ縺・,
+    "common_misconception_en": "Career is left to the individual",
+    "difficulty": "hard",
+    "question_ja": "繝｡繝ｳ繝舌・縺檎焚蜍輔ｄ霆｢閨ｷ繧貞ｸ梧悍縺吶ｋ蝣ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response when a member wishes to transfer or change jobs?",
+    "choices_ja": [
+      "A. 蟶梧悍繧堤┌隕悶☆繧・,
+      "B. 蟶梧悍縺ｮ閭梧勹繧堤炊隗｣縺励∫ｵ・ｹ泌・縺ｧ縺ｮ蜿ｯ閭ｽ諤ｧ繧ょ性繧√※蟇ｾ隧ｱ縺励∵怙驕ｩ縺ｪ驕ｸ謚槭ｒ謾ｯ謠ｴ縺吶ｋ",
+      "C. 蠑ｷ蛻ｶ逧・↓逡吶ａ繧・,
+      "D. 蜊ｳ蠎ｧ縺ｫ謇ｿ隱阪☆繧・
+    ],
+    "choices_en": [
+      "A. Ignore wishes",
+      "B. Understand background of wishes, dialogue including possibilities within organization, and support optimal choice",
+      "C. Forcefully retain",
+      "D. Immediately approve"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ら焚蜍輔・霆｢閨ｷ蟶梧悍譎ゅ・縲∝ｸ梧悍縺ｮ閭梧勹繧堤炊隗｣縺励∫ｵ・ｹ泌・縺ｧ縺ｮ蜿ｯ閭ｽ諤ｧ繧ょ性繧√※蟇ｾ隧ｱ縺励∵怙驕ｩ縺ｪ驕ｸ謚槭ｒ謾ｯ謠ｴ縺吶ｋ縺薙→縺碁←蛻・ら┌隕厄ｼ・・峨ｄ蠑ｷ蛻ｶ・・・峨∝叉蠎ｧ謇ｿ隱搾ｼ・・峨・荳埼←蛻・ゅく繝｣繝ｪ繧｢髢狗匱縺ｧ縺ｯ縲√Γ繝ｳ繝舌・縺ｮ繧ｭ繝｣繝ｪ繧｢驕ｸ謚槭ｒ蟆企㍾縺励▽縺､縲∫ｵ・ｹ斐→縺励※繧よ怙驕ｩ縺ｪ莠ｺ譚宣・鄂ｮ繧貞ｮ溽樟縺吶ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. When transfer or job change is wished, understanding background of wishes, dialogue including possibilities within organization, and supporting optimal choice is appropriate. Ignoring (A), forcing (C), or immediate approval (D) are inappropriate. In career development, respecting member's career choices while achieving optimal human resource allocation as organization is important.",
+    "source_url": "https://example.com/training/Year2/management/繧ｭ繝｣繝ｪ繧｢髢狗匱/q-mgmt-y2-004",
+    "tags": ["Year2", "management", "繧ｭ繝｣繝ｪ繧｢髢狗匱", "逡ｰ蜍・]
+  },
+  {
+    "id": "q-mgmt-y2-005",
+    "year": "Year2",
+    "category": "management",
+    "theme": "繧ｳ繝ｼ繝√Φ繧ｰ",
+    "learning_goal_ja": "繧ｳ繝ｼ繝√Φ繧ｰ縺ｮ蝓ｺ譛ｬ繧ｹ繧ｭ繝ｫ繧堤炊隗｣縺励√Γ繝ｳ繝舌・縺ｮ荳ｻ菴捺ｧ繧貞ｼ輔″蜃ｺ縺帙ｋ",
+    "learning_goal_en": "Understand basic coaching skills and can draw out member autonomy",
+    "common_misconception_ja": "繧ｳ繝ｼ繝√Φ繧ｰ縺ｯ謖・､ｺ縺吶ｋ縺薙→",
+    "common_misconception_en": "Coaching is giving instructions",
+    "difficulty": "medium",
+    "question_ja": "繧ｳ繝ｼ繝√Φ繧ｰ縺ｫ縺翫＞縺ｦ縲∵怙繧る㍾隕√↑蜴溷援縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important principle in coaching?",
+    "choices_ja": [
+      "A. 荳譁ｹ逧・↓謖・､ｺ縺吶ｋ",
+      "B. 雉ｪ蝠上ｒ騾壹§縺ｦ繝｡繝ｳ繝舌・閾ｪ霄ｫ縺ｫ豌励▼縺阪→遲斐∴繧貞ｼ輔″蜃ｺ縺励∽ｸｻ菴捺ｧ繧定ご繧",
+      "C. 遲斐∴繧呈蕗縺医ｋ",
+      "D. 繧ｳ繝ｼ繝√Φ繧ｰ縺励↑縺・
+    ],
+    "choices_en": [
+      "A. Unilaterally give instructions",
+      "B. Draw out member's own awareness and answers through questions and nurture autonomy",
+      "C. Teach answers",
+      "D. Don't coach"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅさ繝ｼ繝√Φ繧ｰ縺ｧ縺ｯ縲∬ｳｪ蝠上ｒ騾壹§縺ｦ繝｡繝ｳ繝舌・閾ｪ霄ｫ縺ｫ豌励▼縺阪→遲斐∴繧貞ｼ輔″蜃ｺ縺励∽ｸｻ菴捺ｧ繧定ご繧縺薙→縺碁㍾隕√ゆｸ譁ｹ逧・欠遉ｺ・・・峨ｄ遲斐∴繧呈蕗縺医ｋ・・・峨・荳ｻ菴捺ｧ繧呈錐縺ｪ縺・ゅさ繝ｼ繝√Φ繧ｰ縺ｪ縺暦ｼ・・峨・謌宣聞讖滉ｼ壹ｒ螟ｱ縺・ゅさ繝ｼ繝√Φ繧ｰ縺ｧ縺ｯ縲√Γ繝ｳ繝舌・縺瑚・蛻・〒閠・∴縲∬｡悟虚繧貞､峨∴繧九％縺ｨ繧呈髪謠ｴ縺吶ｋ縺薙→縺梧・髟ｷ縺ｫ縺､縺ｪ縺後ｋ縲・,
+    "explanation_en": "The correct answer is B. In coaching, drawing out member's own awareness and answers through questions and nurturing autonomy is important. Unilateral instructions (A) or teaching answers (C) damage autonomy. No coaching (D) loses growth opportunities. In coaching, supporting members to think for themselves and change behavior leads to growth.",
+    "source_url": "https://example.com/training/Year2/management/繧ｳ繝ｼ繝√Φ繧ｰ/q-mgmt-y2-005",
+    "tags": ["Year2", "management", "繧ｳ繝ｼ繝√Φ繧ｰ", "荳ｻ菴捺ｧ"]
+  },
+  {
+    "id": "q-mgmt-y2-006",
+    "year": "Year2",
+    "category": "management",
+    "theme": "繧ｳ繝ｼ繝√Φ繧ｰ",
+    "learning_goal_ja": "繧ｳ繝ｼ繝√Φ繧ｰ縺ｮ蝓ｺ譛ｬ繧ｹ繧ｭ繝ｫ繧堤炊隗｣縺励√Γ繝ｳ繝舌・縺ｮ荳ｻ菴捺ｧ繧貞ｼ輔″蜃ｺ縺帙ｋ",
+    "learning_goal_en": "Understand basic coaching skills and can draw out member autonomy",
+    "common_misconception_ja": "繧ｳ繝ｼ繝√Φ繧ｰ縺ｯ謖・､ｺ縺吶ｋ縺薙→",
+    "common_misconception_en": "Coaching is giving instructions",
+    "difficulty": "hard",
+    "question_ja": "繧ｳ繝ｼ繝√Φ繧ｰ繧ｻ繝・す繝ｧ繝ｳ縺ｧ繝｡繝ｳ繝舌・縺檎ｭ斐∴繧定ｦ九▽縺代ｉ繧後↑縺・ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response when a member cannot find an answer in a coaching session?",
+    "choices_ja": [
+      "A. 縺吶＄縺ｫ遲斐∴繧呈蕗縺医ｋ",
+      "B. 縺輔ｉ縺ｫ雉ｪ蝠上ｒ驥阪・縲∬ｦ也せ繧貞､峨∴繧玖ｳｪ蝠上ｄ蜈ｷ菴灘喧縺吶ｋ雉ｪ蝠上〒諤晁・ｒ菫・☆",
+      "C. 繧ｳ繝ｼ繝√Φ繧ｰ繧偵ｄ繧√ｋ",
+      "D. 繝｡繝ｳ繝舌・繧定ｲｬ繧√ｋ"
+    ],
+    "choices_en": [
+      "A. Immediately teach the answer",
+      "B. Further layer questions, prompt thinking with questions that change perspective or make concrete",
+      "C. Stop coaching",
+      "D. Blame the member"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲らｭ斐∴縺瑚ｦ九▽縺九ｉ縺ｪ縺・ｴ蜷医√＆繧峨↓雉ｪ蝠上ｒ驥阪・縲∬ｦ也せ繧貞､峨∴繧玖ｳｪ蝠上ｄ蜈ｷ菴灘喧縺吶ｋ雉ｪ蝠上〒諤晁・ｒ菫・☆縺薙→縺碁←蛻・ゅ☆縺舌↓謨吶∴繧具ｼ・・峨・荳ｻ菴捺ｧ繧呈錐縺ｪ縺・ゅｄ繧√ｋ・・・峨ｄ雋ｬ繧√ｋ・・・峨・荳埼←蛻・ゅさ繝ｼ繝√Φ繧ｰ縺ｧ縺ｯ縲√Γ繝ｳ繝舌・縺瑚・蛻・〒諤晁・ｒ豺ｱ繧√∫ｭ斐∴縺ｫ縺溘←繧顔捩縺上・繝ｭ繧ｻ繧ｹ繧呈髪謠ｴ縺吶ｋ縺薙→縺碁㍾隕√〒縺ゅｋ縲・,
+    "explanation_en": "The correct answer is B. When answer is not found, further layering questions and prompting thinking with questions that change perspective or make concrete is appropriate. Immediately teaching (A) damages autonomy. Stopping (C) or blaming (D) are inappropriate. In coaching, supporting members to deepen their own thinking and reach answers is important.",
+    "source_url": "https://example.com/training/Year2/management/繧ｳ繝ｼ繝√Φ繧ｰ/q-mgmt-y2-006",
+    "tags": ["Year2", "management", "繧ｳ繝ｼ繝√Φ繧ｰ", "雉ｪ蝠上せ繧ｭ繝ｫ"]
+  },
+  {
+    "id": "q-mgmt-y2-007",
+    "year": "Year2",
+    "category": "management",
+    "theme": "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繧ｱ繝ｼ繧ｹ・亥峅髮｣蟇ｾ蠢懊・莠倶ｾ狗皮ｩｶ・・,
+    "learning_goal_ja": "蝗ｰ髮｣縺ｪ迥ｶ豕√〒縺ｮ繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繧堤炊隗｣縺励・←蛻・↑蛻､譁ｭ縺ｨ蟇ｾ蠢懊′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand leadership in difficult situations and can make appropriate judgments and responses",
+    "common_misconception_ja": "蝗ｰ髮｣縺ｯ驕ｿ縺代ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Difficulties should be avoided",
+    "difficulty": "hard",
+    "question_ja": "蝗ｰ髮｣縺ｪ迥ｶ豕√〒繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繧堤匱謠ｮ縺吶ｋ髫帙∵怙繧る㍾隕√↑隕∫ｴ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important element when demonstrating leadership in difficult situations?",
+    "choices_ja": [
+      "A. 蝗ｰ髮｣繧帝∩縺代ｋ",
+      "B. 迥ｶ豕√ｒ蜀ｷ髱吶↓蛻・梵縺励√メ繝ｼ繝縺ｮ螳牙・縺ｨ逶ｮ讓咎＃謌舌・繝舌Λ繝ｳ繧ｹ繧貞叙繧翫・乗・縺ｪ繧ｳ繝溘Η繝九こ繝ｼ繧ｷ繝ｧ繝ｳ繧貞叙繧・,
+      "C. 荳莠ｺ縺ｧ蛻､譁ｭ縺吶ｋ",
+      "D. 蛻､譁ｭ繧貞・騾√ｊ縺吶ｋ"
+    ],
+    "choices_en": [
+      "A. Avoid difficulties",
+      "B. Calmly analyze situation, balance team safety and goal achievement, and take transparent communication",
+      "C. Judge alone",
+      "D. Postpone judgment"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ峅髮｣縺ｪ迥ｶ豕√〒縺ｯ縲∫憾豕√ｒ蜀ｷ髱吶↓蛻・梵縺励√メ繝ｼ繝縺ｮ螳牙・縺ｨ逶ｮ讓咎＃謌舌・繝舌Λ繝ｳ繧ｹ繧貞叙繧翫・乗・縺ｪ繧ｳ繝溘Η繝九こ繝ｼ繧ｷ繝ｧ繝ｳ繧貞叙繧九％縺ｨ縺碁㍾隕√る∩縺代ｋ・・・峨ｄ荳莠ｺ蛻､譁ｭ・・・峨∝・騾√ｊ・・・峨・蝠城｡後ｒ豺ｱ蛻ｻ蛹悶＆縺帙ｋ縲ゅΜ繝ｼ繝繝ｼ繧ｷ繝・・繧ｱ繝ｼ繧ｹ縺ｧ縺ｯ縲∝峅髮｣繧剃ｹ励ｊ雜翫∴繧句愛譁ｭ蜉帙→螳溯｡悟鴨縺檎ｵ・ｹ斐・菫｡鬆ｼ縺ｨ謌先棡縺ｫ縺､縺ｪ縺後ｋ縲・,
+    "explanation_en": "The correct answer is B. In difficult situations, calmly analyzing situation, balancing team safety and goal achievement, and taking transparent communication is important. Avoiding (A), judging alone (C), or postponing (D) worsen problems. In leadership cases, judgment and execution to overcome difficulties lead to organizational trust and results.",
+    "source_url": "https://example.com/training/Year2/management/繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繧ｱ繝ｼ繧ｹ・亥峅髮｣蟇ｾ蠢懊・莠倶ｾ狗皮ｩｶ・・q-mgmt-y2-007",
+    "tags": ["Year2", "management", "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・", "蝗ｰ髮｣蟇ｾ蠢・]
+  },
+  {
+    "id": "q-mgmt-y2-008",
+    "year": "Year2",
+    "category": "management",
+    "theme": "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繧ｱ繝ｼ繧ｹ・亥峅髮｣蟇ｾ蠢懊・莠倶ｾ狗皮ｩｶ・・,
+    "learning_goal_ja": "蝗ｰ髮｣縺ｪ迥ｶ豕√〒縺ｮ繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繧堤炊隗｣縺励・←蛻・↑蛻､譁ｭ縺ｨ蟇ｾ蠢懊′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand leadership in difficult situations and can make appropriate judgments and responses",
+    "common_misconception_ja": "蝗ｰ髮｣縺ｯ驕ｿ縺代ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Difficulties should be avoided",
+    "difficulty": "hard",
+    "question_ja": "繝√・繝縺梧ｷｱ蛻ｻ縺ｪ蝠城｡後↓逶ｴ髱｢縺励※縺・ｋ蝣ｴ蜷医√Μ繝ｼ繝繝ｼ縺ｨ縺励※譛繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response as a leader when the team faces a serious problem?",
+    "choices_ja": [
+      "A. 蝠城｡後ｒ髫縺・,
+      "B. 蝠城｡後ｒ騾乗・縺ｫ蜈ｱ譛峨＠縲√メ繝ｼ繝縺ｨ蜊泌鴨縺励※隗｣豎ｺ遲悶ｒ讀懆ｨ弱＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ荳雁ｱ､驛ｨ繧・ｰる摩螳ｶ縺ｮ謾ｯ謠ｴ繧貞ｾ励ｋ",
+      "C. 繝｡繝ｳ繝舌・繧定ｲｬ繧√ｋ",
+      "D. 蝠城｡後ｒ辟｡隕悶☆繧・
+    ],
+    "choices_en": [
+      "A. Hide the problem",
+      "B. Transparently share the problem, collaborate with team to consider solutions, and seek support from upper management or specialists if necessary",
+      "C. Blame members",
+      "D. Ignore the problem"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲よｷｱ蛻ｻ縺ｪ蝠城｡梧凾縺ｯ縲∝撫鬘後ｒ騾乗・縺ｫ蜈ｱ譛峨＠縲√メ繝ｼ繝縺ｨ蜊泌鴨縺励※隗｣豎ｺ遲悶ｒ讀懆ｨ弱＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ荳雁ｱ､驛ｨ繧・ｰる摩螳ｶ縺ｮ謾ｯ謠ｴ繧貞ｾ励ｋ縺薙→縺碁←蛻・る國縺呻ｼ・・峨ｄ雋ｬ繧√ｋ・・・峨∫┌隕厄ｼ・・峨・蝠城｡後ｒ豺ｱ蛻ｻ蛹悶＆縺帙ｋ縲ゅΜ繝ｼ繝繝ｼ繧ｷ繝・・繧ｱ繝ｼ繧ｹ縺ｧ縺ｯ縲∝峅髮｣縺ｪ迥ｶ豕√〒繧る乗・諤ｧ縺ｨ蜊泌ロ縺ｫ繧医ｊ縲√メ繝ｼ繝縺ｮ邨先據縺ｨ蝠城｡瑚ｧ｣豎ｺ蜉帙ｒ鬮倥ａ繧峨ｌ繧九・,
+    "explanation_en": "The correct answer is B. When serious problem occurs, transparently sharing the problem, collaborating with team to consider solutions, and seeking support from upper management or specialists if necessary is appropriate. Hiding (A), blaming (C), or ignoring (D) worsen problems. In leadership cases, even in difficult situations, transparency and collaboration enhance team unity and problem-solving ability.",
+    "source_url": "https://example.com/training/Year2/management/繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・繧ｱ繝ｼ繧ｹ・亥峅髮｣蟇ｾ蠢懊・莠倶ｾ狗皮ｩｶ・・q-mgmt-y2-008",
+    "tags": ["Year2", "management", "繝ｪ繝ｼ繝繝ｼ繧ｷ繝・・", "蝠城｡瑚ｧ｣豎ｺ"]
+  },
+  {
+    "id": "q-mgmt-y2-009",
+    "year": "Year2",
+    "category": "management",
+    "theme": "繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ邂｡逅・,
+    "learning_goal_ja": "繝｡繝ｳ繝舌・縺ｮ繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ繧堤炊隗｣縺励・←蛻・↓邂｡逅・・蜷台ｸ翫＆縺帙ｉ繧後ｋ",
+    "learning_goal_en": "Understand member motivation and can manage and improve it appropriately",
+    "common_misconception_ja": "繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ縺ｯ邨ｦ荳弱□縺・,
+    "common_misconception_en": "Motivation is only salary",
+    "difficulty": "medium",
+    "question_ja": "繝｡繝ｳ繝舌・縺ｮ繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ繧帝ｫ倥ａ繧九◆繧√↓縲∵怙繧ょ柑譫懃噪縺ｪ譁ｹ豕輔・縺ｩ繧後°・・,
+    "question_en": "What is the most effective method to increase member motivation?",
+    "choices_ja": [
+      "A. 邨ｦ荳弱□縺代ｒ荳翫￡繧・,
+      "B. 莉穂ｺ九・諢冗ｾｩ縲∵・髟ｷ讖滉ｼ壹∵価隱阪∬・蠕区ｧ縺ｪ縺ｩ螟夐擇逧・↑隕∝屏繧定・・縺吶ｋ",
+      "C. 繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ繧堤┌隕悶☆繧・,
+      "D. 蠑ｷ蛻ｶ逧・↓繧・ｉ縺帙ｋ"
+    ],
+    "choices_en": [
+      "A. Only raise salary",
+      "B. Consider multifaceted factors such as work meaning, growth opportunities, recognition, autonomy",
+      "C. Ignore motivation",
+      "D. Force to do"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅΔ繝√・繝ｼ繧ｷ繝ｧ繝ｳ蜷台ｸ翫↓縺ｯ縲∽ｻ穂ｺ九・諢冗ｾｩ縲∵・髟ｷ讖滉ｼ壹∵価隱阪∬・蠕区ｧ縺ｪ縺ｩ螟夐擇逧・↑隕∝屏繧定・・縺吶ｋ縺薙→縺悟柑譫懃噪縲らｵｦ荳弱・縺ｿ・・・峨ｄ辟｡隕厄ｼ・・峨∝ｼｷ蛻ｶ・・・峨・蜉ｹ譫懊′髯仙ｮ夂噪縲ゅΔ繝√・繝ｼ繧ｷ繝ｧ繝ｳ邂｡逅・〒縺ｯ縲√Γ繝ｳ繝舌・縺ｮ萓｡蛟､隕ｳ縺ｨ繝九・繧ｺ繧堤炊隗｣縺励∝､夐擇逧・↑繧｢繝励Ο繝ｼ繝√↓繧医ｊ謖∫ｶ夂噪縺ｪ繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ繧堤ｶｭ謖√〒縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. To increase motivation, considering multifaceted factors such as work meaning, growth opportunities, recognition, autonomy is effective. Only salary (A), ignoring (C), or forcing (D) have limited effectiveness. In motivation management, understanding member values and needs and maintaining sustainable motivation through multifaceted approach.",
+    "source_url": "https://example.com/training/Year2/management/繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ邂｡逅・q-mgmt-y2-009",
+    "tags": ["Year2", "management", "繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ", "蜍墓ｩ滉ｻ倥￠"]
+  },
+  {
+    "id": "q-mgmt-y2-010",
+    "year": "Year2",
+    "category": "management",
+    "theme": "繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ邂｡逅・,
+    "learning_goal_ja": "繝｡繝ｳ繝舌・縺ｮ繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ繧堤炊隗｣縺励・←蛻・↓邂｡逅・・蜷台ｸ翫＆縺帙ｉ繧後ｋ",
+    "learning_goal_en": "Understand member motivation and can manage and improve it appropriately",
+    "common_misconception_ja": "繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ縺ｯ邨ｦ荳弱□縺・,
+    "common_misconception_en": "Motivation is only salary",
+    "difficulty": "hard",
+    "question_ja": "繝｡繝ｳ繝舌・縺ｮ繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ縺御ｽ惹ｸ九＠縺ｦ縺・ｋ蝣ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response when member motivation is declining?",
+    "choices_ja": [
+      "A. 辟｡隕悶☆繧・,
+      "B. 繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ菴惹ｸ九・蜴溷屏繧定◇縺榊叙繧翫∝句挨縺ｫ蟇ｾ蠢懊＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ莉穂ｺ九・隕狗峩縺励ｄ謾ｯ謠ｴ繧呈､懆ｨ弱☆繧・,
+      "C. 繝｡繝ｳ繝舌・繧定ｲｬ繧√ｋ",
+      "D. 蠑ｷ蛻ｶ逧・↓繧・ｉ縺帙ｋ"
+    ],
+    "choices_en": [
+      "A. Ignore",
+      "B. Listen to causes of motivation decline, respond individually, and consider work review or support if necessary",
+      "C. Blame member",
+      "D. Force to do"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅΔ繝√・繝ｼ繧ｷ繝ｧ繝ｳ菴惹ｸ区凾縺ｯ縲∝次蝗繧定◇縺榊叙繧翫∝句挨縺ｫ蟇ｾ蠢懊＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ莉穂ｺ九・隕狗峩縺励ｄ謾ｯ謠ｴ繧呈､懆ｨ弱☆繧九％縺ｨ縺碁←蛻・ら┌隕厄ｼ・・峨ｄ雋ｬ繧√ｋ・・・峨∝ｼｷ蛻ｶ・・・峨・蝠城｡後ｒ豺ｱ蛻ｻ蛹悶＆縺帙ｋ縲ゅΔ繝√・繝ｼ繧ｷ繝ｧ繝ｳ邂｡逅・〒縺ｯ縲∵掠譛溽匱隕九→蛟句挨蟇ｾ蠢懊↓繧医ｊ縲√Γ繝ｳ繝舌・縺ｮ繧ｨ繝ｳ繧ｲ繝ｼ繧ｸ繝｡繝ｳ繝医→逕溽肇諤ｧ繧堤ｶｭ謖√〒縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. When motivation declines, listening to causes, responding individually, and considering work review or support if necessary is appropriate. Ignoring (A), blaming (C), or forcing (D) worsen problems. In motivation management, early detection and individual response maintain member engagement and productivity.",
+    "source_url": "https://example.com/training/Year2/management/繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ邂｡逅・q-mgmt-y2-010",
+    "tags": ["Year2", "management", "繝｢繝√・繝ｼ繧ｷ繝ｧ繝ｳ", "菴惹ｸ句ｯｾ蠢・]
+  },
+  {
+    "id": "q-mgmt-y2-011",
+    "year": "Year2",
+    "category": "management",
+    "theme": "讓ｩ髯仙ｧ碑ｭｲ繝ｻ繧ｹ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ",
+    "learning_goal_ja": "驕ｩ蛻・↑讓ｩ髯仙ｧ碑ｭｲ縺ｨ繧ｹ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ縺ｫ繧医ｊ縲√Γ繝ｳ繝舌・縺ｮ謌宣聞繧剃ｿ・ｲ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Can promote member growth through appropriate delegation and stretch assignments",
+    "common_misconception_ja": "讓ｩ髯仙ｧ碑ｭｲ縺ｯ莉ｻ縺帙▲縺ｱ縺ｪ縺・,
+    "common_misconception_en": "Delegation is leaving it completely",
+    "difficulty": "medium",
+    "question_ja": "讓ｩ髯仙ｧ碑ｭｲ縺ｫ縺翫＞縺ｦ縲∵怙繧る㍾隕√↑蜴溷援縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important principle in delegation?",
+    "choices_ja": [
+      "A. 莉ｻ縺帙▲縺ｱ縺ｪ縺励↓縺吶ｋ",
+      "B. 驕ｩ蛻・↑讓ｩ髯舌→雋ｬ莉ｻ繧呈・遒ｺ縺ｫ縺励∝ｮ壽悄逧・↓騾ｲ謐励ｒ遒ｺ隱阪＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ謾ｯ謠ｴ縺吶ｋ",
+      "C. 讓ｩ髯舌ｒ蟋碑ｭｲ縺励↑縺・,
+      "D. 雋ｬ莉ｻ縺縺代ｒ蟋碑ｭｲ縺吶ｋ"
+    ],
+    "choices_en": [
+      "A. Leave it completely",
+      "B. Clearly define appropriate authority and responsibility, regularly check progress, and support if necessary",
+      "C. Don't delegate authority",
+      "D. Only delegate responsibility"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲よｨｩ髯仙ｧ碑ｭｲ縺ｧ縺ｯ縲・←蛻・↑讓ｩ髯舌→雋ｬ莉ｻ繧呈・遒ｺ縺ｫ縺励∝ｮ壽悄逧・↓騾ｲ謐励ｒ遒ｺ隱阪＠縲∝ｿ・ｦ√↓蠢懊§縺ｦ謾ｯ謠ｴ縺吶ｋ縺薙→縺碁㍾隕√ゆｻｻ縺帙▲縺ｱ縺ｪ縺暦ｼ・・峨ｄ蟋碑ｭｲ縺励↑縺・ｼ・・峨∬ｲｬ莉ｻ縺ｮ縺ｿ・・・峨・蜉ｹ譫懃噪縺ｧ縺ｪ縺・よｨｩ髯仙ｧ碑ｭｲ繝ｻ繧ｹ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ縺ｧ縺ｯ縲√Γ繝ｳ繝舌・縺ｮ謌宣聞縺ｨ謌先棡縺ｮ荳｡遶九ｒ蝗ｳ繧翫∫ｵ・ｹ斐・蜉帙ｒ譛螟ｧ蛹悶〒縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In delegation, clearly defining appropriate authority and responsibility, regularly checking progress, and supporting if necessary is important. Leaving completely (A), not delegating (C), or only responsibility (D) are not effective. In delegation and stretch assignments, balancing member growth and results maximizes organizational power.",
+    "source_url": "https://example.com/training/Year2/management/讓ｩ髯仙ｧ碑ｭｲ繝ｻ繧ｹ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ/q-mgmt-y2-011",
+    "tags": ["Year2", "management", "讓ｩ髯仙ｧ碑ｭｲ", "謌宣聞謾ｯ謠ｴ"]
+  },
+  {
+    "id": "q-mgmt-y2-012",
+    "year": "Year2",
+    "category": "management",
+    "theme": "讓ｩ髯仙ｧ碑ｭｲ繝ｻ繧ｹ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ",
+    "learning_goal_ja": "驕ｩ蛻・↑讓ｩ髯仙ｧ碑ｭｲ縺ｨ繧ｹ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ縺ｫ繧医ｊ縲√Γ繝ｳ繝舌・縺ｮ謌宣聞繧剃ｿ・ｲ縺ｧ縺阪ｋ",
+    "learning_goal_en": "Can promote member growth through appropriate delegation and stretch assignments",
+    "common_misconception_ja": "讓ｩ髯仙ｧ碑ｭｲ縺ｯ莉ｻ縺帙▲縺ｱ縺ｪ縺・,
+    "common_misconception_en": "Delegation is leaving it completely",
+    "difficulty": "hard",
+    "question_ja": "繧ｹ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ・域倦謌ｦ逧・↑隱ｲ鬘鯉ｼ峨ｒ螳滓命縺吶ｋ髫帙∵怙繧る㍾隕√↑驟肴・縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important consideration when implementing stretch assignments (challenging tasks)?",
+    "choices_ja": [
+      "A. 螟ｱ謨励ｒ險ｱ縺輔↑縺・,
+      "B. 繝｡繝ｳ繝舌・縺ｮ閭ｽ蜉帙ｒ蟆代＠雜・∴繧玖ｪｲ鬘後ｒ險ｭ螳壹＠縲・←蛻・↑謾ｯ謠ｴ縺ｨ繝輔ぅ繝ｼ繝峨ヰ繝・け繧呈署萓帙☆繧・,
+      "C. 邁｡蜊倥↑隱ｲ鬘後□縺代ｒ荳弱∴繧・,
+      "D. 隱ｲ鬘後ｒ荳弱∴縺ｪ縺・
+    ],
+    "choices_en": [
+      "A. Don't allow failure",
+      "B. Set tasks slightly beyond member's ability and provide appropriate support and feedback",
+      "C. Only give easy tasks",
+      "D. Don't give tasks"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ゅせ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ縺ｧ縺ｯ縲√Γ繝ｳ繝舌・縺ｮ閭ｽ蜉帙ｒ蟆代＠雜・∴繧玖ｪｲ鬘後ｒ險ｭ螳壹＠縲・←蛻・↑謾ｯ謠ｴ縺ｨ繝輔ぅ繝ｼ繝峨ヰ繝・け繧呈署萓帙☆繧九％縺ｨ縺碁㍾隕√ょ､ｱ謨嶺ｸ崎ｨｱ蜿ｯ・・・峨ｄ邁｡蜊倥↑隱ｲ鬘後・縺ｿ・・・峨∬ｪｲ鬘後↑縺暦ｼ・・峨・謌宣聞繧剃ｿ・＆縺ｪ縺・よｨｩ髯仙ｧ碑ｭｲ繝ｻ繧ｹ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ縺ｧ縺ｯ縲・←蠎ｦ縺ｪ謖第姶縺ｨ謾ｯ謠ｴ縺ｫ繧医ｊ縲√Γ繝ｳ繝舌・縺ｮ閭ｽ蜉帛髄荳翫→閾ｪ菫｡縺ｮ驢ｸ謌舌ｒ螳溽樟縺ｧ縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. In stretch assignments, setting tasks slightly beyond member's ability and providing appropriate support and feedback is important. Not allowing failure (A), only easy tasks (C), or no tasks (D) don't promote growth. In delegation and stretch assignments, moderate challenge and support enable member ability improvement and confidence building.",
+    "source_url": "https://example.com/training/Year2/management/讓ｩ髯仙ｧ碑ｭｲ繝ｻ繧ｹ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ/q-mgmt-y2-012",
+    "tags": ["Year2", "management", "繧ｹ繝医Ξ繝・メ繧｢繧ｵ繧､繝ｳ", "謌宣聞謾ｯ謠ｴ"]
+  },
+  {
+    "id": "q-mgmt-y2-013",
+    "year": "Year2",
+    "category": "management",
+    "theme": "繝√ぉ繝ｳ繧ｸ繝槭ロ繧ｸ繝｡繝ｳ繝茨ｼ亥､蛾擠蟇ｾ蠢懶ｼ・,
+    "learning_goal_ja": "邨・ｹ泌､蛾擠繧堤炊隗｣縺励・←蛻・↑繝√ぉ繝ｳ繧ｸ繝槭ロ繧ｸ繝｡繝ｳ繝医′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand organizational transformation and can perform appropriate change management",
+    "common_misconception_ja": "螟蛾擠縺ｯ蠑ｷ蛻ｶ縺吶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Transformation can be forced",
+    "difficulty": "hard",
+    "question_ja": "邨・ｹ泌､蛾擠繧呈耳騾ｲ縺吶ｋ髫帙∵怙繧る㍾隕√↑隕∫ｴ縺ｯ縺ｩ繧後°・・,
+    "question_en": "What is the most important element when promoting organizational transformation?",
+    "choices_ja": [
+      "A. 蠑ｷ蛻ｶ逧・↓螟蛾擠縺吶ｋ",
+      "B. 螟蛾擠縺ｮ蠢・ｦ∵ｧ縺ｨ繝薙ず繝ｧ繝ｳ繧呈・遒ｺ縺ｫ縺励√Γ繝ｳ繝舌・縺ｮ逅・ｧ｣縺ｨ蜿ょ刈繧剃ｿ・＠縲∵ｮｵ髫守噪縺ｫ謗ｨ騾ｲ縺吶ｋ",
+      "C. 螟蛾擠縺励↑縺・,
+      "D. 繝｡繝ｳ繝舌・繧堤┌隕悶☆繧・
+    ],
+    "choices_en": [
+      "A. Forcefully transform",
+      "B. Clearly define transformation necessity and vision, promote member understanding and participation, and advance gradually",
+      "C. Don't transform",
+      "D. Ignore members"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲らｵ・ｹ泌､蛾擠縺ｧ縺ｯ縲∝､蛾擠縺ｮ蠢・ｦ∵ｧ縺ｨ繝薙ず繝ｧ繝ｳ繧呈・遒ｺ縺ｫ縺励√Γ繝ｳ繝舌・縺ｮ逅・ｧ｣縺ｨ蜿ょ刈繧剃ｿ・＠縲∵ｮｵ髫守噪縺ｫ謗ｨ騾ｲ縺吶ｋ縺薙→縺碁㍾隕√ょｼｷ蛻ｶ・・・峨ｄ螟蛾擠縺ｪ縺暦ｼ・・峨√Γ繝ｳ繝舌・辟｡隕厄ｼ・・峨・蜉ｹ譫懃噪縺ｧ縺ｪ縺・ゅメ繧ｧ繝ｳ繧ｸ繝槭ロ繧ｸ繝｡繝ｳ繝医〒縺ｯ縲√Γ繝ｳ繝舌・縺ｮ邏榊ｾ励→蜊泌鴨繧貞ｾ励ｋ縺薙→縺ｧ縲∝､蛾擠縺ｮ謌仙粥遒ｺ邇・ｒ鬮倥ａ繧峨ｌ繧九・,
+    "explanation_en": "The correct answer is B. In organizational transformation, clearly defining transformation necessity and vision, promoting member understanding and participation, and advancing gradually is important. Forcing (A), no transformation (C), or ignoring members (D) are not effective. In change management, gaining member understanding and cooperation increases transformation success probability.",
+    "source_url": "https://example.com/training/Year2/management/繝√ぉ繝ｳ繧ｸ繝槭ロ繧ｸ繝｡繝ｳ繝茨ｼ亥､蛾擠蟇ｾ蠢懶ｼ・q-mgmt-y2-013",
+    "tags": ["Year2", "management", "繝√ぉ繝ｳ繧ｸ繝槭ロ繧ｸ繝｡繝ｳ繝・, "邨・ｹ泌､蛾擠"]
+  },
+  {
+    "id": "q-mgmt-y2-014",
+    "year": "Year2",
+    "category": "management",
+    "theme": "繝√ぉ繝ｳ繧ｸ繝槭ロ繧ｸ繝｡繝ｳ繝茨ｼ亥､蛾擠蟇ｾ蠢懶ｼ・,
+    "learning_goal_ja": "邨・ｹ泌､蛾擠繧堤炊隗｣縺励・←蛻・↑繝√ぉ繝ｳ繧ｸ繝槭ロ繧ｸ繝｡繝ｳ繝医′縺ｧ縺阪ｋ",
+    "learning_goal_en": "Understand organizational transformation and can perform appropriate change management",
+    "common_misconception_ja": "螟蛾擠縺ｯ蠑ｷ蛻ｶ縺吶ｌ縺ｰ繧医＞",
+    "common_misconception_en": "Transformation can be forced",
+    "difficulty": "hard",
+    "question_ja": "邨・ｹ泌､蛾擠縺ｫ蟇ｾ縺吶ｋ謚ｵ謚励′逕溘§縺溷ｴ蜷医∵怙繧る←蛻・↑蟇ｾ蠢懊・縺ｩ繧後°・・,
+    "question_en": "What is the most appropriate response when resistance to organizational transformation occurs?",
+    "choices_ja": [
+      "A. 謚ｵ謚励ｒ辟｡隕悶☆繧・,
+      "B. 謚ｵ謚励・閭梧勹繧堤炊隗｣縺励∵・蠢ｵ縺ｫ蟇ｾ蠢懊＠縲∝､蛾擠縺ｮ諢冗ｾｩ繧剃ｸ∝ｯｧ縺ｫ隱ｬ譏弱☆繧・,
+      "C. 蠑ｷ蛻ｶ逧・↓螟蛾擠縺吶ｋ",
+      "D. 螟蛾擠繧剃ｸｭ豁｢縺吶ｋ"
+    ],
+    "choices_en": [
+      "A. Ignore resistance",
+      "B. Understand background of resistance, address concerns, and carefully explain transformation significance",
+      "C. Forcefully transform",
+      "D. Abandon transformation"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "豁｣隗｣縺ｯB縲ょ､蛾擠縺ｸ縺ｮ謚ｵ謚玲凾縺ｯ縲∵慣謚励・閭梧勹繧堤炊隗｣縺励∵・蠢ｵ縺ｫ蟇ｾ蠢懊＠縲∝､蛾擠縺ｮ諢冗ｾｩ繧剃ｸ∝ｯｧ縺ｫ隱ｬ譏弱☆繧九％縺ｨ縺碁←蛻・ら┌隕厄ｼ・・峨ｄ蠑ｷ蛻ｶ・・・峨∽ｸｭ豁｢・・・峨・螟蛾擠繧貞､ｱ謨励＆縺帙ｋ縲ゅメ繧ｧ繝ｳ繧ｸ繝槭ロ繧ｸ繝｡繝ｳ繝医〒縺ｯ縲∵慣謚励ｒ螟蛾擠縺ｮ讖滉ｼ壹→謐峨∴縲∝ｯｾ隧ｱ縺ｨ逅・ｧ｣縺ｫ繧医ｊ螟蛾擠縺ｮ謌仙粥繧貞ｮ溽樟縺ｧ縺阪ｋ縲・,
+    "explanation_en": "The correct answer is B. When resistance to transformation occurs, understanding background of resistance, addressing concerns, and carefully explaining transformation significance is appropriate. Ignoring (A), forcing (C), or abandoning (D) cause transformation failure. In change management, treating resistance as transformation opportunity and achieving transformation success through dialogue and understanding.",
+    "source_url": "https://example.com/training/Year2/management/繝√ぉ繝ｳ繧ｸ繝槭ロ繧ｸ繝｡繝ｳ繝茨ｼ亥､蛾擠蟇ｾ蠢懶ｼ・q-mgmt-y2-014",
+    "tags": ["Year2", "management", "繝√ぉ繝ｳ繧ｸ繝槭ロ繧ｸ繝｡繝ｳ繝・, "謚ｵ謚怜ｯｾ蠢・]
+  }
+]
+

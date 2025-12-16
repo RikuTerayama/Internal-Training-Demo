@@ -9,7 +9,14 @@
 <body>
     <div class="quiz-app">
         <header class="quiz-header">
-            <h1>社内研修クイズ</h1>
+            <div class="header-content">
+                <h1>社内研修クイズ</h1>
+                <div class="user-name-section">
+                    <label for="userNameInput" class="user-name-label">お名前:</label>
+                    <input type="text" id="userNameInput" placeholder="例: 山田太郎" class="user-name-input" value="">
+                    <span id="currentUserName" class="current-user-name"></span>
+                </div>
+            </div>
             <nav class="quiz-nav">
                 <a href="/" class="btn-link">ホーム</a>
                 <a href="/quiz-admin" class="btn-link">管理者画面</a>
@@ -32,10 +39,10 @@
             <div class="control-group">
                 <label>Category:</label>
                 <select id="categoryFilter" class="filter-select">
-                    <option value="all">All</option>
-                    <option value="governance">governance</option>
-                    <option value="business">business</option>
-                    <option value="management">management</option>
+                    <option value="all">すべて</option>
+                    <option value="governance">ガバナンス</option>
+                    <option value="business">ビジネス</option>
+                    <option value="management">マネジメント</option>
                 </select>
             </div>
             <div class="control-group">

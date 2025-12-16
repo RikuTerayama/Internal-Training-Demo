@@ -27,9 +27,9 @@ body {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1000px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 24px;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -693,13 +693,54 @@ td {
     border-top: 1px solid var(--slack-border);
 }
 
+.name-input-section {
+    margin-bottom: 24px;
+    padding: 16px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    border: 1px solid var(--slack-border);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.name-label {
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--slack-text);
+    min-width: 60px;
+}
+
+.name-input {
+    flex: 1;
+    max-width: 250px;
+    padding: 8px 12px;
+    border: 1px solid var(--slack-border);
+    border-radius: 4px;
+    font-size: 14px;
+    transition: border-color 0.2s;
+}
+
+.name-input:focus {
+    outline: none;
+    border-color: var(--slack-purple);
+}
+
+.current-user-name-top {
+    font-size: 14px;
+    color: var(--slack-text-light);
+    font-style: italic;
+}
+
 .new-quiz-link {
-    margin-top: 32px;
-    padding: 24px;
+    margin-top: 24px;
+    padding: 28px;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     border-radius: 8px;
     color: white;
     text-align: center;
+    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.2);
 }
 
 .new-quiz-link h3 {
@@ -781,27 +822,29 @@ td {
 }
 
 .theme-select-card {
-    background: white;
-    padding: 12px 16px;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 14px 18px;
     border-radius: 6px;
     cursor: pointer;
     transition: all 0.2s;
     border: 2px solid transparent;
     display: flex;
     align-items: center;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
 
 .theme-select-card:hover {
-    background: #f0f8ff;
-    border-color: rgba(255, 255, 255, 0.5);
-    transform: translateY(-2px);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 1);
+    border-color: rgba(255, 255, 255, 0.8);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 }
 
 .theme-select-card.selected {
-    background: #e8f5e9;
+    background: rgba(255, 255, 255, 1);
     border-color: #4caf50;
-    box-shadow: 0 2px 8px rgba(76, 175, 80, 0.3);
+    box-shadow: 0 2px 8px rgba(76, 175, 80, 0.25);
+    font-weight: 500;
 }
 
 .theme-card-content {
@@ -824,20 +867,31 @@ td {
 
 .start-quiz-section {
     text-align: center;
-    margin-top: 24px;
+    margin-top: 28px;
+    margin-bottom: 20px;
 }
 
 .start-quiz-section .btn {
-    padding: 12px 32px;
+    padding: 14px 36px;
     font-size: 16px;
     font-weight: 600;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    transition: all 0.2s;
+}
+
+.start-quiz-section .btn:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .start-quiz-section .btn:disabled,
 .start-quiz-section .btn.disabled {
-    opacity: 0.5;
+    opacity: 0.6;
     cursor: not-allowed;
-    background-color: var(--slack-gray);
+    background-color: rgba(97, 97, 97, 0.8);
+    transform: none;
+    box-shadow: none;
 }
 
 @media (max-width: 768px) {

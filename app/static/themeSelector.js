@@ -10,7 +10,43 @@ document.addEventListener('DOMContentLoaded', async () => {
     await loadLearningTopics();
     renderThemeSelector();
     setupEventListeners();
+    setupUserNameInput();
 });
+
+// ユーザー名入力欄の設定
+function setupUserNameInput() {
+    const userNameInput = document.getElementById('userNameInputTop');
+    const userNameDisplay = document.getElementById('currentUserNameTop');
+    
+    if (userNameInput) {
+        // 既存のユーザー名を復元
+        const savedName = localStorage.getItem('currentUserName');
+        if (savedName) {
+            userNameInput.value = savedName;
+            if (userNameDisplay) {
+                userNameDisplay.textContent = `（${savedName}）`;
+            }
+        }
+        
+        // ユーザー名変更時の処理
+        userNameInput.addEventListener('blur', () => {
+            const name = userNameInput.value.trim();
+            if (name) {
+                localStorage.setItem('currentUserName', name);
+                if (userNameDisplay) {
+                    userNameDisplay.textContent = `（${name}）`;
+                }
+            }
+        });
+        
+        // Enterキーでも保存
+        userNameInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                userNameInput.blur();
+            }
+        });
+    }
+}
 
 // 学習テーママスタを読み込む
 async function loadLearningTopics() {
@@ -137,6 +173,12 @@ function startQuiz() {
     if (!selectedYear || !selectedCategory || !selectedTheme) {
         alert('テーマを選択してください');
         return;
+    }
+    
+    // ユーザー名を保存
+    const userNameInput = document.getElementById('userNameInputTop');
+    if (userNameInput && userNameInput.value.trim()) {
+        localStorage.setItem('currentUserName', userNameInput.value.trim());
     }
     
     // URLパラメータでクイズページに遷移

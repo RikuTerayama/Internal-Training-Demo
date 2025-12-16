@@ -26,11 +26,14 @@ document.addEventListener('DOMContentLoaded', async () => {
         // URLパラメータがある場合は自動フィルタリング
         applyUrlFilters(year, track, theme);
     } else {
-        // パラメータがない場合は通常のフィルタ更新
+        // パラメータがない場合は全問題を表示（フィルタ更新）
         updateFilters();
+        // フィルタ更新後に問題を表示
+        if (filteredQuestions.length > 0) {
+            showQuestion();
+        }
     }
     
-    showQuestion();
     updateProgress();
 });
 
@@ -139,7 +142,28 @@ async function loadQuestions() {
         if (!response.ok) {
             throw new Error(`Failed to load questions: ${response.status} ${response.statusText}`);
         }
-        allQuestions = await response.json();
+        
+        // テキストとして先に読み込んで、JSONとしてパース
+        const text = await response.text();
+        try {
+            allQuestions = JSON.parse(text);
+        } catch (parseError) {
+            // JSONパースエラーの詳細をログに出力（開発者向け）
+            console.error('JSON Parse Error:', parseError);
+            console.error('Error position:', parseError.message);
+            
+            // エラー位置付近のテキストを抽出（デバッグ用）
+            const match = parseError.message.match(/position (\d+)/);
+            if (match) {
+                const pos = parseInt(match[1]);
+                const start = Math.max(0, pos - 50);
+                const end = Math.min(text.length, pos + 50);
+                console.error('Context around error:', text.substring(start, end));
+            }
+            
+            throw new Error(`JSON形式エラー: ${parseError.message}。データファイルを確認してください。`);
+        }
+        
         filteredQuestions = [...allQuestions];
         
         // 読み込み成功を表示（デバッグ用）
@@ -160,23 +184,60 @@ async function loadQuestions() {
         console.error('Error loading questions:', error);
         const loadingMsg = document.getElementById('loadingMessage');
         if (loadingMsg) {
-            loadingMsg.textContent = `問題の読み込みに失敗しました: ${error.message}`;
+            loadingMsg.innerHTML = `
+                <div style="padding: 20px; text-align: center;">
+                    <p style="color: #e01e5a; font-weight: 600; margin-bottom: 12px;">問題の読み込みに失敗しました</p>
+                    <p style="color: #616061; font-size: 14px; margin-bottom: 16px;">${error.message}</p>
+                    <button onclick="location.reload()" class="btn-primary" style="margin-right: 8px;">再読み込み</button>
+                    <a href="/" class="btn-secondary" style="display: inline-block; padding: 8px 16px; text-decoration: none;">トップページへ</a>
+                </div>
+            `;
             loadingMsg.style.color = '#e01e5a';
+            loadingMsg.style.backgroundColor = '#fee';
+            loadingMsg.classList.remove('hidden');
         }
     }
 }
 
-// localStorageから進捗を読み込む
-function loadProgress() {
-    const saved = localStorage.getItem('quizProgress');
-    if (saved) {
-        progress = JSON.parse(saved);
+// 現在のユーザー名を取得
+function getCurrentUserName() {
+    return localStorage.getItem('currentUserName') || '';
+}
+
+// 現在のユーザー名を設定
+function setCurrentUserName(name) {
+    if (name) {
+        localStorage.setItem('currentUserName', name);
+    } else {
+        localStorage.removeItem('currentUserName');
     }
 }
 
-// 進捗をlocalStorageに保存
+// localStorageから進捗を読み込む（名前単位）
+function loadProgress() {
+    const userName = getCurrentUserName();
+    if (userName) {
+        const saved = localStorage.getItem(`quizProgress_${userName}`);
+        if (saved) {
+            try {
+                progress = JSON.parse(saved);
+            } catch (e) {
+                console.error('Failed to parse progress:', e);
+                progress = { answered: [], correct: 0, total: 0 };
+            }
+        }
+    }
+}
+
+// 進捗をlocalStorageに保存（名前単位）
 function saveProgress() {
-    localStorage.setItem('quizProgress', JSON.stringify(progress));
+    const userName = getCurrentUserName();
+    if (userName) {
+        localStorage.setItem(`quizProgress_${userName}`, JSON.stringify(progress));
+    } else {
+        // 名前がない場合はデフォルトキーで保存
+        localStorage.setItem('quizProgress', JSON.stringify(progress));
+    }
 }
 
 // イベントリスナー設定
@@ -188,6 +249,47 @@ function setupEventListeners() {
     document.getElementById('modeSelect').addEventListener('change', updateFilters);
     document.getElementById('resetButton').addEventListener('click', resetProgress);
     document.getElementById('nextButton').addEventListener('click', nextQuestion);
+    
+    // ユーザー名入力欄のイベント
+    const userNameInput = document.getElementById('userNameInput');
+    if (userNameInput) {
+        // 既存のユーザー名を復元
+        const currentName = getCurrentUserName();
+        if (currentName) {
+            userNameInput.value = currentName;
+            updateUserNameDisplay(currentName);
+        }
+        
+        // ユーザー名変更時の処理
+        userNameInput.addEventListener('blur', () => {
+            const name = userNameInput.value.trim();
+            if (name) {
+                setCurrentUserName(name);
+                // 進捗を新しい名前で読み込み
+                loadProgress();
+                updateProgress();
+                updateUserNameDisplay(name);
+            }
+        });
+        
+        // Enterキーでも保存
+        userNameInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                userNameInput.blur();
+            }
+        });
+    }
+}
+
+// ユーザー名表示を更新
+function updateUserNameDisplay(name) {
+    const display = document.getElementById('currentUserName');
+    if (display && name) {
+        display.textContent = `（${name}）`;
+        display.style.display = 'inline';
+    } else if (display) {
+        display.style.display = 'none';
+    }
 }
 
 // 言語切替
@@ -437,9 +539,21 @@ function updateProgress() {
 
 // 進捗をリセット
 function resetProgress() {
-    if (confirm('進捗をリセットしますか？')) {
+    const userName = getCurrentUserName();
+    const confirmMsg = userName 
+        ? `「${userName}」の進捗をリセットしますか？`
+        : '進捗をリセットしますか？';
+    
+    if (confirm(confirmMsg)) {
         progress = { answered: [], correct: 0, total: 0 };
-        localStorage.removeItem('quizProgress');
+        
+        // 名前単位で削除
+        if (userName) {
+            localStorage.removeItem(`quizProgress_${userName}`);
+        } else {
+            localStorage.removeItem('quizProgress');
+        }
+        
         // フィルタごとのインデックスもリセット
         Object.keys(localStorage).forEach(key => {
             if (key.startsWith('quizIndex_')) {
@@ -452,4 +566,5 @@ function resetProgress() {
         showQuestion();
     }
 }
+
 

@@ -49,6 +49,15 @@ function applyUrlFilters(year, track, theme) {
         return;
     }
     
+    // allQuestionsが読み込まれるまで待つ
+    if (allQuestions.length === 0) {
+        console.log('Waiting for questions to load...');
+        setTimeout(() => {
+            applyUrlFilters(year, track, theme);
+        }, 200);
+        return;
+    }
+    
     // フィルタ選択を設定
     const yearFilter = document.getElementById('yearFilter');
     const categoryFilter = document.getElementById('categoryFilter');
@@ -60,44 +69,56 @@ function applyUrlFilters(year, track, theme) {
     // Themeフィルタの候補を更新
     updateThemeFilter(year, track);
     
-    // Themeを設定（少し遅延させてから）
-    setTimeout(() => {
-        if (themeFilter) {
-            // themeは日本語文字列なので、完全一致で検索
-            const options = Array.from(themeFilter.options);
-            const matchingOption = options.find(opt => opt.value === theme || opt.textContent === theme);
-            if (matchingOption) {
-                themeFilter.value = matchingOption.value;
+    // Themeを設定（updateThemeFilter完了後に確実に設定）
+    const setThemeFilter = () => {
+        if (!themeFilter) return;
+        
+        // themeは日本語文字列なので、完全一致で検索
+        const options = Array.from(themeFilter.options);
+        const matchingOption = options.find(opt => opt.value === theme || opt.textContent === theme);
+        
+        if (matchingOption) {
+            themeFilter.value = matchingOption.value;
+            // フィルタを適用
+            updateFilters();
+            
+            // フィルタ適用後に問題が0件の場合
+            setTimeout(() => {
+                if (filteredQuestions.length === 0) {
+                    showErrorMessage('該当する問題が見つかりませんでした。トップページに戻ります。');
+                    setTimeout(() => {
+                        window.location.href = '/';
+                    }, 2000);
+                }
+            }, 100);
+        } else {
+            // 完全一致しない場合は、部分一致で検索
+            const partialMatch = options.find(opt => 
+                opt.textContent.includes(theme) || theme.includes(opt.textContent)
+            );
+            
+            if (partialMatch) {
+                themeFilter.value = partialMatch.value;
+                updateFilters();
             } else {
-                // 完全一致しない場合は、部分一致で検索
-                const partialMatch = options.find(opt => opt.textContent.includes(theme) || theme.includes(opt.textContent));
-                if (partialMatch) {
-                    themeFilter.value = partialMatch.value;
+                // テーマが見つからない場合（optionsがまだ生成されていない可能性がある）
+                if (options.length <= 1) {
+                    // optionsがまだ生成されていない場合は再試行
+                    setTimeout(setThemeFilter, 100);
                 } else {
-                    // テーマが見つからない場合
-                    console.warn(`Theme not found: ${theme}`);
+                    // optionsは生成されているが一致しない場合はエラー
+                    console.warn(`Theme not found: ${theme}`, 'Available themes:', Array.from(options).map(o => o.value));
                     showErrorMessage(`テーマ「${theme}」が見つかりません。トップページに戻ります。`);
                     setTimeout(() => {
                         window.location.href = '/';
                     }, 2000);
-                    return;
                 }
             }
         }
-        
-        // フィルタを適用
-        updateFilters();
-        
-        // フィルタ適用後に問題が0件の場合
-        setTimeout(() => {
-            if (filteredQuestions.length === 0) {
-                showErrorMessage('該当する問題が見つかりませんでした。トップページに戻ります。');
-                setTimeout(() => {
-                    window.location.href = '/';
-                }, 2000);
-            }
-        }, 200);
-    }, 100);
+    };
+    
+    // updateThemeFilter完了後に実行（少し遅延）
+    setTimeout(setThemeFilter, 150);
 }
 
 // エラーメッセージを表示

@@ -2,45 +2,11 @@
 
 {% block content %}
 <div class="card">
-    <h2>名前を入力してテーマを選択してください</h2>
-    
-    <form method="GET" action="/quiz/governance" class="form-group">
-        <div class="input-group">
-            <label for="name">お名前:</label>
-            <input type="text" id="name" name="name" required placeholder="例: 山田太郎" class="input-field">
-        </div>
-        
-        <div class="theme-selection">
-            <h3>学習テーマを選択</h3>
-            <div class="theme-cards">
-                <div class="theme-card">
-                    <h4>ガバナンス</h4>
-                    <p>コーポレートガバナンスに関する設問</p>
-                    <button type="submit" formaction="/quiz/governance" class="btn btn-primary">開始</button>
-                </div>
-                
-                <div class="theme-card">
-                    <h4>ハラスメント</h4>
-                    <p>ハラスメント防止に関する設問</p>
-                    <button type="submit" formaction="/quiz/harassment" class="btn btn-primary">開始</button>
-                </div>
-                
-                <div class="theme-card">
-                    <h4>情報セキュリティ</h4>
-                    <p>情報セキュリティに関する設問</p>
-                    <button type="submit" formaction="/quiz/infosec" class="btn btn-primary">開始</button>
-                </div>
-            </div>
-        </div>
-    </form>
-    
-    <div class="admin-link">
-        <a href="/admin" class="btn btn-secondary">管理者画面へ</a>
-    </div>
+    <h2>学習テーマを選択してください</h2>
     
     <div class="new-quiz-link">
-        <h3>📚 新しいクイズUI（77問対応）</h3>
-        <p>Year1/Year2 × governance/business/management の全77問にチャレンジできます</p>
+        <h3>📚 学習テーマを選択</h3>
+        <p>Year1/Year2 × ガバナンス/ビジネス/マネジメント の全77問にチャレンジできます</p>
         
         <div id="themeSelectorContainer" class="theme-selector-container">
             <!-- テーマ選択UIは themeSelector.js で動的に生成 -->
@@ -63,6 +29,10 @@
             <input type="text" name="name" required placeholder="お名前を入力" class="input-field" style="max-width: 300px; display: inline-block;">
             <button type="submit" class="btn btn-primary">QAを開始</button>
         </form>
+    </div>
+    
+    <div class="admin-link-footer">
+        <a href="/admin" class="btn btn-secondary">管理者画面へ</a>
     </div>
 </div>
 

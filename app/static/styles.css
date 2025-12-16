@@ -686,6 +686,13 @@ td {
     margin-top: 24px;
 }
 
+.admin-link-footer {
+    text-align: center;
+    margin-top: 32px;
+    padding-top: 24px;
+    border-top: 1px solid var(--slack-border);
+}
+
 .new-quiz-link {
     margin-top: 32px;
     padding: 24px;

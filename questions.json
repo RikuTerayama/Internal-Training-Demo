@@ -1,0 +1,2313 @@
+[
+  {
+    "id": "q-gov-y1-001",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "人事制度・評価制度の理解",
+    "learning_goal_ja": "評価制度の目的と運用ルールを理解し、公平な評価を実施できる",
+    "learning_goal_en": "Understand the purpose and operational rules of the evaluation system and conduct fair evaluations",
+    "common_misconception_ja": "評価は主観で決めればよい",
+    "common_misconception_en": "Evaluations can be determined subjectively",
+    "difficulty": "easy",
+    "question_ja": "部下の評価を行う際、最も適切なアプローチはどれか？",
+    "question_en": "When evaluating a subordinate, which approach is most appropriate?",
+    "choices_ja": [
+      "A. 主観的な印象だけで評価する",
+      "B. 評価期間中の具体的な行動・成果を記録に基づき評価する",
+      "C. 他のメンバーとの比較のみで評価する",
+      "D. 本人の自己評価のみを採用する"
+    ],
+    "choices_en": [
+      "A. Evaluate based solely on subjective impressions",
+      "B. Evaluate based on documented specific actions and achievements during the evaluation period",
+      "C. Evaluate only by comparison with other members",
+      "D. Adopt only the employee's self-evaluation"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。評価は客観的な記録（行動・成果・証跡）に基づき実施する必要がある。主観のみ（A）は公平性を欠き、比較のみ（C）は個人の成長を評価できない。自己評価のみ（D）は評価者の責任を放棄している。評価制度の目的は、公平性と透明性を確保し、従業員の成長を支援することである。",
+    "explanation_en": "The correct answer is B. Evaluations must be conducted based on objective records (actions, achievements, evidence). Evaluation based solely on subjectivity (A) lacks fairness, comparison only (C) cannot evaluate individual growth, and self-evaluation only (D) abandons the evaluator's responsibility. The purpose of the evaluation system is to ensure fairness and transparency and support employee growth.",
+    "source_url": "https://example.com/training/Year1/governance/人事制度・評価制度の理解/q-gov-y1-001",
+    "tags": ["Year1", "governance", "人事制度", "評価制度"]
+  },
+  {
+    "id": "q-gov-y1-002",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "人事制度・評価制度の理解",
+    "learning_goal_ja": "評価制度の目的と運用ルールを理解し、公平な評価を実施できる",
+    "learning_goal_en": "Understand the purpose and operational rules of the evaluation system and conduct fair evaluations",
+    "common_misconception_ja": "評価は主観で決めればよい",
+    "common_misconception_en": "Evaluations can be determined subjectively",
+    "difficulty": "medium",
+    "question_ja": "評価面談で部下から『評価が低すぎる』と異議申し立てがあった場合、最も適切な対応はどれか？",
+    "question_en": "When a subordinate raises an objection during an evaluation interview saying 'the evaluation is too low,' which response is most appropriate?",
+    "choices_ja": [
+      "A. 評価は変えられないと一方的に伝える",
+      "B. 評価基準と具体的な根拠を示し、必要に応じて人事部門に相談する",
+      "C. 部下の要求に応じて評価を上げる",
+      "D. 次回の評価で考慮すると伝える"
+    ],
+    "choices_en": [
+      "A. Unilaterally inform that the evaluation cannot be changed",
+      "B. Show evaluation criteria and specific evidence, and consult with HR if necessary",
+      "C. Raise the evaluation in response to the subordinate's request",
+      "D. Inform that it will be considered in the next evaluation"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。異議申し立てには、評価基準と根拠を透明に示し、必要に応じて人事部門のサポートを得ることが重要。一方的な拒否（A）は信頼を損なう。要求に応じて変更（C）は制度の公平性を損なう。次回対応（D）は現状の問題を先送りしている。評価制度は透明性と公正性が生命線である。",
+    "explanation_en": "The correct answer is B. When objections are raised, it is important to transparently show evaluation criteria and evidence, and seek HR support if necessary. Unilateral rejection (A) damages trust. Changing evaluations in response to requests (C) undermines the fairness of the system. Deferring to the next evaluation (D) postpones current issues. Transparency and fairness are the lifeline of the evaluation system.",
+    "source_url": "https://example.com/training/Year1/governance/人事制度・評価制度の理解/q-gov-y1-002",
+    "tags": ["Year1", "governance", "人事制度", "評価制度"]
+  },
+  {
+    "id": "q-gov-y1-003",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "人事制度・評価制度の理解",
+    "learning_goal_ja": "評価制度の目的と運用ルールを理解し、公平な評価を実施できる",
+    "learning_goal_en": "Understand the purpose and operational rules of the evaluation system and conduct fair evaluations",
+    "common_misconception_ja": "評価は主観で決めればよい",
+    "common_misconception_en": "Evaluations can be determined subjectively",
+    "difficulty": "hard",
+    "question_ja": "評価期間中に異動した部下について、評価を実施する際の最も適切な方法はどれか？",
+    "question_en": "What is the most appropriate method for evaluating a subordinate who was transferred during the evaluation period?",
+    "choices_ja": [
+      "A. 異動前の上司のみが評価する",
+      "B. 異動後の上司のみが評価する",
+      "C. 両方の上司が協議し、評価期間全体を考慮して評価する（または人事が調整）",
+      "D. 評価をスキップする"
+    ],
+    "choices_en": [
+      "A. Only the pre-transfer supervisor evaluates",
+      "B. Only the post-transfer supervisor evaluates",
+      "C. Both supervisors discuss and evaluate considering the entire evaluation period (or HR coordinates)",
+      "D. Skip the evaluation"
+    ],
+    "correct_choice_index": 2,
+    "explanation_ja": "正解はC。異動があった場合、評価期間全体を公平に評価するため、両方の上司が協議するか人事が調整する必要がある。片方のみ（A/B）は評価期間の一部しか見ていない。評価をスキップ（D）は制度違反となる。人事制度では、異動・組織変更時も評価の公平性を確保することが重要である。",
+    "explanation_en": "The correct answer is C. When a transfer occurs, both supervisors should discuss or HR should coordinate to fairly evaluate the entire evaluation period. Evaluation by only one supervisor (A/B) only looks at part of the evaluation period. Skipping evaluation (D) violates the system. In personnel systems, it is important to ensure fairness of evaluation even during transfers and organizational changes.",
+    "source_url": "https://example.com/training/Year1/governance/人事制度・評価制度の理解/q-gov-y1-003",
+    "tags": ["Year1", "governance", "人事制度", "評価制度"]
+  },
+  {
+    "id": "q-gov-y1-004",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "労働法・雇用形態の基礎",
+    "learning_goal_ja": "労働法の基本と雇用形態の違いを理解し、適切な雇用管理ができる",
+    "learning_goal_en": "Understand the basics of labor law and differences in employment types, and manage employment appropriately",
+    "common_misconception_ja": "正社員と非正規社員の違いは給与だけ",
+    "common_misconception_en": "The only difference between regular and non-regular employees is salary",
+    "difficulty": "easy",
+    "question_ja": "正社員と契約社員の主な違いとして、最も適切な説明はどれか？",
+    "question_en": "Which is the most appropriate explanation of the main difference between regular employees and contract employees?",
+    "choices_ja": [
+      "A. 給与の額だけが違う",
+      "B. 契約期間の有無、解雇規制、社会保険の扱いなど法的地位が異なる",
+      "C. 仕事の内容が全く違う",
+      "D. 正社員の方が能力が高い"
+    ],
+    "choices_en": [
+      "A. Only the salary amount differs",
+      "B. Legal status differs in terms of contract period, dismissal regulations, social insurance treatment, etc.",
+      "C. The work content is completely different",
+      "D. Regular employees have higher abilities"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。正社員と契約社員は、契約期間の有無、解雇規制、社会保険の扱いなど法的地位が異なる。給与だけ（A）は誤り。仕事内容（C）や能力（D）は雇用形態の違いではない。労働法では、雇用形態ごとに異なる権利と義務が定められており、管理者はこれを理解して適切に管理する必要がある。",
+    "explanation_en": "The correct answer is B. Regular employees and contract employees differ in legal status regarding contract period, dismissal regulations, social insurance treatment, etc. Only salary (A) is incorrect. Work content (C) and ability (D) are not differences in employment type. Labor law defines different rights and obligations for each employment type, and managers must understand and manage this appropriately.",
+    "source_url": "https://example.com/training/Year1/governance/労働法・雇用形態の基礎/q-gov-y1-004",
+    "tags": ["Year1", "governance", "労働法", "雇用形態"]
+  },
+  {
+    "id": "q-gov-y1-005",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "労働法・雇用形態の基礎",
+    "learning_goal_ja": "労働法の基本と雇用形態の違いを理解し、適切な雇用管理ができる",
+    "learning_goal_en": "Understand the basics of labor law and differences in employment types, and manage employment appropriately",
+    "common_misconception_ja": "正社員と非正規社員の違いは給与だけ",
+    "common_misconception_en": "The only difference between regular and non-regular employees is salary",
+    "difficulty": "medium",
+    "question_ja": "有給休暇の取得について、労働基準法で定められている原則はどれか？",
+    "question_en": "What is the principle regarding paid leave entitlement as stipulated in the Labor Standards Act?",
+    "choices_ja": [
+      "A. 会社が取得時期を指定できる",
+      "B. 労働者が時季を指定して取得する権利がある（業務上支障がある場合のみ会社が変更可能）",
+      "C. 有給は使わなくても失効する",
+      "D. 管理職は有給を取得できない"
+    ],
+    "choices_en": [
+      "A. The company can specify when to take leave",
+      "B. Employees have the right to specify when to take leave (company can change only if there is a business impediment)",
+      "C. Paid leave expires if not used",
+      "D. Managers cannot take paid leave"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。労働基準法では、労働者が時季を指定して有給を取得する権利があり、会社は業務上支障がある場合のみ時季変更権を行使できる。会社の一方的な指定（A）は違法。有給の失効（C）は一部を除き原則ない。管理職の取得不可（D）は違法。労働法の基本原則は、労働者の権利保護である。",
+    "explanation_en": "The correct answer is B. Under the Labor Standards Act, employees have the right to specify when to take paid leave, and companies can exercise the right to change the timing only if there is a business impediment. Unilateral company specification (A) is illegal. Expiration of paid leave (C) generally does not occur except in part. Prohibition for managers (D) is illegal. The basic principle of labor law is protection of workers' rights.",
+    "source_url": "https://example.com/training/Year1/governance/労働法・雇用形態の基礎/q-gov-y1-005",
+    "tags": ["Year1", "governance", "労働法", "有給休暇"]
+  },
+  {
+    "id": "q-gov-y1-006",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "労働法・雇用形態の基礎",
+    "learning_goal_ja": "労働法の基本と雇用形態の違いを理解し、適切な雇用管理ができる",
+    "learning_goal_en": "Understand the basics of labor law and differences in employment types, and manage employment appropriately",
+    "common_misconception_ja": "正社員と非正規社員の違いは給与だけ",
+    "common_misconception_en": "The only difference between regular and non-regular employees is salary",
+    "difficulty": "hard",
+    "question_ja": "試用期間中の社員を解雇する場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate action when dismissing an employee during the probationary period?",
+    "choices_ja": [
+      "A. 理由を明示せずに解雇できる",
+      "B. 試用期間でも解雇理由を明示し、必要に応じて人事・法務に相談する",
+      "C. 試用期間は無条件で解雇できる",
+      "D. 解雇は試用期間後に行う"
+    ],
+    "choices_en": [
+      "A. Can dismiss without stating a reason",
+      "B. Even during probation, dismissal reasons must be stated, and HR/legal should be consulted if necessary",
+      "C. Can dismiss unconditionally during probation",
+      "D. Dismissal should be done after probation"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。試用期間中でも、解雇理由を明示し、必要に応じて人事・法務に相談することが適切。理由不明の解雇（A）や無条件解雇（C）は労働法違反の可能性がある。試用期間後（D）は問題を先送りしている。試用期間は適性を判断する期間であり、解雇には正当な理由と手続きが必要である。",
+    "explanation_en": "The correct answer is B. Even during probation, it is appropriate to state dismissal reasons and consult with HR/legal if necessary. Dismissal without reason (A) or unconditional dismissal (C) may violate labor law. After probation (D) postpones the problem. The probationary period is for assessing suitability, and dismissal requires legitimate reasons and procedures.",
+    "source_url": "https://example.com/training/Year1/governance/労働法・雇用形態の基礎/q-gov-y1-006",
+    "tags": ["Year1", "governance", "労働法", "試用期間"]
+  },
+  {
+    "id": "q-gov-y1-007",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "労務管理（勤怠、メンタルケア）",
+    "learning_goal_ja": "勤怠管理とメンタルヘルスケアの基本を理解し、適切な労務管理ができる",
+    "learning_goal_en": "Understand the basics of attendance management and mental health care, and manage labor appropriately",
+    "common_misconception_ja": "残業時間は自己申告で十分",
+    "common_misconception_en": "Overtime hours can be self-reported",
+    "difficulty": "easy",
+    "question_ja": "部下の勤怠管理において、最も適切な方法はどれか？",
+    "question_en": "What is the most appropriate method for managing a subordinate's attendance?",
+    "choices_ja": [
+      "A. 自己申告のみで管理する",
+      "B. 客観的な記録（打刻、システムログ等）と自己申告を組み合わせ、異常があれば確認する",
+      "C. 管理しない",
+      "D. 残業は記録不要"
+    ],
+    "choices_en": [
+      "A. Manage only through self-reporting",
+      "B. Combine objective records (time stamps, system logs, etc.) with self-reporting, and verify if there are anomalies",
+      "C. Do not manage",
+      "D. Overtime does not need to be recorded"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。勤怠管理は客観的な記録と自己申告を組み合わせ、異常があれば確認することが適切。自己申告のみ（A）は正確性に欠ける。管理しない（C）は労働法違反。残業記録不要（D）は違法。労働基準法では、労働時間の適切な管理が義務付けられており、証跡を残すことが重要である。",
+    "explanation_en": "The correct answer is B. Attendance management should combine objective records with self-reporting and verify if there are anomalies. Self-reporting only (A) lacks accuracy. No management (C) violates labor law. No overtime records (D) is illegal. The Labor Standards Act requires appropriate management of working hours, and it is important to keep evidence.",
+    "source_url": "https://example.com/training/Year1/governance/労務管理（勤怠、メンタルケア）/q-gov-y1-007",
+    "tags": ["Year1", "governance", "労務管理", "勤怠"]
+  },
+  {
+    "id": "q-gov-y1-008",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "労務管理（勤怠、メンタルケア）",
+    "learning_goal_ja": "勤怠管理とメンタルヘルスケアの基本を理解し、適切な労務管理ができる",
+    "learning_goal_en": "Understand the basics of attendance management and mental health care, and manage labor appropriately",
+    "common_misconception_ja": "残業時間は自己申告で十分",
+    "common_misconception_en": "Overtime hours can be self-reported",
+    "difficulty": "medium",
+    "question_ja": "部下が『最近体調が悪く、集中できない』と相談してきた場合、最も適切な初動対応はどれか？",
+    "question_en": "When a subordinate consults saying 'I've been feeling unwell recently and can't concentrate,' what is the most appropriate initial response?",
+    "choices_ja": [
+      "A. 頑張れと励ますだけ",
+      "B. 状況を聞き取り、必要に応じて産業医・人事・相談窓口へ案内する",
+      "C. 仕事を増やす",
+      "D. 無視する"
+    ],
+    "choices_en": [
+      "A. Only encourage them to do their best",
+      "B. Listen to the situation and guide them to occupational health physician/HR/consultation window if necessary",
+      "C. Increase their workload",
+      "D. Ignore it"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。メンタルヘルスケアでは、状況を聞き取り、必要に応じて専門家（産業医・人事・相談窓口）へ案内することが重要。励ますだけ（A）は問題を深刻化させる可能性がある。仕事を増やす（C）や無視（D）は不適切。メンタルヘルスは早期対応が重要であり、管理者は適切な相談導線を知っておく必要がある。",
+    "explanation_en": "The correct answer is B. In mental health care, it is important to listen to the situation and guide them to specialists (occupational health physician/HR/consultation window) if necessary. Only encouragement (A) may worsen the problem. Increasing workload (C) or ignoring (D) is inappropriate. Early response is important for mental health, and managers need to know appropriate consultation channels.",
+    "source_url": "https://example.com/training/Year1/governance/労務管理（勤怠、メンタルケア）/q-gov-y1-008",
+    "tags": ["Year1", "governance", "労務管理", "メンタルケア"]
+  },
+  {
+    "id": "q-gov-y1-009",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "労務管理（勤怠、メンタルケア）",
+    "learning_goal_ja": "勤怠管理とメンタルヘルスケアの基本を理解し、適切な労務管理ができる",
+    "learning_goal_en": "Understand the basics of attendance management and mental health care, and manage labor appropriately",
+    "common_misconception_ja": "残業時間は自己申告で十分",
+    "common_misconception_en": "Overtime hours can be self-reported",
+    "difficulty": "hard",
+    "question_ja": "部下が長時間労働を続けており、健康リスクが懸念される場合、最も適切な対応はどれか？",
+    "question_en": "When a subordinate continues to work long hours and health risks are a concern, what is the most appropriate response?",
+    "choices_ja": [
+      "A. 本人の希望なのでそのままにする",
+      "B. 労働時間の適正化を図り、必要に応じて産業医・人事と連携する",
+      "C. 残業を禁止するだけで対応する",
+      "D. 他のメンバーに仕事を押し付ける"
+    ],
+    "choices_en": [
+      "A. Leave it as is since it's the employee's wish",
+      "B. Work to normalize working hours and collaborate with occupational health physician/HR if necessary",
+      "C. Only prohibit overtime",
+      "D. Push work onto other members"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。長時間労働の健康リスクには、労働時間の適正化と専門家（産業医・人事）との連携が必要。本人の希望（A）は健康管理責任を放棄している。残業禁止のみ（C）は根本解決にならない。他メンバーへ押し付け（D）は問題の移転。労働安全衛生法では、長時間労働の健康管理が義務付けられており、管理者は適切な措置を講じる必要がある。",
+    "explanation_en": "The correct answer is B. For health risks from long working hours, normalization of working hours and collaboration with specialists (occupational health physician/HR) are necessary. Leaving it to the employee's wish (A) abandons health management responsibility. Only prohibiting overtime (C) does not solve the root cause. Pushing onto others (D) transfers the problem. The Industrial Safety and Health Act requires health management for long working hours, and managers must take appropriate measures.",
+    "source_url": "https://example.com/training/Year1/governance/労務管理（勤怠、メンタルケア）/q-gov-y1-009",
+    "tags": ["Year1", "governance", "労務管理", "長時間労働"]
+  },
+  {
+    "id": "q-gov-y1-010",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "リスク管理（ハラスメント防止）",
+    "learning_goal_ja": "ハラスメントの定義と防止策を理解し、適切な対応ができる",
+    "learning_goal_en": "Understand the definition of harassment and prevention measures, and respond appropriately",
+    "common_misconception_ja": "ハラスメントは本人が嫌がらなければ問題ない",
+    "common_misconception_en": "Harassment is not a problem if the person doesn't mind",
+    "difficulty": "easy",
+    "question_ja": "ハラスメントの定義として、最も適切なのはどれか？",
+    "question_en": "Which is the most appropriate definition of harassment?",
+    "choices_ja": [
+      "A. 本人が嫌がらなければ問題ない",
+      "B. 相手の尊厳を傷つけ、就業環境を悪化させる言動",
+      "C. 業務上の指導はすべてハラスメント",
+      "D. 飲み会での発言はハラスメントにならない"
+    ],
+    "choices_en": [
+      "A. Not a problem if the person doesn't mind",
+      "B. Words and actions that harm the other person's dignity and worsen the work environment",
+      "C. All work-related guidance is harassment",
+      "D. Comments at drinking parties are not harassment"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。ハラスメントは、相手の尊厳を傷つけ、就業環境を悪化させる言動である。本人が嫌がらない（A）は誤り。業務指導（C）は適切な範囲なら問題ない。飲み会（D）でもハラスメントに該当する場合がある。ハラスメント防止法では、就業環境を悪化させる行為が禁止されており、管理者は防止と適切な対応の責任を負う。",
+    "explanation_en": "The correct answer is B. Harassment is words and actions that harm the other person's dignity and worsen the work environment. Not minding (A) is incorrect. Work guidance (C) is fine if within appropriate scope. Drinking parties (D) can also constitute harassment. The harassment prevention law prohibits acts that worsen the work environment, and managers bear responsibility for prevention and appropriate response.",
+    "source_url": "https://example.com/training/Year1/governance/リスク管理（ハラスメント防止）/q-gov-y1-010",
+    "tags": ["Year1", "governance", "ハラスメント", "リスク管理"]
+  },
+  {
+    "id": "q-gov-y1-011",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "リスク管理（ハラスメント防止）",
+    "learning_goal_ja": "ハラスメントの定義と防止策を理解し、適切な対応ができる",
+    "learning_goal_en": "Understand the definition of harassment and prevention measures, and respond appropriately",
+    "common_misconception_ja": "ハラスメントは本人が嫌がらなければ問題ない",
+    "common_misconception_en": "Harassment is not a problem if the person doesn't mind",
+    "difficulty": "medium",
+    "question_ja": "部下からハラスメントの相談を受けた場合、最も適切な初動対応はどれか？",
+    "question_en": "When receiving a harassment consultation from a subordinate, what is the most appropriate initial response?",
+    "choices_ja": [
+      "A. 相談内容を加害者に直接確認する",
+      "B. 相談者の意向を尊重し、適切な相談窓口（人事・外部窓口等）へ案内する",
+      "C. 相談内容を秘密にし、記録を残さない",
+      "D. 相談者に我慢するよう促す"
+    ],
+    "choices_en": [
+      "A. Directly confirm the consultation content with the perpetrator",
+      "B. Respect the consultant's wishes and guide them to appropriate consultation windows (HR/external windows, etc.)",
+      "C. Keep the consultation content secret and leave no records",
+      "D. Encourage the consultant to endure"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。ハラスメント相談では、相談者の意向を尊重し、適切な相談窓口へ案内することが重要。加害者への直接確認（A）は相談者の安全を損なう可能性がある。秘密保持・記録なし（C）は適切な対応を妨げる。我慢を促す（D）は不適切。ハラスメント対応では、相談者の安全確保と適切な手続きの両立が重要である。",
+    "explanation_en": "The correct answer is B. In harassment consultations, it is important to respect the consultant's wishes and guide them to appropriate consultation windows. Direct confirmation with the perpetrator (A) may compromise the consultant's safety. Keeping secrets and no records (C) hinders appropriate response. Encouraging endurance (D) is inappropriate. In harassment response, both ensuring consultant safety and appropriate procedures are important.",
+    "source_url": "https://example.com/training/Year1/governance/リスク管理（ハラスメント防止）/q-gov-y1-011",
+    "tags": ["Year1", "governance", "ハラスメント", "相談対応"]
+  },
+  {
+    "id": "q-gov-y1-012",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "リスク管理（ハラスメント防止）",
+    "learning_goal_ja": "ハラスメントの定義と防止策を理解し、適切な対応ができる",
+    "learning_goal_en": "Understand the definition of harassment and prevention measures, and respond appropriately",
+    "common_misconception_ja": "ハラスメントは本人が嫌がらなければ問題ない",
+    "common_misconception_en": "Harassment is not a problem if the person doesn't mind",
+    "difficulty": "hard",
+    "question_ja": "ハラスメント相談を行った社員に対して、周囲が『面倒な人』と陰口を言い、業務連携を減らしている場合、最も適切な対応はどれか？",
+    "question_en": "When employees who made a harassment consultation are being talked about behind their backs as 'troublesome' and business collaboration is reduced, what is the most appropriate response?",
+    "choices_ja": [
+      "A. 本人が気にしなければ問題ない",
+      "B. 報復・不利益取扱いの可能性があるため、状況を記録し、管理職・人事へ共有する",
+      "C. 相談した人が悪いので仕方ない",
+      "D. 陰口を言う人の仲間に入らないだけで十分"
+    ],
+    "choices_en": [
+      "A. Not a problem if the person doesn't mind",
+      "B. Record the situation and share with management/HR as there is a possibility of retaliation/unfavorable treatment",
+      "C. It can't be helped since the person who consulted is at fault",
+      "D. Just not joining the group of people talking behind their back is sufficient"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。相談・通報を理由とした不利益取扱いは重大リスク（報復）である。状況を記録し、管理職・人事へ共有して組織として是正する必要がある。本人が気にしない（A）は問題の放置。相談者が悪い（C）は誤り。仲間に入らないだけ（D）は不十分。ハラスメント防止法では、報復禁止が明記されており、組織として是正する義務がある。",
+    "explanation_en": "The correct answer is B. Unfavorable treatment due to consultation/reporting is a serious risk (retaliation). The situation must be recorded and shared with management/HR to correct it organizationally. Not minding (A) leaves the problem. The consultant being at fault (C) is incorrect. Just not joining (D) is insufficient. The harassment prevention law explicitly prohibits retaliation, and organizations have an obligation to correct it.",
+    "source_url": "https://example.com/training/Year1/governance/リスク管理（ハラスメント防止）/q-gov-y1-012",
+    "tags": ["Year1", "governance", "ハラスメント", "報復禁止"]
+  },
+  {
+    "id": "q-gov-y1-013",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "リスク管理（サイバーセキュリティ対策）",
+    "learning_goal_ja": "サイバーセキュリティの基本と対策を理解し、情報管理ができる",
+    "learning_goal_en": "Understand the basics of cybersecurity and countermeasures, and manage information appropriately",
+    "common_misconception_ja": "個人メールに転送しても問題ない",
+    "common_misconception_en": "It's okay to forward to personal email",
+    "difficulty": "easy",
+    "question_ja": "業務資料を個人メール（Gmail等）に転送する場合、最も適切な判断はどれか？",
+    "question_en": "What is the most appropriate judgment when forwarding business materials to personal email (Gmail, etc.)?",
+    "choices_ja": [
+      "A. 急ぎなら仕方ないので転送する",
+      "B. 会社の承認された共有手段（社内Drive/SharePoint等）を使い、個人メール転送は避ける",
+      "C. パスワード付きZIPにすれば個人メールでもOK",
+      "D. 自分だけが見るので問題ない"
+    ],
+    "choices_en": [
+      "A. Forward if urgent, it can't be helped",
+      "B. Use company-approved sharing methods (internal Drive/SharePoint, etc.) and avoid personal email forwarding",
+      "C. Personal email is OK if password-protected ZIP",
+      "D. Not a problem since only I will see it"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。業務資料は会社の承認された共有手段を使い、個人メール転送は避けるべき。急ぎ（A）、パスワード付きZIP（C）、自分だけ（D）は情報管理上のリスクがある。情報セキュリティでは、承認された手段とアクセス制御が重要であり、個人メールは管理外となるため原則禁止である。",
+    "explanation_en": "The correct answer is B. Business materials should use company-approved sharing methods and personal email forwarding should be avoided. Urgency (A), password-protected ZIP (C), and only me (D) pose information management risks. In information security, approved methods and access control are important, and personal email is outside management and therefore prohibited in principle.",
+    "source_url": "https://example.com/training/Year1/governance/リスク管理（サイバーセキュリティ対策）/q-gov-y1-013",
+    "tags": ["Year1", "governance", "サイバーセキュリティ", "情報管理"]
+  },
+  {
+    "id": "q-gov-y1-014",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "リスク管理（サイバーセキュリティ対策）",
+    "learning_goal_ja": "サイバーセキュリティの基本と対策を理解し、情報管理ができる",
+    "learning_goal_en": "Understand the basics of cybersecurity and countermeasures, and manage information appropriately",
+    "common_misconception_ja": "個人メールに転送しても問題ない",
+    "common_misconception_en": "It's okay to forward to personal email",
+    "difficulty": "medium",
+    "question_ja": "社外でフリーWi-Fiに接続して社内システムへログインしようとする場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response when attempting to log into the internal system via free Wi-Fi outside the company?",
+    "choices_ja": [
+      "A. フリーWi-Fiでもパスワードがあれば安全",
+      "B. VPNなど会社の定める安全手段を使う/テザリング等に切り替える",
+      "C. ログインだけなら短時間なので問題ない",
+      "D. 二要素認証があるから安全"
+    ],
+    "choices_en": [
+      "A. Safe if free Wi-Fi has a password",
+      "B. Use company-specified secure methods such as VPN/switch to tethering, etc.",
+      "C. Not a problem since it's just login for a short time",
+      "D. Safe because there's two-factor authentication"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。社外ではVPNやテザリングなど会社の定める安全手段を使うべき。フリーWi-Fiのパスワード（A）や短時間（C）は盗聴・なりすましリスクがある。二要素認証（D）があっても通信経路のリスクは残る。サイバーセキュリティでは、通信経路の安全性が重要であり、フリーWi-Fiは不特定多数が利用するためリスクが高い。",
+    "explanation_en": "The correct answer is B. Outside the company, secure methods specified by the company such as VPN or tethering should be used. Free Wi-Fi password (A) or short time (C) have eavesdropping/spoofing risks. Even with two-factor authentication (D), communication path risks remain. In cybersecurity, communication path security is important, and free Wi-Fi is high risk because it is used by unspecified persons.",
+    "source_url": "https://example.com/training/Year1/governance/リスク管理（サイバーセキュリティ対策）/q-gov-y1-014",
+    "tags": ["Year1", "governance", "サイバーセキュリティ", "ネットワーク"]
+  },
+  {
+    "id": "q-gov-y1-015",
+    "year": "Year1",
+    "category": "governance",
+    "theme": "リスク管理（サイバーセキュリティ対策）",
+    "learning_goal_ja": "サイバーセキュリティの基本と対策を理解し、情報管理ができる",
+    "learning_goal_en": "Understand the basics of cybersecurity and countermeasures, and manage information appropriately",
+    "common_misconception_ja": "個人メールに転送しても問題ない",
+    "common_misconception_en": "It's okay to forward to personal email",
+    "difficulty": "hard",
+    "question_ja": "社内チャットに顧客情報が写り込んだ画面のスクリーンショットを貼ろうとする場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response when attempting to post a screenshot with customer information visible to the internal chat?",
+    "choices_ja": [
+      "A. 社内チャットだから問題ない",
+      "B. 共有最小化（マスキング/必要情報のみ）を徹底し、顧客情報が含まれるなら貼らず別の安全な手段で共有する",
+      "C. 見えにくいので拡大して貼る",
+      "D. 一度貼ってから消せば問題ない"
+    ],
+    "choices_en": [
+      "A. Not a problem since it's internal chat",
+      "B. Minimize sharing (masking/only necessary information) thoroughly, and if customer information is included, do not post and share through other secure means",
+      "C. Enlarge and post since it's hard to see",
+      "D. Not a problem if deleted after posting once"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。顧客情報を含む画像は、マスキングまたは別の安全な手段で共有すべき。社内チャット（A）でも情報漏洩リスクがある。拡大（C）は情報をより見やすくするだけ。一度貼って削除（D）でも閲覧済み・通知・ログに残る可能性がある。情報セキュリティでは、共有範囲の最小化が原則であり、顧客情報は特に慎重に扱う必要がある。",
+    "explanation_en": "The correct answer is B. Images containing customer information should be shared with masking or through other secure means. Even internal chat (A) has information leakage risks. Enlarging (C) only makes information more visible. Posting once and deleting (D) may still leave traces in views/notifications/logs. In information security, minimizing sharing scope is a principle, and customer information must be handled with particular care.",
+    "source_url": "https://example.com/training/Year1/governance/リスク管理（サイバーセキュリティ対策）/q-gov-y1-015",
+    "tags": ["Year1", "governance", "サイバーセキュリティ", "情報共有"]
+  },
+  {
+    "id": "q-biz-y1-001",
+    "year": "Year1",
+    "category": "business",
+    "theme": "プロジェクトマネジメント（WBS・進捗）",
+    "learning_goal_ja": "WBSの作成と進捗管理の基本を理解し、プロジェクトを適切に管理できる",
+    "learning_goal_en": "Understand the basics of WBS creation and progress management, and manage projects appropriately",
+    "common_misconception_ja": "進捗は感覚で把握すればよい",
+    "common_misconception_en": "Progress can be grasped by intuition",
+    "difficulty": "easy",
+    "question_ja": "プロジェクトの進捗管理において、最も適切な方法はどれか？",
+    "question_en": "What is the most appropriate method for managing project progress?",
+    "choices_ja": [
+      "A. 感覚で把握する",
+      "B. WBSに基づき、タスクの完了状況を定期的に確認・記録する",
+      "C. 最終日に確認する",
+      "D. メンバーに任せる"
+    ],
+    "choices_en": [
+      "A. Grasp by intuition",
+      "B. Regularly check and record task completion status based on WBS",
+      "C. Check on the final day",
+      "D. Leave it to members"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。プロジェクト管理では、WBSに基づきタスクの完了状況を定期的に確認・記録することが重要。感覚（A）や最終日確認（C）は遅延リスクを高める。メンバー任せ（D）は管理責任を放棄している。WBSは作業を細分化し、進捗を可視化するための基本ツールであり、定期的な確認により早期に問題を発見できる。",
+    "explanation_en": "The correct answer is B. In project management, it is important to regularly check and record task completion status based on WBS. Intuition (A) or final day check (C) increases delay risk. Leaving to members (D) abandons management responsibility. WBS is a basic tool for breaking down work and visualizing progress, and regular checks enable early problem detection.",
+    "source_url": "https://example.com/training/Year1/business/プロジェクトマネジメント（WBS・進捗）/q-biz-y1-001",
+    "tags": ["Year1", "business", "プロジェクトマネジメント", "WBS"]
+  },
+  {
+    "id": "q-biz-y1-002",
+    "year": "Year1",
+    "category": "business",
+    "theme": "プロジェクトマネジメント（WBS・進捗）",
+    "learning_goal_ja": "WBSの作成と進捗管理の基本を理解し、プロジェクトを適切に管理できる",
+    "learning_goal_en": "Understand the basics of WBS creation and progress management, and manage projects appropriately",
+    "common_misconception_ja": "進捗は感覚で把握すればよい",
+    "common_misconception_en": "Progress can be grasped by intuition",
+    "difficulty": "medium",
+    "question_ja": "WBSを作成する際、最も重要な原則はどれか？",
+    "question_en": "What is the most important principle when creating a WBS?",
+    "choices_ja": [
+      "A. 大雑把にまとめる",
+      "B. 作業を細分化し、各タスクが明確で測定可能な成果物を持つようにする",
+      "C. タスク名だけを列挙する",
+      "D. メンバーに任せる"
+    ],
+    "choices_en": [
+      "A. Summarize roughly",
+      "B. Break down work so that each task is clear and has measurable deliverables",
+      "C. Just list task names",
+      "D. Leave it to members"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。WBSでは、作業を細分化し、各タスクが明確で測定可能な成果物を持つことが重要。大雑把（A）やタスク名のみ（C）は進捗管理が困難。メンバー任せ（D）は管理責任を放棄している。WBSの目的は、プロジェクト全体を可視化し、進捗を正確に把握することであり、適切な粒度での細分化が鍵となる。",
+    "explanation_en": "The correct answer is B. In WBS, it is important to break down work so that each task is clear and has measurable deliverables. Rough (A) or task names only (C) make progress management difficult. Leaving to members (D) abandons management responsibility. The purpose of WBS is to visualize the entire project and accurately grasp progress, and appropriate granular breakdown is key.",
+    "source_url": "https://example.com/training/Year1/business/プロジェクトマネジメント（WBS・進捗）/q-biz-y1-002",
+    "tags": ["Year1", "business", "プロジェクトマネジメント", "WBS"]
+  },
+  {
+    "id": "q-biz-y1-003",
+    "year": "Year1",
+    "category": "business",
+    "theme": "プロジェクトマネジメント（WBS・進捗）",
+    "learning_goal_ja": "WBSの作成と進捗管理の基本を理解し、プロジェクトを適切に管理できる",
+    "learning_goal_en": "Understand the basics of WBS creation and progress management, and manage projects appropriately",
+    "common_misconception_ja": "進捗は感覚で把握すればよい",
+    "common_misconception_en": "Progress can be grasped by intuition",
+    "difficulty": "hard",
+    "question_ja": "プロジェクトで遅延が発生した場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response when a project delay occurs?",
+    "choices_ja": [
+      "A. 遅延を隠す",
+      "B. 遅延の原因を分析し、影響範囲を評価して、関係者に報告し対策を検討する",
+      "C. メンバーを責める",
+      "D. スケジュールを無視して進める"
+    ],
+    "choices_en": [
+      "A. Hide the delay",
+      "B. Analyze the cause of delay, assess impact scope, report to stakeholders, and consider countermeasures",
+      "C. Blame members",
+      "D. Proceed ignoring the schedule"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。遅延発生時は、原因分析、影響範囲評価、関係者報告、対策検討が重要。遅延を隠す（A）は問題を深刻化させる。メンバーを責める（C）は建設的でない。スケジュール無視（D）はプロジェクト管理の放棄。プロジェクトマネジメントでは、問題の早期発見と透明な情報共有が成功の鍵であり、遅延は迅速に対応することで影響を最小化できる。",
+    "explanation_en": "The correct answer is B. When delays occur, cause analysis, impact assessment, stakeholder reporting, and countermeasure consideration are important. Hiding delays (A) worsens problems. Blaming members (C) is not constructive. Ignoring schedule (D) abandons project management. In project management, early problem detection and transparent information sharing are keys to success, and delays can be minimized by rapid response.",
+    "source_url": "https://example.com/training/Year1/business/プロジェクトマネジメント（WBS・進捗）/q-biz-y1-003",
+    "tags": ["Year1", "business", "プロジェクトマネジメント", "遅延対応"]
+  },
+  {
+    "id": "q-biz-y1-004",
+    "year": "Year1",
+    "category": "business",
+    "theme": "問題解決フレームワーク",
+    "learning_goal_ja": "問題解決の基本フレームワークを理解し、構造的に問題を分析・解決できる",
+    "learning_goal_en": "Understand basic problem-solving frameworks and analyze and solve problems systematically",
+    "common_misconception_ja": "問題は直感で解決すればよい",
+    "common_misconception_en": "Problems can be solved by intuition",
+    "difficulty": "easy",
+    "question_ja": "問題解決において、最も重要な最初のステップはどれか？",
+    "question_en": "What is the most important first step in problem solving?",
+    "choices_ja": [
+      "A. すぐに解決策を考える",
+      "B. 問題を明確に定義し、現状と理想のギャップを把握する",
+      "C. 原因を推測する",
+      "D. 解決策を実行する"
+    ],
+    "choices_en": [
+      "A. Immediately think of solutions",
+      "B. Clearly define the problem and understand the gap between current state and ideal",
+      "C. Guess the cause",
+      "D. Execute solutions"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。問題解決では、まず問題を明確に定義し、現状と理想のギャップを把握することが重要。すぐに解決策（A）は問題の本質を見誤る。原因推測（C）は問題定義の前に進むと誤った方向に進む。実行（D）は問題定義なしでは効果的でない。問題解決フレームワークでは、問題定義が正しくなければ、その後の分析・解決策も誤る。",
+    "explanation_en": "The correct answer is B. In problem solving, it is important to first clearly define the problem and understand the gap between current state and ideal. Immediately thinking of solutions (A) misidentifies the essence of the problem. Guessing cause (C) before problem definition leads in wrong direction. Execution (D) is ineffective without problem definition. In problem-solving frameworks, if problem definition is incorrect, subsequent analysis and solutions will also be wrong.",
+    "source_url": "https://example.com/training/Year1/business/問題解決フレームワーク/q-biz-y1-004",
+    "tags": ["Year1", "business", "問題解決", "フレームワーク"]
+  },
+  {
+    "id": "q-biz-y1-005",
+    "year": "Year1",
+    "category": "business",
+    "theme": "問題解決フレームワーク",
+    "learning_goal_ja": "問題解決の基本フレームワークを理解し、構造的に問題を分析・解決できる",
+    "learning_goal_en": "Understand basic problem-solving frameworks and analyze and solve problems systematically",
+    "common_misconception_ja": "問題は直感で解決すればよい",
+    "common_misconception_en": "Problems can be solved by intuition",
+    "difficulty": "medium",
+    "question_ja": "問題の原因分析において、最も適切なアプローチはどれか？",
+    "question_en": "What is the most appropriate approach for analyzing the cause of a problem?",
+    "choices_ja": [
+      "A. 最初に思いついた原因を採用する",
+      "B. なぜなぜ分析など構造的に原因を深掘りし、根本原因を特定する",
+      "C. 原因を推測するだけ",
+      "D. 原因分析をスキップする"
+    ],
+    "choices_en": [
+      "A. Adopt the first cause that comes to mind",
+      "B. Systematically dig deep into causes using why-why analysis, etc., and identify root causes",
+      "C. Only guess the cause",
+      "D. Skip cause analysis"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。原因分析では、なぜなぜ分析など構造的に原因を深掘りし、根本原因を特定することが重要。最初の思いつき（A）は表面的な原因で終わる可能性がある。推測のみ（C）は根拠が弱い。分析スキップ（D）は対症療法に終わる。問題解決では、根本原因を特定することで、再発防止と効果的な解決策の立案が可能になる。",
+    "explanation_en": "The correct answer is B. In cause analysis, it is important to systematically dig deep into causes using why-why analysis, etc., and identify root causes. First thought (A) may end with superficial causes. Guessing only (C) has weak basis. Skipping analysis (D) ends with symptomatic treatment. In problem solving, identifying root causes enables recurrence prevention and effective solution planning.",
+    "source_url": "https://example.com/training/Year1/business/問題解決フレームワーク/q-biz-y1-005",
+    "tags": ["Year1", "business", "問題解決", "原因分析"]
+  },
+  {
+    "id": "q-biz-y1-006",
+    "year": "Year1",
+    "category": "business",
+    "theme": "問題解決フレームワーク",
+    "learning_goal_ja": "問題解決の基本フレームワークを理解し、構造的に問題を分析・解決できる",
+    "learning_goal_en": "Understand basic problem-solving frameworks and analyze and solve problems systematically",
+    "common_misconception_ja": "問題は直感で解決すればよい",
+    "common_misconception_en": "Problems can be solved by intuition",
+    "difficulty": "hard",
+    "question_ja": "複数の解決策がある場合、最も適切な選択方法はどれか？",
+    "question_en": "What is the most appropriate method for selecting when there are multiple solutions?",
+    "choices_ja": [
+      "A. 最初に思いついた解決策を選ぶ",
+      "B. 評価基準を設定し、各解決策の効果・コスト・リスクを比較検討する",
+      "C. 直感で選ぶ",
+      "D. 上司に決めてもらう"
+    ],
+    "choices_en": [
+      "A. Choose the first solution that comes to mind",
+      "B. Set evaluation criteria and compare and consider effectiveness, cost, and risk of each solution",
+      "C. Choose by intuition",
+      "D. Let the boss decide"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。複数の解決策がある場合、評価基準を設定し、各解決策の効果・コスト・リスクを比較検討することが重要。最初の思いつき（A）や直感（C）は最適解を見逃す可能性がある。上司任せ（D）は判断責任を放棄している。問題解決では、客観的な評価基準に基づく比較検討により、最適な解決策を選択できる。",
+    "explanation_en": "The correct answer is B. When there are multiple solutions, it is important to set evaluation criteria and compare and consider effectiveness, cost, and risk of each solution. First thought (A) or intuition (C) may miss optimal solutions. Leaving to boss (D) abandons decision responsibility. In problem solving, comparison based on objective evaluation criteria enables selection of optimal solutions.",
+    "source_url": "https://example.com/training/Year1/business/問題解決フレームワーク/q-biz-y1-006",
+    "tags": ["Year1", "business", "問題解決", "解決策選択"]
+  },
+  {
+    "id": "q-biz-y1-007",
+    "year": "Year1",
+    "category": "business",
+    "theme": "AI・DX基礎",
+    "learning_goal_ja": "AI・DXの基本概念を理解し、業務への適用可能性を判断できる",
+    "learning_goal_en": "Understand basic concepts of AI and DX, and judge applicability to business",
+    "common_misconception_ja": "AIは人間を完全に置き換える",
+    "common_misconception_en": "AI completely replaces humans",
+    "difficulty": "easy",
+    "question_ja": "AI（人工知能）の活用において、最も適切な考え方はどれか？",
+    "question_en": "What is the most appropriate way of thinking about AI (artificial intelligence) utilization?",
+    "choices_ja": [
+      "A. AIは人間を完全に置き換える",
+      "B. AIは人間の判断を補助し、業務効率化や意思決定支援に活用する",
+      "C. AIは使わない方がよい",
+      "D. AIはすべての業務に適用できる"
+    ],
+    "choices_en": [
+      "A. AI completely replaces humans",
+      "B. AI assists human judgment and is used for business efficiency and decision support",
+      "C. It's better not to use AI",
+      "D. AI can be applied to all business"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。AIは人間の判断を補助し、業務効率化や意思決定支援に活用することが適切。完全置き換え（A）は現実的でない。使わない（C）は機会損失。すべてに適用（D）は誤り。AI・DXでは、人間とAIの協働により、業務の質と効率を向上させることが重要である。",
+    "explanation_en": "The correct answer is B. AI should assist human judgment and be used for business efficiency and decision support. Complete replacement (A) is not realistic. Not using (C) is opportunity loss. Applicable to all (D) is incorrect. In AI and DX, it is important to improve business quality and efficiency through human-AI collaboration.",
+    "source_url": "https://example.com/training/Year1/business/AI・DX基礎/q-biz-y1-007",
+    "tags": ["Year1", "business", "AI", "DX"]
+  },
+  {
+    "id": "q-biz-y1-008",
+    "year": "Year1",
+    "category": "business",
+    "theme": "AI・DX基礎",
+    "learning_goal_ja": "AI・DXの基本概念を理解し、業務への適用可能性を判断できる",
+    "learning_goal_en": "Understand basic concepts of AI and DX, and judge applicability to business",
+    "common_misconception_ja": "AIは人間を完全に置き換える",
+    "common_misconception_en": "AI completely replaces humans",
+    "difficulty": "medium",
+    "question_ja": "DX（デジタルトランスフォーメーション）の本質として、最も適切な説明はどれか？",
+    "question_en": "What is the most appropriate explanation of the essence of DX (Digital Transformation)?",
+    "choices_ja": [
+      "A. ITツールを導入すること",
+      "B. デジタル技術を活用してビジネスモデルや業務プロセスを変革し、価値を創出すること",
+      "C. 紙をなくすこと",
+      "D. システムを更新すること"
+    ],
+    "choices_en": [
+      "A. Introducing IT tools",
+      "B. Transforming business models and business processes using digital technology to create value",
+      "C. Eliminating paper",
+      "D. Updating systems"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。DXはデジタル技術を活用してビジネスモデルや業務プロセスを変革し、価値を創出することが本質。ITツール導入（A）やシステム更新（D）は手段。紙をなくす（C）は表面的。DXでは、技術導入だけでなく、ビジネスモデルや組織文化の変革が重要である。",
+    "explanation_en": "The correct answer is B. DX is essentially about transforming business models and business processes using digital technology to create value. Introducing IT tools (A) or updating systems (D) are means. Eliminating paper (C) is superficial. In DX, not just technology introduction but transformation of business models and organizational culture is important.",
+    "source_url": "https://example.com/training/Year1/business/AI・DX基礎/q-biz-y1-008",
+    "tags": ["Year1", "business", "DX", "デジタル変革"]
+  },
+  {
+    "id": "q-biz-y1-009",
+    "year": "Year1",
+    "category": "business",
+    "theme": "AI・DX基礎",
+    "learning_goal_ja": "AI・DXの基本概念を理解し、業務への適用可能性を判断できる",
+    "learning_goal_en": "Understand basic concepts of AI and DX, and judge applicability to business",
+    "common_misconception_ja": "AIは人間を完全に置き換える",
+    "common_misconception_en": "AI completely replaces humans",
+    "difficulty": "hard",
+    "question_ja": "AI導入を検討する際、最も重要な検討事項はどれか？",
+    "question_en": "What is the most important consideration when considering AI introduction?",
+    "choices_ja": [
+      "A. 最新技術を選ぶこと",
+      "B. 解決したい課題を明確にし、AIの適用可能性と限界を理解した上で検討する",
+      "C. コストが安いものを選ぶ",
+      "D. すぐに導入する"
+    ],
+    "choices_en": [
+      "A. Choose the latest technology",
+      "B. Clearly define the problem to be solved and consider after understanding AI applicability and limitations",
+      "C. Choose the cheapest",
+      "D. Introduce immediately"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。AI導入では、解決したい課題を明確にし、AIの適用可能性と限界を理解した上で検討することが重要。最新技術（A）やコスト（C）は手段。すぐ導入（D）はリスクが高い。AI・DXでは、課題定義と技術の適切な選択が成功の鍵であり、技術ありきではなく課題ありきで考える必要がある。",
+    "explanation_en": "The correct answer is B. In AI introduction, it is important to clearly define the problem to be solved and consider after understanding AI applicability and limitations. Latest technology (A) or cost (C) are means. Immediate introduction (D) is high risk. In AI and DX, problem definition and appropriate technology selection are keys to success, and we must think problem-first, not technology-first.",
+    "source_url": "https://example.com/training/Year1/business/AI・DX基礎/q-biz-y1-009",
+    "tags": ["Year1", "business", "AI", "導入検討"]
+  },
+  {
+    "id": "q-biz-y1-010",
+    "year": "Year1",
+    "category": "business",
+    "theme": "製品・市場・競合理解",
+    "learning_goal_ja": "自社製品・市場・競合の基本を理解し、ビジネス判断に活かせる",
+    "learning_goal_en": "Understand basics of own products, market, and competitors, and apply to business decisions",
+    "common_misconception_ja": "自社製品だけを知っていればよい",
+    "common_misconception_en": "Only need to know own products",
+    "difficulty": "easy",
+    "question_ja": "市場分析において、最も重要な観点はどれか？",
+    "question_en": "What is the most important perspective in market analysis?",
+    "choices_ja": [
+      "A. 自社製品だけを見る",
+      "B. 市場規模・成長性・顧客ニーズ・競合状況を総合的に分析する",
+      "C. 競合だけを見る",
+      "D. 過去のデータだけを見る"
+    ],
+    "choices_en": [
+      "A. Only look at own products",
+      "B. Comprehensively analyze market size, growth, customer needs, and competitive situation",
+      "C. Only look at competitors",
+      "D. Only look at past data"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。市場分析では、市場規模・成長性・顧客ニーズ・競合状況を総合的に分析することが重要。自社製品のみ（A）や競合のみ（C）は偏りがある。過去データのみ（D）は将来を見ない。製品・市場・競合理解では、多角的な視点による分析がビジネス判断の質を高める。",
+    "explanation_en": "The correct answer is B. In market analysis, it is important to comprehensively analyze market size, growth, customer needs, and competitive situation. Only own products (A) or only competitors (C) are biased. Only past data (D) doesn't look at the future. In product/market/competitor understanding, multi-perspective analysis improves business decision quality.",
+    "source_url": "https://example.com/training/Year1/business/製品・市場・競合理解/q-biz-y1-010",
+    "tags": ["Year1", "business", "市場分析", "競合"]
+  },
+  {
+    "id": "q-biz-y1-011",
+    "year": "Year1",
+    "category": "business",
+    "theme": "製品・市場・競合理解",
+    "learning_goal_ja": "自社製品・市場・競合の基本を理解し、ビジネス判断に活かせる",
+    "learning_goal_en": "Understand basics of own products, market, and competitors, and apply to business decisions",
+    "common_misconception_ja": "自社製品だけを知っていればよい",
+    "common_misconception_en": "Only need to know own products",
+    "difficulty": "medium",
+    "question_ja": "競合分析において、最も重要な要素はどれか？",
+    "question_en": "What is the most important element in competitive analysis?",
+    "choices_ja": [
+      "A. 競合の価格だけを見る",
+      "B. 競合の強み・弱み・戦略・市場ポジションを多角的に分析する",
+      "C. 競合を無視する",
+      "D. 競合の製品名だけを知る"
+    ],
+    "choices_en": [
+      "A. Only look at competitor prices",
+      "B. Multi-dimensionally analyze competitor strengths, weaknesses, strategies, and market positions",
+      "C. Ignore competitors",
+      "D. Only know competitor product names"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。競合分析では、競合の強み・弱み・戦略・市場ポジションを多角的に分析することが重要。価格のみ（A）や製品名のみ（D）は表面的。競合無視（C）は市場理解を欠く。製品・市場・競合理解では、競合の多角的分析により、自社の差別化ポイントと市場での位置づけを明確にできる。",
+    "explanation_en": "The correct answer is B. In competitive analysis, it is important to multi-dimensionally analyze competitor strengths, weaknesses, strategies, and market positions. Only price (A) or only product names (D) are superficial. Ignoring competitors (C) lacks market understanding. In product/market/competitor understanding, multi-dimensional competitor analysis clarifies own differentiation points and market positioning.",
+    "source_url": "https://example.com/training/Year1/business/製品・市場・競合理解/q-biz-y1-011",
+    "tags": ["Year1", "business", "競合分析", "市場ポジション"]
+  },
+  {
+    "id": "q-biz-y1-012",
+    "year": "Year1",
+    "category": "business",
+    "theme": "製品・市場・競合理解",
+    "learning_goal_ja": "自社製品・市場・競合の基本を理解し、ビジネス判断に活かせる",
+    "learning_goal_en": "Understand basics of own products, market, and competitors, and apply to business decisions",
+    "common_misconception_ja": "自社製品だけを知っていればよい",
+    "common_misconception_en": "Only need to know own products",
+    "difficulty": "hard",
+    "question_ja": "顧客ニーズを把握する際、最も適切な方法はどれか？",
+    "question_en": "What is the most appropriate method for understanding customer needs?",
+    "choices_ja": [
+      "A. 推測する",
+      "B. 顧客へのヒアリング・市場調査・データ分析を組み合わせて把握する",
+      "C. 過去のデータだけを見る",
+      "D. 自社の都合で決める"
+    ],
+    "choices_en": [
+      "A. Guess",
+      "B. Understand by combining customer interviews, market research, and data analysis",
+      "C. Only look at past data",
+      "D. Decide based on own convenience"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。顧客ニーズは、顧客へのヒアリング・市場調査・データ分析を組み合わせて把握することが適切。推測（A）や自社都合（D）は顧客視点を欠く。過去データのみ（C）は変化を見逃す。製品・市場・競合理解では、顧客ニーズの正確な把握が製品開発・マーケティング戦略の成功の鍵となる。",
+    "explanation_en": "The correct answer is B. Customer needs should be understood by combining customer interviews, market research, and data analysis. Guessing (A) or own convenience (D) lacks customer perspective. Only past data (C) misses changes. In product/market/competitor understanding, accurate understanding of customer needs is key to product development and marketing strategy success.",
+    "source_url": "https://example.com/training/Year1/business/製品・市場・競合理解/q-biz-y1-012",
+    "tags": ["Year1", "business", "顧客ニーズ", "市場調査"]
+  },
+  {
+    "id": "q-biz-y1-013",
+    "year": "Year1",
+    "category": "business",
+    "theme": "ファイナンス（PL）",
+    "learning_goal_ja": "損益計算書（PL）の基本を理解し、収益性を判断できる",
+    "learning_goal_en": "Understand basics of profit and loss statement (PL) and judge profitability",
+    "common_misconception_ja": "売上だけを見ればよい",
+    "common_misconception_en": "Only need to look at sales",
+    "difficulty": "easy",
+    "question_ja": "損益計算書（PL）において、最も重要な指標はどれか？",
+    "question_en": "What is the most important indicator in a profit and loss statement (PL)?",
+    "choices_ja": [
+      "A. 売上高だけ",
+      "B. 売上高、売上原価、営業利益など複数の指標を総合的に見る",
+      "C. 費用だけ",
+      "D. 資産だけ"
+    ],
+    "choices_en": [
+      "A. Only sales",
+      "B. Comprehensively look at multiple indicators such as sales, cost of sales, operating profit",
+      "C. Only expenses",
+      "D. Only assets"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。PLでは、売上高、売上原価、営業利益など複数の指標を総合的に見ることが重要。売上のみ（A）や費用のみ（C）は収益性を判断できない。資産（D）はPLの項目ではない。ファイナンスでは、売上と費用の関係を理解し、利益率や収益性を総合的に判断することが重要である。",
+    "explanation_en": "The correct answer is B. In PL, it is important to comprehensively look at multiple indicators such as sales, cost of sales, and operating profit. Only sales (A) or only expenses (C) cannot judge profitability. Assets (D) are not PL items. In finance, understanding the relationship between sales and expenses and comprehensively judging profit margins and profitability is important.",
+    "source_url": "https://example.com/training/Year1/business/ファイナンス（PL）/q-biz-y1-013",
+    "tags": ["Year1", "business", "ファイナンス", "PL"]
+  },
+  {
+    "id": "q-biz-y1-014",
+    "year": "Year1",
+    "category": "business",
+    "theme": "ファイナンス（PL）",
+    "learning_goal_ja": "損益計算書（PL）の基本を理解し、収益性を判断できる",
+    "learning_goal_en": "Understand basics of profit and loss statement (PL) and judge profitability",
+    "common_misconception_ja": "売上だけを見ればよい",
+    "common_misconception_en": "Only need to look at sales",
+    "difficulty": "medium",
+    "question_ja": "営業利益率を改善するために、最も効果的なアプローチはどれか？",
+    "question_en": "What is the most effective approach to improve operating profit margin?",
+    "choices_ja": [
+      "A. 売上だけを増やす",
+      "B. 売上の増加と費用の最適化の両面から検討する",
+      "C. 費用だけを削減する",
+      "D. 何もしない"
+    ],
+    "choices_en": [
+      "A. Only increase sales",
+      "B. Consider both increasing sales and optimizing expenses",
+      "C. Only reduce expenses",
+      "D. Do nothing"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。営業利益率改善には、売上の増加と費用の最適化の両面から検討することが効果的。売上のみ（A）や費用削減のみ（C）は偏りがある。何もしない（D）は改善しない。ファイナンスでは、売上と費用のバランスを理解し、持続可能な収益性向上を図ることが重要である。",
+    "explanation_en": "The correct answer is B. To improve operating profit margin, considering both increasing sales and optimizing expenses is effective. Only sales (A) or only expense reduction (C) are biased. Doing nothing (D) doesn't improve. In finance, understanding the balance between sales and expenses and achieving sustainable profitability improvement is important.",
+    "source_url": "https://example.com/training/Year1/business/ファイナンス（PL）/q-biz-y1-014",
+    "tags": ["Year1", "business", "ファイナンス", "営業利益率"]
+  },
+  {
+    "id": "q-biz-y1-015",
+    "year": "Year1",
+    "category": "business",
+    "theme": "ファイナンス（PL）",
+    "learning_goal_ja": "損益計算書（PL）の基本を理解し、収益性を判断できる",
+    "learning_goal_en": "Understand basics of profit and loss statement (PL) and judge profitability",
+    "common_misconception_ja": "売上だけを見ればよい",
+    "common_misconception_en": "Only need to look at sales",
+    "difficulty": "hard",
+    "question_ja": "固定費と変動費の違いを理解した上で、損益分岐点を下げる方法として最も適切なのはどれか？",
+    "question_en": "Understanding the difference between fixed and variable costs, what is the most appropriate method to lower the break-even point?",
+    "choices_ja": [
+      "A. 固定費を増やす",
+      "B. 固定費を削減する、または変動費率を下げる",
+      "C. 変動費を増やす",
+      "D. 売上を下げる"
+    ],
+    "choices_en": [
+      "A. Increase fixed costs",
+      "B. Reduce fixed costs or lower variable cost ratio",
+      "C. Increase variable costs",
+      "D. Lower sales"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。損益分岐点を下げるには、固定費を削減する、または変動費率を下げることが適切。固定費増加（A）や変動費増加（C）は損益分岐点を上げる。売上下げ（D）は本末転倒。ファイナンスでは、固定費と変動費の構造を理解し、効率的な収益構造を構築することが重要である。",
+    "explanation_en": "The correct answer is B. To lower the break-even point, reducing fixed costs or lowering variable cost ratio is appropriate. Increasing fixed costs (A) or variable costs (C) raises the break-even point. Lowering sales (D) is putting the cart before the horse. In finance, understanding the structure of fixed and variable costs and building an efficient profit structure is important.",
+    "source_url": "https://example.com/training/Year1/business/ファイナンス（PL）/q-biz-y1-015",
+    "tags": ["Year1", "business", "ファイナンス", "損益分岐点"]
+  },
+  {
+    "id": "q-mgmt-y1-001",
+    "year": "Year1",
+    "category": "management",
+    "theme": "マネジメント期待役割、ミッション・ビジョン浸透",
+    "learning_goal_ja": "マネジメントの期待役割を理解し、ミッション・ビジョンをチームに浸透させられる",
+    "learning_goal_en": "Understand expected roles of management and can permeate mission and vision to the team",
+    "common_misconception_ja": "マネジメントは指示を出すだけ",
+    "common_misconception_en": "Management only gives instructions",
+    "difficulty": "easy",
+    "question_ja": "マネジメントの主な役割として、最も適切な説明はどれか？",
+    "question_en": "What is the most appropriate explanation of the main role of management?",
+    "choices_ja": [
+      "A. 指示を出すだけ",
+      "B. チームの目標達成とメンバーの成長を支援し、組織の方向性を示す",
+      "C. メンバーを監視するだけ",
+      "D. 自分だけが成果を出す"
+    ],
+    "choices_en": [
+      "A. Only give instructions",
+      "B. Support team goal achievement and member growth, and show organizational direction",
+      "C. Only monitor members",
+      "D. Only oneself produces results"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。マネジメントは、チームの目標達成とメンバーの成長を支援し、組織の方向性を示すことが主な役割。指示のみ（A）や監視のみ（C）は不十分。自分だけ（D）はマネジメントではない。マネジメントでは、チーム全体の成果とメンバーの成長の両立が重要であり、ミッション・ビジョンの浸透により方向性を明確にする。",
+    "explanation_en": "The correct answer is B. Management's main role is to support team goal achievement and member growth, and show organizational direction. Only instructions (A) or only monitoring (C) are insufficient. Only oneself (D) is not management. In management, balancing team results and member growth is important, and permeating mission and vision clarifies direction.",
+    "source_url": "https://example.com/training/Year1/management/マネジメント期待役割、ミッション・ビジョン浸透/q-mgmt-y1-001",
+    "tags": ["Year1", "management", "マネジメント", "ミッション"]
+  },
+  {
+    "id": "q-mgmt-y1-002",
+    "year": "Year1",
+    "category": "management",
+    "theme": "マネジメント期待役割、ミッション・ビジョン浸透",
+    "learning_goal_ja": "マネジメントの期待役割を理解し、ミッション・ビジョンをチームに浸透させられる",
+    "learning_goal_en": "Understand expected roles of management and can permeate mission and vision to the team",
+    "common_misconception_ja": "マネジメントは指示を出すだけ",
+    "common_misconception_en": "Management only gives instructions",
+    "difficulty": "medium",
+    "question_ja": "ミッション・ビジョンをチームに浸透させる際、最も効果的な方法はどれか？",
+    "question_en": "What is the most effective method when permeating mission and vision to the team?",
+    "choices_ja": [
+      "A. 一度伝えるだけ",
+      "B. 日常の業務や意思決定の場面で繰り返し示し、メンバーが自分事として捉えられるようにする",
+      "C. 文書で配布するだけ",
+      "D. 強制する"
+    ],
+    "choices_en": [
+      "A. Tell once only",
+      "B. Repeatedly show in daily work and decision-making situations so members can take it as their own",
+      "C. Only distribute in documents",
+      "D. Force it"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。ミッション・ビジョンの浸透には、日常の業務や意思決定の場面で繰り返し示し、メンバーが自分事として捉えられるようにすることが効果的。一度だけ（A）や文書のみ（C）は浸透しない。強制（D）は反発を招く。マネジメントでは、ミッション・ビジョンを行動に落とし込み、メンバーが共感・納得できるようにすることが重要である。",
+    "explanation_en": "The correct answer is B. To permeate mission and vision, repeatedly showing in daily work and decision-making situations so members can take it as their own is effective. Once only (A) or documents only (C) don't permeate. Forcing (D) causes resistance. In management, it is important to translate mission and vision into actions and enable members to empathize and understand.",
+    "source_url": "https://example.com/training/Year1/management/マネジメント期待役割、ミッション・ビジョン浸透/q-mgmt-y1-002",
+    "tags": ["Year1", "management", "マネジメント", "ビジョン"]
+  },
+  {
+    "id": "q-mgmt-y1-003",
+    "year": "Year1",
+    "category": "management",
+    "theme": "心理的安全性",
+    "learning_goal_ja": "心理的安全性の重要性を理解し、チームに心理的安全性を創出できる",
+    "learning_goal_en": "Understand the importance of psychological safety and can create psychological safety in the team",
+    "common_misconception_ja": "心理的安全性は甘やかすこと",
+    "common_misconception_en": "Psychological safety is being lenient",
+    "difficulty": "easy",
+    "question_ja": "心理的安全性とは何か？",
+    "question_en": "What is psychological safety?",
+    "choices_ja": [
+      "A. 甘やかすこと",
+      "B. メンバーが安心して意見を言え、失敗を恐れずに挑戦できる環境",
+      "C. 何でも許すこと",
+      "D. 競争をなくすこと"
+    ],
+    "choices_en": [
+      "A. Being lenient",
+      "B. An environment where members can safely express opinions and challenge without fear of failure",
+      "C. Allowing everything",
+      "D. Eliminating competition"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。心理的安全性は、メンバーが安心して意見を言え、失敗を恐れずに挑戦できる環境。甘やかす（A）や何でも許す（C）は誤り。競争をなくす（D）も誤り。心理的安全性では、多様な意見や失敗を許容し、学習と成長を促進する環境を創出することが重要である。",
+    "explanation_en": "The correct answer is B. Psychological safety is an environment where members can safely express opinions and challenge without fear of failure. Being lenient (A) or allowing everything (C) is incorrect. Eliminating competition (D) is also incorrect. In psychological safety, creating an environment that tolerates diverse opinions and failures and promotes learning and growth is important.",
+    "source_url": "https://example.com/training/Year1/management/心理的安全性/q-mgmt-y1-003",
+    "tags": ["Year1", "management", "心理的安全性", "チーム"]
+  },
+  {
+    "id": "q-mgmt-y1-004",
+    "year": "Year1",
+    "category": "management",
+    "theme": "心理的安全性",
+    "learning_goal_ja": "心理的安全性の重要性を理解し、チームに心理的安全性を創出できる",
+    "learning_goal_en": "Understand the importance of psychological safety and can create psychological safety in the team",
+    "common_misconception_ja": "心理的安全性は甘やかすこと",
+    "common_misconception_en": "Psychological safety is being lenient",
+    "difficulty": "medium",
+    "question_ja": "心理的安全性を高めるために、マネージャーが取るべき行動として最も適切なのはどれか？",
+    "question_en": "What is the most appropriate action a manager should take to increase psychological safety?",
+    "choices_ja": [
+      "A. 失敗を厳しく責める",
+      "B. 失敗を学習機会として捉え、建設的なフィードバックを提供する",
+      "C. 意見を無視する",
+      "D. メンバーを監視する"
+    ],
+    "choices_en": [
+      "A. Severely blame failures",
+      "B. Treat failures as learning opportunities and provide constructive feedback",
+      "C. Ignore opinions",
+      "D. Monitor members"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。心理的安全性を高めるには、失敗を学習機会として捉え、建設的なフィードバックを提供することが重要。厳しく責める（A）や意見無視（C）、監視（D）は心理的安全性を損なう。心理的安全性では、マネージャー自身が失敗を許容し、学習文化を創出することがチームのイノベーションと成長につながる。",
+    "explanation_en": "The correct answer is B. To increase psychological safety, treating failures as learning opportunities and providing constructive feedback is important. Severely blaming (A), ignoring opinions (C), or monitoring (D) damages psychological safety. In psychological safety, managers themselves tolerating failures and creating a learning culture leads to team innovation and growth.",
+    "source_url": "https://example.com/training/Year1/management/心理的安全性/q-mgmt-y1-004",
+    "tags": ["Year1", "management", "心理的安全性", "フィードバック"]
+  },
+  {
+    "id": "q-mgmt-y1-005",
+    "year": "Year1",
+    "category": "management",
+    "theme": "リーダーシップ・チームビルディング",
+    "learning_goal_ja": "リーダーシップの基本とチームビルディングの方法を理解し、効果的なチーム運営ができる",
+    "learning_goal_en": "Understand basics of leadership and team building methods, and can operate teams effectively",
+    "common_misconception_ja": "リーダーシップは指示を出すこと",
+    "common_misconception_en": "Leadership is giving instructions",
+    "difficulty": "easy",
+    "question_ja": "効果的なリーダーシップとして、最も適切な説明はどれか？",
+    "question_en": "What is the most appropriate explanation of effective leadership?",
+    "choices_ja": [
+      "A. 一方的に指示を出す",
+      "B. メンバーの強みを活かし、目標に向かってチームを導く",
+      "C. メンバーを従わせる",
+      "D. 自分だけが成果を出す"
+    ],
+    "choices_en": [
+      "A. Unilaterally give instructions",
+      "B. Utilize members' strengths and guide the team toward goals",
+      "C. Make members obey",
+      "D. Only oneself produces results"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。効果的なリーダーシップは、メンバーの強みを活かし、目標に向かってチームを導くこと。一方的指示（A）や従わせる（C）、自分だけ（D）は効果的でない。リーダーシップでは、メンバーの主体性を引き出し、チーム全体の力を最大化することが重要である。",
+    "explanation_en": "The correct answer is B. Effective leadership utilizes members' strengths and guides the team toward goals. Unilateral instructions (A), making obey (C), or only oneself (D) are not effective. In leadership, drawing out members' autonomy and maximizing the entire team's power is important.",
+    "source_url": "https://example.com/training/Year1/management/リーダーシップ・チームビルディング/q-mgmt-y1-005",
+    "tags": ["Year1", "management", "リーダーシップ", "チーム"]
+  },
+  {
+    "id": "q-mgmt-y1-006",
+    "year": "Year1",
+    "category": "management",
+    "theme": "リーダーシップ・チームビルディング",
+    "learning_goal_ja": "リーダーシップの基本とチームビルディングの方法を理解し、効果的なチーム運営ができる",
+    "learning_goal_en": "Understand basics of leadership and team building methods, and can operate teams effectively",
+    "common_misconception_ja": "リーダーシップは指示を出すこと",
+    "common_misconception_en": "Leadership is giving instructions",
+    "difficulty": "medium",
+    "question_ja": "チームビルディングにおいて、最も重要な要素はどれか？",
+    "question_en": "What is the most important element in team building?",
+    "choices_ja": [
+      "A. メンバーを競争させる",
+      "B. 共通の目標を設定し、メンバー間の信頼関係と協働を促進する",
+      "C. メンバーを分断する",
+      "D. 個人の成果だけを評価する"
+    ],
+    "choices_en": [
+      "A. Make members compete",
+      "B. Set common goals and promote trust and collaboration among members",
+      "C. Divide members",
+      "D. Only evaluate individual results"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。チームビルディングでは、共通の目標を設定し、メンバー間の信頼関係と協働を促進することが重要。競争（A）や分断（C）、個人評価のみ（D）はチームを弱体化させる。リーダーシップ・チームビルディングでは、メンバーが互いに信頼し、協力して目標達成に向かう環境を創出することが成功の鍵となる。",
+    "explanation_en": "The correct answer is B. In team building, setting common goals and promoting trust and collaboration among members is important. Competition (A), division (C), or only individual evaluation (D) weakens the team. In leadership and team building, creating an environment where members trust each other and cooperate toward goal achievement is key to success.",
+    "source_url": "https://example.com/training/Year1/management/リーダーシップ・チームビルディング/q-mgmt-y1-006",
+    "tags": ["Year1", "management", "チームビルディング", "協働"]
+  },
+  {
+    "id": "q-mgmt-y1-007",
+    "year": "Year1",
+    "category": "management",
+    "theme": "目標管理・評価（OKR）",
+    "learning_goal_ja": "OKRの基本を理解し、効果的な目標管理ができる",
+    "learning_goal_en": "Understand basics of OKR and can manage goals effectively",
+    "common_misconception_ja": "目標は高く設定すればよい",
+    "common_misconception_en": "Goals should be set high",
+    "difficulty": "easy",
+    "question_ja": "OKR（Objectives and Key Results）において、最も重要な原則はどれか？",
+    "question_en": "What is the most important principle in OKR (Objectives and Key Results)?",
+    "choices_ja": [
+      "A. 目標を高く設定するだけ",
+      "B. 明確な目標（Objective）と測定可能な主要結果（Key Results）を設定し、定期的に進捗を確認する",
+      "C. 目標を設定しない",
+      "D. 結果だけを見る"
+    ],
+    "choices_en": [
+      "A. Only set goals high",
+      "B. Set clear objectives and measurable key results, and regularly check progress",
+      "C. Don't set goals",
+      "D. Only look at results"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。OKRでは、明確な目標（Objective）と測定可能な主要結果（Key Results）を設定し、定期的に進捗を確認することが重要。高く設定するだけ（A）や結果のみ（D）は不十分。目標なし（C）は管理できない。目標管理・評価では、目標の明確化と進捗の可視化により、メンバーの方向性を統一し、成果を最大化できる。",
+    "explanation_en": "The correct answer is B. In OKR, setting clear objectives and measurable key results and regularly checking progress is important. Only setting high (A) or only results (D) are insufficient. No goals (C) cannot be managed. In goal management and evaluation, clarifying goals and visualizing progress unifies member direction and maximizes results.",
+    "source_url": "https://example.com/training/Year1/management/目標管理・評価（OKR）/q-mgmt-y1-007",
+    "tags": ["Year1", "management", "OKR", "目標管理"]
+  },
+  {
+    "id": "q-mgmt-y1-008",
+    "year": "Year1",
+    "category": "management",
+    "theme": "目標管理・評価（OKR）",
+    "learning_goal_ja": "OKRの基本を理解し、効果的な目標管理ができる",
+    "learning_goal_en": "Understand basics of OKR and can manage goals effectively",
+    "common_misconception_ja": "目標は高く設定すればよい",
+    "common_misconception_en": "Goals should be set high",
+    "difficulty": "medium",
+    "question_ja": "OKRの進捗が思わしくない場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response when OKR progress is not favorable?",
+    "choices_ja": [
+      "A. 目標を変更する",
+      "B. 進捗の原因を分析し、必要に応じて目標や施策を調整する",
+      "C. メンバーを責める",
+      "D. 無視する"
+    ],
+    "choices_en": [
+      "A. Change goals",
+      "B. Analyze progress causes and adjust goals or measures if necessary",
+      "C. Blame members",
+      "D. Ignore it"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。OKRの進捗が思わしくない場合、進捗の原因を分析し、必要に応じて目標や施策を調整することが適切。目標変更（A）は安易。メンバーを責める（C）は建設的でない。無視（D）は問題を放置している。目標管理では、進捗の透明な共有と適切な調整により、チームの学習と改善を促進できる。",
+    "explanation_en": "The correct answer is B. When OKR progress is not favorable, analyzing progress causes and adjusting goals or measures if necessary is appropriate. Changing goals (A) is easy. Blaming members (C) is not constructive. Ignoring (D) leaves the problem. In goal management, transparent progress sharing and appropriate adjustment promote team learning and improvement.",
+    "source_url": "https://example.com/training/Year1/management/目標管理・評価（OKR）/q-mgmt-y1-008",
+    "tags": ["Year1", "management", "OKR", "進捗管理"]
+  },
+  {
+    "id": "q-mgmt-y1-009",
+    "year": "Year1",
+    "category": "management",
+    "theme": "リソースマネジメント（採用、アサインメント）",
+    "learning_goal_ja": "採用とアサインメントの基本を理解し、適切な人材配置ができる",
+    "learning_goal_en": "Understand basics of recruitment and assignment, and can allocate human resources appropriately",
+    "common_misconception_ja": "採用は人事部門だけの責任",
+    "common_misconception_en": "Recruitment is only HR's responsibility",
+    "difficulty": "easy",
+    "question_ja": "採用活動において、マネージャーが果たすべき役割として最も適切なのはどれか？",
+    "question_en": "What is the most appropriate role a manager should play in recruitment activities?",
+    "choices_ja": [
+      "A. 人事部門に任せるだけ",
+      "B. 求める人材像を明確にし、面接で評価し、チームへの適合性を判断する",
+      "C. 採用しない",
+      "D. 誰でも採用する"
+    ],
+    "choices_en": [
+      "A. Only leave to HR department",
+      "B. Clarify desired candidate profile, evaluate in interviews, and judge team fit",
+      "C. Don't recruit",
+      "D. Recruit anyone"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。採用では、マネージャーが求める人材像を明確にし、面接で評価し、チームへの適合性を判断することが重要。人事任せ（A）は適材適所を見誤る。採用しない（C）や誰でも（D）は不適切。リソースマネジメントでは、マネージャーがチームのニーズを理解し、適切な人材を選定することがチームの成果につながる。",
+    "explanation_en": "The correct answer is B. In recruitment, managers clarifying desired candidate profile, evaluating in interviews, and judging team fit is important. Leaving to HR (A) misidentifies right person for right place. Not recruiting (C) or anyone (D) is inappropriate. In resource management, managers understanding team needs and selecting appropriate personnel leads to team results.",
+    "source_url": "https://example.com/training/Year1/management/リソースマネジメント（採用、アサインメント）/q-mgmt-y1-009",
+    "tags": ["Year1", "management", "採用", "リソース"]
+  },
+  {
+    "id": "q-mgmt-y1-010",
+    "year": "Year1",
+    "category": "management",
+    "theme": "リソースマネジメント（採用、アサインメント）",
+    "learning_goal_ja": "採用とアサインメントの基本を理解し、適切な人材配置ができる",
+    "learning_goal_en": "Understand basics of recruitment and assignment, and can allocate human resources appropriately",
+    "common_misconception_ja": "採用は人事部門だけの責任",
+    "common_misconception_en": "Recruitment is only HR's responsibility",
+    "difficulty": "medium",
+    "question_ja": "メンバーのアサインメント（配置）を決定する際、最も重要な考慮事項はどれか？",
+    "question_en": "What is the most important consideration when deciding member assignment (placement)?",
+    "choices_ja": [
+      "A. メンバーの希望だけを聞く",
+      "B. メンバーの強み・成長意欲・チームのニーズを総合的に考慮する",
+      "C. ランダムに決める",
+      "D. 上司の都合で決める"
+    ],
+    "choices_en": [
+      "A. Only listen to member wishes",
+      "B. Comprehensively consider member strengths, growth motivation, and team needs",
+      "C. Decide randomly",
+      "D. Decide based on boss's convenience"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。アサインメントでは、メンバーの強み・成長意欲・チームのニーズを総合的に考慮することが重要。希望のみ（A）やランダム（C）、上司都合（D）は適材適所を実現できない。リソースマネジメントでは、メンバーの成長とチームの成果の両立を図り、最適な人材配置により組織の力を最大化する。",
+    "explanation_en": "The correct answer is B. In assignment, comprehensively considering member strengths, growth motivation, and team needs is important. Only wishes (A), random (C), or boss convenience (D) cannot achieve right person for right place. In resource management, balancing member growth and team results and maximizing organizational power through optimal human resource allocation.",
+    "source_url": "https://example.com/training/Year1/management/リソースマネジメント（採用、アサインメント）/q-mgmt-y1-010",
+    "tags": ["Year1", "management", "アサインメント", "人材配置"]
+  },
+  {
+    "id": "q-mgmt-y1-011",
+    "year": "Year1",
+    "category": "management",
+    "theme": "フィードバック",
+    "learning_goal_ja": "効果的なフィードバックの方法を理解し、メンバーの成長を支援できる",
+    "learning_goal_en": "Understand effective feedback methods and can support member growth",
+    "common_misconception_ja": "フィードバックは批判すること",
+    "common_misconception_en": "Feedback is criticizing",
+    "difficulty": "easy",
+    "question_ja": "効果的なフィードバックとして、最も適切な説明はどれか？",
+    "question_en": "What is the most appropriate explanation of effective feedback?",
+    "choices_ja": [
+      "A. 一方的に批判する",
+      "B. 具体的な行動・事実に基づき、建設的で改善につながる内容を伝える",
+      "C. 人格を否定する",
+      "D. フィードバックしない"
+    ],
+    "choices_en": [
+      "A. Unilaterally criticize",
+      "B. Communicate constructive content based on specific actions and facts that leads to improvement",
+      "C. Deny personality",
+      "D. Don't give feedback"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。効果的なフィードバックは、具体的な行動・事実に基づき、建設的で改善につながる内容を伝えること。一方的批判（A）や人格否定（C）は成長を阻害する。フィードバックなし（D）は成長機会を失う。フィードバックでは、メンバーが受け入れやすく、行動変容につながる伝え方が重要である。",
+    "explanation_en": "The correct answer is B. Effective feedback communicates constructive content based on specific actions and facts that leads to improvement. Unilateral criticism (A) or personality denial (C) hinders growth. No feedback (D) loses growth opportunities. In feedback, communication methods that are easy for members to accept and lead to behavior change are important.",
+    "source_url": "https://example.com/training/Year1/management/フィードバック/q-mgmt-y1-011",
+    "tags": ["Year1", "management", "フィードバック", "成長支援"]
+  },
+  {
+    "id": "q-mgmt-y1-012",
+    "year": "Year1",
+    "category": "management",
+    "theme": "フィードバック",
+    "learning_goal_ja": "効果的なフィードバックの方法を理解し、メンバーの成長を支援できる",
+    "learning_goal_en": "Understand effective feedback methods and can support member growth",
+    "common_misconception_ja": "フィードバックは批判すること",
+    "common_misconception_en": "Feedback is criticizing",
+    "difficulty": "medium",
+    "question_ja": "フィードバックを提供する際のタイミングとして、最も適切なのはどれか？",
+    "question_en": "What is the most appropriate timing when providing feedback?",
+    "choices_ja": [
+      "A. 公開の場で即座に指摘する",
+      "B. 適切なタイミング（1on1等）で、メンバーが受け入れやすい環境で提供する",
+      "C. 後回しにする",
+      "D. フィードバックしない"
+    ],
+    "choices_en": [
+      "A. Immediately point out in public",
+      "B. Provide at appropriate timing (1on1, etc.) in an environment where members can easily accept",
+      "C. Postpone",
+      "D. Don't give feedback"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。フィードバックは、適切なタイミング（1on1等）で、メンバーが受け入れやすい環境で提供することが重要。公開の場（A）はメンバーの尊厳を傷つける。後回し（C）は効果が薄れる。フィードバックなし（D）は成長機会を失う。フィードバックでは、タイミングと環境が受け入れやすさと効果に大きく影響する。",
+    "explanation_en": "The correct answer is B. Feedback should be provided at appropriate timing (1on1, etc.) in an environment where members can easily accept. Public (A) damages member dignity. Postponing (C) reduces effectiveness. No feedback (D) loses growth opportunities. In feedback, timing and environment greatly affect acceptance and effectiveness.",
+    "source_url": "https://example.com/training/Year1/management/フィードバック/q-mgmt-y1-012",
+    "tags": ["Year1", "management", "フィードバック", "タイミング"]
+  },
+  {
+    "id": "q-gov-y2-001",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "労務トラブル対応（退職、懲戒）",
+    "learning_goal_ja": "退職・懲戒などの労務トラブルの適切な対応手順を理解し、法的リスクを回避できる",
+    "learning_goal_en": "Understand appropriate procedures for labor troubles such as resignation and disciplinary action, and can avoid legal risks",
+    "common_misconception_ja": "退職は自由にさせればよい",
+    "common_misconception_en": "Resignation can be allowed freely",
+    "difficulty": "medium",
+    "question_ja": "部下から突然の退職申し出があった場合、最も適切な初動対応はどれか？",
+    "question_en": "What is the most appropriate initial response when a subordinate suddenly submits a resignation?",
+    "choices_ja": [
+      "A. 即座に承認する",
+      "B. 退職理由を確認し、必要に応じて人事部門と連携し、適切な手続きを進める",
+      "C. 退職を拒否する",
+      "D. 無視する"
+    ],
+    "choices_en": [
+      "A. Immediately approve",
+      "B. Confirm resignation reason, collaborate with HR if necessary, and proceed with appropriate procedures",
+      "C. Reject resignation",
+      "D. Ignore it"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。退職申し出時は、退職理由を確認し、必要に応じて人事部門と連携し、適切な手続きを進めることが重要。即座承認（A）は理由把握を欠く。拒否（C）は法的に問題がある場合がある。無視（D）は不適切。労務トラブル対応では、法的要件を満たしつつ、組織としての対応を適切に行う必要がある。",
+    "explanation_en": "The correct answer is B. When resignation is submitted, confirming resignation reason, collaborating with HR if necessary, and proceeding with appropriate procedures is important. Immediate approval (A) lacks reason understanding. Rejection (C) may be legally problematic. Ignoring (D) is inappropriate. In labor trouble response, appropriate organizational response must be taken while meeting legal requirements.",
+    "source_url": "https://example.com/training/Year2/governance/労務トラブル対応（退職、懲戒）/q-gov-y2-001",
+    "tags": ["Year2", "governance", "退職", "労務トラブル"]
+  },
+  {
+    "id": "q-gov-y2-002",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "労務トラブル対応（退職、懲戒）",
+    "learning_goal_ja": "退職・懲戒などの労務トラブルの適切な対応手順を理解し、法的リスクを回避できる",
+    "learning_goal_en": "Understand appropriate procedures for labor troubles such as resignation and disciplinary action, and can avoid legal risks",
+    "common_misconception_ja": "退職は自由にさせればよい",
+    "common_misconception_en": "Resignation can be allowed freely",
+    "difficulty": "hard",
+    "question_ja": "懲戒処分を検討する際、最も重要な確認事項はどれか？",
+    "question_en": "What is the most important confirmation item when considering disciplinary action?",
+    "choices_ja": [
+      "A. 感情的に判断する",
+      "B. 就業規則に基づく懲戒事由の該当性、証拠の有無、手続きの適正性を確認し、人事・法務と連携する",
+      "C. 懲戒を即座に実行する",
+      "D. 証拠を無視する"
+    ],
+    "choices_en": [
+      "A. Judge emotionally",
+      "B. Confirm applicability of disciplinary grounds based on work rules, presence of evidence, and procedural propriety, and collaborate with HR/legal",
+      "C. Immediately execute disciplinary action",
+      "D. Ignore evidence"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。懲戒処分では、就業規則に基づく懲戒事由の該当性、証拠の有無、手続きの適正性を確認し、人事・法務と連携することが重要。感情的判断（A）や即座実行（C）、証拠無視（D）は法的リスクを高める。労務トラブル対応では、法的根拠と適正手続きが不可欠であり、個別判断は人事・法務へエスカレーションすることが重要である。",
+    "explanation_en": "The correct answer is B. In disciplinary action, confirming applicability of disciplinary grounds based on work rules, presence of evidence, and procedural propriety, and collaborating with HR/legal is important. Emotional judgment (A), immediate execution (C), or ignoring evidence (D) increases legal risk. In labor trouble response, legal grounds and proper procedures are essential, and escalation to HR/legal for individual judgment is important.",
+    "source_url": "https://example.com/training/Year2/governance/労務トラブル対応（退職、懲戒）/q-gov-y2-002",
+    "tags": ["Year2", "governance", "懲戒", "労務トラブル"]
+  },
+  {
+    "id": "q-gov-y2-003",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "労務トラブル対応（退職、懲戒）",
+    "learning_goal_ja": "退職・懲戒などの労務トラブルの適切な対応手順を理解し、法的リスクを回避できる",
+    "learning_goal_en": "Understand appropriate procedures for labor troubles such as resignation and disciplinary action, and can avoid legal risks",
+    "common_misconception_ja": "退職は自由にさせればよい",
+    "common_misconception_en": "Resignation can be allowed freely",
+    "difficulty": "hard",
+    "question_ja": "退職時の引き継ぎが不十分な場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response when handover at resignation is insufficient?",
+    "choices_ja": [
+      "A. 退職を阻止する",
+      "B. 可能な範囲で引き継ぎを進め、不足分はチームで補完する計画を立てる（必要に応じて人事と調整）",
+      "C. 引き継ぎを無視する",
+      "D. 退職者を責める"
+    ],
+    "choices_en": [
+      "A. Prevent resignation",
+      "B. Proceed with handover as much as possible and plan team complementation for deficiencies (adjust with HR if necessary)",
+      "C. Ignore handover",
+      "D. Blame the resigning employee"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。引き継ぎ不十分時は、可能な範囲で引き継ぎを進め、不足分はチームで補完する計画を立てることが適切。退職阻止（A）は法的に問題がある場合がある。無視（C）や責める（D）は建設的でない。労務トラブル対応では、退職者の権利を尊重しつつ、組織としての業務継続を確保することが重要である。",
+    "explanation_en": "The correct answer is B. When handover is insufficient, proceeding with handover as much as possible and planning team complementation for deficiencies is appropriate. Preventing resignation (A) may be legally problematic. Ignoring (C) or blaming (D) are not constructive. In labor trouble response, respecting resigning employee's rights while ensuring business continuity as an organization is important.",
+    "source_url": "https://example.com/training/Year2/governance/労務トラブル対応（退職、懲戒）/q-gov-y2-003",
+    "tags": ["Year2", "governance", "退職", "引き継ぎ"]
+  },
+  {
+    "id": "q-gov-y2-004",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "コンプライアンス対応（違反事例）",
+    "learning_goal_ja": "コンプライアンス違反の適切な対応手順を理解し、再発防止策を立案できる",
+    "learning_goal_en": "Understand appropriate procedures for compliance violations and can plan recurrence prevention measures",
+    "common_misconception_ja": "違反は隠せばよい",
+    "common_misconception_en": "Violations can be hidden",
+    "difficulty": "medium",
+    "question_ja": "コンプライアンス違反が発覚した場合、最も適切な初動対応はどれか？",
+    "question_en": "What is the most appropriate initial response when a compliance violation is discovered?",
+    "choices_ja": [
+      "A. 違反を隠す",
+      "B. 速やかに内部調査を開始し、必要に応じて外部機関に報告し、法務・人事と連携する",
+      "C. 違反を無視する",
+      "D. 証拠を破棄する"
+    ],
+    "choices_en": [
+      "A. Hide the violation",
+      "B. Quickly start internal investigation, report to external authorities if necessary, and collaborate with legal/HR",
+      "C. Ignore the violation",
+      "D. Destroy evidence"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。コンプライアンス違反発覚時は、速やかに内部調査を開始し、必要に応じて外部機関に報告し、法務・人事と連携することが重要。隠す（A）や無視（C）、証拠破棄（D）は違法行為となり、問題を深刻化させる。コンプライアンス対応では、透明性と迅速な対応が信頼回復と再発防止の鍵となる。",
+    "explanation_en": "The correct answer is B. When compliance violation is discovered, quickly starting internal investigation, reporting to external authorities if necessary, and collaborating with legal/HR is important. Hiding (A), ignoring (C), or destroying evidence (D) become illegal acts and worsen problems. In compliance response, transparency and rapid response are keys to trust recovery and recurrence prevention.",
+    "source_url": "https://example.com/training/Year2/governance/コンプライアンス対応（違反事例）/q-gov-y2-004",
+    "tags": ["Year2", "governance", "コンプライアンス", "違反対応"]
+  },
+  {
+    "id": "q-gov-y2-005",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "コンプライアンス対応（違反事例）",
+    "learning_goal_ja": "コンプライアンス違反の適切な対応手順を理解し、再発防止策を立案できる",
+    "learning_goal_en": "Understand appropriate procedures for compliance violations and can plan recurrence prevention measures",
+    "common_misconception_ja": "違反は隠せばよい",
+    "common_misconception_en": "Violations can be hidden",
+    "difficulty": "hard",
+    "question_ja": "コンプライアンス違反の再発防止策を立案する際、最も重要な要素はどれか？",
+    "question_en": "What is the most important element when planning recurrence prevention measures for compliance violations?",
+    "choices_ja": [
+      "A. 違反者を処罰するだけ",
+      "B. 違反の根本原因を分析し、制度・プロセス・教育の改善を総合的に検討する",
+      "C. 何もしない",
+      "D. 違反を隠す"
+    ],
+    "choices_en": [
+      "A. Only punish violators",
+      "B. Analyze root causes of violations and comprehensively consider system, process, and education improvements",
+      "C. Do nothing",
+      "D. Hide violations"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。再発防止策では、違反の根本原因を分析し、制度・プロセス・教育の改善を総合的に検討することが重要。処罰のみ（A）は対症療法。何もしない（C）や隠す（D）は再発を招く。コンプライアンス対応では、組織的な改善により、同様の違反を防ぐ仕組みを構築することが重要である。",
+    "explanation_en": "The correct answer is B. In recurrence prevention measures, analyzing root causes of violations and comprehensively considering system, process, and education improvements is important. Only punishment (A) is symptomatic treatment. Doing nothing (C) or hiding (D) causes recurrence. In compliance response, building mechanisms to prevent similar violations through organizational improvement is important.",
+    "source_url": "https://example.com/training/Year2/governance/コンプライアンス対応（違反事例）/q-gov-y2-005",
+    "tags": ["Year2", "governance", "コンプライアンス", "再発防止"]
+  },
+  {
+    "id": "q-gov-y2-006",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "コンプライアンス対応（違反事例）",
+    "learning_goal_ja": "コンプライアンス違反の適切な対応手順を理解し、再発防止策を立案できる",
+    "learning_goal_en": "Understand appropriate procedures for compliance violations and can plan recurrence prevention measures",
+    "common_misconception_ja": "違反は隠せばよい",
+    "common_misconception_en": "Violations can be hidden",
+    "difficulty": "hard",
+    "question_ja": "コンプライアンス違反の報告を受けた場合、報告者への対応として最も適切なのはどれか？",
+    "question_en": "What is the most appropriate response to the reporter when receiving a compliance violation report?",
+    "choices_ja": [
+      "A. 報告者を責める",
+      "B. 報告に感謝し、適切な調査と対応を実施し、報復を防止する",
+      "C. 報告を無視する",
+      "D. 報告者の情報を漏らす"
+    ],
+    "choices_en": [
+      "A. Blame the reporter",
+      "B. Thank for the report, conduct appropriate investigation and response, and prevent retaliation",
+      "C. Ignore the report",
+      "D. Leak reporter information"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。違反報告時は、報告に感謝し、適切な調査と対応を実施し、報復を防止することが重要。責める（A）や無視（C）、情報漏洩（D）は報告文化を損なう。コンプライアンス対応では、報告しやすい環境を維持し、報告者を保護することが組織の健全性につながる。",
+    "explanation_en": "The correct answer is B. When violation is reported, thanking for the report, conducting appropriate investigation and response, and preventing retaliation is important. Blaming (A), ignoring (C), or leaking information (D) damages reporting culture. In compliance response, maintaining an environment where reporting is easy and protecting reporters leads to organizational health.",
+    "source_url": "https://example.com/training/Year2/governance/コンプライアンス対応（違反事例）/q-gov-y2-006",
+    "tags": ["Year2", "governance", "コンプライアンス", "報告対応"]
+  },
+  {
+    "id": "q-gov-y2-007",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "リスク管理（事故対応、BCP）",
+    "learning_goal_ja": "事故対応とBCP（事業継続計画）の基本を理解し、緊急時に適切に対応できる",
+    "learning_goal_en": "Understand basics of accident response and BCP (Business Continuity Plan), and can respond appropriately in emergencies",
+    "common_misconception_ja": "事故は起きない",
+    "common_misconception_en": "Accidents won't happen",
+    "difficulty": "medium",
+    "question_ja": "業務上の事故が発生した場合、最も適切な初動対応はどれか？",
+    "question_en": "What is the most appropriate initial response when a business accident occurs?",
+    "choices_ja": [
+      "A. 事故を隠す",
+      "B. 人的被害の確認と安全確保を最優先し、速やかに報告し、所定の手順に従う",
+      "C. 事故を無視する",
+      "D. 証拠を破棄する"
+    ],
+    "choices_en": [
+      "A. Hide the accident",
+      "B. Prioritize confirming human damage and ensuring safety, quickly report, and follow prescribed procedures",
+      "C. Ignore the accident",
+      "D. Destroy evidence"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。事故発生時は、人的被害の確認と安全確保を最優先し、速やかに報告し、所定の手順に従うことが重要。隠す（A）や無視（C）、証拠破棄（D）は違法行為となり、被害を拡大させる。リスク管理では、迅速な初動対応が被害の最小化と信頼維持の鍵となる。",
+    "explanation_en": "The correct answer is B. When an accident occurs, prioritizing confirming human damage and ensuring safety, quickly reporting, and following prescribed procedures is important. Hiding (A), ignoring (C), or destroying evidence (D) become illegal acts and expand damage. In risk management, rapid initial response is key to minimizing damage and maintaining trust.",
+    "source_url": "https://example.com/training/Year2/governance/リスク管理（事故対応、BCP）/q-gov-y2-007",
+    "tags": ["Year2", "governance", "事故対応", "BCP"]
+  },
+  {
+    "id": "q-gov-y2-008",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "リスク管理（事故対応、BCP）",
+    "learning_goal_ja": "事故対応とBCP（事業継続計画）の基本を理解し、緊急時に適切に対応できる",
+    "learning_goal_en": "Understand basics of accident response and BCP (Business Continuity Plan), and can respond appropriately in emergencies",
+    "common_misconception_ja": "事故は起きない",
+    "common_misconception_en": "Accidents won't happen",
+    "difficulty": "hard",
+    "question_ja": "BCP（事業継続計画）を策定する際、最も重要な要素はどれか？",
+    "question_en": "What is the most important element when formulating BCP (Business Continuity Plan)?",
+    "choices_ja": [
+      "A. 計画を作るだけ",
+      "B. 想定リスクの洗い出し、優先業務の特定、代替手段の準備、訓練の実施を総合的に検討する",
+      "C. 計画を作らない",
+      "D. 計画を隠す"
+    ],
+    "choices_en": [
+      "A. Only create a plan",
+      "B. Comprehensively consider risk identification, priority business identification, alternative preparation, and training implementation",
+      "C. Don't create a plan",
+      "D. Hide the plan"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。BCP策定では、想定リスクの洗い出し、優先業務の特定、代替手段の準備、訓練の実施を総合的に検討することが重要。計画のみ（A）は実行できない。計画なし（C）や隠す（D）は緊急時に機能しない。リスク管理では、BCPの策定と定期的な訓練により、緊急時でも事業継続を確保できる。",
+    "explanation_en": "The correct answer is B. In BCP formulation, comprehensively considering risk identification, priority business identification, alternative preparation, and training implementation is important. Only plan (A) cannot be executed. No plan (C) or hiding (D) doesn't function in emergencies. In risk management, BCP formulation and regular training ensure business continuity even in emergencies.",
+    "source_url": "https://example.com/training/Year2/governance/リスク管理（事故対応、BCP）/q-gov-y2-008",
+    "tags": ["Year2", "governance", "BCP", "事業継続"]
+  },
+  {
+    "id": "q-gov-y2-009",
+    "year": "Year2",
+    "category": "governance",
+    "theme": "リスク管理（事故対応、BCP）",
+    "learning_goal_ja": "事故対応とBCP（事業継続計画）の基本を理解し、緊急時に適切に対応できる",
+    "learning_goal_en": "Understand basics of accident response and BCP (Business Continuity Plan), and can respond appropriately in emergencies",
+    "common_misconception_ja": "事故は起きない",
+    "common_misconception_en": "Accidents won't happen",
+    "difficulty": "hard",
+    "question_ja": "緊急事態発生時に事業継続を確保するため、最も重要な対応はどれか？",
+    "question_en": "What is the most important response to ensure business continuity when an emergency occurs?",
+    "choices_ja": [
+      "A. 何もしない",
+      "B. BCPに基づき、優先業務を特定し、代替手段を活用して継続を図る",
+      "C. すべての業務を停止する",
+      "D. 計画を無視する"
+    ],
+    "choices_en": [
+      "A. Do nothing",
+      "B. Based on BCP, identify priority business and continue using alternative means",
+      "C. Stop all business",
+      "D. Ignore the plan"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。緊急事態時は、BCPに基づき、優先業務を特定し、代替手段を活用して継続を図ることが重要。何もしない（A）や全停止（C）、計画無視（D）は事業継続を放棄している。リスク管理では、BCPの実行により、緊急時でも重要な業務を継続し、顧客・ステークホルダーへの影響を最小化できる。",
+    "explanation_en": "The correct answer is B. In emergencies, based on BCP, identifying priority business and continuing using alternative means is important. Doing nothing (A), stopping all (C), or ignoring plan (D) abandons business continuity. In risk management, executing BCP enables continuing important business even in emergencies and minimizing impact on customers and stakeholders.",
+    "source_url": "https://example.com/training/Year2/governance/リスク管理（事故対応、BCP）/q-gov-y2-009",
+    "tags": ["Year2", "governance", "BCP", "緊急対応"]
+  },
+  {
+    "id": "q-biz-y2-001",
+    "year": "Year2",
+    "category": "business",
+    "theme": "予算管理（策定・FCST・コスト削減）",
+    "learning_goal_ja": "予算策定・FCST（予測）・コスト削減の基本を理解し、適切な予算管理ができる",
+    "learning_goal_en": "Understand basics of budget formulation, FCST (forecast), and cost reduction, and can manage budget appropriately",
+    "common_misconception_ja": "予算は多めに取ればよい",
+    "common_misconception_en": "Budget should be taken generously",
+    "difficulty": "medium",
+    "question_ja": "予算策定において、最も重要な原則はどれか？",
+    "question_en": "What is the most important principle in budget formulation?",
+    "choices_ja": [
+      "A. 多めに予算を取る",
+      "B. 事業計画に基づき、現実的な見積もりを行い、定期的に見直し・調整する",
+      "C. 予算を設定しない",
+      "D. 過去の実績を無視する"
+    ],
+    "choices_en": [
+      "A. Take generous budget",
+      "B. Based on business plan, make realistic estimates and regularly review and adjust",
+      "C. Don't set budget",
+      "D. Ignore past performance"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。予算策定では、事業計画に基づき、現実的な見積もりを行い、定期的に見直し・調整することが重要。多めに取る（A）は無駄を生む。予算なし（C）は管理できない。過去実績無視（D）は非現実的。予算管理では、計画と実績の乖離を把握し、適切な調整により事業目標の達成を図る。",
+    "explanation_en": "The correct answer is B. In budget formulation, making realistic estimates based on business plan and regularly reviewing and adjusting is important. Taking generously (A) creates waste. No budget (C) cannot be managed. Ignoring past performance (D) is unrealistic. In budget management, understanding gaps between plan and performance and achieving business goals through appropriate adjustment.",
+    "source_url": "https://example.com/training/Year2/business/予算管理（策定・FCST・コスト削減）/q-biz-y2-001",
+    "tags": ["Year2", "business", "予算管理", "FCST"]
+  },
+  {
+    "id": "q-biz-y2-002",
+    "year": "Year2",
+    "category": "business",
+    "theme": "予算管理（策定・FCST・コスト削減）",
+    "learning_goal_ja": "予算策定・FCST（予測）・コスト削減の基本を理解し、適切な予算管理ができる",
+    "learning_goal_en": "Understand basics of budget formulation, FCST (forecast), and cost reduction, and can manage budget appropriately",
+    "common_misconception_ja": "予算は多めに取ればよい",
+    "common_misconception_en": "Budget should be taken generously",
+    "difficulty": "hard",
+    "question_ja": "FCST（予測）と実績に乖離が生じた場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response when there is a gap between FCST (forecast) and actual performance?",
+    "choices_ja": [
+      "A. 予測を無視する",
+      "B. 乖離の原因を分析し、必要に応じて予算・施策を調整する",
+      "C. 実績を無視する",
+      "D. 何もしない"
+    ],
+    "choices_en": [
+      "A. Ignore forecast",
+      "B. Analyze gap causes and adjust budget/measures if necessary",
+      "C. Ignore actual performance",
+      "D. Do nothing"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。FCSTと実績の乖離時は、乖離の原因を分析し、必要に応じて予算・施策を調整することが適切。予測無視（A）や実績無視（C）、何もしない（D）は管理を放棄している。予算管理では、定期的な見直しと適切な調整により、事業目標の達成可能性を高める。",
+    "explanation_en": "The correct answer is B. When there is a gap between FCST and actual performance, analyzing gap causes and adjusting budget/measures if necessary is appropriate. Ignoring forecast (A), ignoring actual (C), or doing nothing (D) abandons management. In budget management, regular review and appropriate adjustment increase achievability of business goals.",
+    "source_url": "https://example.com/training/Year2/business/予算管理（策定・FCST・コスト削減）/q-biz-y2-002",
+    "tags": ["Year2", "business", "予算管理", "FCST"]
+  },
+  {
+    "id": "q-biz-y2-003",
+    "year": "Year2",
+    "category": "business",
+    "theme": "予算管理（策定・FCST・コスト削減）",
+    "learning_goal_ja": "予算策定・FCST（予測）・コスト削減の基本を理解し、適切な予算管理ができる",
+    "learning_goal_en": "Understand basics of budget formulation, FCST (forecast), and cost reduction, and can manage budget appropriately",
+    "common_misconception_ja": "予算は多めに取ればよい",
+    "common_misconception_en": "Budget should be taken generously",
+    "difficulty": "hard",
+    "question_ja": "コスト削減を検討する際、最も重要な考慮事項はどれか？",
+    "question_en": "What is the most important consideration when considering cost reduction?",
+    "choices_ja": [
+      "A. すべてのコストを削減する",
+      "B. 事業価値への影響を評価し、優先順位をつけて削減を検討する",
+      "C. コスト削減しない",
+      "D. 品質を無視して削減する"
+    ],
+    "choices_en": [
+      "A. Reduce all costs",
+      "B. Evaluate impact on business value, prioritize, and consider reduction",
+      "C. Don't reduce costs",
+      "D. Reduce ignoring quality"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。コスト削減では、事業価値への影響を評価し、優先順位をつけて削減を検討することが重要。すべて削減（A）や品質無視（D）は事業価値を損なう。削減しない（C）は機会損失。予算管理では、効率的なコスト構造を実現しつつ、事業価値を維持・向上させることが重要である。",
+    "explanation_en": "The correct answer is B. In cost reduction, evaluating impact on business value, prioritizing, and considering reduction is important. Reducing all (A) or ignoring quality (D) damages business value. Not reducing (C) is opportunity loss. In budget management, achieving efficient cost structure while maintaining and improving business value is important.",
+    "source_url": "https://example.com/training/Year2/business/予算管理（策定・FCST・コスト削減）/q-biz-y2-003",
+    "tags": ["Year2", "business", "予算管理", "コスト削減"]
+  },
+  {
+    "id": "q-biz-y2-004",
+    "year": "Year2",
+    "category": "business",
+    "theme": "ファイナンス（三表連動：BS/PL/CFO応用）",
+    "learning_goal_ja": "貸借対照表（BS）、損益計算書（PL）、キャッシュフロー計算書（CF）の関係を理解し、財務分析ができる",
+    "learning_goal_en": "Understand relationships between balance sheet (BS), profit and loss statement (PL), and cash flow statement (CF), and can perform financial analysis",
+    "common_misconception_ja": "PLだけ見ればよい",
+    "common_misconception_en": "Only need to look at PL",
+    "difficulty": "hard",
+    "question_ja": "財務三表（BS/PL/CF）の関係を理解する上で、最も重要な観点はどれか？",
+    "question_en": "What is the most important perspective in understanding the relationship of financial statements (BS/PL/CF)?",
+    "choices_ja": [
+      "A. PLだけを見る",
+      "B. 三表を連動させて見ることで、収益性・財務健全性・資金繰りを総合的に判断する",
+      "C. BSだけを見る",
+      "D. CFだけを見る"
+    ],
+    "choices_en": [
+      "A. Only look at PL",
+      "B. Comprehensively judge profitability, financial health, and cash flow by viewing three statements in linkage",
+      "C. Only look at BS",
+      "D. Only look at CF"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。財務三表は連動しており、三表を連動させて見ることで、収益性・財務健全性・資金繰りを総合的に判断できる。PLのみ（A）やBSのみ（C）、CFのみ（D）は偏りがある。ファイナンスでは、三表の関係を理解し、企業の財務状況を多角的に分析することが重要である。",
+    "explanation_en": "The correct answer is B. Financial statements are linked, and viewing three statements in linkage enables comprehensive judgment of profitability, financial health, and cash flow. Only PL (A), only BS (C), or only CF (D) are biased. In finance, understanding relationships of three statements and multi-dimensionally analyzing company financial condition is important.",
+    "source_url": "https://example.com/training/Year2/business/ファイナンス（三表連動：BS/PL/CFO応用）/q-biz-y2-004",
+    "tags": ["Year2", "business", "ファイナンス", "三表連動"]
+  },
+  {
+    "id": "q-biz-y2-005",
+    "year": "Year2",
+    "category": "business",
+    "theme": "ファイナンス（三表連動：BS/PL/CFO応用）",
+    "learning_goal_ja": "貸借対照表（BS）、損益計算書（PL）、キャッシュフロー計算書（CF）の関係を理解し、財務分析ができる",
+    "learning_goal_en": "Understand relationships between balance sheet (BS), profit and loss statement (PL), and cash flow statement (CF), and can perform financial analysis",
+    "common_misconception_ja": "PLだけ見ればよい",
+    "common_misconception_en": "Only need to look at PL",
+    "difficulty": "hard",
+    "question_ja": "キャッシュフロー計算書（CF）において、営業活動によるキャッシュフローが重要な理由はどれか？",
+    "question_en": "What is the reason why cash flow from operating activities is important in the cash flow statement (CF)?",
+    "choices_ja": [
+      "A. 見る必要がない",
+      "B. 本業での資金創出能力を示し、事業の持続可能性を判断できる",
+      "C. 投資活動だけを見ればよい",
+      "D. 財務活動だけを見ればよい"
+    ],
+    "choices_en": [
+      "A. Not necessary to look at",
+      "B. Shows fund generation capability from core business and enables judging business sustainability",
+      "C. Only need to look at investing activities",
+      "D. Only need to look at financing activities"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。営業活動によるキャッシュフローは、本業での資金創出能力を示し、事業の持続可能性を判断できる。見る必要なし（A）や投資活動のみ（C）、財務活動のみ（D）は誤り。ファイナンスでは、営業CFがプラスで安定していることが事業の健全性を示し、資金繰りの安定につながる。",
+    "explanation_en": "The correct answer is B. Cash flow from operating activities shows fund generation capability from core business and enables judging business sustainability. Not necessary (A), only investing (C), or only financing (D) are incorrect. In finance, positive and stable operating CF indicates business health and leads to stable cash flow management.",
+    "source_url": "https://example.com/training/Year2/business/ファイナンス（三表連動：BS/PL/CFO応用）/q-biz-y2-005",
+    "tags": ["Year2", "business", "ファイナンス", "キャッシュフロー"]
+  },
+  {
+    "id": "q-biz-y2-006",
+    "year": "Year2",
+    "category": "business",
+    "theme": "ファイナンス（三表連動：BS/PL/CFO応用）",
+    "learning_goal_ja": "貸借対照表（BS）、損益計算書（PL）、キャッシュフロー計算書（CF）の関係を理解し、財務分析ができる",
+    "learning_goal_en": "Understand relationships between balance sheet (BS), profit and loss statement (PL), and cash flow statement (CF), and can perform financial analysis",
+    "common_misconception_ja": "PLだけ見ればよい",
+    "common_misconception_en": "Only need to look at PL",
+    "difficulty": "hard",
+    "question_ja": "貸借対照表（BS）と損益計算書（PL）の関係として、最も適切な説明はどれか？",
+    "question_en": "What is the most appropriate explanation of the relationship between balance sheet (BS) and profit and loss statement (PL)?",
+    "choices_ja": [
+      "A. 無関係",
+      "B. PLの利益がBSの純資産に反映され、BSの資産・負債の変化がPLに影響する",
+      "C. BSだけを見ればよい",
+      "D. PLだけを見ればよい"
+    ],
+    "choices_en": [
+      "A. Unrelated",
+      "B. PL profit is reflected in BS equity, and BS asset/liability changes affect PL",
+      "C. Only need to look at BS",
+      "D. Only need to look at PL"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。PLの利益がBSの純資産に反映され、BSの資産・負債の変化がPLに影響する。無関係（A）やBSのみ（C）、PLのみ（D）は誤り。ファイナンスでは、三表の連動関係を理解し、財務状況を総合的に把握することが重要である。",
+    "explanation_en": "The correct answer is B. PL profit is reflected in BS equity, and BS asset/liability changes affect PL. Unrelated (A), only BS (C), or only PL (D) are incorrect. In finance, understanding linkage relationships of three statements and comprehensively grasping financial condition is important.",
+    "source_url": "https://example.com/training/Year2/business/ファイナンス（三表連動：BS/PL/CFO応用）/q-biz-y2-006",
+    "tags": ["Year2", "business", "ファイナンス", "三表連動"]
+  },
+  {
+    "id": "q-biz-y2-007",
+    "year": "Year2",
+    "category": "business",
+    "theme": "AI・DX活用",
+    "learning_goal_ja": "AI・DXを業務に活用し、業務効率化や価値創出を実現できる",
+    "learning_goal_en": "Can utilize AI and DX in business and achieve business efficiency and value creation",
+    "common_misconception_ja": "AI・DXは技術部門だけのもの",
+    "common_misconception_en": "AI and DX are only for technical departments",
+    "difficulty": "medium",
+    "question_ja": "AI・DXを業務に活用する際、最も重要なアプローチはどれか？",
+    "question_en": "What is the most important approach when utilizing AI and DX in business?",
+    "choices_ja": [
+      "A. 技術部門に任せるだけ",
+      "B. 業務課題を明確にし、AI・DXの適用可能性を検討し、段階的に導入する",
+      "C. すぐに全社展開する",
+      "D. AI・DXを使わない"
+    ],
+    "choices_en": [
+      "A. Only leave to technical department",
+      "B. Clarify business challenges, consider AI/DX applicability, and introduce gradually",
+      "C. Immediately roll out company-wide",
+      "D. Don't use AI/DX"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。AI・DX活用では、業務課題を明確にし、適用可能性を検討し、段階的に導入することが重要。技術部門任せ（A）や全社展開（C）、使わない（D）は効果的でない。AI・DX活用では、課題ありきで技術を選び、組織の変革と併せて推進することが成功の鍵となる。",
+    "explanation_en": "The correct answer is B. In AI/DX utilization, clarifying business challenges, considering applicability, and introducing gradually is important. Leaving to technical (A), company-wide rollout (C), or not using (D) are not effective. In AI/DX utilization, choosing technology problem-first and promoting with organizational transformation is key to success.",
+    "source_url": "https://example.com/training/Year2/business/AI・DX活用/q-biz-y2-007",
+    "tags": ["Year2", "business", "AI", "DX"]
+  },
+  {
+    "id": "q-biz-y2-008",
+    "year": "Year2",
+    "category": "business",
+    "theme": "AI・DX活用",
+    "learning_goal_ja": "AI・DXを業務に活用し、業務効率化や価値創出を実現できる",
+    "learning_goal_en": "Can utilize AI and DX in business and achieve business efficiency and value creation",
+    "common_misconception_ja": "AI・DXは技術部門だけのもの",
+    "common_misconception_en": "AI and DX are only for technical departments",
+    "difficulty": "hard",
+    "question_ja": "AI・DX導入の成功要因として、最も重要なのはどれか？",
+    "question_en": "What is the most important success factor for AI/DX introduction?",
+    "choices_ja": [
+      "A. 最新技術を選ぶだけ",
+      "B. 組織文化の変革、人材育成、プロセス改善を技術導入と併せて推進する",
+      "C. 技術だけを導入する",
+      "D. 導入しない"
+    ],
+    "choices_en": [
+      "A. Only choose latest technology",
+      "B. Promote organizational culture transformation, human resource development, and process improvement along with technology introduction",
+      "C. Only introduce technology",
+      "D. Don't introduce"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。AI・DX導入の成功には、組織文化の変革、人材育成、プロセス改善を技術導入と併せて推進することが重要。最新技術のみ（A）や技術のみ（C）は効果が限定的。導入しない（D）は機会損失。AI・DX活用では、技術と組織変革の両輪により、持続的な価値創出を実現できる。",
+    "explanation_en": "The correct answer is B. Success in AI/DX introduction requires promoting organizational culture transformation, human resource development, and process improvement along with technology introduction. Only latest technology (A) or only technology (C) have limited effectiveness. Not introducing (D) is opportunity loss. In AI/DX utilization, both technology and organizational transformation enable sustainable value creation.",
+    "source_url": "https://example.com/training/Year2/business/AI・DX活用/q-biz-y2-008",
+    "tags": ["Year2", "business", "AI", "DX"]
+  },
+  {
+    "id": "q-biz-y2-009",
+    "year": "Year2",
+    "category": "business",
+    "theme": "AI・DX活用",
+    "learning_goal_ja": "AI・DXを業務に活用し、業務効率化や価値創出を実現できる",
+    "learning_goal_en": "Can utilize AI and DX in business and achieve business efficiency and value creation",
+    "common_misconception_ja": "AI・DXは技術部門だけのもの",
+    "common_misconception_en": "AI and DX are only for technical departments",
+    "difficulty": "hard",
+    "question_ja": "AI・DX導入後の効果測定において、最も重要な指標はどれか？",
+    "question_en": "What is the most important indicator in measuring effects after AI/DX introduction?",
+    "choices_ja": [
+      "A. 技術の新しさだけ",
+      "B. 業務効率化、コスト削減、顧客価値向上など、導入目的に応じた指標で測定する",
+      "C. 測定しない",
+      "D. 導入コストだけを見る"
+    ],
+    "choices_en": [
+      "A. Only technology newness",
+      "B. Measure with indicators corresponding to introduction objectives such as business efficiency, cost reduction, customer value improvement",
+      "C. Don't measure",
+      "D. Only look at introduction cost"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。効果測定では、業務効率化、コスト削減、顧客価値向上など、導入目的に応じた指標で測定することが重要。技術の新しさのみ（A）やコストのみ（D）、測定しない（C）は効果を把握できない。AI・DX活用では、定量的な効果測定により、継続的な改善と投資対効果を確認できる。",
+    "explanation_en": "The correct answer is B. In effect measurement, measuring with indicators corresponding to introduction objectives such as business efficiency, cost reduction, customer value improvement is important. Only technology newness (A), only cost (D), or not measuring (C) cannot grasp effects. In AI/DX utilization, quantitative effect measurement enables confirming continuous improvement and ROI.",
+    "source_url": "https://example.com/training/Year2/business/AI・DX活用/q-biz-y2-009",
+    "tags": ["Year2", "business", "AI", "DX"]
+  },
+  {
+    "id": "q-biz-y2-010",
+    "year": "Year2",
+    "category": "business",
+    "theme": "横断課題解決（カスタマージャーニー版）",
+    "learning_goal_ja": "カスタマージャーニーを理解し、横断的な課題解決ができる",
+    "learning_goal_en": "Understand customer journey and can solve cross-functional challenges",
+    "common_misconception_ja": "自部門だけを見ればよい",
+    "common_misconception_en": "Only need to look at own department",
+    "difficulty": "hard",
+    "question_ja": "カスタマージャーニーを改善する際、最も重要なアプローチはどれか？",
+    "question_en": "What is the most important approach when improving customer journey?",
+    "choices_ja": [
+      "A. 自部門だけを改善する",
+      "B. 顧客の体験全体を把握し、部門横断で連携して改善する",
+      "C. 顧客を無視する",
+      "D. 改善しない"
+    ],
+    "choices_en": [
+      "A. Only improve own department",
+      "B. Grasp entire customer experience and improve through cross-functional collaboration",
+      "C. Ignore customers",
+      "D. Don't improve"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。カスタマージャーニー改善では、顧客の体験全体を把握し、部門横断で連携して改善することが重要。自部門のみ（A）や顧客無視（C）、改善しない（D）は効果的でない。横断課題解決では、顧客視点で全体最適を図り、部門間の連携により価値を最大化できる。",
+    "explanation_en": "The correct answer is B. In customer journey improvement, grasping entire customer experience and improving through cross-functional collaboration is important. Only own department (A), ignoring customers (C), or not improving (D) are not effective. In cross-functional problem solving, optimizing overall from customer perspective and maximizing value through inter-departmental collaboration.",
+    "source_url": "https://example.com/training/Year2/business/横断課題解決（カスタマージャーニー版）/q-biz-y2-010",
+    "tags": ["Year2", "business", "カスタマージャーニー", "横断課題"]
+  },
+  {
+    "id": "q-biz-y2-011",
+    "year": "Year2",
+    "category": "business",
+    "theme": "横断課題解決（カスタマージャーニー版）",
+    "learning_goal_ja": "カスタマージャーニーを理解し、横断的な課題解決ができる",
+    "learning_goal_en": "Understand customer journey and can solve cross-functional challenges",
+    "common_misconception_ja": "自部門だけを見ればよい",
+    "common_misconception_en": "Only need to look at own department",
+    "difficulty": "hard",
+    "question_ja": "横断的な課題解決において、最も重要な要素はどれか？",
+    "question_en": "What is the most important element in cross-functional problem solving?",
+    "choices_ja": [
+      "A. 自部門の利益だけを考える",
+      "B. 共通の目標を設定し、部門間の連携と情報共有を促進する",
+      "C. 部門間で競争させる",
+      "D. 連携しない"
+    ],
+    "choices_en": [
+      "A. Only think about own department's benefit",
+      "B. Set common goals and promote inter-departmental collaboration and information sharing",
+      "C. Make departments compete",
+      "D. Don't collaborate"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。横断課題解決では、共通の目標を設定し、部門間の連携と情報共有を促進することが重要。自部門利益のみ（A）や競争（C）、連携なし（D）は全体最適を実現できない。横断課題解決では、顧客価値の最大化を共通目標とし、部門間の協働によりイノベーションを創出できる。",
+    "explanation_en": "The correct answer is B. In cross-functional problem solving, setting common goals and promoting inter-departmental collaboration and information sharing is important. Only own department benefit (A), competition (C), or no collaboration (D) cannot achieve overall optimization. In cross-functional problem solving, maximizing customer value as common goal and creating innovation through inter-departmental cooperation.",
+    "source_url": "https://example.com/training/Year2/business/横断課題解決（カスタマージャーニー版）/q-biz-y2-011",
+    "tags": ["Year2", "business", "横断課題", "連携"]
+  },
+  {
+    "id": "q-biz-y2-012",
+    "year": "Year2",
+    "category": "business",
+    "theme": "横断課題解決（カスタマージャーニー版）",
+    "learning_goal_ja": "カスタマージャーニーを理解し、横断的な課題解決ができる",
+    "learning_goal_en": "Understand customer journey and can solve cross-functional challenges",
+    "common_misconception_ja": "自部門だけを見ればよい",
+    "common_misconception_en": "Only need to look at own department",
+    "difficulty": "hard",
+    "question_ja": "カスタマージャーニーの課題を特定する際、最も効果的な方法はどれか？",
+    "question_en": "What is the most effective method when identifying customer journey challenges?",
+    "choices_ja": [
+      "A. 推測する",
+      "B. 顧客の声、データ分析、各タッチポイントの調査を組み合わせて特定する",
+      "C. 自部門の都合で決める",
+      "D. 課題を特定しない"
+    ],
+    "choices_en": [
+      "A. Guess",
+      "B. Identify by combining customer voices, data analysis, and investigation of each touchpoint",
+      "C. Decide based on own department's convenience",
+      "D. Don't identify challenges"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。課題特定では、顧客の声、データ分析、各タッチポイントの調査を組み合わせて特定することが効果的。推測（A）や自部門都合（C）、特定しない（D）は誤った課題に取り組むことになる。横断課題解決では、顧客視点での課題特定により、効果的な改善施策を立案できる。",
+    "explanation_en": "The correct answer is B. In challenge identification, identifying by combining customer voices, data analysis, and investigation of each touchpoint is effective. Guessing (A), own department convenience (C), or not identifying (D) leads to working on wrong challenges. In cross-functional problem solving, challenge identification from customer perspective enables planning effective improvement measures.",
+    "source_url": "https://example.com/training/Year2/business/横断課題解決（カスタマージャーニー版）/q-biz-y2-012",
+    "tags": ["Year2", "business", "カスタマージャーニー", "課題特定"]
+  },
+  {
+    "id": "q-mgmt-y2-001",
+    "year": "Year2",
+    "category": "management",
+    "theme": "多様性・インクルージョン",
+    "learning_goal_ja": "多様性とインクルージョンの重要性を理解し、多様な人材が活躍できる環境を創出できる",
+    "learning_goal_en": "Understand importance of diversity and inclusion, and can create environment where diverse personnel can thrive",
+    "common_misconception_ja": "多様性は数合わせ",
+    "common_misconception_en": "Diversity is just numbers",
+    "difficulty": "medium",
+    "question_ja": "多様性・インクルージョンを推進する際、最も重要な要素はどれか？",
+    "question_en": "What is the most important element when promoting diversity and inclusion?",
+    "choices_ja": [
+      "A. 数合わせだけ",
+      "B. 多様な人材が活躍できる環境と文化を創出し、組織のイノベーション力を高める",
+      "C. 多様性を無視する",
+      "D. 同質性を維持する"
+    ],
+    "choices_en": [
+      "A. Only numbers",
+      "B. Create environment and culture where diverse personnel can thrive and enhance organizational innovation",
+      "C. Ignore diversity",
+      "D. Maintain homogeneity"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。多様性・インクルージョンでは、多様な人材が活躍できる環境と文化を創出し、組織のイノベーション力を高めることが重要。数合わせのみ（A）や無視（C）、同質性維持（D）は効果的でない。多様性・インクルージョンでは、多様な視点と経験が組織の競争力とイノベーションにつながる。",
+    "explanation_en": "The correct answer is B. In diversity and inclusion, creating environment and culture where diverse personnel can thrive and enhancing organizational innovation is important. Only numbers (A), ignoring (C), or maintaining homogeneity (D) are not effective. In diversity and inclusion, diverse perspectives and experiences lead to organizational competitiveness and innovation.",
+    "source_url": "https://example.com/training/Year2/management/多様性・インクルージョン/q-mgmt-y2-001",
+    "tags": ["Year2", "management", "多様性", "インクルージョン"]
+  },
+  {
+    "id": "q-mgmt-y2-002",
+    "year": "Year2",
+    "category": "management",
+    "theme": "多様性・インクルージョン",
+    "learning_goal_ja": "多様性とインクルージョンの重要性を理解し、多様な人材が活躍できる環境を創出できる",
+    "learning_goal_en": "Understand importance of diversity and inclusion, and can create environment where diverse personnel can thrive",
+    "common_misconception_ja": "多様性は数合わせ",
+    "common_misconception_en": "Diversity is just numbers",
+    "difficulty": "hard",
+    "question_ja": "インクルージョンを実現するために、マネージャーが取るべき行動として最も適切なのはどれか？",
+    "question_en": "What is the most appropriate action a manager should take to achieve inclusion?",
+    "choices_ja": [
+      "A. 多様な人材を採用するだけ",
+      "B. 多様な人材の意見を尊重し、意思決定に参画させ、活躍の機会を提供する",
+      "C. 多様性を無視する",
+      "D. 同質的なチームを維持する"
+    ],
+    "choices_en": [
+      "A. Only recruit diverse personnel",
+      "B. Respect diverse personnel's opinions, involve them in decision-making, and provide opportunities to thrive",
+      "C. Ignore diversity",
+      "D. Maintain homogeneous team"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。インクルージョン実現には、多様な人材の意見を尊重し、意思決定に参画させ、活躍の機会を提供することが重要。採用のみ（A）や無視（C）、同質維持（D）はインクルージョンを実現できない。多様性・インクルージョンでは、多様な人材が組織の意思決定と価値創出に参画することが重要である。",
+    "explanation_en": "The correct answer is B. To achieve inclusion, respecting diverse personnel's opinions, involving them in decision-making, and providing opportunities to thrive is important. Only recruitment (A), ignoring (C), or maintaining homogeneity (D) cannot achieve inclusion. In diversity and inclusion, diverse personnel participating in organizational decision-making and value creation is important.",
+    "source_url": "https://example.com/training/Year2/management/多様性・インクルージョン/q-mgmt-y2-002",
+    "tags": ["Year2", "management", "多様性", "インクルージョン"]
+  },
+  {
+    "id": "q-mgmt-y2-003",
+    "year": "Year2",
+    "category": "management",
+    "theme": "キャリア開発",
+    "learning_goal_ja": "メンバーのキャリア開発を支援し、長期的な成長を促進できる",
+    "learning_goal_en": "Can support member career development and promote long-term growth",
+    "common_misconception_ja": "キャリアは本人任せ",
+    "common_misconception_en": "Career is left to the individual",
+    "difficulty": "medium",
+    "question_ja": "メンバーのキャリア開発を支援する際、最も重要なアプローチはどれか？",
+    "question_en": "What is the most important approach when supporting member career development?",
+    "choices_ja": [
+      "A. 本人任せにする",
+      "B. メンバーのキャリア志向を理解し、成長機会を提供し、定期的にキャリア面談を行う",
+      "C. キャリア開発を無視する",
+      "D. 強制的にキャリアを決める"
+    ],
+    "choices_en": [
+      "A. Leave to individual",
+      "B. Understand member's career orientation, provide growth opportunities, and conduct regular career interviews",
+      "C. Ignore career development",
+      "D. Forcefully decide career"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。キャリア開発支援では、メンバーのキャリア志向を理解し、成長機会を提供し、定期的にキャリア面談を行うことが重要。本人任せ（A）や無視（C）、強制（D）は効果的でない。キャリア開発では、メンバーの主体性を尊重しつつ、組織として成長機会を提供することが長期的な人材定着と組織力向上につながる。",
+    "explanation_en": "The correct answer is B. In career development support, understanding member's career orientation, providing growth opportunities, and conducting regular career interviews is important. Leaving to individual (A), ignoring (C), or forcing (D) are not effective. In career development, respecting member autonomy while providing growth opportunities as organization leads to long-term talent retention and organizational strength improvement.",
+    "source_url": "https://example.com/training/Year2/management/キャリア開発/q-mgmt-y2-003",
+    "tags": ["Year2", "management", "キャリア開発", "成長支援"]
+  },
+  {
+    "id": "q-mgmt-y2-004",
+    "year": "Year2",
+    "category": "management",
+    "theme": "キャリア開発",
+    "learning_goal_ja": "メンバーのキャリア開発を支援し、長期的な成長を促進できる",
+    "learning_goal_en": "Can support member career development and promote long-term growth",
+    "common_misconception_ja": "キャリアは本人任せ",
+    "common_misconception_en": "Career is left to the individual",
+    "difficulty": "hard",
+    "question_ja": "メンバーが異動や転職を希望する場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response when a member wishes to transfer or change jobs?",
+    "choices_ja": [
+      "A. 希望を無視する",
+      "B. 希望の背景を理解し、組織内での可能性も含めて対話し、最適な選択を支援する",
+      "C. 強制的に留める",
+      "D. 即座に承認する"
+    ],
+    "choices_en": [
+      "A. Ignore wishes",
+      "B. Understand background of wishes, dialogue including possibilities within organization, and support optimal choice",
+      "C. Forcefully retain",
+      "D. Immediately approve"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。異動・転職希望時は、希望の背景を理解し、組織内での可能性も含めて対話し、最適な選択を支援することが適切。無視（A）や強制（C）、即座承認（D）は不適切。キャリア開発では、メンバーのキャリア選択を尊重しつつ、組織としても最適な人材配置を実現することが重要である。",
+    "explanation_en": "The correct answer is B. When transfer or job change is wished, understanding background of wishes, dialogue including possibilities within organization, and supporting optimal choice is appropriate. Ignoring (A), forcing (C), or immediate approval (D) are inappropriate. In career development, respecting member's career choices while achieving optimal human resource allocation as organization is important.",
+    "source_url": "https://example.com/training/Year2/management/キャリア開発/q-mgmt-y2-004",
+    "tags": ["Year2", "management", "キャリア開発", "異動"]
+  },
+  {
+    "id": "q-mgmt-y2-005",
+    "year": "Year2",
+    "category": "management",
+    "theme": "コーチング",
+    "learning_goal_ja": "コーチングの基本スキルを理解し、メンバーの主体性を引き出せる",
+    "learning_goal_en": "Understand basic coaching skills and can draw out member autonomy",
+    "common_misconception_ja": "コーチングは指示すること",
+    "common_misconception_en": "Coaching is giving instructions",
+    "difficulty": "medium",
+    "question_ja": "コーチングにおいて、最も重要な原則はどれか？",
+    "question_en": "What is the most important principle in coaching?",
+    "choices_ja": [
+      "A. 一方的に指示する",
+      "B. 質問を通じてメンバー自身に気づきと答えを引き出し、主体性を育む",
+      "C. 答えを教える",
+      "D. コーチングしない"
+    ],
+    "choices_en": [
+      "A. Unilaterally give instructions",
+      "B. Draw out member's own awareness and answers through questions and nurture autonomy",
+      "C. Teach answers",
+      "D. Don't coach"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。コーチングでは、質問を通じてメンバー自身に気づきと答えを引き出し、主体性を育むことが重要。一方的指示（A）や答えを教える（C）は主体性を損なう。コーチングなし（D）は成長機会を失う。コーチングでは、メンバーが自分で考え、行動を変えることを支援することが成長につながる。",
+    "explanation_en": "The correct answer is B. In coaching, drawing out member's own awareness and answers through questions and nurturing autonomy is important. Unilateral instructions (A) or teaching answers (C) damage autonomy. No coaching (D) loses growth opportunities. In coaching, supporting members to think for themselves and change behavior leads to growth.",
+    "source_url": "https://example.com/training/Year2/management/コーチング/q-mgmt-y2-005",
+    "tags": ["Year2", "management", "コーチング", "主体性"]
+  },
+  {
+    "id": "q-mgmt-y2-006",
+    "year": "Year2",
+    "category": "management",
+    "theme": "コーチング",
+    "learning_goal_ja": "コーチングの基本スキルを理解し、メンバーの主体性を引き出せる",
+    "learning_goal_en": "Understand basic coaching skills and can draw out member autonomy",
+    "common_misconception_ja": "コーチングは指示すること",
+    "common_misconception_en": "Coaching is giving instructions",
+    "difficulty": "hard",
+    "question_ja": "コーチングセッションでメンバーが答えを見つけられない場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response when a member cannot find an answer in a coaching session?",
+    "choices_ja": [
+      "A. すぐに答えを教える",
+      "B. さらに質問を重ね、視点を変える質問や具体化する質問で思考を促す",
+      "C. コーチングをやめる",
+      "D. メンバーを責める"
+    ],
+    "choices_en": [
+      "A. Immediately teach the answer",
+      "B. Further layer questions, prompt thinking with questions that change perspective or make concrete",
+      "C. Stop coaching",
+      "D. Blame the member"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。答えが見つからない場合、さらに質問を重ね、視点を変える質問や具体化する質問で思考を促すことが適切。すぐに教える（A）は主体性を損なう。やめる（C）や責める（D）は不適切。コーチングでは、メンバーが自分で思考を深め、答えにたどり着くプロセスを支援することが重要である。",
+    "explanation_en": "The correct answer is B. When answer is not found, further layering questions and prompting thinking with questions that change perspective or make concrete is appropriate. Immediately teaching (A) damages autonomy. Stopping (C) or blaming (D) are inappropriate. In coaching, supporting members to deepen their own thinking and reach answers is important.",
+    "source_url": "https://example.com/training/Year2/management/コーチング/q-mgmt-y2-006",
+    "tags": ["Year2", "management", "コーチング", "質問スキル"]
+  },
+  {
+    "id": "q-mgmt-y2-007",
+    "year": "Year2",
+    "category": "management",
+    "theme": "リーダーシップケース（困難対応・事例研究）",
+    "learning_goal_ja": "困難な状況でのリーダーシップを理解し、適切な判断と対応ができる",
+    "learning_goal_en": "Understand leadership in difficult situations and can make appropriate judgments and responses",
+    "common_misconception_ja": "困難は避ければよい",
+    "common_misconception_en": "Difficulties should be avoided",
+    "difficulty": "hard",
+    "question_ja": "困難な状況でリーダーシップを発揮する際、最も重要な要素はどれか？",
+    "question_en": "What is the most important element when demonstrating leadership in difficult situations?",
+    "choices_ja": [
+      "A. 困難を避ける",
+      "B. 状況を冷静に分析し、チームの安全と目標達成のバランスを取り、透明なコミュニケーションを取る",
+      "C. 一人で判断する",
+      "D. 判断を先送りする"
+    ],
+    "choices_en": [
+      "A. Avoid difficulties",
+      "B. Calmly analyze situation, balance team safety and goal achievement, and take transparent communication",
+      "C. Judge alone",
+      "D. Postpone judgment"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。困難な状況では、状況を冷静に分析し、チームの安全と目標達成のバランスを取り、透明なコミュニケーションを取ることが重要。避ける（A）や一人判断（C）、先送り（D）は問題を深刻化させる。リーダーシップケースでは、困難を乗り越える判断力と実行力が組織の信頼と成果につながる。",
+    "explanation_en": "The correct answer is B. In difficult situations, calmly analyzing situation, balancing team safety and goal achievement, and taking transparent communication is important. Avoiding (A), judging alone (C), or postponing (D) worsen problems. In leadership cases, judgment and execution to overcome difficulties lead to organizational trust and results.",
+    "source_url": "https://example.com/training/Year2/management/リーダーシップケース（困難対応・事例研究）/q-mgmt-y2-007",
+    "tags": ["Year2", "management", "リーダーシップ", "困難対応"]
+  },
+  {
+    "id": "q-mgmt-y2-008",
+    "year": "Year2",
+    "category": "management",
+    "theme": "リーダーシップケース（困難対応・事例研究）",
+    "learning_goal_ja": "困難な状況でのリーダーシップを理解し、適切な判断と対応ができる",
+    "learning_goal_en": "Understand leadership in difficult situations and can make appropriate judgments and responses",
+    "common_misconception_ja": "困難は避ければよい",
+    "common_misconception_en": "Difficulties should be avoided",
+    "difficulty": "hard",
+    "question_ja": "チームが深刻な問題に直面している場合、リーダーとして最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response as a leader when the team faces a serious problem?",
+    "choices_ja": [
+      "A. 問題を隠す",
+      "B. 問題を透明に共有し、チームと協力して解決策を検討し、必要に応じて上層部や専門家の支援を得る",
+      "C. メンバーを責める",
+      "D. 問題を無視する"
+    ],
+    "choices_en": [
+      "A. Hide the problem",
+      "B. Transparently share the problem, collaborate with team to consider solutions, and seek support from upper management or specialists if necessary",
+      "C. Blame members",
+      "D. Ignore the problem"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。深刻な問題時は、問題を透明に共有し、チームと協力して解決策を検討し、必要に応じて上層部や専門家の支援を得ることが適切。隠す（A）や責める（C）、無視（D）は問題を深刻化させる。リーダーシップケースでは、困難な状況でも透明性と協働により、チームの結束と問題解決力を高められる。",
+    "explanation_en": "The correct answer is B. When serious problem occurs, transparently sharing the problem, collaborating with team to consider solutions, and seeking support from upper management or specialists if necessary is appropriate. Hiding (A), blaming (C), or ignoring (D) worsen problems. In leadership cases, even in difficult situations, transparency and collaboration enhance team unity and problem-solving ability.",
+    "source_url": "https://example.com/training/Year2/management/リーダーシップケース（困難対応・事例研究）/q-mgmt-y2-008",
+    "tags": ["Year2", "management", "リーダーシップ", "問題解決"]
+  },
+  {
+    "id": "q-mgmt-y2-009",
+    "year": "Year2",
+    "category": "management",
+    "theme": "モチベーション管理",
+    "learning_goal_ja": "メンバーのモチベーションを理解し、適切に管理・向上させられる",
+    "learning_goal_en": "Understand member motivation and can manage and improve it appropriately",
+    "common_misconception_ja": "モチベーションは給与だけ",
+    "common_misconception_en": "Motivation is only salary",
+    "difficulty": "medium",
+    "question_ja": "メンバーのモチベーションを高めるために、最も効果的な方法はどれか？",
+    "question_en": "What is the most effective method to increase member motivation?",
+    "choices_ja": [
+      "A. 給与だけを上げる",
+      "B. 仕事の意義、成長機会、承認、自律性など多面的な要因を考慮する",
+      "C. モチベーションを無視する",
+      "D. 強制的にやらせる"
+    ],
+    "choices_en": [
+      "A. Only raise salary",
+      "B. Consider multifaceted factors such as work meaning, growth opportunities, recognition, autonomy",
+      "C. Ignore motivation",
+      "D. Force to do"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。モチベーション向上には、仕事の意義、成長機会、承認、自律性など多面的な要因を考慮することが効果的。給与のみ（A）や無視（C）、強制（D）は効果が限定的。モチベーション管理では、メンバーの価値観とニーズを理解し、多面的なアプローチにより持続的なモチベーションを維持できる。",
+    "explanation_en": "The correct answer is B. To increase motivation, considering multifaceted factors such as work meaning, growth opportunities, recognition, autonomy is effective. Only salary (A), ignoring (C), or forcing (D) have limited effectiveness. In motivation management, understanding member values and needs and maintaining sustainable motivation through multifaceted approach.",
+    "source_url": "https://example.com/training/Year2/management/モチベーション管理/q-mgmt-y2-009",
+    "tags": ["Year2", "management", "モチベーション", "動機付け"]
+  },
+  {
+    "id": "q-mgmt-y2-010",
+    "year": "Year2",
+    "category": "management",
+    "theme": "モチベーション管理",
+    "learning_goal_ja": "メンバーのモチベーションを理解し、適切に管理・向上させられる",
+    "learning_goal_en": "Understand member motivation and can manage and improve it appropriately",
+    "common_misconception_ja": "モチベーションは給与だけ",
+    "common_misconception_en": "Motivation is only salary",
+    "difficulty": "hard",
+    "question_ja": "メンバーのモチベーションが低下している場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response when member motivation is declining?",
+    "choices_ja": [
+      "A. 無視する",
+      "B. モチベーション低下の原因を聞き取り、個別に対応し、必要に応じて仕事の見直しや支援を検討する",
+      "C. メンバーを責める",
+      "D. 強制的にやらせる"
+    ],
+    "choices_en": [
+      "A. Ignore",
+      "B. Listen to causes of motivation decline, respond individually, and consider work review or support if necessary",
+      "C. Blame member",
+      "D. Force to do"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。モチベーション低下時は、原因を聞き取り、個別に対応し、必要に応じて仕事の見直しや支援を検討することが適切。無視（A）や責める（C）、強制（D）は問題を深刻化させる。モチベーション管理では、早期発見と個別対応により、メンバーのエンゲージメントと生産性を維持できる。",
+    "explanation_en": "The correct answer is B. When motivation declines, listening to causes, responding individually, and considering work review or support if necessary is appropriate. Ignoring (A), blaming (C), or forcing (D) worsen problems. In motivation management, early detection and individual response maintain member engagement and productivity.",
+    "source_url": "https://example.com/training/Year2/management/モチベーション管理/q-mgmt-y2-010",
+    "tags": ["Year2", "management", "モチベーション", "低下対応"]
+  },
+  {
+    "id": "q-mgmt-y2-011",
+    "year": "Year2",
+    "category": "management",
+    "theme": "権限委譲・ストレッチアサイン",
+    "learning_goal_ja": "適切な権限委譲とストレッチアサインにより、メンバーの成長を促進できる",
+    "learning_goal_en": "Can promote member growth through appropriate delegation and stretch assignments",
+    "common_misconception_ja": "権限委譲は任せっぱなし",
+    "common_misconception_en": "Delegation is leaving it completely",
+    "difficulty": "medium",
+    "question_ja": "権限委譲において、最も重要な原則はどれか？",
+    "question_en": "What is the most important principle in delegation?",
+    "choices_ja": [
+      "A. 任せっぱなしにする",
+      "B. 適切な権限と責任を明確にし、定期的に進捗を確認し、必要に応じて支援する",
+      "C. 権限を委譲しない",
+      "D. 責任だけを委譲する"
+    ],
+    "choices_en": [
+      "A. Leave it completely",
+      "B. Clearly define appropriate authority and responsibility, regularly check progress, and support if necessary",
+      "C. Don't delegate authority",
+      "D. Only delegate responsibility"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。権限委譲では、適切な権限と責任を明確にし、定期的に進捗を確認し、必要に応じて支援することが重要。任せっぱなし（A）や委譲しない（C）、責任のみ（D）は効果的でない。権限委譲・ストレッチアサインでは、メンバーの成長と成果の両立を図り、組織の力を最大化できる。",
+    "explanation_en": "The correct answer is B. In delegation, clearly defining appropriate authority and responsibility, regularly checking progress, and supporting if necessary is important. Leaving completely (A), not delegating (C), or only responsibility (D) are not effective. In delegation and stretch assignments, balancing member growth and results maximizes organizational power.",
+    "source_url": "https://example.com/training/Year2/management/権限委譲・ストレッチアサイン/q-mgmt-y2-011",
+    "tags": ["Year2", "management", "権限委譲", "成長支援"]
+  },
+  {
+    "id": "q-mgmt-y2-012",
+    "year": "Year2",
+    "category": "management",
+    "theme": "権限委譲・ストレッチアサイン",
+    "learning_goal_ja": "適切な権限委譲とストレッチアサインにより、メンバーの成長を促進できる",
+    "learning_goal_en": "Can promote member growth through appropriate delegation and stretch assignments",
+    "common_misconception_ja": "権限委譲は任せっぱなし",
+    "common_misconception_en": "Delegation is leaving it completely",
+    "difficulty": "hard",
+    "question_ja": "ストレッチアサイン（挑戦的な課題）を実施する際、最も重要な配慮はどれか？",
+    "question_en": "What is the most important consideration when implementing stretch assignments (challenging tasks)?",
+    "choices_ja": [
+      "A. 失敗を許さない",
+      "B. メンバーの能力を少し超える課題を設定し、適切な支援とフィードバックを提供する",
+      "C. 簡単な課題だけを与える",
+      "D. 課題を与えない"
+    ],
+    "choices_en": [
+      "A. Don't allow failure",
+      "B. Set tasks slightly beyond member's ability and provide appropriate support and feedback",
+      "C. Only give easy tasks",
+      "D. Don't give tasks"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。ストレッチアサインでは、メンバーの能力を少し超える課題を設定し、適切な支援とフィードバックを提供することが重要。失敗不許可（A）や簡単な課題のみ（C）、課題なし（D）は成長を促さない。権限委譲・ストレッチアサインでは、適度な挑戦と支援により、メンバーの能力向上と自信の醸成を実現できる。",
+    "explanation_en": "The correct answer is B. In stretch assignments, setting tasks slightly beyond member's ability and providing appropriate support and feedback is important. Not allowing failure (A), only easy tasks (C), or no tasks (D) don't promote growth. In delegation and stretch assignments, moderate challenge and support enable member ability improvement and confidence building.",
+    "source_url": "https://example.com/training/Year2/management/権限委譲・ストレッチアサイン/q-mgmt-y2-012",
+    "tags": ["Year2", "management", "ストレッチアサイン", "成長支援"]
+  },
+  {
+    "id": "q-mgmt-y2-013",
+    "year": "Year2",
+    "category": "management",
+    "theme": "チェンジマネジメント（変革対応）",
+    "learning_goal_ja": "組織変革を理解し、適切なチェンジマネジメントができる",
+    "learning_goal_en": "Understand organizational transformation and can perform appropriate change management",
+    "common_misconception_ja": "変革は強制すればよい",
+    "common_misconception_en": "Transformation can be forced",
+    "difficulty": "hard",
+    "question_ja": "組織変革を推進する際、最も重要な要素はどれか？",
+    "question_en": "What is the most important element when promoting organizational transformation?",
+    "choices_ja": [
+      "A. 強制的に変革する",
+      "B. 変革の必要性とビジョンを明確にし、メンバーの理解と参加を促し、段階的に推進する",
+      "C. 変革しない",
+      "D. メンバーを無視する"
+    ],
+    "choices_en": [
+      "A. Forcefully transform",
+      "B. Clearly define transformation necessity and vision, promote member understanding and participation, and advance gradually",
+      "C. Don't transform",
+      "D. Ignore members"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。組織変革では、変革の必要性とビジョンを明確にし、メンバーの理解と参加を促し、段階的に推進することが重要。強制（A）や変革なし（C）、メンバー無視（D）は効果的でない。チェンジマネジメントでは、メンバーの納得と協力を得ることで、変革の成功確率を高められる。",
+    "explanation_en": "The correct answer is B. In organizational transformation, clearly defining transformation necessity and vision, promoting member understanding and participation, and advancing gradually is important. Forcing (A), no transformation (C), or ignoring members (D) are not effective. In change management, gaining member understanding and cooperation increases transformation success probability.",
+    "source_url": "https://example.com/training/Year2/management/チェンジマネジメント（変革対応）/q-mgmt-y2-013",
+    "tags": ["Year2", "management", "チェンジマネジメント", "組織変革"]
+  },
+  {
+    "id": "q-mgmt-y2-014",
+    "year": "Year2",
+    "category": "management",
+    "theme": "チェンジマネジメント（変革対応）",
+    "learning_goal_ja": "組織変革を理解し、適切なチェンジマネジメントができる",
+    "learning_goal_en": "Understand organizational transformation and can perform appropriate change management",
+    "common_misconception_ja": "変革は強制すればよい",
+    "common_misconception_en": "Transformation can be forced",
+    "difficulty": "hard",
+    "question_ja": "組織変革に対する抵抗が生じた場合、最も適切な対応はどれか？",
+    "question_en": "What is the most appropriate response when resistance to organizational transformation occurs?",
+    "choices_ja": [
+      "A. 抵抗を無視する",
+      "B. 抵抗の背景を理解し、懸念に対応し、変革の意義を丁寧に説明する",
+      "C. 強制的に変革する",
+      "D. 変革を中止する"
+    ],
+    "choices_en": [
+      "A. Ignore resistance",
+      "B. Understand background of resistance, address concerns, and carefully explain transformation significance",
+      "C. Forcefully transform",
+      "D. Abandon transformation"
+    ],
+    "correct_choice_index": 1,
+    "explanation_ja": "正解はB。変革への抵抗時は、抵抗の背景を理解し、懸念に対応し、変革の意義を丁寧に説明することが適切。無視（A）や強制（C）、中止（D）は変革を失敗させる。チェンジマネジメントでは、抵抗を変革の機会と捉え、対話と理解により変革の成功を実現できる。",
+    "explanation_en": "The correct answer is B. When resistance to transformation occurs, understanding background of resistance, addressing concerns, and carefully explaining transformation significance is appropriate. Ignoring (A), forcing (C), or abandoning (D) cause transformation failure. In change management, treating resistance as transformation opportunity and achieving transformation success through dialogue and understanding.",
+    "source_url": "https://example.com/training/Year2/management/チェンジマネジメント（変革対応）/q-mgmt-y2-014",
+    "tags": ["Year2", "management", "チェンジマネジメント", "抵抗対応"]
+  }
+]
+

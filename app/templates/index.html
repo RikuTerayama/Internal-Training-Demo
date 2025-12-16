@@ -41,8 +41,17 @@
     <div class="new-quiz-link">
         <h3>📚 新しいクイズUI（77問対応）</h3>
         <p>Year1/Year2 × governance/business/management の全77問にチャレンジできます</p>
-        <div class="new-quiz-buttons">
-            <a href="/quiz" class="btn btn-primary" style="display: inline-block; margin-right: 12px;">クイズを開始</a>
+        
+        <div id="themeSelectorContainer" class="theme-selector-container">
+            <!-- テーマ選択UIは themeSelector.js で動的に生成 -->
+        </div>
+        
+        <div class="start-quiz-section">
+            <button id="startQuizButton" class="btn btn-primary" disabled>選択したテーマでクイズを開始</button>
+        </div>
+        
+        <div class="new-quiz-buttons" style="margin-top: 16px;">
+            <a href="/quiz" class="btn btn-secondary" style="display: inline-block; margin-right: 12px;">全問題を表示</a>
             <a href="/quiz-admin" class="btn btn-secondary" style="display: inline-block;">管理者画面</a>
         </div>
     </div>
@@ -56,5 +65,7 @@
         </form>
     </div>
 </div>
+
+<script src="/static/themeSelector.js"></script>
 {% endblock %}
 

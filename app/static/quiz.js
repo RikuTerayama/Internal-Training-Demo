@@ -15,10 +15,101 @@ document.addEventListener('DOMContentLoaded', async () => {
     await loadQuestions();
     loadProgress();
     setupEventListeners();
-    updateFilters();
+    
+    // URLパラメータからyear/track/themeを取得
+    const urlParams = new URLSearchParams(window.location.search);
+    const year = urlParams.get('year');
+    const track = urlParams.get('track');
+    const theme = urlParams.get('theme');
+    
+    if (year && track && theme) {
+        // URLパラメータがある場合は自動フィルタリング
+        applyUrlFilters(year, track, theme);
+    } else {
+        // パラメータがない場合は通常のフィルタ更新
+        updateFilters();
+    }
+    
     showQuestion();
     updateProgress();
 });
+
+// URLパラメータに基づいてフィルタを適用
+function applyUrlFilters(year, track, theme) {
+    // パラメータの検証
+    const validYears = ['Year1', 'Year2'];
+    const validTracks = ['governance', 'business', 'management'];
+    
+    if (!validYears.includes(year) || !validTracks.includes(track) || !theme) {
+        console.warn('Invalid URL parameters, redirecting to home');
+        showErrorMessage('無効なパラメータです。トップページに戻ります。');
+        setTimeout(() => {
+            window.location.href = '/';
+        }, 2000);
+        return;
+    }
+    
+    // フィルタ選択を設定
+    const yearFilter = document.getElementById('yearFilter');
+    const categoryFilter = document.getElementById('categoryFilter');
+    const themeFilter = document.getElementById('themeFilter');
+    
+    if (yearFilter) yearFilter.value = year;
+    if (categoryFilter) categoryFilter.value = track;
+    
+    // Themeフィルタの候補を更新
+    updateThemeFilter(year, track);
+    
+    // Themeを設定（少し遅延させてから）
+    setTimeout(() => {
+        if (themeFilter) {
+            // themeは日本語文字列なので、完全一致で検索
+            const options = Array.from(themeFilter.options);
+            const matchingOption = options.find(opt => opt.value === theme || opt.textContent === theme);
+            if (matchingOption) {
+                themeFilter.value = matchingOption.value;
+            } else {
+                // 完全一致しない場合は、部分一致で検索
+                const partialMatch = options.find(opt => opt.textContent.includes(theme) || theme.includes(opt.textContent));
+                if (partialMatch) {
+                    themeFilter.value = partialMatch.value;
+                } else {
+                    // テーマが見つからない場合
+                    console.warn(`Theme not found: ${theme}`);
+                    showErrorMessage(`テーマ「${theme}」が見つかりません。トップページに戻ります。`);
+                    setTimeout(() => {
+                        window.location.href = '/';
+                    }, 2000);
+                    return;
+                }
+            }
+        }
+        
+        // フィルタを適用
+        updateFilters();
+        
+        // フィルタ適用後に問題が0件の場合
+        setTimeout(() => {
+            if (filteredQuestions.length === 0) {
+                showErrorMessage('該当する問題が見つかりませんでした。トップページに戻ります。');
+                setTimeout(() => {
+                    window.location.href = '/';
+                }, 2000);
+            }
+        }, 200);
+    }, 100);
+}
+
+// エラーメッセージを表示
+function showErrorMessage(message) {
+    const loadingMsg = document.getElementById('loadingMessage');
+    if (loadingMsg) {
+        loadingMsg.textContent = message;
+        loadingMsg.style.color = '#e01e5a';
+        loadingMsg.style.backgroundColor = '#fee';
+        loadingMsg.classList.remove('hidden');
+    }
+}
 
 // questions.jsonを読み込む
 async function loadQuestions() {

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}内部研修デモアプリ{% endblock %}</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>{% block header_title %}内部研修デモアプリ{% endblock %}</h1>
+            {% block header_nav %}{% endblock %}
+        </header>
+        
+        <main class="main-content">
+            {% block content %}{% endblock %}
+        </main>
+        
+        <footer class="footer">
+            <p>© 2024 内部研修デモアプリ - インメモリデータ（再起動で消去されます）</p>
+        </footer>
+    </div>
+</body>
+</html>
+

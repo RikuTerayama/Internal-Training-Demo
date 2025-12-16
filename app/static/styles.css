@@ -1,0 +1,739 @@
+/* Slack Block Kit風のスタイル */
+
+:root {
+    --slack-purple: #611f69;
+    --slack-green: #2eb886;
+    --slack-blue: #1264a3;
+    --slack-gray: #616061;
+    --slack-light-gray: #f8f8f8;
+    --slack-border: #e8e8e8;
+    --slack-text: #1d1c1d;
+    --slack-text-light: #616061;
+    --shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    --shadow-hover: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: var(--slack-light-gray);
+    color: var(--slack-text);
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    color: var(--slack-purple);
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.breadcrumb {
+    font-size: 14px;
+    color: var(--slack-text-light);
+    margin-top: 10px;
+}
+
+.breadcrumb a {
+    color: var(--slack-blue);
+    text-decoration: none;
+}
+
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+.main-content {
+    flex: 1;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    color: var(--slack-text-light);
+    font-size: 12px;
+    margin-top: 40px;
+}
+
+/* カードスタイル */
+.card {
+    background: white;
+    border-radius: 8px;
+    padding: 24px;
+    box-shadow: var(--shadow);
+    margin-bottom: 20px;
+}
+
+.card h2 {
+    color: var(--slack-text);
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+
+.card h3 {
+    color: var(--slack-text);
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.card h4 {
+    color: var(--slack-text);
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+/* フォーム要素 */
+.form-group {
+    margin-bottom: 20px;
+}
+
+.input-group {
+    margin-bottom: 16px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: var(--slack-text);
+}
+
+.input-field {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid var(--slack-border);
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.input-field:focus {
+    outline: none;
+    border-color: var(--slack-blue);
+    box-shadow: 0 0 0 3px rgba(18, 100, 163, 0.1);
+}
+
+.textarea-field {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid var(--slack-border);
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: inherit;
+    resize: vertical;
+}
+
+.textarea-field:focus {
+    outline: none;
+    border-color: var(--slack-blue);
+    box-shadow: 0 0 0 3px rgba(18, 100, 163, 0.1);
+}
+
+/* ボタン */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.2s;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: var(--slack-purple);
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #4a154b;
+    box-shadow: var(--shadow-hover);
+}
+
+.btn-secondary {
+    background-color: var(--slack-light-gray);
+    color: var(--slack-text);
+    border: 1px solid var(--slack-border);
+}
+
+.btn-secondary:hover {
+    background-color: #e8e8e8;
+}
+
+/* テーマ選択 */
+.theme-selection {
+    margin-top: 24px;
+}
+
+.theme-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 16px;
+    margin-top: 16px;
+}
+
+.theme-card {
+    border: 2px solid var(--slack-border);
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    transition: all 0.2s;
+}
+
+.theme-card:hover {
+    border-color: var(--slack-purple);
+    box-shadow: var(--shadow);
+}
+
+.theme-card h4 {
+    color: var(--slack-purple);
+    margin-bottom: 8px;
+}
+
+.theme-card p {
+    color: var(--slack-text-light);
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+
+/* クイズ画面 */
+.quiz-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.quiz-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.topic-badge {
+    background-color: var(--slack-purple);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.question-counter {
+    color: var(--slack-text-light);
+    font-size: 14px;
+}
+
+.question-title {
+    font-size: 20px;
+    margin-bottom: 24px;
+    color: var(--slack-text);
+}
+
+.choices {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 24px;
+}
+
+.choice-item {
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    border: 2px solid var(--slack-border);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.choice-item:hover {
+    border-color: var(--slack-blue);
+    background-color: #f0f8ff;
+}
+
+.choice-item input[type="radio"] {
+    margin-right: 12px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.choice-label {
+    flex: 1;
+    font-size: 16px;
+}
+
+.form-actions {
+    text-align: center;
+}
+
+/* 結果表示 */
+.result-card {
+    margin-bottom: 24px;
+}
+
+.result-card.correct {
+    border-left: 4px solid var(--slack-green);
+}
+
+.result-card.incorrect {
+    border-left: 4px solid #e01e5a;
+}
+
+.result-details {
+    margin-top: 12px;
+}
+
+.result-details p {
+    margin-bottom: 8px;
+}
+
+.evidence-link {
+    color: var(--slack-blue);
+    text-decoration: none;
+}
+
+.evidence-link:hover {
+    text-decoration: underline;
+}
+
+.result-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.score-display {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    margin-top: 24px;
+}
+
+.score-circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--slack-purple), var(--slack-blue));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.score-number {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.score-label {
+    font-size: 12px;
+    opacity: 0.9;
+}
+
+.score-details {
+    font-size: 18px;
+}
+
+.incorrect-answers-card {
+    margin-top: 24px;
+}
+
+.incorrect-item {
+    padding: 16px;
+    border: 1px solid var(--slack-border);
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.answer-comparison {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin: 12px 0;
+}
+
+.answer-box {
+    padding: 12px;
+    border-radius: 4px;
+}
+
+.incorrect-box {
+    background-color: #fee;
+    border-left: 3px solid #e01e5a;
+}
+
+.correct-box {
+    background-color: #efe;
+    border-left: 3px solid var(--slack-green);
+}
+
+.explanation-box {
+    margin-top: 12px;
+    padding: 12px;
+    background-color: var(--slack-light-gray);
+    border-radius: 4px;
+}
+
+.success-card {
+    border-left: 4px solid var(--slack-green);
+    text-align: center;
+    margin-top: 24px;
+}
+
+/* 管理者画面 */
+.admin-container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.admin-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.admin-nav {
+    display: flex;
+    gap: 12px;
+}
+
+.stats-card {
+    margin-bottom: 24px;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-top: 16px;
+}
+
+.stat-item {
+    text-align: center;
+    padding: 16px;
+    border: 1px solid var(--slack-border);
+    border-radius: 8px;
+}
+
+.stat-label {
+    display: block;
+    font-size: 14px;
+    color: var(--slack-text-light);
+    margin-bottom: 8px;
+}
+
+.stat-value {
+    display: block;
+    font-size: 32px;
+    font-weight: bold;
+    color: var(--slack-purple);
+}
+
+.stat-count {
+    display: block;
+    font-size: 12px;
+    color: var(--slack-text-light);
+    margin-top: 4px;
+}
+
+.top-incorrect-card {
+    margin-bottom: 24px;
+}
+
+.incorrect-list {
+    margin-top: 16px;
+}
+
+.incorrect-top-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 12px;
+    border-bottom: 1px solid var(--slack-border);
+}
+
+.incorrect-top-item:last-child {
+    border-bottom: none;
+}
+
+.rank-badge {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: var(--slack-purple);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.incorrect-content {
+    flex: 1;
+}
+
+.incorrect-title {
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.incorrect-meta {
+    font-size: 12px;
+    color: var(--slack-text-light);
+}
+
+.users-card {
+    margin-bottom: 24px;
+}
+
+.users-table {
+    overflow-x: auto;
+    margin-top: 16px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: var(--slack-light-gray);
+}
+
+th {
+    padding: 12px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--slack-text);
+    border-bottom: 2px solid var(--slack-border);
+}
+
+td {
+    padding: 12px;
+    border-bottom: 1px solid var(--slack-border);
+    font-size: 14px;
+}
+
+.status-badge {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-right: 8px;
+}
+
+.status-not_started {
+    background-color: #fee;
+    color: #c00;
+}
+
+.status-in_progress {
+    background-color: #ffe;
+    color: #c80;
+}
+
+.status-completed {
+    background-color: #efe;
+    color: #0a0;
+}
+
+.score-text {
+    color: var(--slack-text-light);
+    font-size: 12px;
+}
+
+.empty-message {
+    text-align: center;
+    color: var(--slack-text-light);
+    padding: 40px;
+}
+
+/* リマインド画面 */
+.remind-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.description {
+    color: var(--slack-text-light);
+    margin-bottom: 24px;
+}
+
+.user-checkboxes {
+    margin-bottom: 24px;
+}
+
+.checkbox-item {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    border: 1px solid var(--slack-border);
+    border-radius: 8px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.checkbox-item:hover {
+    background-color: var(--slack-light-gray);
+}
+
+.checkbox-item input[type="checkbox"] {
+    margin-right: 12px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.checkbox-label {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.user-status {
+    font-size: 12px;
+    color: var(--slack-text-light);
+}
+
+/* ログ画面 */
+.logs-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.logs-list {
+    margin-top: 16px;
+}
+
+.log-item {
+    padding: 16px;
+    border: 1px solid var(--slack-border);
+    border-radius: 8px;
+    margin-bottom: 12px;
+    background-color: var(--slack-light-gray);
+}
+
+.log-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.log-time {
+    font-size: 12px;
+    color: var(--slack-text-light);
+}
+
+.log-to {
+    font-size: 14px;
+}
+
+.log-message {
+    margin-top: 8px;
+    padding: 8px;
+    background-color: white;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.log-topic {
+    margin-top: 8px;
+    font-size: 12px;
+    color: var(--slack-text-light);
+}
+
+/* ナビゲーションリンク */
+.navigation-links {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.admin-link {
+    text-align: center;
+    margin-top: 24px;
+}
+
+/* エラー画面 */
+.error-card {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.error-message {
+    color: #e01e5a;
+    font-size: 16px;
+    margin: 24px 0;
+}
+
+/* レスポンシブ */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    
+    .theme-cards {
+        grid-template-columns: 1fr;
+    }
+    
+    .stats-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .answer-comparison {
+        grid-template-columns: 1fr;
+    }
+    
+    .score-display {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .admin-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+    }
+    
+    .users-table {
+        font-size: 12px;
+    }
+    
+    th, td {
+        padding: 8px;
+    }
+}
+

@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block header_nav %}
+<nav class="breadcrumb">
+    <a href="/">ホーム</a> > 
+    <a href="/admin">管理者画面</a> > 
+    <span>通知ログ</span>
+</nav>
+{% endblock %}
+
+{% block content %}
+<div class="logs-container">
+    <div class="card">
+        <h2>通知ログ</h2>
+        
+        {% if logs %}
+        <div class="logs-list">
+            {% for log in logs %}
+            <div class="log-item">
+                <div class="log-header">
+                    <span class="log-time">{{ log.sent_at.strftime('%Y-%m-%d %H:%M:%S') }}</span>
+                    <span class="log-to">送信先: <strong>{{ log.to_name }}</strong></span>
+                </div>
+                {% if log.message %}
+                <div class="log-message">
+                    {{ log.message }}
+                </div>
+                {% endif %}
+                {% if log.topic %}
+                <div class="log-topic">
+                    テーマ: {{ log.topic|title }}
+                </div>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <p class="empty-message">通知ログがありません</p>
+        {% endif %}
+        
+        <div class="navigation-links">
+            <a href="/admin" class="btn btn-secondary">管理者画面に戻る</a>
+            <a href="/admin/remind" class="btn btn-primary">リマインド送信</a>
+        </div>
+    </div>
+</div>
+{% endblock %}
+

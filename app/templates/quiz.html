@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+
+{% block header_nav %}
+<nav class="breadcrumb">
+    <a href="/">ホーム</a> > 
+    <span>{{ topic|title }}</span> > 
+    <span>設問 {{ question_index }}/{{ total_questions }}</span>
+</nav>
+{% endblock %}
+
+{% block content %}
+<div class="quiz-container">
+    {% if previous_result %}
+    <div class="card result-card {% if previous_result.is_correct %}correct{% else %}incorrect{% endif %}">
+        <h3>{% if previous_result.is_correct %}✓ 正解{% else %}✗ 不正解{% endif %}</h3>
+        <div class="result-details">
+            <p><strong>選択した回答:</strong> {{ previous_result.question.choices[previous_result.selected_index] }}</p>
+            {% if not previous_result.is_correct %}
+            <p><strong>正解:</strong> {{ previous_result.question.choices[previous_result.question.correct_index] }}</p>
+            {% endif %}
+            <p><strong>解説:</strong> {{ previous_result.question.explanation }}</p>
+            <p><a href="{{ previous_result.question.evidence_url }}" target="_blank" class="evidence-link">根拠リンク →</a></p>
+        </div>
+    </div>
+    {% endif %}
+    
+    <div class="card quiz-card">
+        <div class="quiz-header">
+            <span class="topic-badge">{{ topic|title }}</span>
+            <span class="question-counter">設問 {{ question_index }}/{{ total_questions }}</span>
+        </div>
+        
+        <h2 class="question-title">{{ question.title }}</h2>
+        
+        <form method="POST" action="/quiz/{{ topic }}" class="quiz-form">
+            <input type="hidden" name="name" value="{{ name }}">
+            <input type="hidden" name="question_id" value="{{ question.id }}">
+            
+            <div class="choices">
+                {% for choice in question.choices %}
+                <label class="choice-item">
+                    <input type="radio" name="selected_index" value="{{ loop.index0 }}" required>
+                    <span class="choice-label">{{ choice }}</span>
+                </label>
+                {% endfor %}
+            </div>
+            
+            <div class="form-actions">
+                <button type="submit" class="btn btn-primary">回答を送信</button>
+            </div>
+        </form>
+    </div>
+    
+    <div class="navigation-links">
+        <a href="/" class="btn btn-secondary">ホームに戻る</a>
+        {% if question_index == total_questions %}
+        <a href="/result/{{ topic }}?name={{ name }}" class="btn btn-primary">結果を見る</a>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
+

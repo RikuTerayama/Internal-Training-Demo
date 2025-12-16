@@ -1,0 +1,129 @@
+{% extends "base.html" %}
+
+{% block header_nav %}
+<nav class="breadcrumb">
+    <a href="/">ホーム</a> > 
+    <span>管理者画面</span>
+</nav>
+{% endblock %}
+
+{% block content %}
+<div class="admin-container">
+    <div class="admin-header">
+        <h2>管理者画面</h2>
+        <div class="admin-nav">
+            <a href="/admin/remind" class="btn btn-primary">リマインド送信</a>
+            <a href="/admin/logs" class="btn btn-secondary">通知ログ</a>
+        </div>
+    </div>
+    
+    <div class="card stats-card">
+        <h3>テーマ別平均点</h3>
+        <div class="stats-grid">
+            <div class="stat-item">
+                <span class="stat-label">ガバナンス</span>
+                <span class="stat-value">{{ stats.governance.average|round(1) }}%</span>
+                <span class="stat-count">({{ stats.governance.user_count }}名)</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">ハラスメント</span>
+                <span class="stat-value">{{ stats.harassment.average|round(1) }}%</span>
+                <span class="stat-count">({{ stats.harassment.user_count }}名)</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">情報セキュリティ</span>
+                <span class="stat-value">{{ stats.infosec.average|round(1) }}%</span>
+                <span class="stat-count">({{ stats.infosec.user_count }}名)</span>
+            </div>
+        </div>
+    </div>
+    
+    {% if top_incorrect %}
+    <div class="card top-incorrect-card">
+        <h3>誤答が多い設問 TOP3</h3>
+        <div class="incorrect-list">
+            {% for item in top_incorrect %}
+            <div class="incorrect-top-item">
+                <span class="rank-badge">{{ loop.index }}</span>
+                <div class="incorrect-content">
+                    <p class="incorrect-title">{{ item.title }}</p>
+                    <p class="incorrect-meta">テーマ: {{ item.topic|title }} | 誤答数: {{ item.incorrect_count }}回</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+    
+    <div class="card users-card">
+        <h3>受講者一覧</h3>
+        <div class="users-table">
+            <table>
+                <thead>
+                    <tr>
+                        <th>名前</th>
+                        <th>ガバナンス</th>
+                        <th>ハラスメント</th>
+                        <th>情報セキュリティ</th>
+                        <th>最終更新</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for user in users %}
+                    <tr>
+                        <td><strong>{{ user.name }}</strong></td>
+                        <td>
+                            <span class="status-badge status-{{ user.status_by_topic.governance }}">
+                                {{ user.status_by_topic.governance|replace('_', ' ')|title }}
+                            </span>
+                            {% if user.score_by_topic.governance.total > 0 %}
+                            <span class="score-text">
+                                ({{ user.score_by_topic.governance.correct }}/{{ user.score_by_topic.governance.total }})
+                            </span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <span class="status-badge status-{{ user.status_by_topic.harassment }}">
+                                {{ user.status_by_topic.harassment|replace('_', ' ')|title }}
+                            </span>
+                            {% if user.score_by_topic.harassment.total > 0 %}
+                            <span class="score-text">
+                                ({{ user.score_by_topic.harassment.correct }}/{{ user.score_by_topic.harassment.total }})
+                            </span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <span class="status-badge status-{{ user.status_by_topic.infosec }}">
+                                {{ user.status_by_topic.infosec|replace('_', ' ')|title }}
+                            </span>
+                            {% if user.score_by_topic.infosec.total > 0 %}
+                            <span class="score-text">
+                                ({{ user.score_by_topic.infosec.correct }}/{{ user.score_by_topic.infosec.total }})
+                            </span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            {% if user.updated_at %}
+                            {{ user.updated_at.strftime('%Y-%m-%d %H:%M') }}
+                            {% else %}
+                            -
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                    {% if not users %}
+                    <tr>
+                        <td colspan="5" class="empty-message">受講者がいません</td>
+                    </tr>
+                    {% endif %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+    <div class="navigation-links">
+        <a href="/" class="btn btn-secondary">ホームに戻る</a>
+    </div>
+</div>
+{% endblock %}
+

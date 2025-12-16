@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+
+{% block header_nav %}
+<nav class="breadcrumb">
+    <a href="/">ホーム</a> > 
+    <a href="/admin">管理者画面</a> > 
+    <span>リマインド送信</span>
+</nav>
+{% endblock %}
+
+{% block content %}
+<div class="remind-container">
+    <div class="card">
+        <h2>リマインド送信</h2>
+        <p class="description">未受講者にチェックを付けてリマインドを送信できます。</p>
+        
+        <form method="POST" action="/admin/remind" class="remind-form">
+            {% if users %}
+            <div class="user-checkboxes">
+                {% for user in users %}
+                <label class="checkbox-item">
+                    <input type="checkbox" name="selected_names" value="{{ user.name }}">
+                    <span class="checkbox-label">
+                        <strong>{{ user.name }}</strong>
+                        <span class="user-status">
+                            {% set not_started_topics = [] %}
+                            {% for topic, status in user.status_by_topic.items() %}
+                                {% if status == "not_started" %}
+                                    {% set _ = not_started_topics.append(topic|title) %}
+                                {% endif %}
+                            {% endfor %}
+                            {% if not_started_topics %}
+                                未受講: {{ not_started_topics|join(', ') }}
+                            {% else %}
+                                すべて受講済み
+                            {% endif %}
+                        </span>
+                    </span>
+                </label>
+                {% endfor %}
+            </div>
+            
+            <div class="form-group">
+                <label for="message">メッセージ（任意）:</label>
+                <textarea id="message" name="message" rows="3" placeholder="リマインドメッセージを入力してください（省略可）" class="textarea-field"></textarea>
+            </div>
+            
+            <div class="form-actions">
+                <button type="submit" class="btn btn-primary">リマインドを送信</button>
+                <a href="/admin" class="btn btn-secondary">キャンセル</a>
+            </div>
+            {% else %}
+            <p class="empty-message">未受講者がいません。すべてのユーザーが受講を開始しています。</p>
+            <div class="form-actions">
+                <a href="/admin" class="btn btn-secondary">管理者画面に戻る</a>
+            </div>
+            {% endif %}
+        </form>
+    </div>
+</div>
+{% endblock %}
+

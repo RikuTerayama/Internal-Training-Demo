@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+
+{% block header_nav %}
+<nav class="breadcrumb">
+    <a href="/">ホーム</a> > 
+    <span>{{ topic|title }}</span> > 
+    <span>結果</span>
+</nav>
+{% endblock %}
+
+{% block content %}
+<div class="result-container">
+    <div class="card result-summary-card">
+        <h2>{{ topic|title }} - 学習結果</h2>
+        <div class="score-display">
+            <div class="score-circle">
+                <span class="score-number">{{ (score.correct / total_questions * 100)|round|int }}%</span>
+                <span class="score-label">正答率</span>
+            </div>
+            <div class="score-details">
+                <p>正解: <strong>{{ score.correct }}</strong> / {{ total_questions }}問</p>
+            </div>
+        </div>
+    </div>
+    
+    {% if incorrect_answers %}
+    <div class="card incorrect-answers-card">
+        <h3>誤答した設問</h3>
+        {% for item in incorrect_answers %}
+        <div class="incorrect-item">
+            <h4>{{ item.question.title }}</h4>
+            <div class="answer-comparison">
+                <div class="answer-box incorrect-box">
+                    <strong>あなたの回答:</strong> {{ item.selected_choice }}
+                </div>
+                <div class="answer-box correct-box">
+                    <strong>正解:</strong> {{ item.correct_choice }}
+                </div>
+            </div>
+            <div class="explanation-box">
+                <p><strong>解説:</strong> {{ item.question.explanation }}</p>
+                <p><a href="{{ item.question.evidence_url }}" target="_blank" class="evidence-link">根拠リンク →</a></p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% else %}
+    <div class="card success-card">
+        <h3>🎉 全問正解です！</h3>
+        <p>素晴らしい結果です。すべての設問に正解しました。</p>
+    </div>
+    {% endif %}
+    
+    <div class="navigation-links">
+        <a href="/" class="btn btn-primary">他のテーマを学習する</a>
+        <a href="/admin" class="btn btn-secondary">管理者画面へ</a>
+    </div>
+</div>
+{% endblock %}
+

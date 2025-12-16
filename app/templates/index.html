@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card">
+    <h2>名前を入力してテーマを選択してください</h2>
+    
+    <form method="GET" action="/quiz/governance" class="form-group">
+        <div class="input-group">
+            <label for="name">お名前:</label>
+            <input type="text" id="name" name="name" required placeholder="例: 山田太郎" class="input-field">
+        </div>
+        
+        <div class="theme-selection">
+            <h3>学習テーマを選択</h3>
+            <div class="theme-cards">
+                <div class="theme-card">
+                    <h4>ガバナンス</h4>
+                    <p>コーポレートガバナンスに関する設問</p>
+                    <button type="submit" formaction="/quiz/governance" class="btn btn-primary">開始</button>
+                </div>
+                
+                <div class="theme-card">
+                    <h4>ハラスメント</h4>
+                    <p>ハラスメント防止に関する設問</p>
+                    <button type="submit" formaction="/quiz/harassment" class="btn btn-primary">開始</button>
+                </div>
+                
+                <div class="theme-card">
+                    <h4>情報セキュリティ</h4>
+                    <p>情報セキュリティに関する設問</p>
+                    <button type="submit" formaction="/quiz/infosec" class="btn btn-primary">開始</button>
+                </div>
+            </div>
+        </div>
+    </form>
+    
+    <div class="admin-link">
+        <a href="/admin" class="btn btn-secondary">管理者画面へ</a>
+    </div>
+</div>
+{% endblock %}
+
